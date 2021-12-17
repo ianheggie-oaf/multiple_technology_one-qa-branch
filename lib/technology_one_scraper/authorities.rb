@@ -20,7 +20,7 @@ module TechnologyOneScraper
       webguest: "PSC.P1.WEBGUEST"
     },
     wangaratta: {
-      url: "https://eservices.wangaratta.vic.gov.au/T1PRProd/WebApps/eProperty",
+      url: "https://rcow-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
       period: "L28"
     },
     southern_downs: {
@@ -90,7 +90,7 @@ module TechnologyOneScraper
       australian_proxy: true
     },
     lithgow: {
-      url: "https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty",
+      url: "https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
       period: "L14"
     },
     manningham: {
