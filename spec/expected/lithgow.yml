@@ -1,181 +1,247 @@
 ---
-- council_reference: CC064/21
-  address: 3-5 Main Street LITHGOW NSW 2790
-  description: RE-INSTALL SHOP WINDOWS
-  info_url: https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC064%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+- council_reference: CC001/22
+  address: 451 Back Cullen Bullen Road PORTLAND NSW 2847
+  description: SHED WITH BATHROOM
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC001%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-04-30'
-- council_reference: CC065/21
-  address: 9 Heffernan Place LITHGOW NSW 2790
+  date_received: '2022-01-20'
+- council_reference: CC002/22
+  address: 1 Birch Close LITHGOW NSW 2790
+  description: SWIMMING POOL
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC002%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-21'
+- council_reference: CC003/22
+  address: 63 McKanes Falls Road SOUTH BOWENFELS NSW 2790
   description: SHED
-  info_url: https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC065%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC003%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-04-30'
-- council_reference: CC067/21
-  address: 292 Baaners Lane LITTLE HARTLEY NSW 2790
-  description: SHED WITH TOILET, SHOWER & HAND BASIN
-  info_url: https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC067%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-30'
-- council_reference: CC068/21
-  address: 1073 Great Western Highway LITHGOW NSW 2790
-  description: ALTERATIONS & ADDITIONS - LITHGOW BAPTIST CHURCH
-  info_url: https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC068%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-04'
-- council_reference: CC069/21
-  address: Vulcan Road RUNNING STREAM NSW 2850
-  description: PRIVATE DWELLING AND SHED
-  info_url: https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC069%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-03'
-- council_reference: CC071/21
-  address: 100 Old Bathurst Road SOUTH BOWENFELS NSW 2790
-  description: "*PRIVATE CERTIFIER*"
-  info_url: https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC071%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-04'
-- council_reference: CC072/21
-  address: 39 James Parade WALLERAWANG NSW 2845
-  description: DWELLING ADDITION
-  info_url: https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC072%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-06'
-- council_reference: CC073/21
-  address: 49 Bonnie Blink Drive LITTLE HARTLEY NSW 2790
+  date_received: '2022-01-25'
+- council_reference: CC004/22
+  address: 90 West Ridge Road WALLERAWANG NSW 2845
   description: SHED
-  info_url: https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC073%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC004%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-05-07'
-- council_reference: CC074/21
-  address: 3 Hill Range Crescent LITHGOW NSW 2790
-  description: CARPORT
-  info_url: https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC074%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-10'
-- council_reference: CC075/21
-  address: 54 Karawina Drive DUCKMALOI NSW 2787
-  description: "*PRIVATE * ALTERATIONS AND ADDITIONS"
-  info_url: https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC075%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-07'
-- council_reference: DA083/21
-  address: 10 Purcell Street PORTLAND NSW 2847
-  description: SWIMMING POOL AND SHED
-  info_url: https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA083%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-30'
-- council_reference: DA084/21
-  address: 23 Calero Street LITHGOW NSW 2790
+  date_received: '2022-01-25'
+- council_reference: CC005/22
+  address: 11 Donald Street LITHGOW NSW 2790
   description: SHED
-  info_url: https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA084%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC005%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-04-30'
-- council_reference: DA085/21
-  address: 292 Baaners Lane LITTLE HARTLEY NSW 2790
-  description: SHED WITH TOILET, SHOWER & HAND BASIN
-  info_url: https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA085%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2022-01-27'
+- council_reference: DA001/22
+  address: 48 Carinya Close KANIMBLA NSW 2790
+  description: DWELLING ALTERATIONS & ADDITIONS
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA001%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-04-30'
-- council_reference: DA086/21
-  address: 1073 Great Western Highway LITHGOW NSW 2790
-  description: ALTERATIONS & ADDITIONS - LITHGOW BAPTIST CHURCH
-  info_url: https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA086%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2022-01-20'
+- council_reference: DA002/22
+  address: 162 Huntingdale Road GLEN ALICE NSW 2849
+  description: SWIMMING POOL
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA002%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-04-30'
-- council_reference: DA087/21
-  address: 49 Bonnie Blink Drive LITTLE HARTLEY NSW 2790
+  date_received: '2022-01-20'
+- council_reference: DA003/22
+  address: 17B Great Western Highway BOWENFELS NSW 2790
+  description: SUBDIVISION 1 LOT INTO 2
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA003%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-20'
+- council_reference: DA004/22
+  address: 215 Mort Street LITHGOW NSW 2790
+  description: DWELLING ALTERATIONS & ADDITIONS
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA004%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-20'
+- council_reference: DA005/22
+  address: 1035 Great Western Highway LITHGOW NSW 2790
+  description: MANUFACTURED HOME SECONDARY DWELLING
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA005%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-20'
+- council_reference: DA007/22
+  address: 451 Back Cullen Bullen Road PORTLAND NSW 2847
+  description: SHED WITH BATHROOM
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA007%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-20'
+- council_reference: DA008/22
+  address: 8 Forest Ridge Drive WALLERAWANG NSW 2845
+  description: TORRENS SUBDIVISION - 1 LOT INTO 2
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA008%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-18'
+- council_reference: DA009/22
+  address: 1 Birch Close LITHGOW NSW 2790
+  description: SWIMMING POOL
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA009%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-19'
+- council_reference: DA010/22
+  address: 1728 Ganbenang Road GANBENANG NSW 2790
+  description: DUAL OCCUPANCY
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA010%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-20'
+- council_reference: DA011/22
+  address: 281 Baaners Lane LITTLE HARTLEY NSW 2790
+  description: MANUFACTURED HOME
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA011%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-26'
+- council_reference: DA012/22
+  address: 64 Hillcrest Avenue LITHGOW NSW 2790
+  description: DWELLING SHED & SWIMMING POOL
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA012%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-24'
+- council_reference: DA013/22
+  address: 306 Baaners Lane LITTLE HARTLEY NSW 2790
+  description: DWELLING
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA013%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-19'
+- council_reference: DA014/22
+  address: Omaroo 467 Dunville Loop Road RYLSTONE NSW 2849
+  description: DEMOLITION OF EXISTING DWELLING
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA014%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-20'
+- council_reference: DA015/22
+  address: 63 McKanes Falls Road SOUTH BOWENFELS NSW 2790
   description: SHED
-  info_url: https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA087%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA015%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-05-05'
-- council_reference: DA088/21
-  address: 50 Kirkley Street SOUTH BOWENFELS NSW 2790
-  description: SUBDIVISION 1 LOT INTO 6 WITH NEW ROAD
-  info_url: https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA088%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2022-01-20'
+- council_reference: DA016/22
+  address: 30 Old Western Road MOUNT LAMBIE NSW 2790
+  description: TORRENS SUBDIVISION 4 LOTS INTO 2
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA016%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-05-05'
-- council_reference: DA089/21
-  address: 3 Hill Range Crescent LITHGOW NSW 2790
-  description: CARPORT
-  info_url: https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA089%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-06'
-- council_reference: DA090/21
-  address: 36 High Street PORTLAND NSW 2847
+  date_received: '2022-01-24'
+- council_reference: DA017/22
+  address: 90 West Ridge Road WALLERAWANG NSW 2845
   description: SHED
-  info_url: https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA090%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA017%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-05-06'
-- council_reference: DA091/21
-  address: 333 Baaners Lane LITTLE HARTLEY NSW 2790
-  description: DWELLING, SHED & CARPORT
-  info_url: https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA091%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2022-01-25'
+- council_reference: DA018/22
+  address: 3 Redgate Street LITHGOW NSW 2790
+  description: SECONDARY DWELLING & DEMOLITION OF GARAGE & SHED
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA018%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-05-06'
-- council_reference: DA092/21
-  address: 11 Nicholls Chase LITTLE HARTLEY NSW 2790
-  description: DWELLING & SECONDARY DWELLING
-  info_url: https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA092%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2022-01-24'
+- council_reference: DA019/22
+  address: 261 Hartley Vale Road HARTLEY VALE NSW 2790
+  description: FARM SHED
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA019%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-05-11'
-- council_reference: DA093/21
-  address: 4 Crown Station Road CAPERTEE NSW 2846
-  description: DWELLING RETROSPECTIVE
-  info_url: https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA093%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2022-01-27'
+- council_reference: DA020/22
+  address: 8 Burnett Street WALLERAWANG NSW 2845
+  description: RETAINING WALL
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA020%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-05-11'
-- council_reference: MOD012/21
-  address: 17 Willowbank Avenue LITHGOW NSW 2790
-  description: MODIFICATION OF CONSENT - RETAINING WALL
-  info_url: https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD012%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2022-01-27'
+- council_reference: DA021/22
+  address: 11 Donald Street LITHGOW NSW 2790
+  description: SHED
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA021%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-04-29'
-- council_reference: S68052/21
-  address: 292 Baaners Lane LITTLE HARTLEY NSW 2790
-  description: OSSM
-  info_url: https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=S68052%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2022-01-27'
+- council_reference: DA022/22
+  address: 5 Moyne View LITTLE HARTLEY NSW 2790
+  description: DWELLING
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA022%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-04-30'
-- council_reference: S68053/21
-  address: 50 Kirkley Street SOUTH BOWENFELS NSW 2790
-  description: WATER & SEWER CONNECTION
-  info_url: https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=S68053%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2022-01-27'
+- council_reference: MOD001/22
+  address: 206 Mort Street LITHGOW NSW 2790
+  description: MODIFICATION OF CONSENT
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD001%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-05-05'
-- council_reference: S68054/21
-  address: 333 Baaners Lane LITTLE HARTLEY NSW 2790
-  description: OSSM
-  info_url: https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=S68054%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2022-01-25'
+- council_reference: MOD002/22
+  address: 29 Henderson Place LITHGOW NSW 2790
+  description: MODIFICATION OF CONSENT - RELOCATION OF SHED
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD002%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-05-06'
-- council_reference: S68055/21
-  address: 333 Baaners Lane LITTLE HARTLEY NSW 2790
+  date_received: '2022-01-25'
+- council_reference: S68006/22
+  address: 451 Back Cullen Bullen Road PORTLAND NSW 2847
+  description: ON SITE SEWERAGE MANAGEMENT
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=S68006%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-18'
+- council_reference: S68007/22
+  address: 1728 Ganbenang Road GANBENANG NSW 2790
+  description: ON SITE SEWERAGE MANAGEMENT
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=S68007%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-19'
+- council_reference: S68008/22
+  address: 1728 Ganbenang Road GANBENANG NSW 2790
   description: SOLID FUEL HEATER
-  info_url: https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=S68055%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=S68008%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-05-06'
-- council_reference: S68056/21
-  address: 54 Barton Street LITHGOW NSW 2790
-  description: WATER SUPPLY
-  info_url: https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=S68056%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2022-01-19'
+- council_reference: S68009/22
+  address: 281 Baaners Lane LITTLE HARTLEY NSW 2790
+  description: S68 MANUFACTURED HOME
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=S68009%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-05-11'
-- council_reference: S68057/21
-  address: 11 Nicholls Chase LITTLE HARTLEY NSW 2790
-  description: S68 SOLID FUEL HEATER
-  info_url: https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=S68057%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2022-01-19'
+- council_reference: S68010/22
+  address: 281 Baaners Lane LITTLE HARTLEY NSW 2790
+  description: S68 ON SITE SEWER MANAGEMENT
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=S68010%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-05-11'
-- council_reference: SubCert004/21
-  address: Williwa Street PORTLAND NSW 2847
-  description: SUBDIVISION CERTIFICATE
-  info_url: https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubCert004%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2022-01-19'
+- council_reference: S68011/22
+  address: 64 Hillcrest Avenue LITHGOW NSW 2790
+  description: ON SITE SEWERAGE MANAGEMENT
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=S68011%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-05-04'
-- council_reference: SubCert005/21
-  address: 17C Great Western Highway BOWENFELS NSW 2790
-  description: BOUNDARY ADJUSTMENT
-  info_url: https://webappservices.lithgow.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubCert005%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2022-01-19'
+- council_reference: S68012/22
+  address: 64 Hillcrest Avenue LITHGOW NSW 2790
+  description: WATER CONNECTION
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=S68012%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-05-07'
+  date_received: '2022-01-19'
+- council_reference: S68013/22
+  address: 306 Baaners Lane LITTLE HARTLEY NSW 2790
+  description: ON SITE SEWERAGE MANAGEMENT
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=S68013%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-19'
+- council_reference: S68016/22
+  address: 11A Sandalls Drive RYDAL NSW 2790
+  description: ATO - OSSM
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=S68016%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-21'
+- council_reference: S68017/22
+  address: 241A Table Rock Road GANBENANG NSW 2790
+  description: ATO - OSSM
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=S68017%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-24'
+- council_reference: S68018/22
+  address: 5 Moyne View LITTLE HARTLEY NSW 2790
+  description: S68 ON SITE SEWER MANAGEMENT
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=S68018%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-27'
+- council_reference: S68019/22
+  address: 2 Hillcrest Avenue LITHGOW NSW 2790
+  description: SOLID FUEL HEATER
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=S68019%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-28'
+- council_reference: S68020/22
+  address: 207 Baaners Lane LITTLE HARTLEY NSW 2790
+  description: SOLID FUEL HEATER
+  info_url: https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=S68020%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-28'

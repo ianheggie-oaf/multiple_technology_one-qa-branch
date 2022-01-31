@@ -1,62 +1,124 @@
 ---
-- council_reference: PlnApp19/122
-  address: Woongarr 435 Shanley Street WANGARATTA SOUTH VIC 3678
-  description: Development of a Dwelling
-  info_url: https://eservices.wangaratta.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp19%2F122&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+- council_reference: PlnApp21/233
+  address: 214 Old Hume Highway GLENROWAN VIC 3675
+  description: Use and Development of Land for Agriculture
+  info_url: https://rcow-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp21%2F233&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-04'
-- council_reference: PlnApp19/126
-  address: HP Barr Reserve - Community Centre 8 Park Lane WANGARATTA VIC 3677
-  description: Removal of Native Vegetation - 3 Scattered Trees
-  info_url: https://eservices.wangaratta.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp19%2F126&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2022-01-20'
+- council_reference: PlnApp21/282
+  address: 9 Avoca Lane GLENROWAN VIC 3675
+  description: Development of an Outbuilding
+  info_url: https://rcow-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp21%2F282&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-10'
-- council_reference: PlnApp19/127
-  address: 53 Old School Road WALDARA VIC 3678
-  description: Three Lot Re-Subdivision
-  info_url: https://eservices.wangaratta.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp19%2F127&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2022-01-18'
+- council_reference: PlnApp21/286
+  address: Wangaratta-Whitfield Road WANGARATTA VIC 3677
+  description: INVOICE
+  info_url: https://rcow-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp21%2F286&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-10'
-- council_reference: PlnApp19/128
-  address: 557 Robinson Road BOORHAMAN NORTH VIC 3685
-  description: Development of a Replacement Dwelling
-  info_url: https://eservices.wangaratta.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp19%2F128&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2022-01-04'
+- council_reference: PlnApp21/287
+  address: 6 Pyles Lane LACEBY VIC 3678
+  description: Use of Land for a Transport Depot & Development of a Fuel Tank
+  info_url: https://rcow-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp21%2F287&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-19'
-- council_reference: PlnApp19/129
-  address: 14 Peppercorn Rise EVERTON UPPER VIC 3678
-  description: Development of a Replacement Dwelling
-  info_url: https://eservices.wangaratta.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp19%2F129&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2022-01-06'
+- council_reference: PlnApp21/289
+  address: Manor Farm 189 Church Lane MILAWA VIC 3678
+  description: 14 Lot subdivision and subdivision of land adjacent to a road in RDZ1
+    (Snow Road)
+  info_url: https://rcow-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp21%2F289&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-19'
-- council_reference: PlnApp19/130
-  address: 23 Macartney Street OXLEY VIC 3678
+  date_received: '2022-01-06'
+- council_reference: PlnApp22/001
+  address: 1609 Wangaratta-Whitfield Road DOCKER VIC 3678
+  description: Use and Development of a Store
+  info_url: https://rcow-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp22%2F001&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-13'
+- council_reference: PlnApp22/002
+  address: Alamein Grove WALDARA VIC 3678
+  description: Development of an Outbuilding
+  info_url: https://rcow-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp22%2F002&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-13'
+- council_reference: PlnApp22/003
+  address: 53 Worland Road WANGARATTA VIC 3677
+  description: Use and Development of a Childcare Centre and Medical Centre, Reduction
+    in Car Parking Requirements and Two Lot Re-Subdivision.
+  info_url: https://rcow-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp22%2F003&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-11'
+- council_reference: PlnApp22/005
+  address: 62 Wonga Park Drive WALDARA VIC 3678
+  description: Development of an outbuilding.
+  info_url: https://rcow-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp22%2F005&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-13'
+- council_reference: PlnApp22/006
+  address: 36 Pryse Road TARRAWINGEE VIC 3678
+  description: Staged multi lot subdivision and creation of an easement.
+  info_url: https://rcow-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp22%2F006&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-13'
+- council_reference: PlnApp22/008
+  address: 42 Oxley-Meadow Creek Road OXLEY VIC 3678
+  description: Development of a shed
+  info_url: https://rcow-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp22%2F008&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-18'
+- council_reference: PlnApp22/010
+  address: 8 Firbank Drive WALDARA VIC 3678
+  description: Development of an Outbuilding
+  info_url: https://rcow-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp22%2F010&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-20'
+- council_reference: PlnApp22/011
+  address: 117 Rowan Street WANGARATTA VIC 3677
+  description: Partial demolition of existing carport and construction of a new carport
+  info_url: https://rcow-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp22%2F011&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-20'
+- council_reference: PlnApp22/012
+  address: Aroma Deli 11 Baker Street WANGARATTA VIC 3677
+  description: Alteration of a Building Facade
+  info_url: https://rcow-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp22%2F012&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-25'
+- council_reference: PlnApp22/013
+  address: Lindner Road WANGANDARY VIC 3678
+  description: Use and development of a residential village
+  info_url: https://rcow-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp22%2F013&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-25'
+- council_reference: PlnApp22/014
+  address: Wonga Park Drive WALDARA VIC 3678
+  description: Development of an Outbuilding
+  info_url: https://rcow-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp22%2F014&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2022-01-25'
+- council_reference: PlnApp22/015
+  address: 19 Usshers Drive WALDARA VIC 3678
   description: Two Lot Subdivision
-  info_url: https://eservices.wangaratta.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp19%2F130&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://rcow-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp22%2F015&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-10'
-- council_reference: PlnApp19/131
-  address: 2A Gibson Street WANGARATTA VIC 3677
-  description: Extension of an Industrial Building, Development of a Building (Retrospective)
-    and a Reduction in Carparking
-  info_url: https://eservices.wangaratta.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp19%2F131&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2022-01-25'
+- council_reference: PlnApp22/016
+  address: 13 Williams Road WANGARATTA VIC 3677
+  description: Two Lot Subdivision
+  info_url: https://rcow-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp22%2F016&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-15'
-- council_reference: PlnApp19/132
-  address: 12 Livourne Street WANGARATTA VIC 3677
-  description: Construction of a single dwelling
-  info_url: https://eservices.wangaratta.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp19%2F132&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2022-01-21'
+- council_reference: PlnApp22/017
+  address: 28 Murphy Street WANGARATTA VIC 3677
+  description: Display of business identification signage and external alterations
+  info_url: https://rcow-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp22%2F017&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-12'
-- council_reference: PlnApp19/133
-  address: 33-35 Warby Street WANGARATTA VIC 3677
-  description: Alterations to a Building Facade
-  info_url: https://eservices.wangaratta.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp19%2F133&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2022-01-27'
+- council_reference: PlnApp22/018
+  address: Usshers Drive WALDARA VIC 3678
+  description: Development of a shed (outside the building envelope registered on
+    title)
+  info_url: https://rcow-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp22%2F018&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-17'
-- council_reference: PlnApp19/138
-  address: Railway Line & Reserve Sandford Road WANGARATTA VIC 3677
-  description: Demolition of a Building
-  info_url: https://eservices.wangaratta.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PlnApp19%2F138&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-18'
+  date_received: '2022-01-27'
