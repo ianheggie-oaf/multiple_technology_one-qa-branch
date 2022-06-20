@@ -157,9 +157,9 @@ module TechnologyOneScraper
       australian_proxy: true
     },
     newcastle: {
-        url: "https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
-        webguest: "TCON.LG.WEBGUEST",
-        period: "L28"
+      url: "https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
+      webguest: "TCON.LG.WEBGUEST",
+      period: "L28"
     }
   }.freeze
 end
