@@ -2,6 +2,16 @@
 
 module TechnologyOneScraper
   AUTHORITIES = {
+    blacktown: {
+      url: "https://eservices.blacktown.nsw.gov.au/T1PRProd/WebApps/eProperty",
+      period: "L28",
+      webguest: "BCC.P1.WEBGUEST"
+    },
+    campaspe: {
+      url: "https://campaspe-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
+      period: "L28",
+      webguest: "SOC.WEBGUEST"
+    },
     casey: {
       url: "https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty",
       period: "L28"
@@ -10,56 +20,32 @@ module TechnologyOneScraper
       url: "https://ccrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
       period: "L28"
     },
-    mid_coast: {
-      url: "https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
-      period: "L28"
-    },
-    parkes: {
-      url: "https://parkes-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
-      period: "L28",
-      webguest: "PSC.P1.WEBGUEST"
-    },
-    wangaratta: {
-      url: "https://rcow-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
-      period: "L28"
-    },
-    southern_downs: {
-      url: "https://onlineservices.sdrc.qld.gov.au/eProperty",
-      period: "L28"
-    },
-    campaspe: {
-      url: "https://campaspe-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
-      period: "L28",
-      webguest: "SOC.WEBGUEST"
-    },
-    eurobodalla: {
-      url: "https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty",
-      period: "L28",
-      webguest: "ESC.P1.WEBGUEST"
-    },
-    lockyer_valley: {
-      url: "https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
-      period: "L28",
-      webguest: "LV.WEBGUEST"
+    cockburn: {
+      url: "https://ecouncil.cockburn.wa.gov.au/eProperty",
+      period: "TM"
     },
     corangamite: {
       url: "https://eservices.corangamite.vic.gov.au/T1PRprod/WebApps/eProperty",
       period: "L28",
       webguest: "CSC.WEBGUEST"
     },
-    stirling: {
-      url: "https://onlineservices.stirling.wa.gov.au/eProperty",
+    eurobodalla: {
+      url: "https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty",
+      period: "L28",
+      webguest: "ESC.P1.WEBGUEST"
+    },
+    fremantle: {
+      url: "https://eservices.fremantle.wa.gov.au/T1PRProd/WebApps/eProperty",
       period: "L28"
     },
-    qprc: {
-      url: "https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty",
-      period: "L28",
-      # Site has an incomplete certificate chain. See https://www.ssllabs.com/ssltest/analyze.html?d=services.qprc.nsw.gov.au&latest
-      disable_ssl_certificate_check: true
-    },
-    mid_western: {
-      url: "https://eservices.midwestern.nsw.gov.au/T1PRProd/WebApps/eProperty",
-      period: "L28",
+    goulburn: {
+      url: "https://eservices.goulburn.nsw.gov.au/T1PRProd/WebApps/eProperty",
+      period: "TW",
+      disable_ssl_certificate_check: true,
+      # Goulburn is blocking requests from outside Australia. You can verify this
+      # yourself by scraping via a VPN and switch between different countries.
+      # morph.io is hosted in the US. So, to get around this we send our
+      # traffic to an australian proxy
       australian_proxy: true
     },
     hume: {
@@ -68,19 +54,6 @@ module TechnologyOneScraper
       webguest: "P1.HCC.WEBGUEST",
       # Site has an incomplete certificate chain. See https://www.ssllabs.com/ssltest/analyze.html?d=ehume.hume.vic.gov.au&latest
       disable_ssl_certificate_check: true
-    },
-    blacktown: {
-      url: "https://eservices.blacktown.nsw.gov.au/T1PRProd/WebApps/eProperty",
-      period: "L28",
-      webguest: "BCC.P1.WEBGUEST"
-    },
-    cockburn: {
-      url: "https://ecouncil.cockburn.wa.gov.au/eProperty",
-      period: "TM"
-    },
-    fremantle: {
-      url: "https://eservices.fremantle.wa.gov.au/T1PRProd/WebApps/eProperty",
-      period: "L28"
     },
     kuringgai: {
       url: "https://eservices.kmc.nsw.gov.au/T1ePropertyProd",
@@ -93,19 +66,71 @@ module TechnologyOneScraper
       url: "https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
       period: "L14"
     },
+    lockyer_valley: {
+      url: "https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
+      period: "L28",
+      webguest: "LV.WEBGUEST"
+    },
     manningham: {
       url: "https://eproclaim.manningham.vic.gov.au/eProperty",
       period: "L28",
       australian_proxy: true
     },
+    mid_coast: {
+      url: "https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
+      period: "L28"
+    },
+    mid_western: {
+      url: "https://eservices.midwestern.nsw.gov.au/T1PRProd/WebApps/eProperty",
+      period: "L28",
+      australian_proxy: true
+    },
+    mornington_peninsula: {
+      url: "https://epeninsula.mornpen.vic.gov.au/P1PRPROD",
+      period: "L28",
+      # It looks like part of their certificate has expired (but I can't check
+      # using ssllabs because they're blocking US traffic. Sigh.)
+      disable_ssl_certificate_check: true,
+      # Mornington peninsula is blocking requests from outside Australia
+      australian_proxy: true
+    },
+    newcastle: {
+      url: "https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
+      webguest: "TCON.LG.WEBGUEST",
+      period: "L28"
+    },
     noosa: {
       url: "https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
       period: "TM"
+    },
+    parkes: {
+      url: "https://parkes-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
+      period: "L28",
+      webguest: "PSC.P1.WEBGUEST"
+    },
+    qprc: {
+      url: "https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty",
+      period: "L28",
+      # Site has an incomplete certificate chain. See https://www.ssllabs.com/ssltest/analyze.html?d=services.qprc.nsw.gov.au&latest
+      disable_ssl_certificate_check: true
     },
     ryde: {
       url: "https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty",
       period: "TM",
       webguest: "COR.P1.WEBGUEST"
+    },
+    shellharbour: {
+      url: "https://shbr-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
+      period: "L28",
+      webguest: "SCC.WEBGUEST"
+    },
+    southern_downs: {
+      url: "https://onlineservices.sdrc.qld.gov.au/eProperty",
+      period: "L28"
+    },
+    stirling: {
+      url: "https://onlineservices.stirling.wa.gov.au/eProperty",
+      period: "L28"
     },
     sutherland: {
       url: "https://propertydevelopment.ssc.nsw.gov.au/T1PRPROD/WebApps/eproperty",
@@ -128,37 +153,12 @@ module TechnologyOneScraper
       period: "L14",
       webguest: "WW.P1.WEBGUEST"
     },
-    wyndham: {
-      url: "https://eproperty.wyndham.vic.gov.au/ePropertyPROD",
+    wangaratta: {
+      url: "https://rcow-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
       period: "L28"
     },
-    goulburn: {
-      url: "https://eservices.goulburn.nsw.gov.au/T1PRProd/WebApps/eProperty",
-      period: "TW",
-      disable_ssl_certificate_check: true,
-      # Goulburn is blocking requests from outside Australia. You can verify this
-      # yourself by scraping via a VPN and switch between different countries.
-      # morph.io is hosted in the US. So, to get around this we send our
-      # traffic to an australian proxy
-      australian_proxy: true
-    },
-    shellharbour: {
-      url: "https://shbr-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
-      period: "L28",
-      webguest: "SCC.WEBGUEST"
-    },
-    mornington_peninsula: {
-      url: "https://epeninsula.mornpen.vic.gov.au/P1PRPROD",
-      period: "L28",
-      # It looks like part of their certificate has expired (but I can't check
-      # using ssllabs because they're blocking US traffic. Sigh.)
-      disable_ssl_certificate_check: true,
-      # Mornington peninsula is blocking requests from outside Australia
-      australian_proxy: true
-    },
-    newcastle: {
-      url: "https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
-      webguest: "TCON.LG.WEBGUEST",
+    wyndham: {
+      url: "https://eproperty.wyndham.vic.gov.au/ePropertyPROD",
       period: "L28"
     }
   }.freeze
