@@ -3,7 +3,7 @@
 module TechnologyOneScraper
   AUTHORITIES = {
     blacktown: {
-      url: "https://eservices.blacktown.nsw.gov.au/T1PRProd/WebApps/eProperty",
+      url: "https://blacktown-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
       period: "L28",
       webguest: "BCC.P1.WEBGUEST"
     },
