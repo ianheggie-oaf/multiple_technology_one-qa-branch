@@ -116,7 +116,7 @@ module TechnologyOneScraper
       webguest: "SCC.WEBGUEST"
     },
     southern_downs: {
-      url: "https://onlineservices.sdrc.qld.gov.au/eProperty",
+      url: "https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
       period: "L28"
     },
     stirling: {

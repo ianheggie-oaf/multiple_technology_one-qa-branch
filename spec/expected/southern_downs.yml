@@ -1,300 +1,560 @@
 ---
-- council_reference: BLD\16555
-  address: 241 Amiens Road BROADWATER QLD 4380
-  description: Building Works - Private Certification - Dwelling Extension - 241 Amiens
-    Road, Broadwater - Lot 1 RP155489
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C16555&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+- council_reference: BLD\19848
+  address: 12 Glennie Street WARWICK QLD 4370
+  description: Building Works - Private Certification - reroof like for like to existing
+    dwelling house and ancillary structures - 12 Glennie Street Warwick - Lot 21 RP36319
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19848&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-02'
-- council_reference: BLD\16556
-  address: 184 Caves Road STANTHORPE QLD 4380
-  description: Building Works - Private Certification - Patio - 184 Caves Road, Stanthorpe
-    - Lot 40 RP31831
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C16556&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-11'
+- council_reference: BLD\19849
+  address: 7 Pavilion Drive STANTHORPE QLD 4380
+  description: Building Works new application (Council Certified) - Shed 3m x 5.9m
+    - 7 Pavilion Drive Stanthorpe - Lot104 SP219378
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19849&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-03'
-- council_reference: BLD\16557
-  address: 43 Pfrunder Road POZIERES QLD 4352
-  description: Building Works - Private Certification - New Dwelling - 43 Pfrunder
-    Road, Pozieres - Lot 396 BNT1332
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C16557&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-14'
+- council_reference: BLD\19850
+  address: 325 Sorrento Road DALVEEN QLD 4374
+  description: Building Works - Private Certification - Construction of Farm Shed
+    - 325 Sorrento Road Dalveen - Lot 1 SP 308307
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19850&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-03'
-- council_reference: BLD\16558
-  address: 3 Thorpe Street STANTHORPE QLD 4380
-  description: Building Works - Private Certification - Replacement of Roof Cladding
-    - 3 Thorpe Street, Stanthorpe - Lot 2 RP69226
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C16558&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-14'
+- council_reference: BLD\19851
+  address: 21 Kurrajong Street KILLARNEY QLD 4373
+  description: Building Works - Private Certification - relocated dwelling, deck &
+    rainwater tank - 21 Kurrajong Street Killarney - Lot 6 RP 844565
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19851&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-03'
-- council_reference: BLD\16559
-  address: Fifth Avenue MORGAN PARK QLD 4370
-  description: Building Works - Private Certification - Warehouse Extension - Kenilworth
-    Street, Morgan Park - Lots 18-21 SP218449
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C16559&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-14'
+- council_reference: BLD\19852
+  address: 17A Allison Street STANTHORPE QLD 4380
+  description: Building Works - Private Certification - New Construction of Shed -
+    17a Allison Street STANTHORPE - Lot 16 and RP 46288
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19852&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-03'
-- council_reference: BLD\16560
-  address: 5 Mountain View Road KILLARNEY QLD 4373
-  description: Building Works new application (Council Certified) - House Renovations
-    - 5 Mountain View Road Killarney - Lot 22 SP308482
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C16560&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-14'
+- council_reference: BLD\19853
+  address: Rail Corridor STANTHORPE QLD 4380
+  description: Building Works new application (Council Certified) - Re-stumping of
+    QFS building - 25-27 Davadi Street STANTHOPRPE - Lots 6 & 7 RP157378
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19853&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-04'
-- council_reference: BLD\16561
-  address: 1535 Amiens Road AMIENS QLD 4380
-  description: Building Works new application (Council Certified) - Change of Classification
-    1A to 1B - 1535 Amiens Road, Amiens - Lot162 BNT521
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C16561&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-15'
+- council_reference: BLD\19854
+  address: 13 Clowes Crescent WARWICK QLD 4370
+  description: Building Works - Private Certification - ReRoofing Dwelling 1 Storey
+    and ReRoofing Shed - 13 Clowes Crescent, WARWICK - Lot 25 and Plan RP87039
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19854&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-04'
-- council_reference: BLD\16562
-  address: Wilmot Lane THE SUMMIT QLD 4377
-  description: Building Works new application (Council Certified) - covered outdoor
-    area - Lot 15 Wilmot Lane Stanthorpe - Lot 15 on SP196579
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C16562&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-08'
-- council_reference: BLD\16563
-  address: 43 Hoeys Road SPRING CREEK QLD 4361
-  description: Building Works - Private Certification - Alterations to dwelling -
-    43 Hoeys Road Spring Creek Qld 4361 - L286 M34729
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C16563&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-09'
-- council_reference: BLD\16564
-  address: 5 Moncrieffe Street WARWICK QLD 4370
-  description: Building Works - Private Certification - Garage - 5 Moncrieffe Street,
-    Warwick - Lot 11 RP223431
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C16564&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-10'
-- council_reference: BLD\16565
-  address: 21 Leslie Street HENDON QLD 4362
-  description: Building Works - Private Certification - Garage/Carport - L68 Gladfield
-    St, Hendon (21 Leslie St, Hendon) - Lot 68 H701
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C16565&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-10'
-- council_reference: BLD\16566
-  address: 14-16 Henry Evans Drive ROSEHILL QLD 4370
-  description: Building Works - Private Certification - Carport - 14-16 Henry Evans
-    Rd, Rosehill - Lot 4 RP862162
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C16566&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-10'
-- council_reference: BLD\16567
-  address: 33 Homestead Road ROSENTHAL HEIGHTS QLD 4370
-  description: Building Works - Private Certification - Garage/Carport - 33 Homestead
-    Road, Rosenthal Heights - Lot 1 RP202127
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C16567&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-10'
-- council_reference: BLD\16568
-  address: 541 Dalcouth Road KYOOMBA QLD 4380
-  description: Building Works - Private Certification - Garage/Carport - 541 Dalcouth
-    Road, Kyoomba - Lot 2 RP58939
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C16568&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-10'
-- council_reference: BLD\16569
-  address: 20 Lakeview Avenue ROSENTHAL HEIGHTS QLD 4370
-  description: Building Works - Private Certification - One Storey New Dwelling, Garage
-    & Alfresco Area - 20 Lakeview Ave, ROSENTHAL HEIGHTS - L35 SP249604
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C16569&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-10'
-- council_reference: BLD\16570
-  address: 234 Limberlost Road FLETCHER QLD 4381
-  description: Building Works new application (Council Certified) - new shed - 234
-    Limberlost Rd Fletcher - Lot 2 RP193896
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C16570&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-11'
-- council_reference: BLD\16571
-  address: 71 Bridge Street STANTHORPE QLD 4380
+  date_received: '2023-08-15'
+- council_reference: BLD\19855
+  address: 38 Glenlyon Drive STANTHORPE QLD 4380
   description: Building Works new application (Council Certified) - New Dwelling -
-    71 Bridge Street, Stanthorpe - Lot 109 SP310897
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C16571&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+    38 Glenlyon Drive Stanthorpe - Lot2 RP193284
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19855&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-12'
-- council_reference: BLD\16572
-  address: Ghost Gate Road BERAT QLD 4362
-  description: Building Works - Private Certification - New Dwelling (Including roofed
-    alfresco) - Lot 188 Ghost Road, Berat, QLD - Lot188\SP296594
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C16572&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-16'
+- council_reference: BLD\19856
+  address: 1 O'Donnell Court WARWICK QLD 4370
+  description: Building Works - Private Certification - Replacement of ROOF CLADDING
+    - 1 O'DONNELL COURT WARWICK QLD - LOT 15 SP 181006
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19856&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-12'
-- council_reference: BLD\16573
-  address: 25 Curtain Avenue MURRAYS BRIDGE QLD 4370
-  description: Building Works - Private Certification - Addition to Cottage- Mud Room
-    - 25 Curtain Avenue, Murrays Bridge QLD - LOT 7\SP125455
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C16573&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-16'
+- council_reference: BLD\19857
+  address: 2314 Warwick - Allora Road ALLORA QLD 4362
+  description: Building Works - Private Certification - FARM MACHINERY STORAGE SHED
+    - 2314 Warwick Allora Road, Allora QLD - LOT 33 M34673
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19857&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-12'
-- council_reference: BLD\16574
-  address: 11 White Street PRATTEN QLD 4370
-  description: Building Works - Private Certification- Completion of existing expired
-    approval from dwelling (Including verandahs) - 11 White Street, Pratten QLD -
-    Lot63\P12714
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C16574&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-16'
+- council_reference: BLD\19858
+  address: 12 Hollins Court WARWICK QLD 4370
+  description: Building Works - Private Certification - Reroof (like for like) existing
+    dwelling and ancillary structures - 12 Hollins Court, Warwick - Lot 10 SP199047
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19858&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-12'
-- council_reference: BLD\16575
-  address: 22-22a Condavale Drive ROSENTHAL HEIGHTS QLD 4370
-  description: Building Works - Private Certification - Addition to Dwelling- Recreation
-    Room - 22 Condavale Drive, Rosenthal Heights, QLD - Lot 2\SP260979
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C16575&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-17'
+- council_reference: BLD\19859
+  address: 13 Garden Street STANTHORPE QLD 4380
+  description: Building Works - Private Certification - new private garage - 13 Garden
+    Street, Stanthorpe - Lot 1 RP4893
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19859&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-12'
-- council_reference: BLD\16576
-  address: 77 Law Road WARWICK QLD 4370
-  description: Building Works - Private Certification - New Carport - 77 Law Road,
-    Warwick QLD - Lot1\RP228000
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C16576&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-17'
+- council_reference: BLD\19860
+  address: 652 Bellinghams Road ELBOW VALLEY QLD 4370
+  description: Building Works - Private Certification - alterations or additions to
+    dwelling - 652 Bellinghams Road, Elbow Valley - Lot 1 RP54942
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19860&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-12'
-- council_reference: BLD\16577
-  address: Donald Street LEYBURN QLD 4365
-  description: Building Works - Private Certification- 2 Shipping Containers (Storage)
-    and New Ablution Block- Lot 2 Donald Street, Leyburn QLD - Lot\RP156979
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C16577&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-17'
+- council_reference: BLD\19861
+  address: 56 Locke Street WARWICK QLD 4370
+  description: Building Works - Private Certification - re erection of temporary ablutions
+    block, temporary laundry, temporary accommodation blocks x 4 - 56 Locke Street,
+    Warwick - Lot 4 W3046
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19861&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-15'
-- council_reference: BLD\16579
-  address: 81 Palmerin Street WARWICK QLD 4370
-  description: Building Works - Private Certification - tsg Lotto Express - T10 Fit
-    Out - Unit 10, 81 Palmerin St, Warwick - Lot 60 SP305432
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C16579&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-17'
+- council_reference: BLD\19862
+  address: 7 Tyrell Street WARWICK QLD 4370
+  description: Building Works - Private Certification - new carport - 7 Tyrell Street,
+    Warwick - Lot 7 SP162336
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19862&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-19'
-- council_reference: BLD\16580
-  address: Glen Road ROSENTHAL HEIGHTS QLD 4370
-  description: Building Works - Private Certification - New Dwelling - Glen Road,
-    Rosenthal Heights - Lot 616 M341327
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C16580&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-17'
+- council_reference: BLD\19863
+  address: 15 Palmerin Street WARWICK QLD 4370
+  description: Building Works - Private Certification - alterations to school building
+    (block D) - 15 Palmerin Street, Warwick - Lot 3 SP171821
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19863&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-19'
-- council_reference: BLD\16581
-  address: 7 Church Road THE SUMMIT QLD 4377
-  description: Building Works - Private Certification - New Dwelling (Incl. Alfresco)
-    & New Private Shed - 7 Church Road, The Summit - Lot 2 RP888655
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C16581&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-17'
+- council_reference: BLD\19864
+  address: 74-80 Albion Street WARWICK QLD 4370
+  description: Building Works - Private Certification - Tenancy Fitout of Cafe - T1,
+    Bld 1, 74-80 Albion Street, Warwick - Lot 7 SP340854
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19864&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-22'
-- council_reference: BLD\16582
-  address: 247 Lode Creek Road SUGARLOAF QLD 4380
-  description: Building Works new application (Council Certified) - Farm shed - 247
-    Lode Creek Road Sugarloaf - Lot 1 MPH26092
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C16582&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-18'
+- council_reference: BLD\19865
+  address: 190 Mardon Road ROSENTHAL HEIGHTS QLD 4370
+  description: Building Works - Private Certification - New Construction of a dual
+    occupancy Dwelling, New Construction of Patio, New Construction of Deck - 190
+    Mardon Road ROSENTHAL HEIGHTS - Lot 140 RP 889894
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19865&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-24'
-- council_reference: BLD\16583
-  address: Tummaville Road LEYBURN QLD 4365
-  description: Building Works new application (Council Certified) - House Addition
-    by Breezeway - Tummaville Road, Leyburn - Lot 18 L187
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C16583&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-18'
+- council_reference: BLD\19866
+  address: 2 Hall Lane YANGAN QLD 4371
+  description: Building Works - Private Certification - 10a Shed - 2 Hall Lane Yangan
+    - Lot 1 RP94165
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19866&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-24'
-- council_reference: BLD\16584
-  address: 34 Wallaces Road GOOMBURRA QLD 4362
-  description: Building Works - Private Certification - Re-Roofing Main House Dwelling
-    - 34 Wallaces Road Goomburra - Lot 171 ML44
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C16584&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-18'
+- council_reference: BLD\19867
+  address: 74-80 Albion Street WARWICK QLD 4370
+  description: Building Works - Private Certification - Tenancy Fitout of Gym (Stage
+    2) - 74-80 Albion Street, Warwick - Lot 7 SP340854
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19867&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-24'
-- council_reference: BLD\16585
-  address: 64 Tunnel Road DALVEEN QLD 4374
-  description: Building Works new application (Council Certified) - New Shed - 64
-    Tunnel Road Dalveen - lot 1 on RP75760
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C16585&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-21'
+- council_reference: BLD\19868
+  address: 27 Shatte Lane STORM KING QLD 4380
+  description: Building Works new application (Council Certified) - Camper Trailer
+    Garage - 27 Shatte Lane Storm King - Lot7 RP170914
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19868&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-25'
-- council_reference: MCU\00939.01
-  address: 116 Tudor Valley Road ALLORA QLD 4362
-  description: Extension application under section 86 of the Planning Act 2016 for
-    Intensive Animal Use - Cattle Feedlot 999 SCU and ERA No. 2 (b) Intensive Animal
-    Feedlotting - more than 150 to 1000 SCU
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MCU%5C%5C00939.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-21'
+- council_reference: BLD\19869
+  address: 29 Granite Street STANTHORPE QLD 4380
+  description: Building Works - Private Certification - New Construction of Shed -
+    29 Granite Street, STANTHORPE - Lot187 Plan RP861280
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19869&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-05'
-- council_reference: MCU\01204.01
-  address: 6 Labatt Street WARWICK QLD 4370
-  description: Extension application under section 86 of the Planning Act 2016 - Residential
-    Use - Multiple Dwelling Units (6 units);;Building Format Plan with Land (6 lots
-    plus Common Property) - 36 months
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MCU%5C%5C01204.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-18'
+- council_reference: BLD\19870
+  address: 311 Stabiles Road GLEN APLIN QLD 4381
+  description: Building Works new application (Council Certified) - Already Erected
+    Outdoor Spa and Pool Fence - 311 Stabiles Road, Glen Aplin - Lot 119 RP27134
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19870&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-08'
-- council_reference: MCU\01645.01
-  address: 1003 Condamine River Road THE FALLS QLD 4373
-  description: Extension application under section 86 of the Planning Act 2016 - Dwelling
-    House, Lot 1810 SP135585, 1003 Condamine River Road, The Falls
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MCU%5C%5C01645.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-21'
+- council_reference: BLD\19871
+  address: 77 Holzwarts Road BERAT QLD 4362
+  description: Building Works - Private Certification - replacement of roof cladding
+    - 77 Holzwarts Road, Berat - Lot 5 SP199807
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19871&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-25'
-- council_reference: MCU\02085
-  address: 91 Cameron Road STANTHORPE QLD 4380
-  description: Dwelling house (not in accordance with building setbacks) - 91 Cameron
-    Road, Stanthorpe - Lot 6 RP197769
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MCU%5C%5C02085&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-21'
+- council_reference: BLD\19872
+  address: 11 Bernecker Street WARWICK QLD 4370
+  description: Building Works - Private Certification - replacement of roof cladding
+    - 11 Bernecker Street, Warwick - Lot 17 RP896654
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19872&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-11'
-- council_reference: OPW\000149
-  address: 6 Labatt Street WARWICK QLD 4370
-  description: Operational Works - Undertaken works in/on/over/under premises (Earthworks,
-    Roadworks, Water infrastructure, Sewerage infrastructure and Stormwater drainage
-    associated with MCU\01204 and RC\01243) - 6 Labatt Street, Warwick - Lot 3 SP212339
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW%5C%5C000149&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-21'
+- council_reference: BLD\19873
+  address: 13 Pera Crescent WARWICK QLD 4370
+  description: Building Works - Private Certification - new private garage - 13 Pera
+    Crescent, Warwick - Lot 66 SP260982
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19873&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-08'
-- council_reference: OPW\000150
-  address: Curmac Street MARYVALE QLD 4370
-  description: Operational Works - Undertaken works in/on/over/under premises (Access,
-    roadwork and associated stormwater drainage to Lot 8 M58410 - Curmac Street, Maryvale)
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW%5C%5C000150&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-21'
+- council_reference: BLD\19874
+  address: 81 Aerodrome Road APPLETHORPE QLD 4378
+  description: Building Works - Private Certification - new farm machinery storage
+    shed - Eastern Colour Road, Applethorpe - Lot 2 SP317324
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19874&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-16'
-- council_reference: RC\01546.01
-  address: 17 Harris Street STANTHORPE QLD 4380
-  description: Extension application under sect 86 of Planning Act 2016 - Subdivision
-    of two lots into four lots - 17 Harris Street, Stanthorpe - Lots 5, 6 and Common
-    Property SP228618
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RC%5C%5C01546.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-22'
+- council_reference: BLD\19875
+  address: 68 Warner Street ROSENTHAL HEIGHTS QLD 4370
+  description: Building Works - Private Certification - 1a and 10a ReRoofing of dwelling
+    - 68 Warner Street Rosenthal Heights - Lot 1 RP145771
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19875&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-22'
-- council_reference: RC\01728.01
-  address: 2A Ailanthus Street KILLARNEY QLD 4373
-  description: Minor Change to Realignment of boundaries (Three lots) - 2A Alianthus
-    Street, Killarney - Lot 2 RP84292, Lot 2 RP98785 and Lot 1 RP80246
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RC%5C%5C01728.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-22'
+- council_reference: BLD\19876
+  address: 19 Davis Place WARWICK QLD 4370
+  description: Building Works - Private Certification - new dwelling including roofed
+    alfresco - 19 Davis Place Warwick - Lot 80 SP318919
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19876&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-26'
-- council_reference: RC\01777
-  address: 67 Womina - Willowvale Road WOMINA QLD 4370
-  description: Realignment of boundaries (2 lots) - 67 Womina-Willowvale Road, Womina
-    - Lot 680 CP841722 and Lot 638 D361329 (Refer to original application - SEE RC\01746)
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RC%5C%5C01777&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-22'
+- council_reference: BLD\19877
+  address: 6 Kamarangi Court ROSENTHAL HEIGHTS QLD 4370
+  description: Building Works - Private Certification - new shed - 6 Kamarangi Court,
+    Rosenthal Heights - Lot 15 RP844573
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19877&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-23'
-- council_reference: RC\01778
-  address: Hoffmans Road THE FALLS QLD 4373
-  description: Realignment of boundaries (Two lots), Lot 2361 M34989 & Lot 88 M341193,
-    Hoffmans Road, the Falls
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RC%5C%5C01778&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-22'
+- council_reference: BLD\19878
+  address: 40 Locke Street WARWICK QLD 4370
+  description: Building Works - Private Certification - New Shed/Carport and Carport
+    - 40 Locke Street, Warwick Q 4370, Lot 8 on RP36413
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19878&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-24'
-- council_reference: RC\01779
-  address: 1246 Rabbit Fence Road DALVEEN QLD 4374
-  description: Realignment of boundaries (2 lots into 2 lots) - Lot 820 M34381 and
-    Lot 1122 M34512 - Rabbit Fence Road, Pozieres
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RC%5C%5C01779&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-22'
+- council_reference: BLD\19879
+  address: Freestone Creek Road FREESTONE QLD 4370
+  description: Building Works - Private Certification - roof sheet replacement of
+    dwelling and ancillary structures - Freestone Creek Road, Freestone - Lot 4 SP134664
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19879&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-25'
-- council_reference: RC\01780
-  address: 110 Spring Creek Road GREENLANDS QLD 4380
-  description: Realignment of boundaries (2 lots into 2 lots) - 62 and 110 Spring
-    Creek Road, Greenlands - Lot 3 RP891680 and Lot 1 RP175355
-  info_url: https://onlineservices.sdrc.qld.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RC%5C%5C01780&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-22'
+- council_reference: BLD\19880
+  address: 55 Baguley Street WARWICK QLD 4370
+  description: Building Works - Private Certification - Reroofing to existing Dwelling
+    House, and Ancillary Structures - 55 Baguley Street WARWICK - Lot 9 Plan RP 895983
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19880&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-26'
+  date_received: '2023-08-22'
+- council_reference: BLD\19881
+  address: 141 Booth Lane FLETCHER QLD 4381
+  description: Building Works - Private Certification - New Construction of Patio
+    - 141 Booth Lane FLETCHER - Lot 1 Plan RP 901438
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19881&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-23'
+- council_reference: BLD\19882
+  address: 57 Border Road APPLETHORPE QLD 4378
+  description: Building Works new application (Council Certified) - New Private Shed
+    - 57 Border Road, Applethorpe - Lot13 RP850804
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19882&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-23'
+- council_reference: BLD\19883
+  address: 15 Mcglew Street STANTHORPE QLD 4380
+  description: Building Works new application (Council Certified) - Removal Dwelling
+    - 15 McGlew Street Stanthorpe - Lot804 S1683
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19883&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-23'
+- council_reference: BLD\19884
+  address: 609 Tannymorel - Mount Colliery Road MOUNT COLLIERY QLD 4370
+  description: Building Works - Private Certification - New Construction of Shed -
+    609 Tannymorel Mount Colliery Road MOUNT COLLIERY - Lot 2 Plan ML 862
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19884&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-23'
+- council_reference: BLD\19885
+  address: 103 L Mauchs Road YANGAN QLD 4371
+  description: Building Works - Private Certification - New Private Shed with Awning
+    and New Carport and Remove Existing Shed - 103 L Mauchs Road Yangan - Lot 219
+    RP 197770
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19885&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-24'
+- council_reference: BLD\19886
+  address: 741 Dalrymple Creek Road ELLINTHORP QLD 4362
+  description: Building Works - Private Certification - Completion of Expired Approval
+    (No. 1015744 - BLD\16802) for Garage - 741 Dalrymple Creek Road, Ellinthorp -
+    Lot 4 RP 100492
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19886&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-24'
+- council_reference: BLD\19887
+  address: 12 Elliot Street PRATTEN QLD 4370
+  description: Building Works - Private Certification - New enclosed patio / storeroom
+    - 12 Elliot Street, Pratten - Lot 608 on P1276
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19887&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-24'
+- council_reference: BLD\19888
+  address: Calvert Road GLEN APLIN QLD 4381
+  description: Building Works - Private Certification - Resited Dwelling - 13 Calvert
+    Road Glen Aplin - Lot 8 SP 216998
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19888&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-24'
+- council_reference: BLD\19889
+  address: 115 Folkestone Street STANTHORPE QLD 4380
+  description: Building Works new application (Council Certified) - New Dwelling -
+    115 Folkestone Street Stanthorpe 4380 - Lot 6 SP287036
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19889&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-25'
+- council_reference: BLD\19890
+  address: 4 Pratten Street WARWICK QLD 4370
+  description: Building Works - Private Certification - re roof (like for like) to
+    existing dwelling house and ancillary structures - 4 Pratten Street, Warwick -
+    Lot 9 RP36248
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19890&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-25'
+- council_reference: BLD\19891
+  address: 597 O'Maras Road MOUNT COLLIERY QLD 4370
+  description: Building Works - Private Certification - resited dwelling - 597 O'Maras
+    Road, Mount Colliery - Lot 14 SP338925
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19891&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-25'
+- council_reference: BLD\19892
+  address: 30-36 Jacob Drive ROSENTHAL HEIGHTS QLD 4370
+  description: Building Works - Private Certification - extension to existing shed
+    - 30-36 Jacob Drive, Rosenthal Heights - Lot 46 SP192863
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19892&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-25'
+- council_reference: BLD\19893
+  address: 33 Homestead Road ROSENTHAL HEIGHTS QLD 4370
+  description: Building Works - Private Certification - 4.6 X 4m Garage Extension
+    - 33 Homestead Road Rosenthal Heights -- Lot 1 RP202127
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19893&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-28'
+- council_reference: BLD\19894
+  address: 20-28 Willi Street ROSENTHAL HEIGHTS QLD 4370
+  description: Building Works new application (Council Certified) - Demolish all Structures
+    Sheds, Administration, Workshop & Antenna - 20 -28 Willi Street Rosenthal Heights
+    - Lot1 RP 117727 & Lot 2 RP 117727
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19894&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-29'
+- council_reference: BLD\19895
+  address: East Street SLADEVALE QLD 4370
+  description: Building Works - Private Certification - New Industrial Building (shed
+    2) and Retaining Wall - Lot 2 Cunningham Highway Sladevale, Lot 2 SP310899
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19895&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-29'
+- council_reference: BLD\19896
+  address: 77 Rosehill Road WARWICK QLD 4370
+  description: Building Works - Private Certification - New Garage / Carport (Replacing
+    burnt down garage) - 77 Rosehill Road WARWICK - Lot 18 RP36265
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19896&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-29'
+- council_reference: BLD\19897
+  address: Barron Street HENDON QLD 4362
+  description: Building Works - Private Certification - New Dwelling - Barron Street
+    Hendon - Lot 507 H 701
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19897&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-30'
+- council_reference: BLD\19898
+  address: 50 Warner Street ROSENTHAL HEIGHTS QLD 4370
+  description: Building Works - Private Certification - Replacement of Roof Cladding
+    House, Garage & Carport - 50 Warner Street Rosenthal Heights - Lot 1 RP 144273
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19898&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-30'
+- council_reference: BLD\19899
+  address: 111 Pratten Street WARWICK QLD 4370
+  description: Building Works new application (Council Certified) - 6m x 6m Shed and
+    tank - 111 Pratten Street Warwick - Lot2 RP79558
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19899&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-31'
+- council_reference: BLD\19900
+  address: 33 Maryland Street STANTHORPE QLD 4380
+  description: Building Works - Private Certification - Proposed Alteration to Existing
+    Retail Tenancy - 33 Maryland Street STANTHORPE QLD 4380 - Lot2 RP31625 - Lot2
+    RP31627
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19900&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-31'
+- council_reference: BLD\19901
+  address: 1623 Texas Road GREENLANDS QLD 4380
+  description: Building Works - Private Certification - new farm storage shed - Magnoli
+    Lane, Greenlands - Lot 85 B34467
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19901&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-31'
+- council_reference: BLD\19902
+  address: 35 Wilga Avenue WARWICK QLD 4370
+  description: Building Works - Private Certification - replacement of roof cladding
+    - 35 Wilga Avenue, Warwick - Lot 2 RP154423
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19902&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-04'
+- council_reference: BLD\19903
+  address: 307 Glen Road ROSENTHAL HEIGHTS QLD 4370
+  description: Building Works - Private Certification - Additions to Dwelling - 307
+    Glen Road ROSENTHAL HEIGHTS - Lot 85 M341316
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19903&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-04'
+- council_reference: BLD\19904
+  address: 190 Allora - Clifton Road ALLORA QLD 4362
+  description: Building Works - Private Certification - new dwelling, carport and
+    farm shed - 190 Allora Clifton Road Allora - Lot 1 M34689
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19904&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-04'
+- council_reference: BLD\19905
+  address: Cannon Creek Road BAPAUME QLD 4352
+  description: Building Works - Private Certification - Dwelling and Rainwater Tanks
+    - 578 Cannon Creek Road Bapaume - Lot 32 on SP327054
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19905&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-05'
+- council_reference: BLD\19906
+  address: 8 Corundum Street STANTHORPE QLD 4380
+  description: Building Works - Private Certification - NEW INTERNAL ROOM WITHIN EXISTING
+    BUILDING - 8 Corundum Street, Stanthorpe QLD, Australia 4380 - Lot1 BNT1781
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19906&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-05'
+- council_reference: BLD\19907
+  address: Watts Street MARYVALE QLD 4370
+  description: Building Works - Private Certification - NEW DWELLING (Including Roofed
+    Verandahs) - 27 Watts Street, Maryvale QLD, Australia 4370 - LOT702 ML2301
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19907&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-05'
+- council_reference: BLD\19908
+  address: 22-24 Project Street WARWICK QLD 4370
+  description: Building Works - Private Certification - New Constructions of Storage
+    Sheds x 2 - 22-24 Project Street WARWICK - Lot 11 SP 327050
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19908&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-06'
+- council_reference: BLD\19909
+  address: 63 MacIntyre Street LEYBURN QLD 4365
+  description: Building Works - Private Certification - Replace Roof Cladding of Dwelling
+    House - 63 MacIntyre Street LEYBURN QLD - Lot 608 L15082
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19909&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-06'
+- council_reference: BLD\19910
+  address: 49B Tyrel Street STANTHORPE QLD 4380
+  description: Building Works - Private Certification - New Dwelling - Lot 2/Sp295687
+    - 49B Tyrel Street, Stanthorpe Q 4380
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19910&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-06'
+- council_reference: BLD\19911
+  address: 13 William Craig Drive ROSENTHAL HEIGHTS QLD 4370
+  description: Building Works - Private Certification - demolition of existing shed
+    & demolition of existing carport - 13 William Craig Drive, Rosenthal Heights -
+    Lot 21 RP861273
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19911&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-07'
+- council_reference: BLD\19912
+  address: 13 William Craig Drive ROSENTHAL HEIGHTS QLD 4370
+  description: Building Works - Private Certification - new construction of shed -
+    13 William Craig Drive Rosenthal Heights - Lot 21 RP861273
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD%5C%5C19912&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-07'
+- council_reference: MCU\01715.02
+  address: Haigs Road ALLORA QLD 4362
+  description: Other Change - Additional parking, outdoor storage and administrative
+    facilities - Haigs Road, Allora - Lot 32 M34673
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MCU%5C%5C01715.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-21'
+- council_reference: MCU\01747.02
+  address: 14 Wallangarra Road STANTHORPE QLD 4380
+  description: Minor Change (Other Change) - Additions to the built form through extensions
+    and internal reconfiguration to accommodate different room typologies - 14 Wallangarra
+    Road, Stanthorpe - Lot 26 SP164408
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MCU%5C%5C01747.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-29'
+- council_reference: MCU\02512
+  address: Cactus Ridge Road RODGERS CREEK QLD 4370
+  description: Dwelling house - (not in accordance with building setbacks) - Cactus
+    Ridge Road, Rodgers Creek - Lot 3 SP322823
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MCU%5C%5C02512&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-15'
+- council_reference: MCU\02513
+  address: 18 Ruby Street STANTHORPE QLD 4380
+  description: Multiple dwelling (3 units) - 67 High Street and 18 Ruby Street, Stanthorpe
+    - Lot 6 RP21514 & Lot 9 SP329092
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MCU%5C%5C02513&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-24'
+- council_reference: MCU\02514
+  address: Aerodrome Road APPLETHORPE QLD 4378
+  description: Air services (New hangar - not in accordance with building setbacks)
+    - Aerodrome Road, Applethorpe - Lot 23 SP279664
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MCU%5C%5C02514&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-28'
+- council_reference: MCU\02515
+  address: 2 Coxen Street MARYVALE QLD 4370
+  description: Dwelling house (not in accordance with building setbacks) - 2 Coxen
+    Street, Maryvale - Lot 42 ML2305
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MCU%5C%5C02515&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-06'
+- council_reference: OPW\000255
+  address: Morgan Park Road WILDASH QLD 4370
+  description: Undertaken works in/on/over/under premises (Roadworks - Morgan Park
+    Road to access Lot 2053 M34807 - Morgan Park Road, Wildash
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW%5C%5C000255&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-18'
+- council_reference: OPW\000256
+  address: 232 Sugarloaf Road STANTHORPE QLD 4380
+  description: Operational Works - Undertaken works in/on/over/under premises (Electrical
+    supply and street lighting associated with RC\01862 - Stage 1a (14 lots) of Subdivision
+    of 6 into 43 lots) - Sugarloaf Road, Stanthorpe - Lot 11 SP191086, Lots 385 and
+    386 SP208840, Lot 3 SP305799, Lot 12 SP180246 and Lot 284 SP180245
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW%5C%5C000256&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-15'
+- council_reference: RC\01897.01
+  address: 49 Connor Street STANTHORPE QLD 4380
+  description: Minor Change - Review condition 7 to reduce quantity and type of plants
+    proposed to be planted for Streetscaping - 49 Connor Street, Stanthorpe - Lot
+    1 S18814
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RC%5C%5C01897.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-05'
+- council_reference: RC\01988
+  address: 547 Glen Road ROSENTHAL HEIGHTS QLD 4370
+  description: Realignment of boundaries (Two (2) lots into two (2) lots) - 547 Glen
+    Road and Kurrajong Road, Rosenthal Heights - Lot 713 M341286 & Lot 585 M341305
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RC%5C%5C01988&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-11'
+- council_reference: RC\01991
+  address: 18 Ruby Street STANTHORPE QLD 4380
+  description: Realignment of boundaries (2 into 2 lots) - 67 High Street and 18 Ruby
+    Street, Stanthorpe - Lot 6 RP21514 & Lot 9 SP329092
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RC%5C%5C01991&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-24'
+- council_reference: RC\01992
+  address: 26 Willowvale School Road WILLOWVALE QLD 4370
+  description: Reconfiguration of Lot - Boundary Realignment (Three Lots into Three
+    Lots) - South Street, New England Highway & Bradfield Road, Allora - Lots 2 SP196281,
+    Lot 7 SP232591 & Lot 3 SP196281
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RC%5C%5C01992&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-30'
+- council_reference: RC\01993
+  address: 56 Albion Street WARWICK QLD 4370
+  description: Realignment of boundaries Two (2) Lots into (2) lots - 56 Albion Street
+    & 7 Frank Avenue, Warwick- Lot 2 SP182436 & Lot 3 RP50974
+  info_url: https://sdrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RC%5C%5C01993&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-31'
