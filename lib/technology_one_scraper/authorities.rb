@@ -30,7 +30,7 @@ module TechnologyOneScraper
       webguest: "CSC.WEBGUEST"
     },
     eurobodalla: {
-      url: "https://eservices.esc.nsw.gov.au/T1PRProd/WebApps/eProperty",
+      url: "https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
       period: "L28",
       webguest: "ESC.P1.WEBGUEST"
     },
