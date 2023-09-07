@@ -149,6 +149,10 @@ module TechnologyOneScraper
       url: "https://rcow-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
       period: "L28"
     },
+    wingecarribee: {
+      url: "https://eservices.wsc.nsw.gov.au/T1PRProd/WebApps/eProperty",
+      period: "L28"
+    },
     wyndham: {
       url: "https://eproperty.wyndham.vic.gov.au/ePropertyPROD",
       period: "L28"
