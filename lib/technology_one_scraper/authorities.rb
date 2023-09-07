@@ -35,7 +35,7 @@ module TechnologyOneScraper
       webguest: "ESC.P1.WEBGUEST"
     },
     fremantle: {
-      url: "https://eservices.fremantle.wa.gov.au/T1PRProd/WebApps/eProperty",
+      url: "https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
       period: "L28"
     },
     goulburn: {

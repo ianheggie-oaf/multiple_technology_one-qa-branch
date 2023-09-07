@@ -2,7 +2,7 @@
 http_interactions:
 - request:
     method: get
-    uri: https://eservices.fremantle.wa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=$P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+    uri: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=$P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
     body:
       encoding: US-ASCII
       string: ''
@@ -12,13 +12,13 @@ http_interactions:
       Accept:
       - "*/*"
       User-Agent:
-      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      - Mechanize/2.7.7 Ruby/2.5.8p224 (http://github.com/sparklemotion/mechanize/)
       Accept-Charset:
       - ISO-8859-1,utf-8;q=0.7,*;q=0.7
       Accept-Language:
       - en-us,en;q=0.5
       Host:
-      - eservices.fremantle.wa.gov.au
+      - fremantle-web.t1cloud.com
       Connection:
       - keep-alive
       Keep-Alive:
@@ -28,247 +28,74 @@ http_interactions:
       code: 200
       message: OK
     headers:
+      Content-Type:
+      - text/html; charset=utf-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Date:
+      - Thu, 07 Sep 2023 03:38:57 GMT
       Cache-Control:
       - no-cache, no-store
       Pragma:
       - no-cache
-      Content-Type:
-      - text/html; charset=utf-8
       Expires:
       - "-1"
       Server:
       - Microsoft-IIS/10.0
       Set-Cookie:
-      - ASP.NET_SessionId=rf424g45omp4gdizr0h4ao55; path=/; HttpOnly
+      - ASP.NET_SessionId=2cn1ay55yva4c455m3czvyyx; path=/; secure; HttpOnly
       X-Aspnet-Version:
       - 2.0.50727
-      X-Powered-By:
-      - ASP.NET
-      Date:
-      - Thu, 09 Jul 2020 04:56:28 GMT
-      Content-Length:
-      - '23211'
+      Strict-Transport-Security:
+      - max-age=31536000; includeSubDomains; preload
+      X-Content-Type-Options:
+      - nosniff
+      Content-Encoding:
+      - gzip
+      X-Cache:
+      - Miss from cloudfront
+      Via:
+      - 1.1 23bcdd719bfa269e077f081512f9c624.cloudfront.net (CloudFront)
+      X-Amz-Cf-Pop:
+      - SYD1-C2
+      X-Amz-Cf-Id:
+      - gMXcNAriwYv5MXjHNIxNF4NOMmEQK5KnuqGbBVZlv4ywK9wof_75_g==
     body:
-      encoding: UTF-8
-      string: "\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"
-        \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head><title>\r\n\tCity
-        of Fremantle - Submitted Last 28 Days\r\n</title><link href=\"../../App_Themes/COF/__MACOSX/._Default.css\"
-        type=\"text/css\" rel=\"stylesheet\" /><link href=\"../../App_Themes/COF/Default.css\"
-        type=\"text/css\" rel=\"stylesheet\" /></head>\r\n<body>\r\n<script type=\"text/javascript\"
-        src=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js\"></script> \r\n
-        \   <form name=\"aspnetForm\" method=\"post\" action=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;f=%24P1.ETR.SEARCH.SL28&amp;r=P1.WEBGUEST\"
-        id=\"aspnetForm\">\r\n<div>\r\n<input type=\"hidden\" name=\"__VIEWSTATE\"
-        id=\"__VIEWSTATE\" value=\"/wEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIDD2QWBAIED2QWBAIBD2QWAmYPZBYEAgEPZBYCZg9kFgJmDw8WEB4EVGV4dAUJRWRpdCBNb2RlHgtDb21tYW5kTmFtZQUEVGFzax4PQ29tbWFuZEFyZ3VtZW50BRpQMUVQUkN1c3RvbWlzYXRpb25FZGl0TW9kZR4JQWNjZXNzS2V5ZR4QQ2F1c2VzVmFsaWRhdGlvbmgeCFRhYkluZGV4AQAAHgdUb29sVGlwZR4PVmFsaWRhdGlvbkdyb3VwZWRkAgIPZBYCZg9kFgJmDw8WEB8ABQ1SZWZyZXNoIENhY2hlHwEFBFRhc2sfAgUeUDFFUFJDdXN0b21pc2F0aW9uUmVmcmVzaENhY2hlHwNlHwRoHwUBAAAfBmUfB2VkZAIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAgcPZBYGAgEPDxYCHwBlZGQCAw9kFgQCAg8PFgIfAAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfAAUXMTIvMDYvMjAyMCB0byA5LzA3LzIwMjBkZAIFDw8WBB4IR3JpZFR5cGUFDEVUUkFDS1NFQVJDSB4QR3JpZENyaXRlcmlhTGlzdDLgBAABAAAA/////wEAAAAAAAAADAIAAABQVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLCBWZXJzaW9uPTEwLjQuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwEAQAAAJwBU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhLCBUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMsIFZlcnNpb249MTAuNC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbF1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAAnVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYVtdAgAAAAgICQMAAAABAAAAAQAAAAcDAAAAAAEAAAAEAAAABCVUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhAgAAAAkEAAAADQMFBAAAACVUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhBQAAAAdtc1ZhbHVlCG1zVmFsdWUyDm1zT3BlcmF0b3JDb2RlCm1zQ29sdW1uSWQObXNQcm9wZXJ0eU5hbWUBAQEBAQIAAAAGBQAAAAoxMi8wNi8yMDIwBgYAAAAVOS8wNy8yMDIwIDExOjU5OjU5IFBNBgcAAAACREIGCAAAAA1Mb2RnZW1lbnREYXRlCQgAAAALZBYCZg9kFgQCAQ9kFgQCAQ8PFgIfAAUtQ2xpY2sgaGVyZSB0byBvcGVuIENpIGFuZCBjdXN0b21pc2UgdGhpcyBncmlkZGQCAw8PFgIfAAUJR3JpZCBUeXBlZGQCAw8PFgIfCGhkFgICAQ8PFgIfAAUcTm8gaW5mb3JtYXRpb24gaXMgYXZhaWxhYmxlLmRkGAMFQ2N0bDAwJENvbnRlbnQkY3VzUmVzdWx0c0dyaWQkcmVwV2ViR3JpZCRjdGwwMCRncmRXZWJHcmlkVGFidWxhclZpZXcPPCsACgEIAgVkBUBjdGwwMCRDb250ZW50JGN1c1Jlc3VsdHNHcmlkJHJlcFdlYkdyaWQkY3RsMDAkZHR2V2ViR3JpZExpc3RWaWV3DxQrAAdkZGRkZBYAAj5kBRxjdGwwMCRDb250ZW50JGxibFNlYXJjaERhdGVzD2hkXaIdYKku4ny8UMQ3JgIw24bXY+s=\"
-        />\r\n</div>\r\n\r\n<div>\r\n\r\n\t<input type=\"hidden\" name=\"__VIEWSTATEGENERATOR\"
-        id=\"__VIEWSTATEGENERATOR\" value=\"794B1E1F\" />\r\n\t<input type=\"hidden\"
-        name=\"__EVENTVALIDATION\" id=\"__EVENTVALIDATION\" value=\"/wEWLQK2jIGEAQK359HKDwL38+S0BQLD0Z//CAKDjpzeCAKCqYWLDgK+1pGjDgLurtn5CALsuJ7pAgLkoYWSBQLJuOf8CgKDooWSBQLouOf8CgKapIWSBQL/uuf8CgLBooWSBQKmuef8CgLgooWSBQLFuef8CgL/ooWSBQLkuef8CgKGoYWSBQLrt+f8CgKtn4WSBQKStuf8CgKeo5nNBAKDuvu3CgLFoZnNBAKquPu3CgLkoZnNBALJuPu3CgKDopnNBALouPu3CgKapJnNBAL/uvu3CgLBopnNBAKmufu3CgLgopnNBALFufu3CgKa4Pf0BAKa4Iv0BAKa4J/0BAKa4JP0BAK/g8WMCQKjmJfRCgIX63xOB2Sv2Pqp5R45eMcFlQLl\"
-        />\r\n</div>\r\n        <div id=\"cssBounds\">\r\n            <div id=\"cssBanner\"
-        >\r\n                    <!-- Login -->\r\n                    <div class=\"speciallink\">\r\n
-        \                       <!--\r\n                        \r\n                            <span
-        class=\"Login\">\r\n                                <a id=\"ctl00_ctlLogin_cmdLogin\"
-        accesskey=\"L\" title=\"Access Key: L\" href=\"javascript:__doPostBack('ctl00$ctlLogin$cmdLogin','')\">Login</a>
-        \                               \r\n                             </span>\r\n
-        \                           \r\n                     </div>\r\n                    <!--
-        End Login --> \r\n                <div id=\"cssBannerLogo\">\r\n                    <a
-        href=\"http://eservices.fremantle.wa.gov.au/T1PRProd/WebApps/eProperty/P1/GuestHome.aspx?r=P1.WEBGUEST&f=%24P1.EPR.GUESTHME.VIW\"
-        id=\"ctl00_cmdHomeNav\">\r\n                        <img src=\"../../App_Themes/Default/Images/Empty.gif\"
-        id=\"ctl00_imageHomeNav\" border=\"0\" class=\"homeNav\" />\r\n                    </a>\r\n
-        \               </div>\r\n            </div>\r\n            <div class=\"clear\"></div>\r\n
-        \           <div id=\"cssContentArea\">\r\n                <div id=\"cssTaskpane\"
-        \ class = \"cssNoPrint\">\r\n                    \r\n                    <div>\r\n
-        \                       \r\n                                <div class=\"menuPanel\">\r\n
-        \                           \r\n                                <div class=\"menuHeader\">\r\n
-        \                                   <span id=\"ctl00_Taskpane_rprMenuList_ctl01_lblMenuGroupHeader\">Online
-        payments</span>\r\n                                </div>\r\n                                <ul
-        class=\"menuGroupList\">\r\n\t<li><a href=\"../ePay/DebtorPayment.aspx?r=P1.WEBGUEST&amp;f=P1.EPY.DEBTORS.ENQ\">Debtor
-        payment</a></li><li><a href=\"../ePay/ApplicationPayment.aspx?r=P1.WEBGUEST&amp;f=P1.EPY.APPS.ENQ\">Invoice
-        payment</a></li><li><a href=\"../ePay/InfringementPayment.aspx?r=P1.WEBGUEST&amp;f=P1.EPY.INFRINGE.ENQ\">Pay
-        an infringement</a></li><li><a href=\"../ePay/RatesPayment.aspx?r=P1.WEBGUEST&amp;f=P1.EPY.RATES.ENQ\">Pay
-        your council rates</a></li>\r\n</ul>\r\n                                <br
-        />\r\n                            \r\n                                <div
-        class=\"menuHeader\">\r\n                                    <span id=\"ctl00_Taskpane_rprMenuList_ctl02_lblMenuGroupHeader\">Online
-        requests</span>\r\n                                </div>\r\n                                <ul
-        class=\"menuGroupList\">\r\n\t<li><a href=\"../eRequest/CategorySelection.aspx?r=P1.WEBGUEST&amp;f=P1.ECR.SELCAT.VIW\">Request
-        a service</a></li>\r\n</ul>\r\n                                <br />\r\n
-        \                           \r\n                                <div class=\"menuHeader\">\r\n
-        \                                   <span id=\"ctl00_Taskpane_rprMenuList_ctl03_lblMenuGroupHeader\">Application
-        tracking</span>\r\n                                </div>\r\n                                <ul
-        class=\"menuGroupList\">\r\n\t<li><a href=\"eTrackApplicationSearch.aspx?r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.ENQ\">Application
-        Search</a></li>\r\n</ul>\r\n                                <br />\r\n                            \r\n
-        \                               </div>\r\n                            \r\n
-        \                       \r\n                    </div>\r\n                            \r\n
-        \               </div>\r\n                \r\n                <div id=\"cssTaskpaneRelatedLinks\"
-        \ class= \"cssNoPrint\">\r\n                    \r\n                        <div
-        id=\"ctl00_RightTaskPane_tspRelatedLinks\" class=\"taskPanel\">\r\n<div class=\"taskHeader\">Related
-        Links</div>\r\n<ul>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.STW\">Submitted
-        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SLW\">Submitted
-        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.STM\">Submitted
-        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SLM\">Submitted
-        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L7&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL7\">Submitted
-        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L14&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL14\">Submitted
-        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL28\">Submitted
-        Last 28 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DTW\">Determined
-        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DLW\">Determined
-        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DTM\">Determined
-        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DLM\">Determined
-        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L7&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL7\">Determined
-        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L14&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL14\">Determined
-        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L28&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL28\">Determined
-        Last 28 Days</a></li>\r\n</ul>\r\n<div class=\"taskFooter\">&nbsp;</div>\r\n</div>\r\n\r\n
-        \                       \r\n                    \r\n                    \r\n
-        \                   <div id=\"cssHelpAndAdmin\">\r\n                        \r\n
-        \   \r\n    \r\n\r\n                    </div>\r\n                </div>\r\n
-        \                               \r\n                <div id=\"cssContent\">\r\n
-        \               <div class=\"cssContentWorkspace\">\r\n                    <a
-        id=\"cssContentTop\"></a>\r\n                    \r\n                        <h1
-        id=\"ctl00_Header_h1PageTitle\">Submitted Last 28 Days</h1>\r\n                    \r\n
-        \                   \r\n                    \r\n                              \r\n
-        \                   \r\n    \r\n    <span id=\"ctl00_Content_cusETrackApplicationSearchResults\"
-        style=\"display:inline-block;width:100%;\"></span>\r\n    <br />\r\n    \r\n
-        \   <span id=\"ctl00_Content_lblSearchDates\" class=\"block\"><span id=\"ctl00_Content_lblFieldNameP1ETRSearchDates\"
-        class=\"fieldLabel\">Search Dates</span><span id=\"ctl00_Content_lblFieldValueP1ETRSearchDates\"
-        class=\"fieldLabel\">12/06/2020 to 9/07/2020</span></span>\r\n    \r\n    <div
-        id=\"ctl00_Content_cusResultsGrid_pnlCustomisationGrid\">\r\n\t\r\n    \r\n
-        \   \r\n    \r\n            <div id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_pnlSectionHeading\">\r\n\t\t\r\n
-        \               <span id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_lblSectionHeading\"
-        class=\"sectionHeading\">Application Search Results</span>\r\n                                <br
-        />\r\n                <img id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_imgSectionSeparator\"
-        Class=\"sectionSeparator\" src=\"../../App_Themes/COF/Images/HalfSeperator.gif\"
-        alt=\"\" style=\"height:2px;width:50%;border-width:0px;\" />\r\n            \r\n\t</div>\r\n
-        \r\n            \r\n\r\n            <div>\r\n\t\t<table class=\"grid\" cellspacing=\"0\"
-        cellpadding=\"3\" rules=\"cols\" border=\"1\" id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_grdWebGridTabularView\"
-        style=\"width:100%;border-collapse:collapse;\">\r\n\t\t\t<tr class=\"headerRow\">\r\n\t\t\t\t<th
-        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$RamId')\">Application
-        Link</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$LodgementDate')\">Lodgement
-        Date</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$Description')\">Description</a></th><th
-        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$PrimaryGroupDescription')\">Group
-        Description</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$PrimaryCategoryDescription')\">Category
-        Description</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$FormattedAddress')\">Formatted
-        Address</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$ApplicantNames')\">Applicant
-        Names</a></th>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl02','')\">DA0197/20</a></td><td>12/06/2020</td><td>Retaining
-        Wall Addition to Existing House</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl03','')\">147
-        Samson Street WHITE GUM VALLEY WA 6162</a></td><td>Howard William Carr</td>\r\n\t\t\t</tr><tr
-        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl02','')\">DA0198/20</a></td><td>12/06/2020</td><td>Additions
-        and alterations to existing Grouped dwelling</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl03','')\">71
-        Hines Road HILTON WA 6163</a></td><td>Graham Bernard Moles, Chanelle Louise
-        Moltoni</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl04$ctl02','')\">DA0199/20</a></td><td>12/06/2020</td><td>Demolition
-        of existing Single house</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl04$ctl03','')\">41
-        South Street SOUTH FREMANTLE WA 6162</a></td><td>Kelly Michelle Vujcic, Adrian
-        Vlado Vujcic</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl05$ctl02','')\">DA0200/20</a></td><td>15/06/2020</td><td>Additions
-        and alterations to existing Single House</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl05$ctl03','')\">414
-        South Terrace SOUTH FREMANTLE WA 6162</a></td><td> Philip Stejskal Architecture
-        Pty Ltd</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl06$ctl02','')\">DA0201/20</a></td><td>15/06/2020</td><td>Additions
-        and alteration to existing Single house</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl06$ctl03','')\">4
-        Hanlin Way SAMSON WA 6163</a></td><td> Dn Studio</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl07$ctl02','')\">DA0202/20</a></td><td>15/06/2020</td><td>Two
-        Storey Single House</td><td>Planning Applications</td><td>Miscellaneous Development
-        Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl07$ctl03','')\">27
-        Rule Street NORTH FREMANTLE WA 6159</a></td><td> Officer Woods Architects
-        Pty Ltd</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl08$ctl02','')\">DA0203/20</a></td><td>16/06/2020</td><td>Pergola/
-        Patio addition to Existing Tavern</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl08$ctl03','')\">92
-        South Terrace FREMANTLE WA 6160</a></td><td> Cover Co</td>\r\n\t\t\t</tr><tr
-        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl09$ctl02','')\">LL0010/20</a></td><td>16/06/2020</td><td>Section
-        40 - Club &amp; Club Restricted</td><td>Planning Applications</td><td>DA -
-        Section 40 - Liquor Licence</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl09$ctl03','')\">Frank
-        Gibson Park 338 High Street FREMANTLE WA 6160</a></td><td> Fremantle Netball
-        Association Incorporated</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl10$ctl02','')\">DA0204/20</a></td><td>17/06/2020</td><td>Two
-        storey additions and alterations to existing Single House</td><td>Planning
-        Applications</td><td>Miscellaneous Development Application Category</td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl10$ctl03','')\">35
-        Collick Street HILTON WA 6163</a></td><td>David William Doyle</td>\r\n\t\t\t</tr><tr
-        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl11$ctl02','')\">BP0190/20</a></td><td>17/06/2020</td><td>Proposed
-        internal addition</td><td>Building Permit Applications (New Bld Act 2012)</td><td>BA2
-        Building Permit - Local Authority</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl11$ctl03','')\">77B
-        Thompson Road NORTH FREMANTLE WA 6159</a></td><td> Home and Heritage Construction</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl12$ctl02','')\">DA0205/20</a></td><td>18/06/2020</td><td>Installation
-        of Exterior Lighting to Existing Building</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl12$ctl03','')\">Fremantle
-        Post Office 13 Market Street FREMANTLE WA 6160</a></td><td> Centurion Electrical
-        Contracting</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl13$ctl02','')\">DA0206/20</a></td><td>18/06/2020</td><td>Pergola
-        Addition to existing Single house</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl13$ctl03','')\">26
-        Trafford Street BEACONSFIELD WA 6162</a></td><td>Lisa Gaye Chrystal</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl14$ctl02','')\">DA0207/20</a></td><td>18/06/2020</td><td>Two
-        Storey Single house</td><td>Planning Applications</td><td>Miscellaneous Development
-        Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl14$ctl03','')\">67B
-        Shepherd Street BEACONSFIELD WA 6162</a></td><td> Dale Alcock Homes Pty Ltd</td>\r\n\t\t\t</tr><tr
-        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl15$ctl02','')\">DA0208/20</a></td><td>18/06/2020</td><td>Single
-        storey addition to existing Grouped dwelling</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl15$ctl03','')\">112A
-        Watkins Street WHITE GUM VALLEY WA 6162</a></td><td>Ian David Nowlan</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl16$ctl02','')\">VA0020/20</a></td><td>18/06/2020</td><td>Variation
-        to previous planning approval for DA0452/18 (Solar Panel Additions to existing
-        Multiple dwelling development)</td><td>Planning Applications</td><td>DA -
-        Variation</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl16$ctl03','')\">The
-        Brighton 1-505/4-6 Doepel Street NORTH FREMANTLE WA 6159</a></td><td> Elevage
-        Group</td>\r\n\t\t\t</tr><tr class=\"pagerRow\">\r\n\t\t\t\t<td colspan=\"7\"><table
-        border=\"0\">\r\n\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t<td><span>1</span></td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$2')\">2</a></td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$3')\">3</a></td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$4')\">4</a></td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$5')\">5</a></td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table></td>\r\n\t\t\t</tr>\r\n\t\t</table>\r\n\t</div>\r\n
-        \           \r\n            <br />\r\n            \r\n            \r\n            \r\n
-        \       \r\n\r\n</div>\r\n\r\n\r\n\r\n\r\n\r\n    \r\n    <div class=\"actionButtonsLeft\">\r\n
-        \       <input type=\"submit\" name=\"ctl00$Content$btnPrevious\" value=\"&lt;
-        Previous\" id=\"ctl00_Content_btnPrevious\" accesskey=\"P\" title=\"Access
-        Key: P\" class=\"button\" />\r\n    </div>\r\n\r\n\r\n                    <div
-        class=\"clear\"></div>\r\n                    <br />\r\n                    <br
-        />\r\n                    <br />\r\n                </div>\r\n                </div>\r\n
-        \           </div>\r\n            <p></p>\r\n            <p class=\"invisible\"></p>\r\n
-        \           <div id=\"cssBottomBar\" class=\"cssNoPrint\">\r\n                <div
-        id=\"cssBottomBarLegal\">                 \r\n                    <a id=\"ctl00_hplCustomFooterLink1\"
-        href=\"https://www.fremantle.wa.gov.au/council/about-city-fremantle/website-privacy\">Privacy</a>\r\n
-        \                   <img id=\"ctl00_imgFooterSeparator1\" class=\"verticalBar\"
-        src=\"../../App_Themes/COF/Images/VerticalBarBlack.gif\" alt=\"\" style=\"height:10px;width:1px;border-width:0px;\"
-        />\r\n                    <a id=\"ctl00_hplCustomFooterLink2\" href=\"https://www.fremantle.wa.gov.au/council/about-city-fremantle/disclaimer\">Terms
-        of Use</a>\r\n                    <img id=\"ctl00_imgFooterSeparator2\" class=\"verticalBar\"
-        src=\"../../App_Themes/COF/Images/VerticalBarBlack.gif\" alt=\"\" style=\"height:10px;width:1px;border-width:0px;\"
-        />\r\n                    <a id=\"ctl00_hplCustomFooterLink3\" href=\"https://www.fremantle.wa.gov.au/i-want-to/contact-city\">Contact
-        Us</a>                       \r\n                    <span id=\"ctl00_MobileLink\">\r\n
-        \                       <img id=\"ctl00_Image1\" class=\"verticalBar\" src=\"../../App_Themes/COF/Images/VerticalBarBlack.gif\"
-        alt=\"\" style=\"height:10px;width:1px;border-width:0px;\" />\r\n                        <a
-        id=\"ctl00_hplMobileView\" href=\"javascript:__doPostBack('ctl00$hplMobileView','')\">Mobile
-        View</a>                       \r\n                    </span>\r\n                </div>\r\n
-        \               <div id=\"cssBottomBarCopyright\">&copy; Technology One Limited
-        2020</div>\r\n            </div>\r\n            \r\n        </div>\r\n    </form>\r\n</body>\r\n</html>\r\n"
-    http_version: 
+      encoding: ASCII-8BIT
+      string: !binary |-
+        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
   recorded_at: Tue, 14 May 2019 14:00:00 GMT
 - request:
     method: post
-    uri: https://eservices.fremantle.wa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=$P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+    uri: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=$P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
     body:
       encoding: UTF-8
-      string: __VIEWSTATE=%2FwEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIDD2QWBAIED2QWBAIBD2QWAmYPZBYEAgEPZBYCZg9kFgJmDw8WEB4EVGV4dAUJRWRpdCBNb2RlHgtDb21tYW5kTmFtZQUEVGFzax4PQ29tbWFuZEFyZ3VtZW50BRpQMUVQUkN1c3RvbWlzYXRpb25FZGl0TW9kZR4JQWNjZXNzS2V5ZR4QQ2F1c2VzVmFsaWRhdGlvbmgeCFRhYkluZGV4AQAAHgdUb29sVGlwZR4PVmFsaWRhdGlvbkdyb3VwZWRkAgIPZBYCZg9kFgJmDw8WEB8ABQ1SZWZyZXNoIENhY2hlHwEFBFRhc2sfAgUeUDFFUFJDdXN0b21pc2F0aW9uUmVmcmVzaENhY2hlHwNlHwRoHwUBAAAfBmUfB2VkZAIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAgcPZBYGAgEPDxYCHwBlZGQCAw9kFgQCAg8PFgIfAAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfAAUXMTIvMDYvMjAyMCB0byA5LzA3LzIwMjBkZAIFDw8WBB4IR3JpZFR5cGUFDEVUUkFDS1NFQVJDSB4QR3JpZENyaXRlcmlhTGlzdDLgBAABAAAA%2F%2F%2F%2F%2FwEAAAAAAAAADAIAAABQVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLCBWZXJzaW9uPTEwLjQuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwEAQAAAJwBU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhLCBUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMsIFZlcnNpb249MTAuNC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbF1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAAnVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYVtdAgAAAAgICQMAAAABAAAAAQAAAAcDAAAAAAEAAAAEAAAABCVUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhAgAAAAkEAAAADQMFBAAAACVUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhBQAAAAdtc1ZhbHVlCG1zVmFsdWUyDm1zT3BlcmF0b3JDb2RlCm1zQ29sdW1uSWQObXNQcm9wZXJ0eU5hbWUBAQEBAQIAAAAGBQAAAAoxMi8wNi8yMDIwBgYAAAAVOS8wNy8yMDIwIDExOjU5OjU5IFBNBgcAAAACREIGCAAAAA1Mb2RnZW1lbnREYXRlCQgAAAALZBYCZg9kFgQCAQ9kFgQCAQ8PFgIfAAUtQ2xpY2sgaGVyZSB0byBvcGVuIENpIGFuZCBjdXN0b21pc2UgdGhpcyBncmlkZGQCAw8PFgIfAAUJR3JpZCBUeXBlZGQCAw8PFgIfCGhkFgICAQ8PFgIfAAUcTm8gaW5mb3JtYXRpb24gaXMgYXZhaWxhYmxlLmRkGAMFQ2N0bDAwJENvbnRlbnQkY3VzUmVzdWx0c0dyaWQkcmVwV2ViR3JpZCRjdGwwMCRncmRXZWJHcmlkVGFidWxhclZpZXcPPCsACgEIAgVkBUBjdGwwMCRDb250ZW50JGN1c1Jlc3VsdHNHcmlkJHJlcFdlYkdyaWQkY3RsMDAkZHR2V2ViR3JpZExpc3RWaWV3DxQrAAdkZGRkZBYAAj5kBRxjdGwwMCRDb250ZW50JGxibFNlYXJjaERhdGVzD2hkXaIdYKku4ny8UMQ3JgIw24bXY%2Bs%3D&__VIEWSTATEGENERATOR=794B1E1F&__EVENTVALIDATION=%2FwEWLQK2jIGEAQK359HKDwL38%2BS0BQLD0Z%2F%2FCAKDjpzeCAKCqYWLDgK%2B1pGjDgLurtn5CALsuJ7pAgLkoYWSBQLJuOf8CgKDooWSBQLouOf8CgKapIWSBQL%2Fuuf8CgLBooWSBQKmuef8CgLgooWSBQLFuef8CgL%2FooWSBQLkuef8CgKGoYWSBQLrt%2Bf8CgKtn4WSBQKStuf8CgKeo5nNBAKDuvu3CgLFoZnNBAKquPu3CgLkoZnNBALJuPu3CgKDopnNBALouPu3CgKapJnNBAL%2Fuvu3CgLBopnNBAKmufu3CgLgopnNBALFufu3CgKa4Pf0BAKa4Iv0BAKa4J%2F0BAKa4JP0BAK%2Fg8WMCQKjmJfRCgIX63xOB2Sv2Pqp5R45eMcFlQLl&__EVENTTARGET=ctl00%24Content%24cusResultsGrid%24repWebGrid%24ctl00%24grdWebGridTabularView&__EVENTARGUMENT=Page%242
+      string: __VIEWSTATE=%2FwEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIDD2QWBAIED2QWBAIBD2QWAmYPZBYEAgEPZBYCZg9kFgJmDw8WEB4EVGV4dAUJRWRpdCBNb2RlHgtDb21tYW5kTmFtZQUEVGFzax4PQ29tbWFuZEFyZ3VtZW50BRpQMUVQUkN1c3RvbWlzYXRpb25FZGl0TW9kZR4JQWNjZXNzS2V5ZR4QQ2F1c2VzVmFsaWRhdGlvbmgeCFRhYkluZGV4AQAAHgdUb29sVGlwZR4PVmFsaWRhdGlvbkdyb3VwZWRkAgIPZBYCZg9kFgJmDw8WEB8ABQ1SZWZyZXNoIENhY2hlHwEFBFRhc2sfAgUeUDFFUFJDdXN0b21pc2F0aW9uUmVmcmVzaENhY2hlHwNlHwRoHwUBAAAfBmUfB2VkZAIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAgcPZBYGAgEPDxYCHwBlZGQCAw9kFgQCAg8PFgIfAAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfAAUYMTEvMDgvMjAyMyB0byAwNy8wOS8yMDIzZGQCBQ8PFgQeCEdyaWRUeXBlBQxFVFJBQ0tTRUFSQ0geEEdyaWRDcml0ZXJpYUxpc3Qy7QQAAQAAAP%2F%2F%2F%2F8BAAAAAAAAAAwCAAAAUFQxLlAxLldlYi5PYmplY3RBZGFwdGVycywgVmVyc2lvbj0xMC40LjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBAEAAACcAVN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkxpc3RgMVtbVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYSwgVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLCBWZXJzaW9uPTEwLjQuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGxdXQMAAAAGX2l0ZW1zBV9zaXplCF92ZXJzaW9uBAAAJ1QxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWFbXQIAAAAICAkDAAAAAQAAAAEAAAAHAwAAAAABAAAABAAAAAQlVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYQIAAAAJBAAAAA0DBQQAAAAlVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYQUAAAAHbXNWYWx1ZQhtc1ZhbHVlMg5tc09wZXJhdG9yQ29kZQptc0NvbHVtbklkDm1zUHJvcGVydHlOYW1lAQEBAQECAAAABgUAAAAWMTEvMDgvMjAyMyAxMjowMDowMCBBTQYGAAAAFjA3LzA5LzIwMjMgMTE6NTk6NTkgUE0GBwAAAAJEQgYIAAAADUxvZGdlbWVudERhdGUJCAAAAAtkFgJmD2QWBAIBD2QWAgIBDw8WAh8ABQlHcmlkIFR5cGVkZAIDDw8WAh8IaGQWAgIBDw8WAh8ABRxObyBpbmZvcm1hdGlvbiBpcyBhdmFpbGFibGUuZGQYAwVDY3RsMDAkQ29udGVudCRjdXNSZXN1bHRzR3JpZCRyZXBXZWJHcmlkJGN0bDAwJGdyZFdlYkdyaWRUYWJ1bGFyVmlldw88KwAKAQgCA2QFQGN0bDAwJENvbnRlbnQkY3VzUmVzdWx0c0dyaWQkcmVwV2ViR3JpZCRjdGwwMCRkdHZXZWJHcmlkTGlzdFZpZXcPFCsAB2RkZGRkFgACK2QFHGN0bDAwJENvbnRlbnQkbGJsU2VhcmNoRGF0ZXMPaGQZmg9cIZJX7q%2FgGqcY24LwfWo9Gw%3D%3D&__VIEWSTATEGENERATOR=EA86C627&__EVENTVALIDATION=%2FwEWKgLGpJaQAgK359HKDwL38%2BS0BQLD0Z%2F%2FCAKDjpzeCAKCqYWLDgK%2B1pGjDgLurtn5CALkoYWSBQLJuOf8CgKDooWSBQLouOf8CgKapIWSBQL%2Fuuf8CgLBooWSBQKmuef8CgLgooWSBQLFuef8CgL%2FooWSBQLkuef8CgKGoYWSBQLrt%2Bf8CgKtn4WSBQKStuf8CgKeo5nNBAKDuvu3CgLFoZnNBAKquPu3CgLkoZnNBALJuPu3CgKDopnNBALouPu3CgKapJnNBAL%2Fuvu3CgLBopnNBAKmufu3CgLgopnNBALFufu3CgKa4Pf0BAKa4Iv0BAK%2Fg8WMCQKjmJfRCtMPxvpu4sLUGdgalkrXlj%2FHuT1D&__EVENTTARGET=ctl00%24Content%24cusResultsGrid%24repWebGrid%24ctl00%24grdWebGridTabularView&__EVENTARGUMENT=Page%242
     headers:
       Accept-Encoding:
       - gzip,deflate,identity
       Accept:
       - "*/*"
       User-Agent:
-      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      - Mechanize/2.7.7 Ruby/2.5.8p224 (http://github.com/sparklemotion/mechanize/)
       Accept-Charset:
       - ISO-8859-1,utf-8;q=0.7,*;q=0.7
       Accept-Language:
       - en-us,en;q=0.5
       Cookie:
-      - ASP.NET_SessionId=rf424g45omp4gdizr0h4ao55
+      - ASP.NET_SessionId=2cn1ay55yva4c455m3czvyyx
       Host:
-      - eservices.fremantle.wa.gov.au
+      - fremantle-web.t1cloud.com
       Referer:
-      - https://eservices.fremantle.wa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=%24P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+      - https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=%24P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
       Content-Type:
       - application/x-www-form-urlencoded
       Content-Length:
-      - '2640'
+      - '2560'
       Connection:
       - keep-alive
       Keep-Alive:
@@ -278,241 +105,72 @@ http_interactions:
       code: 200
       message: OK
     headers:
+      Content-Type:
+      - text/html; charset=utf-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Vary:
+      - Accept-Encoding
+      Date:
+      - Thu, 07 Sep 2023 03:38:58 GMT
       Cache-Control:
       - no-cache, no-store
       Pragma:
       - no-cache
-      Content-Type:
-      - text/html; charset=utf-8
       Expires:
       - "-1"
       Server:
       - Microsoft-IIS/10.0
       X-Aspnet-Version:
       - 2.0.50727
-      X-Powered-By:
-      - ASP.NET
-      Date:
-      - Thu, 09 Jul 2020 04:56:28 GMT
-      Content-Length:
-      - '22715'
+      Strict-Transport-Security:
+      - max-age=31536000; includeSubDomains; preload
+      X-Content-Type-Options:
+      - nosniff
+      Content-Encoding:
+      - gzip
+      X-Cache:
+      - Miss from cloudfront
+      Via:
+      - 1.1 8eb3faf3f05da0ac024b118287e8d2bc.cloudfront.net (CloudFront)
+      X-Amz-Cf-Pop:
+      - SYD1-C2
+      X-Amz-Cf-Id:
+      - _O_ISGniQJzLMx7YuLhYE-DZoe5qtKzEkXGKtEE0s3_IQptlBkj60Q==
     body:
-      encoding: UTF-8
-      string: "\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"
-        \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head><title>\r\n\tCity
-        of Fremantle - Submitted Last 28 Days\r\n</title><link href=\"../../App_Themes/COF/__MACOSX/._Default.css\"
-        type=\"text/css\" rel=\"stylesheet\" /><link href=\"../../App_Themes/COF/Default.css\"
-        type=\"text/css\" rel=\"stylesheet\" /></head>\r\n<body>\r\n<script type=\"text/javascript\"
-        src=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js\"></script> \r\n
-        \   <form name=\"aspnetForm\" method=\"post\" action=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;f=%24P1.ETR.SEARCH.SL28&amp;r=P1.WEBGUEST\"
-        id=\"aspnetForm\">\r\n<div>\r\n<input type=\"hidden\" name=\"__VIEWSTATE\"
-        id=\"__VIEWSTATE\" value=\"/wEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIDD2QWBAIED2QWAgIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAgcPZBYGAgEPDxYCHgRUZXh0ZWRkAgMPDxYCHghFZGl0TW9kZWhkFgQCAg8PFgIfBAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfBAUXMTIvMDYvMjAyMCB0byA5LzA3LzIwMjBkZAIFDw8WBh4IR3JpZFR5cGUFDEVUUkFDS1NFQVJDSB4QR3JpZENyaXRlcmlhTGlzdDLgBAABAAAA/////wEAAAAAAAAADAIAAABQVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLCBWZXJzaW9uPTEwLjQuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwEAQAAAJwBU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhLCBUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMsIFZlcnNpb249MTAuNC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbF1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAAnVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYVtdAgAAAAgICQMAAAABAAAAAQAAAAcDAAAAAAEAAAAEAAAABCVUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhAgAAAAkEAAAADQMFBAAAACVUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhBQAAAAdtc1ZhbHVlCG1zVmFsdWUyDm1zT3BlcmF0b3JDb2RlCm1zQ29sdW1uSWQObXNQcm9wZXJ0eU5hbWUBAQEBAQIAAAAGBQAAAAoxMi8wNi8yMDIwBgYAAAAVOS8wNy8yMDIwIDExOjU5OjU5IFBNBgcAAAACREIGCAAAAA1Mb2RnZW1lbnREYXRlCQgAAAALHglQYWdlSW5kZXgCAWQWAmYPZBYEAgEPZBYEAgEPDxYCHwQFLUNsaWNrIGhlcmUgdG8gb3BlbiBDaSBhbmQgY3VzdG9taXNlIHRoaXMgZ3JpZGRkAgMPDxYCHwQFCUdyaWQgVHlwZWRkAgMPDxYCHwBoZBYCAgEPDxYCHwQFHE5vIGluZm9ybWF0aW9uIGlzIGF2YWlsYWJsZS5kZBgDBUNjdGwwMCRDb250ZW50JGN1c1Jlc3VsdHNHcmlkJHJlcFdlYkdyaWQkY3RsMDAkZ3JkV2ViR3JpZFRhYnVsYXJWaWV3DzwrAAoCAgIBCAIFZAVAY3RsMDAkQ29udGVudCRjdXNSZXN1bHRzR3JpZCRyZXBXZWJHcmlkJGN0bDAwJGR0dldlYkdyaWRMaXN0Vmlldw8UKwAHZGRkZGQWAAI+ZAUcY3RsMDAkQ29udGVudCRsYmxTZWFyY2hEYXRlcw9oZI3tiVjasYBrMpaNHpzvegElLg4c\"
-        />\r\n</div>\r\n\r\n<div>\r\n\r\n\t<input type=\"hidden\" name=\"__VIEWSTATEGENERATOR\"
-        id=\"__VIEWSTATEGENERATOR\" value=\"794B1E1F\" />\r\n\t<input type=\"hidden\"
-        name=\"__EVENTVALIDATION\" id=\"__EVENTVALIDATION\" value=\"/wEWLQLvqOCtDQK359HKDwL38+S0BQLD0Z//CAKDjpzeCAKCqYWLDgK+1pGjDgLurtn5CALsuJ7pAgLkoYWSBQLJuOf8CgKDooWSBQLouOf8CgKapIWSBQL/uuf8CgLBooWSBQKmuef8CgLgooWSBQLFuef8CgL/ooWSBQLkuef8CgKGoYWSBQLrt+f8CgKtn4WSBQKStuf8CgKeo5nNBAKDuvu3CgLFoZnNBAKquPu3CgLkoZnNBALJuPu3CgKDopnNBALouPu3CgKapJnNBAL/uvu3CgLBopnNBAKmufu3CgLgopnNBALFufu3CgKa4IP0BAKa4Iv0BAKa4J/0BAKa4JP0BAK/g8WMCQKjmJfRCh+IWMKjlmezsMaAZi4KGyqG0/z5\"
-        />\r\n</div>\r\n        <div id=\"cssBounds\">\r\n            <div id=\"cssBanner\"
-        >\r\n                    <!-- Login -->\r\n                    <div class=\"speciallink\">\r\n
-        \                       <!--\r\n                        \r\n                            <span
-        class=\"Login\">\r\n                                <a id=\"ctl00_ctlLogin_cmdLogin\"
-        accesskey=\"L\" title=\"Access Key: L\" href=\"javascript:__doPostBack('ctl00$ctlLogin$cmdLogin','')\">Login</a>
-        \                               \r\n                             </span>\r\n
-        \                           \r\n                     </div>\r\n                    <!--
-        End Login --> \r\n                <div id=\"cssBannerLogo\">\r\n                    <a
-        href=\"http://eservices.fremantle.wa.gov.au/T1PRProd/WebApps/eProperty/P1/GuestHome.aspx?r=P1.WEBGUEST&f=%24P1.EPR.GUESTHME.VIW\"
-        id=\"ctl00_cmdHomeNav\">\r\n                        <img src=\"../../App_Themes/Default/Images/Empty.gif\"
-        id=\"ctl00_imageHomeNav\" border=\"0\" class=\"homeNav\" />\r\n                    </a>\r\n
-        \               </div>\r\n            </div>\r\n            <div class=\"clear\"></div>\r\n
-        \           <div id=\"cssContentArea\">\r\n                <div id=\"cssTaskpane\"
-        \ class = \"cssNoPrint\">\r\n                    \r\n                    <div>\r\n
-        \                       \r\n                                <div class=\"menuPanel\">\r\n
-        \                           \r\n                                <div class=\"menuHeader\">\r\n
-        \                                   <span id=\"ctl00_Taskpane_rprMenuList_ctl01_lblMenuGroupHeader\">Online
-        payments</span>\r\n                                </div>\r\n                                <ul
-        class=\"menuGroupList\">\r\n\t<li><a href=\"../ePay/DebtorPayment.aspx?r=P1.WEBGUEST&amp;f=P1.EPY.DEBTORS.ENQ\">Debtor
-        payment</a></li><li><a href=\"../ePay/ApplicationPayment.aspx?r=P1.WEBGUEST&amp;f=P1.EPY.APPS.ENQ\">Invoice
-        payment</a></li><li><a href=\"../ePay/InfringementPayment.aspx?r=P1.WEBGUEST&amp;f=P1.EPY.INFRINGE.ENQ\">Pay
-        an infringement</a></li><li><a href=\"../ePay/RatesPayment.aspx?r=P1.WEBGUEST&amp;f=P1.EPY.RATES.ENQ\">Pay
-        your council rates</a></li>\r\n</ul>\r\n                                <br
-        />\r\n                            \r\n                                <div
-        class=\"menuHeader\">\r\n                                    <span id=\"ctl00_Taskpane_rprMenuList_ctl02_lblMenuGroupHeader\">Online
-        requests</span>\r\n                                </div>\r\n                                <ul
-        class=\"menuGroupList\">\r\n\t<li><a href=\"../eRequest/CategorySelection.aspx?r=P1.WEBGUEST&amp;f=P1.ECR.SELCAT.VIW\">Request
-        a service</a></li>\r\n</ul>\r\n                                <br />\r\n
-        \                           \r\n                                <div class=\"menuHeader\">\r\n
-        \                                   <span id=\"ctl00_Taskpane_rprMenuList_ctl03_lblMenuGroupHeader\">Application
-        tracking</span>\r\n                                </div>\r\n                                <ul
-        class=\"menuGroupList\">\r\n\t<li><a href=\"eTrackApplicationSearch.aspx?r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.ENQ\">Application
-        Search</a></li>\r\n</ul>\r\n                                <br />\r\n                            \r\n
-        \                               </div>\r\n                            \r\n
-        \                       \r\n                    </div>\r\n                            \r\n
-        \               </div>\r\n                \r\n                <div id=\"cssTaskpaneRelatedLinks\"
-        \ class= \"cssNoPrint\">\r\n                    \r\n                        <div
-        id=\"ctl00_RightTaskPane_tspRelatedLinks\" class=\"taskPanel\">\r\n<div class=\"taskHeader\">Related
-        Links</div>\r\n<ul>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.STW\">Submitted
-        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SLW\">Submitted
-        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.STM\">Submitted
-        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SLM\">Submitted
-        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L7&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL7\">Submitted
-        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L14&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL14\">Submitted
-        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL28\">Submitted
-        Last 28 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DTW\">Determined
-        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DLW\">Determined
-        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DTM\">Determined
-        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DLM\">Determined
-        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L7&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL7\">Determined
-        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L14&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL14\">Determined
-        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L28&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL28\">Determined
-        Last 28 Days</a></li>\r\n</ul>\r\n<div class=\"taskFooter\">&nbsp;</div>\r\n</div>\r\n\r\n
-        \                       \r\n                    \r\n                    \r\n
-        \                   <div id=\"cssHelpAndAdmin\">\r\n                        \r\n
-        \   \r\n    \r\n\r\n                    </div>\r\n                </div>\r\n
-        \                               \r\n                <div id=\"cssContent\">\r\n
-        \               <div class=\"cssContentWorkspace\">\r\n                    <a
-        id=\"cssContentTop\"></a>\r\n                    \r\n                        <h1
-        id=\"ctl00_Header_h1PageTitle\">Submitted Last 28 Days</h1>\r\n                    \r\n
-        \                   \r\n                    \r\n                              \r\n
-        \                   \r\n    \r\n    <span id=\"ctl00_Content_cusETrackApplicationSearchResults\"
-        style=\"display:inline-block;width:100%;\"></span>\r\n    <br />\r\n    \r\n
-        \   <span id=\"ctl00_Content_lblSearchDates\" class=\"block\"><span id=\"ctl00_Content_lblFieldNameP1ETRSearchDates\"
-        class=\"fieldLabel\">Search Dates</span><span id=\"ctl00_Content_lblFieldValueP1ETRSearchDates\"
-        class=\"fieldLabel\">12/06/2020 to 9/07/2020</span></span>\r\n    \r\n    <div
-        id=\"ctl00_Content_cusResultsGrid_pnlCustomisationGrid\">\r\n\t\r\n    \r\n
-        \   \r\n    \r\n            <div id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_pnlSectionHeading\">\r\n\t\t\r\n
-        \               <span id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_lblSectionHeading\"
-        class=\"sectionHeading\">Application Search Results</span>\r\n                                <br
-        />\r\n                <img id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_imgSectionSeparator\"
-        Class=\"sectionSeparator\" src=\"../../App_Themes/COF/Images/HalfSeperator.gif\"
-        alt=\"\" style=\"height:2px;width:50%;border-width:0px;\" />\r\n            \r\n\t</div>\r\n
-        \r\n            \r\n\r\n            <div>\r\n\t\t<table class=\"grid\" cellspacing=\"0\"
-        cellpadding=\"3\" rules=\"cols\" border=\"1\" id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_grdWebGridTabularView\"
-        style=\"width:100%;border-collapse:collapse;\">\r\n\t\t\t<tr class=\"headerRow\">\r\n\t\t\t\t<th
-        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$RamId')\">Application
-        Link</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$LodgementDate')\">Lodgement
-        Date</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$Description')\">Description</a></th><th
-        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$PrimaryGroupDescription')\">Group
-        Description</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$PrimaryCategoryDescription')\">Category
-        Description</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$FormattedAddress')\">Formatted
-        Address</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$ApplicantNames')\">Applicant
-        Names</a></th>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl02','')\">DA0209/20</a></td><td>19/06/2020</td><td>Signage
-        to existing Building</td><td>Planning Applications</td><td>Miscellaneous Development
-        Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl03','')\">18
-        Adelaide Street FREMANTLE WA 6160</a></td><td>Takeshi Kawamura</td>\r\n\t\t\t</tr><tr
-        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl02','')\">DA0210/20</a></td><td>22/06/2020</td><td>Two
-        Storey Grouped dwelling</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl03','')\">156
-        Samson Street WHITE GUM VALLEY WA 6162</a></td><td>Tom Freeman</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl04$ctl02','')\">DA0211/20</a></td><td>22/06/2020</td><td>Ancillary
-        Dwelling addition to existing Single house</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl04$ctl03','')\">75
-        Hope Street WHITE GUM VALLEY WA 6162</a></td><td>George Shi</td>\r\n\t\t\t</tr><tr
-        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl05$ctl02','')\">DA0212/20</a></td><td>22/06/2020</td><td>Single
-        Storey Single House</td><td>Planning Applications</td><td>Miscellaneous Development
-        Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl05$ctl03','')\">4A
-        Griffiths Place HILTON WA 6163</a></td><td> The Little House Co</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl06$ctl02','')\">DA0213/20</a></td><td>22/06/2020</td><td>Balcony
-        addition to existing Grouped dwelling</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl06$ctl03','')\">11A
-        John Street NORTH FREMANTLE WA 6159</a></td><td> Elite Compliance</td>\r\n\t\t\t</tr><tr
-        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl07$ctl02','')\">DA0214/20</a></td><td>23/06/2020</td><td>Additions
-        to existing Single House</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl07$ctl03','')\">56
-        Nicholas Crescent HILTON WA 6163</a></td><td>Joel Lewis Byford</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl08$ctl02','')\">DA0215/20</a></td><td>23/06/2020</td><td>Ancillary
-        Dwelling addition to existing Single House</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl08$ctl03','')\">15
-        Hulbert Street SOUTH FREMANTLE WA 6162</a></td><td> Summit Homes Group</td>\r\n\t\t\t</tr><tr
-        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl09$ctl02','')\">DA0216/20</a></td><td>23/06/2020</td><td>Retaining
-        Wall to Existing House</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl09$ctl03','')\">8
-        Taylor Street WHITE GUM VALLEY WA 6162</a></td><td> Kellett Design Group</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl10$ctl02','')\">DA0217/20</a></td><td>23/06/2020</td><td>Alterations
-        and Additions to Existing Building and Change use to Tavern</td><td>Planning
-        Applications</td><td>Miscellaneous Development Application Category</td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl10$ctl03','')\">45
-        Henderson Street FREMANTLE WA 6160</a></td><td> Slavin Architects Pty Ltd</td>\r\n\t\t\t</tr><tr
-        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl11$ctl02','')\">DA0218/20</a></td><td>24/06/2020</td><td>Front
-        Fence alterations</td><td>Planning Applications</td><td>Miscellaneous Development
-        Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl11$ctl03','')\">Johnson
-        Court 1-912/23 Adelaide Street FREMANTLE WA 6160</a></td><td> ESM Strata</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl12$ctl02','')\">DA0219/20</a></td><td>24/06/2020</td><td>Additions
-        and alterations to existing Grouped dwelling</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl12$ctl03','')\">5
-        Howson Street HILTON WA 6163</a></td><td>Tristan Bergin</td>\r\n\t\t\t</tr><tr
-        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl13$ctl02','')\">DA0220/20</a></td><td>26/06/2020</td><td>Retrospective
-        approval for unauthorised primary street and boundary fences</td><td>Planning
-        Applications</td><td>Miscellaneous Development Application Category</td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl13$ctl03','')\">32
-        Douro Road SOUTH FREMANTLE WA 6162</a></td><td>Simon Benedict Lane</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl14$ctl02','')\">DA0221/20</a></td><td>26/06/2020</td><td>Rear
-        additions and alterations to existing Grouped dwelling</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl14$ctl03','')\">153
-        Hampton Road SOUTH FREMANTLE WA 6162</a></td><td>Stephanie Kate Rush</td>\r\n\t\t\t</tr><tr
-        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl15$ctl02','')\">DA0222/20</a></td><td>26/06/2020</td><td>Internal
-        mezzanine alterations to existing Grouped dwelling</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl15$ctl03','')\">77B
-        Thompson Road NORTH FREMANTLE WA 6159</a></td><td> Inhouse Building Design</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl16$ctl02','')\">DA0223/20</a></td><td>29/06/2020</td><td>Addition
-        to existing Single house</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl16$ctl03','')\">9
-        Stirling Highway NORTH FREMANTLE WA 6159</a></td><td> DKSW Pty Ltd</td>\r\n\t\t\t</tr><tr
-        class=\"pagerRow\">\r\n\t\t\t\t<td colspan=\"7\"><table border=\"0\">\r\n\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t<td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$1')\">1</a></td><td><span>2</span></td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$3')\">3</a></td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$4')\">4</a></td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$5')\">5</a></td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table></td>\r\n\t\t\t</tr>\r\n\t\t</table>\r\n\t</div>\r\n
-        \           \r\n            <br />\r\n            \r\n            \r\n            \r\n
-        \       \r\n\r\n</div>\r\n\r\n\r\n\r\n\r\n\r\n    \r\n    <div class=\"actionButtonsLeft\">\r\n
-        \       <input type=\"submit\" name=\"ctl00$Content$btnPrevious\" value=\"&lt;
-        Previous\" id=\"ctl00_Content_btnPrevious\" accesskey=\"P\" title=\"Access
-        Key: P\" class=\"button\" />\r\n    </div>\r\n\r\n\r\n                    <div
-        class=\"clear\"></div>\r\n                    <br />\r\n                    <br
-        />\r\n                    <br />\r\n                </div>\r\n                </div>\r\n
-        \           </div>\r\n            <p></p>\r\n            <p class=\"invisible\"></p>\r\n
-        \           <div id=\"cssBottomBar\" class=\"cssNoPrint\">\r\n                <div
-        id=\"cssBottomBarLegal\">                 \r\n                    <a id=\"ctl00_hplCustomFooterLink1\"
-        href=\"https://www.fremantle.wa.gov.au/council/about-city-fremantle/website-privacy\">Privacy</a>\r\n
-        \                   <img id=\"ctl00_imgFooterSeparator1\" class=\"verticalBar\"
-        src=\"../../App_Themes/COF/Images/VerticalBarBlack.gif\" alt=\"\" style=\"height:10px;width:1px;border-width:0px;\"
-        />\r\n                    <a id=\"ctl00_hplCustomFooterLink2\" href=\"https://www.fremantle.wa.gov.au/council/about-city-fremantle/disclaimer\">Terms
-        of Use</a>\r\n                    <img id=\"ctl00_imgFooterSeparator2\" class=\"verticalBar\"
-        src=\"../../App_Themes/COF/Images/VerticalBarBlack.gif\" alt=\"\" style=\"height:10px;width:1px;border-width:0px;\"
-        />\r\n                    <a id=\"ctl00_hplCustomFooterLink3\" href=\"https://www.fremantle.wa.gov.au/i-want-to/contact-city\">Contact
-        Us</a>                       \r\n                    <span id=\"ctl00_MobileLink\">\r\n
-        \                       <img id=\"ctl00_Image1\" class=\"verticalBar\" src=\"../../App_Themes/COF/Images/VerticalBarBlack.gif\"
-        alt=\"\" style=\"height:10px;width:1px;border-width:0px;\" />\r\n                        <a
-        id=\"ctl00_hplMobileView\" href=\"javascript:__doPostBack('ctl00$hplMobileView','')\">Mobile
-        View</a>                       \r\n                    </span>\r\n                </div>\r\n
-        \               <div id=\"cssBottomBarCopyright\">&copy; Technology One Limited
-        2020</div>\r\n            </div>\r\n            \r\n        </div>\r\n    </form>\r\n</body>\r\n</html>\r\n"
-    http_version: 
+      encoding: ASCII-8BIT
+      string: !binary |-
+        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
   recorded_at: Tue, 14 May 2019 14:00:00 GMT
 - request:
     method: post
-    uri: https://eservices.fremantle.wa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=$P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+    uri: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=$P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
     body:
       encoding: UTF-8
-      string: __VIEWSTATE=%2FwEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIDD2QWBAIED2QWAgIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAgcPZBYGAgEPDxYCHgRUZXh0ZWRkAgMPDxYCHghFZGl0TW9kZWhkFgQCAg8PFgIfBAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfBAUXMTIvMDYvMjAyMCB0byA5LzA3LzIwMjBkZAIFDw8WBh4IR3JpZFR5cGUFDEVUUkFDS1NFQVJDSB4QR3JpZENyaXRlcmlhTGlzdDLgBAABAAAA%2F%2F%2F%2F%2FwEAAAAAAAAADAIAAABQVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLCBWZXJzaW9uPTEwLjQuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwEAQAAAJwBU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhLCBUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMsIFZlcnNpb249MTAuNC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbF1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAAnVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYVtdAgAAAAgICQMAAAABAAAAAQAAAAcDAAAAAAEAAAAEAAAABCVUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhAgAAAAkEAAAADQMFBAAAACVUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhBQAAAAdtc1ZhbHVlCG1zVmFsdWUyDm1zT3BlcmF0b3JDb2RlCm1zQ29sdW1uSWQObXNQcm9wZXJ0eU5hbWUBAQEBAQIAAAAGBQAAAAoxMi8wNi8yMDIwBgYAAAAVOS8wNy8yMDIwIDExOjU5OjU5IFBNBgcAAAACREIGCAAAAA1Mb2RnZW1lbnREYXRlCQgAAAALHglQYWdlSW5kZXgCAWQWAmYPZBYEAgEPZBYEAgEPDxYCHwQFLUNsaWNrIGhlcmUgdG8gb3BlbiBDaSBhbmQgY3VzdG9taXNlIHRoaXMgZ3JpZGRkAgMPDxYCHwQFCUdyaWQgVHlwZWRkAgMPDxYCHwBoZBYCAgEPDxYCHwQFHE5vIGluZm9ybWF0aW9uIGlzIGF2YWlsYWJsZS5kZBgDBUNjdGwwMCRDb250ZW50JGN1c1Jlc3VsdHNHcmlkJHJlcFdlYkdyaWQkY3RsMDAkZ3JkV2ViR3JpZFRhYnVsYXJWaWV3DzwrAAoCAgIBCAIFZAVAY3RsMDAkQ29udGVudCRjdXNSZXN1bHRzR3JpZCRyZXBXZWJHcmlkJGN0bDAwJGR0dldlYkdyaWRMaXN0Vmlldw8UKwAHZGRkZGQWAAI%2BZAUcY3RsMDAkQ29udGVudCRsYmxTZWFyY2hEYXRlcw9oZI3tiVjasYBrMpaNHpzvegElLg4c&__VIEWSTATEGENERATOR=794B1E1F&__EVENTVALIDATION=%2FwEWLQLvqOCtDQK359HKDwL38%2BS0BQLD0Z%2F%2FCAKDjpzeCAKCqYWLDgK%2B1pGjDgLurtn5CALsuJ7pAgLkoYWSBQLJuOf8CgKDooWSBQLouOf8CgKapIWSBQL%2Fuuf8CgLBooWSBQKmuef8CgLgooWSBQLFuef8CgL%2FooWSBQLkuef8CgKGoYWSBQLrt%2Bf8CgKtn4WSBQKStuf8CgKeo5nNBAKDuvu3CgLFoZnNBAKquPu3CgLkoZnNBALJuPu3CgKDopnNBALouPu3CgKapJnNBAL%2Fuvu3CgLBopnNBAKmufu3CgLgopnNBALFufu3CgKa4IP0BAKa4Iv0BAKa4J%2F0BAKa4JP0BAK%2Fg8WMCQKjmJfRCh%2BIWMKjlmezsMaAZi4KGyqG0%2Fz5&__EVENTTARGET=ctl00%24Content%24cusResultsGrid%24repWebGrid%24ctl00%24grdWebGridTabularView&__EVENTARGUMENT=Page%243
+      string: __VIEWSTATE=%2FwEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIDD2QWBAIED2QWAgIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAgcPZBYGAgEPDxYCHgRUZXh0ZWRkAgMPDxYCHghFZGl0TW9kZWhkFgQCAg8PFgIfBAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfBAUYMTEvMDgvMjAyMyB0byAwNy8wOS8yMDIzZGQCBQ8PFgYeCEdyaWRUeXBlBQxFVFJBQ0tTRUFSQ0geEEdyaWRDcml0ZXJpYUxpc3Qy7QQAAQAAAP%2F%2F%2F%2F8BAAAAAAAAAAwCAAAAUFQxLlAxLldlYi5PYmplY3RBZGFwdGVycywgVmVyc2lvbj0xMC40LjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBAEAAACcAVN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkxpc3RgMVtbVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYSwgVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLCBWZXJzaW9uPTEwLjQuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGxdXQMAAAAGX2l0ZW1zBV9zaXplCF92ZXJzaW9uBAAAJ1QxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWFbXQIAAAAICAkDAAAAAQAAAAEAAAAHAwAAAAABAAAABAAAAAQlVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYQIAAAAJBAAAAA0DBQQAAAAlVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYQUAAAAHbXNWYWx1ZQhtc1ZhbHVlMg5tc09wZXJhdG9yQ29kZQptc0NvbHVtbklkDm1zUHJvcGVydHlOYW1lAQEBAQECAAAABgUAAAAWMTEvMDgvMjAyMyAxMjowMDowMCBBTQYGAAAAFjA3LzA5LzIwMjMgMTE6NTk6NTkgUE0GBwAAAAJEQgYIAAAADUxvZGdlbWVudERhdGUJCAAAAAseCVBhZ2VJbmRleAIBZBYCZg9kFgQCAQ9kFgICAQ8PFgIfBAUJR3JpZCBUeXBlZGQCAw8PFgIfAGhkFgICAQ8PFgIfBAUcTm8gaW5mb3JtYXRpb24gaXMgYXZhaWxhYmxlLmRkGAMFQ2N0bDAwJENvbnRlbnQkY3VzUmVzdWx0c0dyaWQkcmVwV2ViR3JpZCRjdGwwMCRncmRXZWJHcmlkVGFidWxhclZpZXcPPCsACgICAgEIAgNkBUBjdGwwMCRDb250ZW50JGN1c1Jlc3VsdHNHcmlkJHJlcFdlYkdyaWQkY3RsMDAkZHR2V2ViR3JpZExpc3RWaWV3DxQrAAdkZGRkZBYAAitkBRxjdGwwMCRDb250ZW50JGxibFNlYXJjaERhdGVzD2hkQOJRUk7Bs307Z%2B6nkp6iKt30Ldc%3D&__VIEWSTATEGENERATOR=EA86C627&__EVENTVALIDATION=%2FwEWKgK2u%2FrZAwK359HKDwL38%2BS0BQLD0Z%2F%2FCAKDjpzeCAKCqYWLDgK%2B1pGjDgLurtn5CALkoYWSBQLJuOf8CgKDooWSBQLouOf8CgKapIWSBQL%2Fuuf8CgLBooWSBQKmuef8CgLgooWSBQLFuef8CgL%2FooWSBQLkuef8CgKGoYWSBQLrt%2Bf8CgKtn4WSBQKStuf8CgKeo5nNBAKDuvu3CgLFoZnNBAKquPu3CgLkoZnNBALJuPu3CgKDopnNBALouPu3CgKapJnNBAL%2Fuvu3CgLBopnNBAKmufu3CgLgopnNBALFufu3CgKa4IP0BAKa4Iv0BAK%2Fg8WMCQKjmJfRCg3kPz%2BhSy1ZHxlUrzxjsiskNF3S&__EVENTTARGET=ctl00%24Content%24cusResultsGrid%24repWebGrid%24ctl00%24grdWebGridTabularView&__EVENTARGUMENT=Page%243
     headers:
       Accept-Encoding:
       - gzip,deflate,identity
       Accept:
       - "*/*"
       User-Agent:
-      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      - Mechanize/2.7.7 Ruby/2.5.8p224 (http://github.com/sparklemotion/mechanize/)
       Accept-Charset:
       - ISO-8859-1,utf-8;q=0.7,*;q=0.7
       Accept-Language:
       - en-us,en;q=0.5
       Cookie:
-      - ASP.NET_SessionId=rf424g45omp4gdizr0h4ao55
+      - ASP.NET_SessionId=2cn1ay55yva4c455m3czvyyx
       Host:
-      - eservices.fremantle.wa.gov.au
+      - fremantle-web.t1cloud.com
       Referer:
-      - https://eservices.fremantle.wa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=%24P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+      - https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=%24P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
       Content-Type:
       - application/x-www-form-urlencoded
       Content-Length:
-      - '2318'
+      - '2236'
       Connection:
       - keep-alive
       Keep-Alive:
@@ -522,651 +180,43 @@ http_interactions:
       code: 200
       message: OK
     headers:
-      Cache-Control:
-      - no-cache, no-store
-      Pragma:
-      - no-cache
       Content-Type:
       - text/html; charset=utf-8
-      Expires:
-      - "-1"
-      Server:
-      - Microsoft-IIS/10.0
-      X-Aspnet-Version:
-      - 2.0.50727
-      X-Powered-By:
-      - ASP.NET
-      Date:
-      - Thu, 09 Jul 2020 04:56:30 GMT
-      Content-Length:
-      - '22676'
-    body:
-      encoding: UTF-8
-      string: "\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"
-        \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head><title>\r\n\tCity
-        of Fremantle - Submitted Last 28 Days\r\n</title><link href=\"../../App_Themes/COF/__MACOSX/._Default.css\"
-        type=\"text/css\" rel=\"stylesheet\" /><link href=\"../../App_Themes/COF/Default.css\"
-        type=\"text/css\" rel=\"stylesheet\" /></head>\r\n<body>\r\n<script type=\"text/javascript\"
-        src=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js\"></script> \r\n
-        \   <form name=\"aspnetForm\" method=\"post\" action=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;f=%24P1.ETR.SEARCH.SL28&amp;r=P1.WEBGUEST\"
-        id=\"aspnetForm\">\r\n<div>\r\n<input type=\"hidden\" name=\"__VIEWSTATE\"
-        id=\"__VIEWSTATE\" value=\"/wEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIDD2QWBAIED2QWAgIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAgcPZBYGAgEPDxYCHgRUZXh0ZWRkAgMPDxYCHghFZGl0TW9kZWhkFgQCAg8PFgIfBAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfBAUXMTIvMDYvMjAyMCB0byA5LzA3LzIwMjBkZAIFDw8WBh4IR3JpZFR5cGUFDEVUUkFDS1NFQVJDSB4QR3JpZENyaXRlcmlhTGlzdDLgBAABAAAA/////wEAAAAAAAAADAIAAABQVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLCBWZXJzaW9uPTEwLjQuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwEAQAAAJwBU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhLCBUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMsIFZlcnNpb249MTAuNC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbF1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAAnVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYVtdAgAAAAgICQMAAAABAAAAAQAAAAcDAAAAAAEAAAAEAAAABCVUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhAgAAAAkEAAAADQMFBAAAACVUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhBQAAAAdtc1ZhbHVlCG1zVmFsdWUyDm1zT3BlcmF0b3JDb2RlCm1zQ29sdW1uSWQObXNQcm9wZXJ0eU5hbWUBAQEBAQIAAAAGBQAAAAoxMi8wNi8yMDIwBgYAAAAVOS8wNy8yMDIwIDExOjU5OjU5IFBNBgcAAAACREIGCAAAAA1Mb2RnZW1lbnREYXRlCQgAAAALHglQYWdlSW5kZXgCAmQWAmYPZBYEAgEPZBYEAgEPDxYCHwQFLUNsaWNrIGhlcmUgdG8gb3BlbiBDaSBhbmQgY3VzdG9taXNlIHRoaXMgZ3JpZGRkAgMPDxYCHwQFCUdyaWQgVHlwZWRkAgMPDxYCHwBoZBYCAgEPDxYCHwQFHE5vIGluZm9ybWF0aW9uIGlzIGF2YWlsYWJsZS5kZBgDBUNjdGwwMCRDb250ZW50JGN1c1Jlc3VsdHNHcmlkJHJlcFdlYkdyaWQkY3RsMDAkZ3JkV2ViR3JpZFRhYnVsYXJWaWV3DzwrAAoCAgICCAIFZAVAY3RsMDAkQ29udGVudCRjdXNSZXN1bHRzR3JpZCRyZXBXZWJHcmlkJGN0bDAwJGR0dldlYkdyaWRMaXN0Vmlldw8UKwAHZGRkZGQWAAI+ZAUcY3RsMDAkQ29udGVudCRsYmxTZWFyY2hEYXRlcw9oZNvyb7uUm+OiwpPnxzeJ6KH/FDF7\"
-        />\r\n</div>\r\n\r\n<div>\r\n\r\n\t<input type=\"hidden\" name=\"__VIEWSTATEGENERATOR\"
-        id=\"__VIEWSTATEGENERATOR\" value=\"794B1E1F\" />\r\n\t<input type=\"hidden\"
-        name=\"__EVENTVALIDATION\" id=\"__EVENTVALIDATION\" value=\"/wEWLQLt56e1BgK359HKDwL38+S0BQLD0Z//CAKDjpzeCAKCqYWLDgK+1pGjDgLurtn5CALsuJ7pAgLkoYWSBQLJuOf8CgKDooWSBQLouOf8CgKapIWSBQL/uuf8CgLBooWSBQKmuef8CgLgooWSBQLFuef8CgL/ooWSBQLkuef8CgKGoYWSBQLrt+f8CgKtn4WSBQKStuf8CgKeo5nNBAKDuvu3CgLFoZnNBAKquPu3CgLkoZnNBALJuPu3CgKDopnNBALouPu3CgKapJnNBAL/uvu3CgLBopnNBAKmufu3CgLgopnNBALFufu3CgKa4IP0BAKa4Pf0BAKa4J/0BAKa4JP0BAK/g8WMCQKjmJfRCiDep0NhyeqKj95Tqqhb4PZHT8pG\"
-        />\r\n</div>\r\n        <div id=\"cssBounds\">\r\n            <div id=\"cssBanner\"
-        >\r\n                    <!-- Login -->\r\n                    <div class=\"speciallink\">\r\n
-        \                       <!--\r\n                        \r\n                            <span
-        class=\"Login\">\r\n                                <a id=\"ctl00_ctlLogin_cmdLogin\"
-        accesskey=\"L\" title=\"Access Key: L\" href=\"javascript:__doPostBack('ctl00$ctlLogin$cmdLogin','')\">Login</a>
-        \                               \r\n                             </span>\r\n
-        \                           \r\n                     </div>\r\n                    <!--
-        End Login --> \r\n                <div id=\"cssBannerLogo\">\r\n                    <a
-        href=\"http://eservices.fremantle.wa.gov.au/T1PRProd/WebApps/eProperty/P1/GuestHome.aspx?r=P1.WEBGUEST&f=%24P1.EPR.GUESTHME.VIW\"
-        id=\"ctl00_cmdHomeNav\">\r\n                        <img src=\"../../App_Themes/Default/Images/Empty.gif\"
-        id=\"ctl00_imageHomeNav\" border=\"0\" class=\"homeNav\" />\r\n                    </a>\r\n
-        \               </div>\r\n            </div>\r\n            <div class=\"clear\"></div>\r\n
-        \           <div id=\"cssContentArea\">\r\n                <div id=\"cssTaskpane\"
-        \ class = \"cssNoPrint\">\r\n                    \r\n                    <div>\r\n
-        \                       \r\n                                <div class=\"menuPanel\">\r\n
-        \                           \r\n                                <div class=\"menuHeader\">\r\n
-        \                                   <span id=\"ctl00_Taskpane_rprMenuList_ctl01_lblMenuGroupHeader\">Online
-        payments</span>\r\n                                </div>\r\n                                <ul
-        class=\"menuGroupList\">\r\n\t<li><a href=\"../ePay/DebtorPayment.aspx?r=P1.WEBGUEST&amp;f=P1.EPY.DEBTORS.ENQ\">Debtor
-        payment</a></li><li><a href=\"../ePay/ApplicationPayment.aspx?r=P1.WEBGUEST&amp;f=P1.EPY.APPS.ENQ\">Invoice
-        payment</a></li><li><a href=\"../ePay/InfringementPayment.aspx?r=P1.WEBGUEST&amp;f=P1.EPY.INFRINGE.ENQ\">Pay
-        an infringement</a></li><li><a href=\"../ePay/RatesPayment.aspx?r=P1.WEBGUEST&amp;f=P1.EPY.RATES.ENQ\">Pay
-        your council rates</a></li>\r\n</ul>\r\n                                <br
-        />\r\n                            \r\n                                <div
-        class=\"menuHeader\">\r\n                                    <span id=\"ctl00_Taskpane_rprMenuList_ctl02_lblMenuGroupHeader\">Online
-        requests</span>\r\n                                </div>\r\n                                <ul
-        class=\"menuGroupList\">\r\n\t<li><a href=\"../eRequest/CategorySelection.aspx?r=P1.WEBGUEST&amp;f=P1.ECR.SELCAT.VIW\">Request
-        a service</a></li>\r\n</ul>\r\n                                <br />\r\n
-        \                           \r\n                                <div class=\"menuHeader\">\r\n
-        \                                   <span id=\"ctl00_Taskpane_rprMenuList_ctl03_lblMenuGroupHeader\">Application
-        tracking</span>\r\n                                </div>\r\n                                <ul
-        class=\"menuGroupList\">\r\n\t<li><a href=\"eTrackApplicationSearch.aspx?r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.ENQ\">Application
-        Search</a></li>\r\n</ul>\r\n                                <br />\r\n                            \r\n
-        \                               </div>\r\n                            \r\n
-        \                       \r\n                    </div>\r\n                            \r\n
-        \               </div>\r\n                \r\n                <div id=\"cssTaskpaneRelatedLinks\"
-        \ class= \"cssNoPrint\">\r\n                    \r\n                        <div
-        id=\"ctl00_RightTaskPane_tspRelatedLinks\" class=\"taskPanel\">\r\n<div class=\"taskHeader\">Related
-        Links</div>\r\n<ul>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.STW\">Submitted
-        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SLW\">Submitted
-        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.STM\">Submitted
-        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SLM\">Submitted
-        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L7&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL7\">Submitted
-        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L14&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL14\">Submitted
-        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL28\">Submitted
-        Last 28 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DTW\">Determined
-        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DLW\">Determined
-        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DTM\">Determined
-        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DLM\">Determined
-        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L7&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL7\">Determined
-        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L14&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL14\">Determined
-        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L28&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL28\">Determined
-        Last 28 Days</a></li>\r\n</ul>\r\n<div class=\"taskFooter\">&nbsp;</div>\r\n</div>\r\n\r\n
-        \                       \r\n                    \r\n                    \r\n
-        \                   <div id=\"cssHelpAndAdmin\">\r\n                        \r\n
-        \   \r\n    \r\n\r\n                    </div>\r\n                </div>\r\n
-        \                               \r\n                <div id=\"cssContent\">\r\n
-        \               <div class=\"cssContentWorkspace\">\r\n                    <a
-        id=\"cssContentTop\"></a>\r\n                    \r\n                        <h1
-        id=\"ctl00_Header_h1PageTitle\">Submitted Last 28 Days</h1>\r\n                    \r\n
-        \                   \r\n                    \r\n                              \r\n
-        \                   \r\n    \r\n    <span id=\"ctl00_Content_cusETrackApplicationSearchResults\"
-        style=\"display:inline-block;width:100%;\"></span>\r\n    <br />\r\n    \r\n
-        \   <span id=\"ctl00_Content_lblSearchDates\" class=\"block\"><span id=\"ctl00_Content_lblFieldNameP1ETRSearchDates\"
-        class=\"fieldLabel\">Search Dates</span><span id=\"ctl00_Content_lblFieldValueP1ETRSearchDates\"
-        class=\"fieldLabel\">12/06/2020 to 9/07/2020</span></span>\r\n    \r\n    <div
-        id=\"ctl00_Content_cusResultsGrid_pnlCustomisationGrid\">\r\n\t\r\n    \r\n
-        \   \r\n    \r\n            <div id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_pnlSectionHeading\">\r\n\t\t\r\n
-        \               <span id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_lblSectionHeading\"
-        class=\"sectionHeading\">Application Search Results</span>\r\n                                <br
-        />\r\n                <img id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_imgSectionSeparator\"
-        Class=\"sectionSeparator\" src=\"../../App_Themes/COF/Images/HalfSeperator.gif\"
-        alt=\"\" style=\"height:2px;width:50%;border-width:0px;\" />\r\n            \r\n\t</div>\r\n
-        \r\n            \r\n\r\n            <div>\r\n\t\t<table class=\"grid\" cellspacing=\"0\"
-        cellpadding=\"3\" rules=\"cols\" border=\"1\" id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_grdWebGridTabularView\"
-        style=\"width:100%;border-collapse:collapse;\">\r\n\t\t\t<tr class=\"headerRow\">\r\n\t\t\t\t<th
-        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$RamId')\">Application
-        Link</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$LodgementDate')\">Lodgement
-        Date</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$Description')\">Description</a></th><th
-        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$PrimaryGroupDescription')\">Group
-        Description</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$PrimaryCategoryDescription')\">Category
-        Description</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$FormattedAddress')\">Formatted
-        Address</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$ApplicantNames')\">Applicant
-        Names</a></th>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl02','')\">DA0224/20</a></td><td>29/06/2020</td><td>Two
-        Storey Grouped dwelling and Carport</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl03','')\">55
-        Wood Street FREMANTLE WA 6160</a></td><td>Maria Audrey Satar</td>\r\n\t\t\t</tr><tr
-        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl02','')\">DA0225/20</a></td><td>29/06/2020</td><td>Partial
-        change of use to Fast food outlet (Takeaway coffee) and alterations to existing
-        Shop</td><td>Planning Applications</td><td>Change of Use</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl03','')\">124-126
-        High Street FREMANTLE WA 6160</a></td><td>Nimal Ranasingha</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl04$ctl02','')\">DA0226/20</a></td><td>29/06/2020</td><td>Window
-        Alterations to Existing Building</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl04$ctl03','')\">5/95
-        Queen Victoria Street FREMANTLE WA 6160</a></td><td>Chee Lai</td>\r\n\t\t\t</tr><tr
-        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl05$ctl02','')\">DA0227/20</a></td><td>29/06/2020</td><td>Alterations
-        to existing Single House</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl05$ctl03','')\">270
-        South Street WHITE GUM VALLEY WA 6162</a></td><td>John Ambrose Madden</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl06$ctl02','')\">VA0021/20</a></td><td>29/06/2020</td><td>Variation
-        to Condition 3 of DA0624/12</td><td>Planning Applications</td><td>DA - Variation</td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl06$ctl03','')\">1/88
-        Marine Terrace FREMANTLE WA 6160</a></td><td> Parsons Group</td>\r\n\t\t\t</tr><tr
-        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl07$ctl02','')\">BP0206/20</a></td><td>29/06/2020</td><td>Conversion
-        of Outbuilding to Ancillary Dwelling</td><td>Building Permit Applications
-        (New Bld Act 2012)</td><td>BA1 Building Permit - Certified</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl07$ctl03','')\">18
-        Mather Road BEACONSFIELD WA 6162</a></td><td>Bruce Fountain</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl08$ctl02','')\">DA0228/20</a></td><td>30/06/2020</td><td>Addition
-        of External Fixtures (Cafe Blinds) to Approved Restaurant</td><td>Planning
-        Applications</td><td>Miscellaneous Development Application Category</td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl08$ctl03','')\">24
-        Essex Street FREMANTLE WA 6160</a></td><td> Cover Co</td>\r\n\t\t\t</tr><tr
-        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl09$ctl02','')\">DA0229/20</a></td><td>30/06/2020</td><td>Unauthorised
-        Additions to existing Building</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl09$ctl03','')\">25
-        Parry Street FREMANTLE WA 6160</a></td><td> Efficient Building Team Pty Ltd</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl10$ctl02','')\">DA0230/20</a></td><td>30/06/2020</td><td>Demolition
-        of existing dwelling and Construction of a two storey Single House</td><td>Planning
-        Applications</td><td>Miscellaneous Development Application Category</td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl10$ctl03','')\">24
-        Alfred Road NORTH FREMANTLE WA 6159</a></td><td> Ross McAndrew Architect</td>\r\n\t\t\t</tr><tr
-        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl11$ctl02','')\">DA0231/20</a></td><td>30/06/2020</td><td>Change
-        of use to Home Occupation (Health Consulting)</td><td>Planning Applications</td><td>Residential
-        Use Class</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl11$ctl03','')\">9
-        Holland Street FREMANTLE WA 6160</a></td><td>Denis McCarthy</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl12$ctl02','')\">DA0232/20</a></td><td>1/07/2020</td><td>Conservation
-        of existing Limestone dividing fence</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl12$ctl03','')\">12
-        Parry Street FREMANTLE WA 6160</a></td><td> Element Advisory Pty Ltd</td>\r\n\t\t\t</tr><tr
-        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl13$ctl02','')\">DA0233/20</a></td><td>1/07/2020</td><td>Fence
-        additions</td><td>Planning Applications</td><td>Miscellaneous Development
-        Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl13$ctl03','')\">68-78
-        Forsyth Street O'CONNOR WA 6163</a></td><td>Matthew Millington</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl14$ctl02','')\">DA0234/20</a></td><td>1/07/2020</td><td>Alterations
-        and Additions to existing Restaurant and incidental Industry Light</td><td>Planning
-        Applications</td><td>Miscellaneous Development Application Category</td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl14$ctl03','')\">312
-        South Terrace SOUTH FREMANTLE WA 6162</a></td><td> Distinct Homes Pty Ltd</td>\r\n\t\t\t</tr><tr
-        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl15$ctl02','')\">WAPC520-20</a></td><td>1/07/2020</td><td>Two
-        lot subdivision</td><td>Subdivision Process</td><td>Subdivision Application</td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl15$ctl03','')\">127
-        Marmion Street FREMANTLE WA 6160</a></td><td> Western Australian Planning
-        Commission (WAPC)</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl16$ctl02','')\">DA0235/20</a></td><td>2/07/2020</td><td>Carport
-        and porch addition to existing Grouped dwelling</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl16$ctl03','')\">80
-        Holland Street FREMANTLE WA 6160</a></td><td>Meiske Hohnen</td>\r\n\t\t\t</tr><tr
-        class=\"pagerRow\">\r\n\t\t\t\t<td colspan=\"7\"><table border=\"0\">\r\n\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t<td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$1')\">1</a></td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$2')\">2</a></td><td><span>3</span></td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$4')\">4</a></td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$5')\">5</a></td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table></td>\r\n\t\t\t</tr>\r\n\t\t</table>\r\n\t</div>\r\n
-        \           \r\n            <br />\r\n            \r\n            \r\n            \r\n
-        \       \r\n\r\n</div>\r\n\r\n\r\n\r\n\r\n\r\n    \r\n    <div class=\"actionButtonsLeft\">\r\n
-        \       <input type=\"submit\" name=\"ctl00$Content$btnPrevious\" value=\"&lt;
-        Previous\" id=\"ctl00_Content_btnPrevious\" accesskey=\"P\" title=\"Access
-        Key: P\" class=\"button\" />\r\n    </div>\r\n\r\n\r\n                    <div
-        class=\"clear\"></div>\r\n                    <br />\r\n                    <br
-        />\r\n                    <br />\r\n                </div>\r\n                </div>\r\n
-        \           </div>\r\n            <p></p>\r\n            <p class=\"invisible\"></p>\r\n
-        \           <div id=\"cssBottomBar\" class=\"cssNoPrint\">\r\n                <div
-        id=\"cssBottomBarLegal\">                 \r\n                    <a id=\"ctl00_hplCustomFooterLink1\"
-        href=\"https://www.fremantle.wa.gov.au/council/about-city-fremantle/website-privacy\">Privacy</a>\r\n
-        \                   <img id=\"ctl00_imgFooterSeparator1\" class=\"verticalBar\"
-        src=\"../../App_Themes/COF/Images/VerticalBarBlack.gif\" alt=\"\" style=\"height:10px;width:1px;border-width:0px;\"
-        />\r\n                    <a id=\"ctl00_hplCustomFooterLink2\" href=\"https://www.fremantle.wa.gov.au/council/about-city-fremantle/disclaimer\">Terms
-        of Use</a>\r\n                    <img id=\"ctl00_imgFooterSeparator2\" class=\"verticalBar\"
-        src=\"../../App_Themes/COF/Images/VerticalBarBlack.gif\" alt=\"\" style=\"height:10px;width:1px;border-width:0px;\"
-        />\r\n                    <a id=\"ctl00_hplCustomFooterLink3\" href=\"https://www.fremantle.wa.gov.au/i-want-to/contact-city\">Contact
-        Us</a>                       \r\n                    <span id=\"ctl00_MobileLink\">\r\n
-        \                       <img id=\"ctl00_Image1\" class=\"verticalBar\" src=\"../../App_Themes/COF/Images/VerticalBarBlack.gif\"
-        alt=\"\" style=\"height:10px;width:1px;border-width:0px;\" />\r\n                        <a
-        id=\"ctl00_hplMobileView\" href=\"javascript:__doPostBack('ctl00$hplMobileView','')\">Mobile
-        View</a>                       \r\n                    </span>\r\n                </div>\r\n
-        \               <div id=\"cssBottomBarCopyright\">&copy; Technology One Limited
-        2020</div>\r\n            </div>\r\n            \r\n        </div>\r\n    </form>\r\n</body>\r\n</html>\r\n"
-    http_version: 
-  recorded_at: Tue, 14 May 2019 14:00:00 GMT
-- request:
-    method: post
-    uri: https://eservices.fremantle.wa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=$P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
-    body:
-      encoding: UTF-8
-      string: __VIEWSTATE=%2FwEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIDD2QWBAIED2QWAgIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAgcPZBYGAgEPDxYCHgRUZXh0ZWRkAgMPDxYCHghFZGl0TW9kZWhkFgQCAg8PFgIfBAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfBAUXMTIvMDYvMjAyMCB0byA5LzA3LzIwMjBkZAIFDw8WBh4IR3JpZFR5cGUFDEVUUkFDS1NFQVJDSB4QR3JpZENyaXRlcmlhTGlzdDLgBAABAAAA%2F%2F%2F%2F%2FwEAAAAAAAAADAIAAABQVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLCBWZXJzaW9uPTEwLjQuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwEAQAAAJwBU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhLCBUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMsIFZlcnNpb249MTAuNC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbF1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAAnVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYVtdAgAAAAgICQMAAAABAAAAAQAAAAcDAAAAAAEAAAAEAAAABCVUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhAgAAAAkEAAAADQMFBAAAACVUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhBQAAAAdtc1ZhbHVlCG1zVmFsdWUyDm1zT3BlcmF0b3JDb2RlCm1zQ29sdW1uSWQObXNQcm9wZXJ0eU5hbWUBAQEBAQIAAAAGBQAAAAoxMi8wNi8yMDIwBgYAAAAVOS8wNy8yMDIwIDExOjU5OjU5IFBNBgcAAAACREIGCAAAAA1Mb2RnZW1lbnREYXRlCQgAAAALHglQYWdlSW5kZXgCAmQWAmYPZBYEAgEPZBYEAgEPDxYCHwQFLUNsaWNrIGhlcmUgdG8gb3BlbiBDaSBhbmQgY3VzdG9taXNlIHRoaXMgZ3JpZGRkAgMPDxYCHwQFCUdyaWQgVHlwZWRkAgMPDxYCHwBoZBYCAgEPDxYCHwQFHE5vIGluZm9ybWF0aW9uIGlzIGF2YWlsYWJsZS5kZBgDBUNjdGwwMCRDb250ZW50JGN1c1Jlc3VsdHNHcmlkJHJlcFdlYkdyaWQkY3RsMDAkZ3JkV2ViR3JpZFRhYnVsYXJWaWV3DzwrAAoCAgICCAIFZAVAY3RsMDAkQ29udGVudCRjdXNSZXN1bHRzR3JpZCRyZXBXZWJHcmlkJGN0bDAwJGR0dldlYkdyaWRMaXN0Vmlldw8UKwAHZGRkZGQWAAI%2BZAUcY3RsMDAkQ29udGVudCRsYmxTZWFyY2hEYXRlcw9oZNvyb7uUm%2BOiwpPnxzeJ6KH%2FFDF7&__VIEWSTATEGENERATOR=794B1E1F&__EVENTVALIDATION=%2FwEWLQLt56e1BgK359HKDwL38%2BS0BQLD0Z%2F%2FCAKDjpzeCAKCqYWLDgK%2B1pGjDgLurtn5CALsuJ7pAgLkoYWSBQLJuOf8CgKDooWSBQLouOf8CgKapIWSBQL%2Fuuf8CgLBooWSBQKmuef8CgLgooWSBQLFuef8CgL%2FooWSBQLkuef8CgKGoYWSBQLrt%2Bf8CgKtn4WSBQKStuf8CgKeo5nNBAKDuvu3CgLFoZnNBAKquPu3CgLkoZnNBALJuPu3CgKDopnNBALouPu3CgKapJnNBAL%2Fuvu3CgLBopnNBAKmufu3CgLgopnNBALFufu3CgKa4IP0BAKa4Pf0BAKa4J%2F0BAKa4JP0BAK%2Fg8WMCQKjmJfRCiDep0NhyeqKj95Tqqhb4PZHT8pG&__EVENTTARGET=ctl00%24Content%24cusResultsGrid%24repWebGrid%24ctl00%24grdWebGridTabularView&__EVENTARGUMENT=Page%244
-    headers:
-      Accept-Encoding:
-      - gzip,deflate,identity
-      Accept:
-      - "*/*"
-      User-Agent:
-      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
-      Accept-Charset:
-      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
-      Accept-Language:
-      - en-us,en;q=0.5
-      Cookie:
-      - ASP.NET_SessionId=rf424g45omp4gdizr0h4ao55
-      Host:
-      - eservices.fremantle.wa.gov.au
-      Referer:
-      - https://eservices.fremantle.wa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=%24P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
-      Content-Type:
-      - application/x-www-form-urlencoded
-      Content-Length:
-      - '2318'
+      Transfer-Encoding:
+      - chunked
       Connection:
       - keep-alive
-      Keep-Alive:
-      - '300'
-  response:
-    status:
-      code: 200
-      message: OK
-    headers:
+      Vary:
+      - Accept-Encoding
+      Date:
+      - Thu, 07 Sep 2023 03:38:59 GMT
       Cache-Control:
       - no-cache, no-store
       Pragma:
       - no-cache
-      Content-Type:
-      - text/html; charset=utf-8
       Expires:
       - "-1"
       Server:
       - Microsoft-IIS/10.0
       X-Aspnet-Version:
       - 2.0.50727
-      X-Powered-By:
-      - ASP.NET
-      Date:
-      - Thu, 09 Jul 2020 04:56:30 GMT
-      Content-Length:
-      - '22618'
+      Strict-Transport-Security:
+      - max-age=31536000; includeSubDomains; preload
+      X-Content-Type-Options:
+      - nosniff
+      Content-Encoding:
+      - gzip
+      X-Cache:
+      - Miss from cloudfront
+      Via:
+      - 1.1 4531d36bddcd36b16bc48daff001c13e.cloudfront.net (CloudFront)
+      X-Amz-Cf-Pop:
+      - SYD1-C2
+      X-Amz-Cf-Id:
+      - mKzFkl762fnNO3xBSJThhuP_5pBh4QP88cCAFHDD-it8Mz0wfdxmCA==
     body:
-      encoding: UTF-8
-      string: "\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"
-        \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head><title>\r\n\tCity
-        of Fremantle - Submitted Last 28 Days\r\n</title><link href=\"../../App_Themes/COF/__MACOSX/._Default.css\"
-        type=\"text/css\" rel=\"stylesheet\" /><link href=\"../../App_Themes/COF/Default.css\"
-        type=\"text/css\" rel=\"stylesheet\" /></head>\r\n<body>\r\n<script type=\"text/javascript\"
-        src=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js\"></script> \r\n
-        \   <form name=\"aspnetForm\" method=\"post\" action=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;f=%24P1.ETR.SEARCH.SL28&amp;r=P1.WEBGUEST\"
-        id=\"aspnetForm\">\r\n<div>\r\n<input type=\"hidden\" name=\"__VIEWSTATE\"
-        id=\"__VIEWSTATE\" value=\"/wEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIDD2QWBAIED2QWAgIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAgcPZBYGAgEPDxYCHgRUZXh0ZWRkAgMPDxYCHghFZGl0TW9kZWhkFgQCAg8PFgIfBAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfBAUXMTIvMDYvMjAyMCB0byA5LzA3LzIwMjBkZAIFDw8WBh4IR3JpZFR5cGUFDEVUUkFDS1NFQVJDSB4QR3JpZENyaXRlcmlhTGlzdDLgBAABAAAA/////wEAAAAAAAAADAIAAABQVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLCBWZXJzaW9uPTEwLjQuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwEAQAAAJwBU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhLCBUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMsIFZlcnNpb249MTAuNC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbF1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAAnVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYVtdAgAAAAgICQMAAAABAAAAAQAAAAcDAAAAAAEAAAAEAAAABCVUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhAgAAAAkEAAAADQMFBAAAACVUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhBQAAAAdtc1ZhbHVlCG1zVmFsdWUyDm1zT3BlcmF0b3JDb2RlCm1zQ29sdW1uSWQObXNQcm9wZXJ0eU5hbWUBAQEBAQIAAAAGBQAAAAoxMi8wNi8yMDIwBgYAAAAVOS8wNy8yMDIwIDExOjU5OjU5IFBNBgcAAAACREIGCAAAAA1Mb2RnZW1lbnREYXRlCQgAAAALHglQYWdlSW5kZXgCA2QWAmYPZBYEAgEPZBYEAgEPDxYCHwQFLUNsaWNrIGhlcmUgdG8gb3BlbiBDaSBhbmQgY3VzdG9taXNlIHRoaXMgZ3JpZGRkAgMPDxYCHwQFCUdyaWQgVHlwZWRkAgMPDxYCHwBoZBYCAgEPDxYCHwQFHE5vIGluZm9ybWF0aW9uIGlzIGF2YWlsYWJsZS5kZBgDBUNjdGwwMCRDb250ZW50JGN1c1Jlc3VsdHNHcmlkJHJlcFdlYkdyaWQkY3RsMDAkZ3JkV2ViR3JpZFRhYnVsYXJWaWV3DzwrAAoCAgIDCAIFZAVAY3RsMDAkQ29udGVudCRjdXNSZXN1bHRzR3JpZCRyZXBXZWJHcmlkJGN0bDAwJGR0dldlYkdyaWRMaXN0Vmlldw8UKwAHZGRkZGQWAAI+ZAUcY3RsMDAkQ29udGVudCRsYmxTZWFyY2hEYXRlcw9oZLH2ZDj1B35o2aSKcxetn4hVaUWG\"
-        />\r\n</div>\r\n\r\n<div>\r\n\r\n\t<input type=\"hidden\" name=\"__VIEWSTATEGENERATOR\"
-        id=\"__VIEWSTATEGENERATOR\" value=\"794B1E1F\" />\r\n\t<input type=\"hidden\"
-        name=\"__EVENTVALIDATION\" id=\"__EVENTVALIDATION\" value=\"/wEWLQKik80VArfn0coPAvfz5LQFAsPRn/8IAoOOnN4IAoKphYsOAr7WkaMOAu6u2fkIAuy4nukCAuShhZIFAsm45/wKAoOihZIFAui45/wKApqkhZIFAv+65/wKAsGihZIFAqa55/wKAuCihZIFAsW55/wKAv+ihZIFAuS55/wKAoahhZIFAuu35/wKAq2fhZIFApK25/wKAp6jmc0EAoO6+7cKAsWhmc0EAqq4+7cKAuShmc0EAsm4+7cKAoOimc0EAui4+7cKApqkmc0EAv+6+7cKAsGimc0EAqa5+7cKAuCimc0EAsW5+7cKAprgg/QEAprg9/QEAprgi/QEAprgk/QEAr+DxYwJAqOYl9EKjJo3UYMnonPp9oG3+OLZVWWj94I=\"
-        />\r\n</div>\r\n        <div id=\"cssBounds\">\r\n            <div id=\"cssBanner\"
-        >\r\n                    <!-- Login -->\r\n                    <div class=\"speciallink\">\r\n
-        \                       <!--\r\n                        \r\n                            <span
-        class=\"Login\">\r\n                                <a id=\"ctl00_ctlLogin_cmdLogin\"
-        accesskey=\"L\" title=\"Access Key: L\" href=\"javascript:__doPostBack('ctl00$ctlLogin$cmdLogin','')\">Login</a>
-        \                               \r\n                             </span>\r\n
-        \                           \r\n                     </div>\r\n                    <!--
-        End Login --> \r\n                <div id=\"cssBannerLogo\">\r\n                    <a
-        href=\"http://eservices.fremantle.wa.gov.au/T1PRProd/WebApps/eProperty/P1/GuestHome.aspx?r=P1.WEBGUEST&f=%24P1.EPR.GUESTHME.VIW\"
-        id=\"ctl00_cmdHomeNav\">\r\n                        <img src=\"../../App_Themes/Default/Images/Empty.gif\"
-        id=\"ctl00_imageHomeNav\" border=\"0\" class=\"homeNav\" />\r\n                    </a>\r\n
-        \               </div>\r\n            </div>\r\n            <div class=\"clear\"></div>\r\n
-        \           <div id=\"cssContentArea\">\r\n                <div id=\"cssTaskpane\"
-        \ class = \"cssNoPrint\">\r\n                    \r\n                    <div>\r\n
-        \                       \r\n                                <div class=\"menuPanel\">\r\n
-        \                           \r\n                                <div class=\"menuHeader\">\r\n
-        \                                   <span id=\"ctl00_Taskpane_rprMenuList_ctl01_lblMenuGroupHeader\">Online
-        payments</span>\r\n                                </div>\r\n                                <ul
-        class=\"menuGroupList\">\r\n\t<li><a href=\"../ePay/DebtorPayment.aspx?r=P1.WEBGUEST&amp;f=P1.EPY.DEBTORS.ENQ\">Debtor
-        payment</a></li><li><a href=\"../ePay/ApplicationPayment.aspx?r=P1.WEBGUEST&amp;f=P1.EPY.APPS.ENQ\">Invoice
-        payment</a></li><li><a href=\"../ePay/InfringementPayment.aspx?r=P1.WEBGUEST&amp;f=P1.EPY.INFRINGE.ENQ\">Pay
-        an infringement</a></li><li><a href=\"../ePay/RatesPayment.aspx?r=P1.WEBGUEST&amp;f=P1.EPY.RATES.ENQ\">Pay
-        your council rates</a></li>\r\n</ul>\r\n                                <br
-        />\r\n                            \r\n                                <div
-        class=\"menuHeader\">\r\n                                    <span id=\"ctl00_Taskpane_rprMenuList_ctl02_lblMenuGroupHeader\">Online
-        requests</span>\r\n                                </div>\r\n                                <ul
-        class=\"menuGroupList\">\r\n\t<li><a href=\"../eRequest/CategorySelection.aspx?r=P1.WEBGUEST&amp;f=P1.ECR.SELCAT.VIW\">Request
-        a service</a></li>\r\n</ul>\r\n                                <br />\r\n
-        \                           \r\n                                <div class=\"menuHeader\">\r\n
-        \                                   <span id=\"ctl00_Taskpane_rprMenuList_ctl03_lblMenuGroupHeader\">Application
-        tracking</span>\r\n                                </div>\r\n                                <ul
-        class=\"menuGroupList\">\r\n\t<li><a href=\"eTrackApplicationSearch.aspx?r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.ENQ\">Application
-        Search</a></li>\r\n</ul>\r\n                                <br />\r\n                            \r\n
-        \                               </div>\r\n                            \r\n
-        \                       \r\n                    </div>\r\n                            \r\n
-        \               </div>\r\n                \r\n                <div id=\"cssTaskpaneRelatedLinks\"
-        \ class= \"cssNoPrint\">\r\n                    \r\n                        <div
-        id=\"ctl00_RightTaskPane_tspRelatedLinks\" class=\"taskPanel\">\r\n<div class=\"taskHeader\">Related
-        Links</div>\r\n<ul>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.STW\">Submitted
-        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SLW\">Submitted
-        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.STM\">Submitted
-        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SLM\">Submitted
-        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L7&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL7\">Submitted
-        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L14&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL14\">Submitted
-        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL28\">Submitted
-        Last 28 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DTW\">Determined
-        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DLW\">Determined
-        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DTM\">Determined
-        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DLM\">Determined
-        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L7&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL7\">Determined
-        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L14&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL14\">Determined
-        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L28&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL28\">Determined
-        Last 28 Days</a></li>\r\n</ul>\r\n<div class=\"taskFooter\">&nbsp;</div>\r\n</div>\r\n\r\n
-        \                       \r\n                    \r\n                    \r\n
-        \                   <div id=\"cssHelpAndAdmin\">\r\n                        \r\n
-        \   \r\n    \r\n\r\n                    </div>\r\n                </div>\r\n
-        \                               \r\n                <div id=\"cssContent\">\r\n
-        \               <div class=\"cssContentWorkspace\">\r\n                    <a
-        id=\"cssContentTop\"></a>\r\n                    \r\n                        <h1
-        id=\"ctl00_Header_h1PageTitle\">Submitted Last 28 Days</h1>\r\n                    \r\n
-        \                   \r\n                    \r\n                              \r\n
-        \                   \r\n    \r\n    <span id=\"ctl00_Content_cusETrackApplicationSearchResults\"
-        style=\"display:inline-block;width:100%;\"></span>\r\n    <br />\r\n    \r\n
-        \   <span id=\"ctl00_Content_lblSearchDates\" class=\"block\"><span id=\"ctl00_Content_lblFieldNameP1ETRSearchDates\"
-        class=\"fieldLabel\">Search Dates</span><span id=\"ctl00_Content_lblFieldValueP1ETRSearchDates\"
-        class=\"fieldLabel\">12/06/2020 to 9/07/2020</span></span>\r\n    \r\n    <div
-        id=\"ctl00_Content_cusResultsGrid_pnlCustomisationGrid\">\r\n\t\r\n    \r\n
-        \   \r\n    \r\n            <div id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_pnlSectionHeading\">\r\n\t\t\r\n
-        \               <span id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_lblSectionHeading\"
-        class=\"sectionHeading\">Application Search Results</span>\r\n                                <br
-        />\r\n                <img id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_imgSectionSeparator\"
-        Class=\"sectionSeparator\" src=\"../../App_Themes/COF/Images/HalfSeperator.gif\"
-        alt=\"\" style=\"height:2px;width:50%;border-width:0px;\" />\r\n            \r\n\t</div>\r\n
-        \r\n            \r\n\r\n            <div>\r\n\t\t<table class=\"grid\" cellspacing=\"0\"
-        cellpadding=\"3\" rules=\"cols\" border=\"1\" id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_grdWebGridTabularView\"
-        style=\"width:100%;border-collapse:collapse;\">\r\n\t\t\t<tr class=\"headerRow\">\r\n\t\t\t\t<th
-        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$RamId')\">Application
-        Link</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$LodgementDate')\">Lodgement
-        Date</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$Description')\">Description</a></th><th
-        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$PrimaryGroupDescription')\">Group
-        Description</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$PrimaryCategoryDescription')\">Category
-        Description</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$FormattedAddress')\">Formatted
-        Address</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$ApplicantNames')\">Applicant
-        Names</a></th>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl02','')\">DA0236/20</a></td><td>2/07/2020</td><td>
-        Single house and</td><td>Planning Applications</td><td>Miscellaneous Development
-        Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl03','')\">270
-        South Street WHITE GUM VALLEY WA 6162</a></td><td>John Ambrose Madden</td>\r\n\t\t\t</tr><tr
-        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl02','')\">DA0237/20</a></td><td>2/07/2020</td><td>Rebuild
-        of Heritage Wall</td><td>Planning Applications</td><td>Miscellaneous Development
-        Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl03','')\">8
-        Bannister Street FREMANTLE WA 6160</a></td><td> P &amp; D Civil &amp; Structural
-        Engineering Pty Ltd</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl04$ctl02','')\">DA0238/20</a></td><td>3/07/2020</td><td>Change
-        of Use to Grouped Dwelling</td><td>Planning Applications</td><td>Change of
-        Use</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl04$ctl03','')\">25
-        Parry Street FREMANTLE WA 6160</a></td><td> Efficient Building Team Pty Ltd</td>\r\n\t\t\t</tr><tr
-        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl05$ctl02','')\">LL0011/20</a></td><td>3/07/2020</td><td>Section
-        40 Application - Restaurant - Lilly's Dumpling House</td><td>Planning Applications</td><td>DA
-        - Section 40 - Liquor Licence</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl05$ctl03','')\">135
-        High Street Mall FREMANTLE WA 6160</a></td><td> Lilly's Food Pty Ltd</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl06$ctl02','')\">DA0239/20</a></td><td>6/07/2020</td><td>Outbuilding
-        Addition to Existing House</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl06$ctl03','')\">18
-        Chester Street SOUTH FREMANTLE WA 6162</a></td><td>Rita Armstrong, Peter Stuart
-        Ash</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl07$ctl02','')\">DA0240/20</a></td><td>6/07/2020</td><td>Retrospective
-        approval for three unauthorised Sea Containers and unauthorised carport alterations</td><td>Planning
-        Applications</td><td>Miscellaneous Development Application Category</td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl07$ctl03','')\">11
-        Ellen Street FREMANTLE WA 6160</a></td><td> Formscape</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl08$ctl02','')\">DA0241/20</a></td><td>6/07/2020</td><td>Signage</td><td>Planning
-        Applications</td><td>Miscellaneous Development Application Category</td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl08$ctl03','')\">Warders
-        Cottage 29 Henderson Street FREMANTLE WA 6160</a></td><td> Matthew Crawford
-        Architects</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl09$ctl02','')\">DA0242/20</a></td><td>6/07/2020</td><td>Patio
-        addition to existing Childcare Premises</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl09$ctl03','')\">11
-        Doig Place BEACONSFIELD WA 6162</a></td><td>Kate Seery</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl10$ctl02','')\">DA0243/20</a></td><td>6/07/2020</td><td>Verandah
-        and carport addition to existing Single house</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl10$ctl03','')\">110
-        Holland Street FREMANTLE WA 6160</a></td><td>Christopher Davison, Melanie
-        Rita Rodrigue</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl11$ctl02','')\">DA0244/20</a></td><td>6/07/2020</td><td>Shipping
-        container additions</td><td>Planning Applications</td><td>Miscellaneous Development
-        Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl11$ctl03','')\">96
-        Marine Terrace FREMANTLE WA 6160</a></td><td> Terra Rosa Cultural Resource
-        Management</td>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl12$ctl02','')\">DA0245/20</a></td><td>6/07/2020</td><td>Single
-        Storey Single house</td><td>Planning Applications</td><td>Miscellaneous Development
-        Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl12$ctl03','')\">8
-        Cadd Street BEACONSFIELD WA 6162</a></td><td>Kenneth Acton</td>\r\n\t\t\t</tr><tr
-        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl13$ctl02','')\">DA0246/20</a></td><td>6/07/2020</td><td>Two
-        Storey Single House</td><td>Planning Applications</td><td>Miscellaneous Development
-        Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl13$ctl03','')\">5
-        Longford Road BEACONSFIELD WA 6162</a></td><td>Ewelina Paulina Forde</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl14$ctl02','')\">WAPC608-20</a></td><td>6/07/2020</td><td>Subdivision
-        Application</td><td>Subdivision Process</td><td>Subdivision Application</td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl14$ctl03','')\">161
-        Carrington Street WHITE GUM VALLEY WA 6162</a></td><td> Western Australian
-        Planning Commission (WAPC)</td>\r\n\t\t\t</tr><tr class=\"alternateRow\">\r\n\t\t\t\t<td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl15$ctl02','')\">DA0247/20</a></td><td>7/07/2020</td><td>Additions
-        &amp; Alterations, Carport</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl15$ctl03','')\">8
-        Yalgoo Avenue WHITE GUM VALLEY WA 6162</a></td><td> Stellar Design</td>\r\n\t\t\t</tr><tr
-        class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl16$ctl02','')\">WAPC638-20</a></td><td>7/07/2020</td><td>Subdivision
-        Application</td><td>Subdivision Process</td><td>Subdivision Application</td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl16$ctl03','')\">7
-        Bromley Road HILTON WA 6163</a></td><td> Western Australian Planning Commission
-        (WAPC)</td>\r\n\t\t\t</tr><tr class=\"pagerRow\">\r\n\t\t\t\t<td colspan=\"7\"><table
-        border=\"0\">\r\n\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$1')\">1</a></td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$2')\">2</a></td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$3')\">3</a></td><td><span>4</span></td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$5')\">5</a></td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table></td>\r\n\t\t\t</tr>\r\n\t\t</table>\r\n\t</div>\r\n
-        \           \r\n            <br />\r\n            \r\n            \r\n            \r\n
-        \       \r\n\r\n</div>\r\n\r\n\r\n\r\n\r\n\r\n    \r\n    <div class=\"actionButtonsLeft\">\r\n
-        \       <input type=\"submit\" name=\"ctl00$Content$btnPrevious\" value=\"&lt;
-        Previous\" id=\"ctl00_Content_btnPrevious\" accesskey=\"P\" title=\"Access
-        Key: P\" class=\"button\" />\r\n    </div>\r\n\r\n\r\n                    <div
-        class=\"clear\"></div>\r\n                    <br />\r\n                    <br
-        />\r\n                    <br />\r\n                </div>\r\n                </div>\r\n
-        \           </div>\r\n            <p></p>\r\n            <p class=\"invisible\"></p>\r\n
-        \           <div id=\"cssBottomBar\" class=\"cssNoPrint\">\r\n                <div
-        id=\"cssBottomBarLegal\">                 \r\n                    <a id=\"ctl00_hplCustomFooterLink1\"
-        href=\"https://www.fremantle.wa.gov.au/council/about-city-fremantle/website-privacy\">Privacy</a>\r\n
-        \                   <img id=\"ctl00_imgFooterSeparator1\" class=\"verticalBar\"
-        src=\"../../App_Themes/COF/Images/VerticalBarBlack.gif\" alt=\"\" style=\"height:10px;width:1px;border-width:0px;\"
-        />\r\n                    <a id=\"ctl00_hplCustomFooterLink2\" href=\"https://www.fremantle.wa.gov.au/council/about-city-fremantle/disclaimer\">Terms
-        of Use</a>\r\n                    <img id=\"ctl00_imgFooterSeparator2\" class=\"verticalBar\"
-        src=\"../../App_Themes/COF/Images/VerticalBarBlack.gif\" alt=\"\" style=\"height:10px;width:1px;border-width:0px;\"
-        />\r\n                    <a id=\"ctl00_hplCustomFooterLink3\" href=\"https://www.fremantle.wa.gov.au/i-want-to/contact-city\">Contact
-        Us</a>                       \r\n                    <span id=\"ctl00_MobileLink\">\r\n
-        \                       <img id=\"ctl00_Image1\" class=\"verticalBar\" src=\"../../App_Themes/COF/Images/VerticalBarBlack.gif\"
-        alt=\"\" style=\"height:10px;width:1px;border-width:0px;\" />\r\n                        <a
-        id=\"ctl00_hplMobileView\" href=\"javascript:__doPostBack('ctl00$hplMobileView','')\">Mobile
-        View</a>                       \r\n                    </span>\r\n                </div>\r\n
-        \               <div id=\"cssBottomBarCopyright\">&copy; Technology One Limited
-        2020</div>\r\n            </div>\r\n            \r\n        </div>\r\n    </form>\r\n</body>\r\n</html>\r\n"
-    http_version: 
+      encoding: ASCII-8BIT
+      string: !binary |-
+        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
   recorded_at: Tue, 14 May 2019 14:00:00 GMT
-- request:
-    method: post
-    uri: https://eservices.fremantle.wa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=$P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
-    body:
-      encoding: UTF-8
-      string: __VIEWSTATE=%2FwEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIDD2QWBAIED2QWAgIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAgcPZBYGAgEPDxYCHgRUZXh0ZWRkAgMPDxYCHghFZGl0TW9kZWhkFgQCAg8PFgIfBAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfBAUXMTIvMDYvMjAyMCB0byA5LzA3LzIwMjBkZAIFDw8WBh4IR3JpZFR5cGUFDEVUUkFDS1NFQVJDSB4QR3JpZENyaXRlcmlhTGlzdDLgBAABAAAA%2F%2F%2F%2F%2FwEAAAAAAAAADAIAAABQVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLCBWZXJzaW9uPTEwLjQuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwEAQAAAJwBU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhLCBUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMsIFZlcnNpb249MTAuNC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbF1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAAnVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYVtdAgAAAAgICQMAAAABAAAAAQAAAAcDAAAAAAEAAAAEAAAABCVUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhAgAAAAkEAAAADQMFBAAAACVUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhBQAAAAdtc1ZhbHVlCG1zVmFsdWUyDm1zT3BlcmF0b3JDb2RlCm1zQ29sdW1uSWQObXNQcm9wZXJ0eU5hbWUBAQEBAQIAAAAGBQAAAAoxMi8wNi8yMDIwBgYAAAAVOS8wNy8yMDIwIDExOjU5OjU5IFBNBgcAAAACREIGCAAAAA1Mb2RnZW1lbnREYXRlCQgAAAALHglQYWdlSW5kZXgCA2QWAmYPZBYEAgEPZBYEAgEPDxYCHwQFLUNsaWNrIGhlcmUgdG8gb3BlbiBDaSBhbmQgY3VzdG9taXNlIHRoaXMgZ3JpZGRkAgMPDxYCHwQFCUdyaWQgVHlwZWRkAgMPDxYCHwBoZBYCAgEPDxYCHwQFHE5vIGluZm9ybWF0aW9uIGlzIGF2YWlsYWJsZS5kZBgDBUNjdGwwMCRDb250ZW50JGN1c1Jlc3VsdHNHcmlkJHJlcFdlYkdyaWQkY3RsMDAkZ3JkV2ViR3JpZFRhYnVsYXJWaWV3DzwrAAoCAgIDCAIFZAVAY3RsMDAkQ29udGVudCRjdXNSZXN1bHRzR3JpZCRyZXBXZWJHcmlkJGN0bDAwJGR0dldlYkdyaWRMaXN0Vmlldw8UKwAHZGRkZGQWAAI%2BZAUcY3RsMDAkQ29udGVudCRsYmxTZWFyY2hEYXRlcw9oZLH2ZDj1B35o2aSKcxetn4hVaUWG&__VIEWSTATEGENERATOR=794B1E1F&__EVENTVALIDATION=%2FwEWLQKik80VArfn0coPAvfz5LQFAsPRn%2F8IAoOOnN4IAoKphYsOAr7WkaMOAu6u2fkIAuy4nukCAuShhZIFAsm45%2FwKAoOihZIFAui45%2FwKApqkhZIFAv%2B65%2FwKAsGihZIFAqa55%2FwKAuCihZIFAsW55%2FwKAv%2BihZIFAuS55%2FwKAoahhZIFAuu35%2FwKAq2fhZIFApK25%2FwKAp6jmc0EAoO6%2B7cKAsWhmc0EAqq4%2B7cKAuShmc0EAsm4%2B7cKAoOimc0EAui4%2B7cKApqkmc0EAv%2B6%2B7cKAsGimc0EAqa5%2B7cKAuCimc0EAsW5%2B7cKAprgg%2FQEAprg9%2FQEAprgi%2FQEAprgk%2FQEAr%2BDxYwJAqOYl9EKjJo3UYMnonPp9oG3%2BOLZVWWj94I%3D&__EVENTTARGET=ctl00%24Content%24cusResultsGrid%24repWebGrid%24ctl00%24grdWebGridTabularView&__EVENTARGUMENT=Page%245
-    headers:
-      Accept-Encoding:
-      - gzip,deflate,identity
-      Accept:
-      - "*/*"
-      User-Agent:
-      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
-      Accept-Charset:
-      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
-      Accept-Language:
-      - en-us,en;q=0.5
-      Cookie:
-      - ASP.NET_SessionId=rf424g45omp4gdizr0h4ao55
-      Host:
-      - eservices.fremantle.wa.gov.au
-      Referer:
-      - https://eservices.fremantle.wa.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=%24P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
-      Content-Type:
-      - application/x-www-form-urlencoded
-      Content-Length:
-      - '2346'
-      Connection:
-      - keep-alive
-      Keep-Alive:
-      - '300'
-  response:
-    status:
-      code: 200
-      message: OK
-    headers:
-      Cache-Control:
-      - no-cache, no-store
-      Pragma:
-      - no-cache
-      Content-Type:
-      - text/html; charset=utf-8
-      Expires:
-      - "-1"
-      Server:
-      - Microsoft-IIS/10.0
-      X-Aspnet-Version:
-      - 2.0.50727
-      X-Powered-By:
-      - ASP.NET
-      Date:
-      - Thu, 09 Jul 2020 04:56:31 GMT
-      Content-Length:
-      - '15537'
-    body:
-      encoding: UTF-8
-      string: "\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"
-        \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head><title>\r\n\tCity
-        of Fremantle - Submitted Last 28 Days\r\n</title><link href=\"../../App_Themes/COF/__MACOSX/._Default.css\"
-        type=\"text/css\" rel=\"stylesheet\" /><link href=\"../../App_Themes/COF/Default.css\"
-        type=\"text/css\" rel=\"stylesheet\" /></head>\r\n<body>\r\n<script type=\"text/javascript\"
-        src=\"//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js\"></script> \r\n
-        \   <form name=\"aspnetForm\" method=\"post\" action=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;f=%24P1.ETR.SEARCH.SL28&amp;r=P1.WEBGUEST\"
-        id=\"aspnetForm\">\r\n<div>\r\n<input type=\"hidden\" name=\"__VIEWSTATE\"
-        id=\"__VIEWSTATE\" value=\"/wEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIDD2QWBAIED2QWAgIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAgcPZBYGAgEPDxYCHgRUZXh0ZWRkAgMPDxYCHghFZGl0TW9kZWhkFgQCAg8PFgIfBAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfBAUXMTIvMDYvMjAyMCB0byA5LzA3LzIwMjBkZAIFDw8WBh4IR3JpZFR5cGUFDEVUUkFDS1NFQVJDSB4QR3JpZENyaXRlcmlhTGlzdDLgBAABAAAA/////wEAAAAAAAAADAIAAABQVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLCBWZXJzaW9uPTEwLjQuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwEAQAAAJwBU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhLCBUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMsIFZlcnNpb249MTAuNC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbF1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAAnVDEuUDEuV2ViLk9iamVjdEFkYXB0ZXJzLkdyaWRDcml0ZXJpYVtdAgAAAAgICQMAAAABAAAAAQAAAAcDAAAAAAEAAAAEAAAABCVUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhAgAAAAkEAAAADQMFBAAAACVUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhBQAAAAdtc1ZhbHVlCG1zVmFsdWUyDm1zT3BlcmF0b3JDb2RlCm1zQ29sdW1uSWQObXNQcm9wZXJ0eU5hbWUBAQEBAQIAAAAGBQAAAAoxMi8wNi8yMDIwBgYAAAAVOS8wNy8yMDIwIDExOjU5OjU5IFBNBgcAAAACREIGCAAAAA1Mb2RnZW1lbnREYXRlCQgAAAALHglQYWdlSW5kZXgCBGQWAmYPZBYEAgEPZBYEAgEPDxYCHwQFLUNsaWNrIGhlcmUgdG8gb3BlbiBDaSBhbmQgY3VzdG9taXNlIHRoaXMgZ3JpZGRkAgMPDxYCHwQFCUdyaWQgVHlwZWRkAgMPDxYCHwBoZBYCAgEPDxYCHwQFHE5vIGluZm9ybWF0aW9uIGlzIGF2YWlsYWJsZS5kZBgDBUNjdGwwMCRDb250ZW50JGN1c1Jlc3VsdHNHcmlkJHJlcFdlYkdyaWQkY3RsMDAkZ3JkV2ViR3JpZFRhYnVsYXJWaWV3DzwrAAoCAgIECAIFZAVAY3RsMDAkQ29udGVudCRjdXNSZXN1bHRzR3JpZCRyZXBXZWJHcmlkJGN0bDAwJGR0dldlYkdyaWRMaXN0Vmlldw8UKwAHZGRkZGQWAAI+ZAUcY3RsMDAkQ29udGVudCRsYmxTZWFyY2hEYXRlcw9oZLRAuKI5oHoK/GdluyHYuBKZ5CgD\"
-        />\r\n</div>\r\n\r\n<div>\r\n\r\n\t<input type=\"hidden\" name=\"__VIEWSTATEGENERATOR\"
-        id=\"__VIEWSTATEGENERATOR\" value=\"794B1E1F\" />\r\n\t<input type=\"hidden\"
-        name=\"__EVENTVALIDATION\" id=\"__EVENTVALIDATION\" value=\"/wEWEwK4we//CwK359HKDwL38+S0BQLD0Z//CAKDjpzeCAKCqYWLDgK+1pGjDgLurtn5CALsuJ7pAgLkoYWSBQLJuOf8CgKDooWSBQLouOf8CgKa4IP0BAKa4Pf0BAKa4Iv0BAKa4J/0BAK/g8WMCQKjmJfRCubQANk5qj/KylhHWTtLk0JYN4QD\"
-        />\r\n</div>\r\n        <div id=\"cssBounds\">\r\n            <div id=\"cssBanner\"
-        >\r\n                    <!-- Login -->\r\n                    <div class=\"speciallink\">\r\n
-        \                       <!--\r\n                        \r\n                            <span
-        class=\"Login\">\r\n                                <a id=\"ctl00_ctlLogin_cmdLogin\"
-        accesskey=\"L\" title=\"Access Key: L\" href=\"javascript:__doPostBack('ctl00$ctlLogin$cmdLogin','')\">Login</a>
-        \                               \r\n                             </span>\r\n
-        \                           \r\n                     </div>\r\n                    <!--
-        End Login --> \r\n                <div id=\"cssBannerLogo\">\r\n                    <a
-        href=\"http://eservices.fremantle.wa.gov.au/T1PRProd/WebApps/eProperty/P1/GuestHome.aspx?r=P1.WEBGUEST&f=%24P1.EPR.GUESTHME.VIW\"
-        id=\"ctl00_cmdHomeNav\">\r\n                        <img src=\"../../App_Themes/Default/Images/Empty.gif\"
-        id=\"ctl00_imageHomeNav\" border=\"0\" class=\"homeNav\" />\r\n                    </a>\r\n
-        \               </div>\r\n            </div>\r\n            <div class=\"clear\"></div>\r\n
-        \           <div id=\"cssContentArea\">\r\n                <div id=\"cssTaskpane\"
-        \ class = \"cssNoPrint\">\r\n                    \r\n                    <div>\r\n
-        \                       \r\n                                <div class=\"menuPanel\">\r\n
-        \                           \r\n                                <div class=\"menuHeader\">\r\n
-        \                                   <span id=\"ctl00_Taskpane_rprMenuList_ctl01_lblMenuGroupHeader\">Online
-        payments</span>\r\n                                </div>\r\n                                <ul
-        class=\"menuGroupList\">\r\n\t<li><a href=\"../ePay/DebtorPayment.aspx?r=P1.WEBGUEST&amp;f=P1.EPY.DEBTORS.ENQ\">Debtor
-        payment</a></li><li><a href=\"../ePay/ApplicationPayment.aspx?r=P1.WEBGUEST&amp;f=P1.EPY.APPS.ENQ\">Invoice
-        payment</a></li><li><a href=\"../ePay/InfringementPayment.aspx?r=P1.WEBGUEST&amp;f=P1.EPY.INFRINGE.ENQ\">Pay
-        an infringement</a></li><li><a href=\"../ePay/RatesPayment.aspx?r=P1.WEBGUEST&amp;f=P1.EPY.RATES.ENQ\">Pay
-        your council rates</a></li>\r\n</ul>\r\n                                <br
-        />\r\n                            \r\n                                <div
-        class=\"menuHeader\">\r\n                                    <span id=\"ctl00_Taskpane_rprMenuList_ctl02_lblMenuGroupHeader\">Online
-        requests</span>\r\n                                </div>\r\n                                <ul
-        class=\"menuGroupList\">\r\n\t<li><a href=\"../eRequest/CategorySelection.aspx?r=P1.WEBGUEST&amp;f=P1.ECR.SELCAT.VIW\">Request
-        a service</a></li>\r\n</ul>\r\n                                <br />\r\n
-        \                           \r\n                                <div class=\"menuHeader\">\r\n
-        \                                   <span id=\"ctl00_Taskpane_rprMenuList_ctl03_lblMenuGroupHeader\">Application
-        tracking</span>\r\n                                </div>\r\n                                <ul
-        class=\"menuGroupList\">\r\n\t<li><a href=\"eTrackApplicationSearch.aspx?r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.ENQ\">Application
-        Search</a></li>\r\n</ul>\r\n                                <br />\r\n                            \r\n
-        \                               </div>\r\n                            \r\n
-        \                       \r\n                    </div>\r\n                            \r\n
-        \               </div>\r\n                \r\n                <div id=\"cssTaskpaneRelatedLinks\"
-        \ class= \"cssNoPrint\">\r\n                    \r\n                        <div
-        id=\"ctl00_RightTaskPane_tspRelatedLinks\" class=\"taskPanel\">\r\n<div class=\"taskHeader\">Related
-        Links</div>\r\n<ul>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.STW\">Submitted
-        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SLW\">Submitted
-        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=TM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.STM\">Submitted
-        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=LM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SLM\">Submitted
-        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L7&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL7\">Submitted
-        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L14&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL14\">Submitted
-        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=S&amp;Period=L28&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.SL28\">Submitted
-        Last 28 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DTW\">Determined
-        This Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LW&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DLW\">Determined
-        Last Week</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=TM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DTM\">Determined
-        This Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=LM&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DLM\">Determined
-        Last Month</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L7&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL7\">Determined
-        Last 7 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L14&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL14\">Determined
-        Last 14 Days</a></li>\r\n<li><a href=\"eTrackApplicationSearchResults.aspx?Field=D&amp;Period=L28&amp;r=P1.WEBGUEST&amp;f=%24P1.ETR.SEARCH.DL28\">Determined
-        Last 28 Days</a></li>\r\n</ul>\r\n<div class=\"taskFooter\">&nbsp;</div>\r\n</div>\r\n\r\n
-        \                       \r\n                    \r\n                    \r\n
-        \                   <div id=\"cssHelpAndAdmin\">\r\n                        \r\n
-        \   \r\n    \r\n\r\n                    </div>\r\n                </div>\r\n
-        \                               \r\n                <div id=\"cssContent\">\r\n
-        \               <div class=\"cssContentWorkspace\">\r\n                    <a
-        id=\"cssContentTop\"></a>\r\n                    \r\n                        <h1
-        id=\"ctl00_Header_h1PageTitle\">Submitted Last 28 Days</h1>\r\n                    \r\n
-        \                   \r\n                    \r\n                              \r\n
-        \                   \r\n    \r\n    <span id=\"ctl00_Content_cusETrackApplicationSearchResults\"
-        style=\"display:inline-block;width:100%;\"></span>\r\n    <br />\r\n    \r\n
-        \   <span id=\"ctl00_Content_lblSearchDates\" class=\"block\"><span id=\"ctl00_Content_lblFieldNameP1ETRSearchDates\"
-        class=\"fieldLabel\">Search Dates</span><span id=\"ctl00_Content_lblFieldValueP1ETRSearchDates\"
-        class=\"fieldLabel\">12/06/2020 to 9/07/2020</span></span>\r\n    \r\n    <div
-        id=\"ctl00_Content_cusResultsGrid_pnlCustomisationGrid\">\r\n\t\r\n    \r\n
-        \   \r\n    \r\n            <div id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_pnlSectionHeading\">\r\n\t\t\r\n
-        \               <span id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_lblSectionHeading\"
-        class=\"sectionHeading\">Application Search Results</span>\r\n                                <br
-        />\r\n                <img id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_imgSectionSeparator\"
-        Class=\"sectionSeparator\" src=\"../../App_Themes/COF/Images/HalfSeperator.gif\"
-        alt=\"\" style=\"height:2px;width:50%;border-width:0px;\" />\r\n            \r\n\t</div>\r\n
-        \r\n            \r\n\r\n            <div>\r\n\t\t<table class=\"grid\" cellspacing=\"0\"
-        cellpadding=\"3\" rules=\"cols\" border=\"1\" id=\"ctl00_Content_cusResultsGrid_repWebGrid_ctl00_grdWebGridTabularView\"
-        style=\"width:100%;border-collapse:collapse;\">\r\n\t\t\t<tr class=\"headerRow\">\r\n\t\t\t\t<th
-        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$RamId')\">Application
-        Link</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$LodgementDate')\">Lodgement
-        Date</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$Description')\">Description</a></th><th
-        scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$PrimaryGroupDescription')\">Group
-        Description</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$PrimaryCategoryDescription')\">Category
-        Description</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$FormattedAddress')\">Formatted
-        Address</a></th><th scope=\"col\"><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Sort$ApplicantNames')\">Applicant
-        Names</a></th>\r\n\t\t\t</tr><tr class=\"normalRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl02','')\">DA0248/20</a></td><td>8/07/2020</td><td>Addition
-        of Roller Door to Existing Carport and Fence.</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl02$ctl03','')\">141
-        South Terrace FREMANTLE WA 6160</a></td><td>Colin Michael Kenworthy</td>\r\n\t\t\t</tr><tr
-        class=\"alternateRow\">\r\n\t\t\t\t<td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl02','')\">DA0249/20</a></td><td>8/07/2020</td><td>Additions
-        and Signage to Existing Building</td><td>Planning Applications</td><td>Miscellaneous
-        Development Application Category</td><td><a href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView$ctl03$ctl03','')\">212
-        Queen Victoria Street NORTH FREMANTLE WA 6159</a></td><td>Robertino Galipo</td>\r\n\t\t\t</tr><tr
-        class=\"pagerRow\">\r\n\t\t\t\t<td colspan=\"7\"><table border=\"0\">\r\n\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t<td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$1')\">1</a></td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$2')\">2</a></td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$3')\">3</a></td><td><a
-        href=\"javascript:__doPostBack('ctl00$Content$cusResultsGrid$repWebGrid$ctl00$grdWebGridTabularView','Page$4')\">4</a></td><td><span>5</span></td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table></td>\r\n\t\t\t</tr>\r\n\t\t</table>\r\n\t</div>\r\n
-        \           \r\n            <br />\r\n            \r\n            \r\n            \r\n
-        \       \r\n\r\n</div>\r\n\r\n\r\n\r\n\r\n\r\n    \r\n    <div class=\"actionButtonsLeft\">\r\n
-        \       <input type=\"submit\" name=\"ctl00$Content$btnPrevious\" value=\"&lt;
-        Previous\" id=\"ctl00_Content_btnPrevious\" accesskey=\"P\" title=\"Access
-        Key: P\" class=\"button\" />\r\n    </div>\r\n\r\n\r\n                    <div
-        class=\"clear\"></div>\r\n                    <br />\r\n                    <br
-        />\r\n                    <br />\r\n                </div>\r\n                </div>\r\n
-        \           </div>\r\n            <p></p>\r\n            <p class=\"invisible\"></p>\r\n
-        \           <div id=\"cssBottomBar\" class=\"cssNoPrint\">\r\n                <div
-        id=\"cssBottomBarLegal\">                 \r\n                    <a id=\"ctl00_hplCustomFooterLink1\"
-        href=\"https://www.fremantle.wa.gov.au/council/about-city-fremantle/website-privacy\">Privacy</a>\r\n
-        \                   <img id=\"ctl00_imgFooterSeparator1\" class=\"verticalBar\"
-        src=\"../../App_Themes/COF/Images/VerticalBarBlack.gif\" alt=\"\" style=\"height:10px;width:1px;border-width:0px;\"
-        />\r\n                    <a id=\"ctl00_hplCustomFooterLink2\" href=\"https://www.fremantle.wa.gov.au/council/about-city-fremantle/disclaimer\">Terms
-        of Use</a>\r\n                    <img id=\"ctl00_imgFooterSeparator2\" class=\"verticalBar\"
-        src=\"../../App_Themes/COF/Images/VerticalBarBlack.gif\" alt=\"\" style=\"height:10px;width:1px;border-width:0px;\"
-        />\r\n                    <a id=\"ctl00_hplCustomFooterLink3\" href=\"https://www.fremantle.wa.gov.au/i-want-to/contact-city\">Contact
-        Us</a>                       \r\n                    <span id=\"ctl00_MobileLink\">\r\n
-        \                       <img id=\"ctl00_Image1\" class=\"verticalBar\" src=\"../../App_Themes/COF/Images/VerticalBarBlack.gif\"
-        alt=\"\" style=\"height:10px;width:1px;border-width:0px;\" />\r\n                        <a
-        id=\"ctl00_hplMobileView\" href=\"javascript:__doPostBack('ctl00$hplMobileView','')\">Mobile
-        View</a>                       \r\n                    </span>\r\n                </div>\r\n
-        \               <div id=\"cssBottomBarCopyright\">&copy; Technology One Limited
-        2020</div>\r\n            </div>\r\n            \r\n        </div>\r\n    </form>\r\n</body>\r\n</html>\r\n"
-    http_version: 
-  recorded_at: Tue, 14 May 2019 14:00:00 GMT
-recorded_with: VCR 5.0.0
+recorded_with: VCR 6.0.0
