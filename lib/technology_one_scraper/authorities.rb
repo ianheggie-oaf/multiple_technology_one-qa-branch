@@ -42,6 +42,10 @@ module TechnologyOneScraper
       url: "https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
       period: "L28"
     },
+    hawkesbury: {
+      url: "https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
+      period: "L28"
+    },
     hume: {
       url: "https://ehume.hume.vic.gov.au/T1PRProd/WebApps/eProperty",
       period: "L28",
