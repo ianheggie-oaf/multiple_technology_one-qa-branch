@@ -75,9 +75,8 @@ module TechnologyOneScraper
       period: "L28"
     },
     mid_western: {
-      url: "https://eservices.midwestern.nsw.gov.au/T1PRProd/WebApps/eProperty",
-      period: "L28",
-      australian_proxy: true
+      url: "https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
+      period: "L28"
     },
     mornington_peninsula: {
       url: "https://epeninsula.mornpen.vic.gov.au/P1PRPROD",
