@@ -102,10 +102,8 @@ module TechnologyOneScraper
       webguest: "PSC.P1.WEBGUEST"
     },
     qprc: {
-      url: "https://services.qprc.nsw.gov.au/T1PRProd/WebApps/eProperty",
-      period: "L28",
-      # Site has an incomplete certificate chain. See https://www.ssllabs.com/ssltest/analyze.html?d=services.qprc.nsw.gov.au&latest
-      disable_ssl_certificate_check: true
+      url: "https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
+      period: "L28"
     },
     ryde: {
       url: "https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty",
