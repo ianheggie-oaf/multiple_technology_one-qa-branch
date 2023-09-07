@@ -39,14 +39,8 @@ module TechnologyOneScraper
       period: "L28"
     },
     goulburn: {
-      url: "https://eservices.goulburn.nsw.gov.au/T1PRProd/WebApps/eProperty",
-      period: "TW",
-      disable_ssl_certificate_check: true,
-      # Goulburn is blocking requests from outside Australia. You can verify this
-      # yourself by scraping via a VPN and switch between different countries.
-      # morph.io is hosted in the US. So, to get around this we send our
-      # traffic to an australian proxy
-      australian_proxy: true
+      url: "https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
+      period: "L28"
     },
     hume: {
       url: "https://ehume.hume.vic.gov.au/T1PRProd/WebApps/eProperty",

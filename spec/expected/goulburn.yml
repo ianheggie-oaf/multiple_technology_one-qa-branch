@@ -1,76 +1,484 @@
 ---
-- council_reference: CC/0005/2021
-  address: 176 Sloane Street GOULBURN NSW 2580
-  description: Proposed change of use to a dwelling and bed and breakfast and associated
-    alterations and additions
-  info_url: https://eservices.goulburn.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0005%2F2021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+- council_reference: CC/0026/2324
+  address: 8 Bellevue Street GOULBURN NSW 2580
+  description: Alterations and Additions to Dwelling and Detached Garage
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0026%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-07-06'
-- council_reference: CC/0006/2021
-  address: 53 Victoria Street GOULBURN NSW 2580
-  description: Construction of New Garage
-  info_url: https://eservices.goulburn.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0006%2F2021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-11'
+- council_reference: CC/0027/2324
+  address: 18 Platypus Circuit GOULBURN NSW 2580
+  description: Dwelling - Private (Accredited Building Certifiers Pty Ltd)
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0027%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-07-06'
-- council_reference: CC/0007/2021
-  address: 16 Vincent Avenue GOULBURN NSW 2580
-  description: Single storey Dwelling with attached garage and attached Granny Flat
-  info_url: https://eservices.goulburn.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0007%2F2021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-11'
+- council_reference: CC/0028/2324
+  address: 43 Hoddle Avenue GOULBURN NSW 2580
+  description: A new pergola and deck attached to an existing residence.
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0028%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-07-06'
-- council_reference: CC/0008/2021
-  address: 8 Copford Road GOULBURN NSW 2580
-  description: Extension to existing Shed
-  info_url: https://eservices.goulburn.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0008%2F2021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-11'
+- council_reference: CC/0029/2324
+  address: 924 Gurrundah Road POMEROY NSW 2580
+  description: Modification to poultry shed walls and installation of fans
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0029%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-07-06'
-- council_reference: CC/0009/2021
-  address: 6 Vincent Avenue GOULBURN NSW 2580
-  description: Construction of an attached primary and secondary dwelling (Private
-    CC - BBAC Certifiers)
-  info_url: https://eservices.goulburn.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0009%2F2021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-14'
+- council_reference: CC/0031/2324
+  address: 1 Llewellyn Avenue GOULBURN NSW 2580
+  description: Install an Inground Fiberglass Swimming Pool and Pool House.
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0031%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-07-06'
-- council_reference: CC/0010/2021
-  address: 3 Kidd Circuit GOULBURN NSW 2580
-  description: Addition's and Alterations -New Pool and alfresco
-  info_url: https://eservices.goulburn.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0010%2F2021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-15'
+- council_reference: CC/0032/2324
+  address: 30 Murray Street GOULBURN NSW 2580
+  description: Constrcut a steel framed colourbond shed
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0032%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-07-08'
-- council_reference: CC/0011/2021
-  address: 13 Vincent Avenue GOULBURN NSW 2580
-  description: Construction of a residential dwelling with attached garage and alfresco
-  info_url: https://eservices.goulburn.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0011%2F2021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-15'
+- council_reference: CC/0033/2324
+  address: 118 Bonnett Drive RUN O WATERS NSW 2580
+  description: Construction of a 5m x 9m patio
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0033%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-07-08'
-- council_reference: CDC/0002/2021
-  address: 34 Collins Street MARULAN NSW 2579
-  description: Construction of a Single Storey Dwelling (Private CDC - New Home Certification
-    Group)
-  info_url: https://eservices.goulburn.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC%2F0002%2F2021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-15'
+- council_reference: CC/0034/2324
+  address: 150 Mulwaree Street TARAGO NSW 2580
+  description: New Single Dwelling
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0034%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-07-06'
-- council_reference: DA/0005/2021
-  address: 53 Victoria Street GOULBURN NSW 2580
-  description: Construction of New Garage
-  info_url: https://eservices.goulburn.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0005%2F2021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-16'
+- council_reference: CC/0035/2324
+  address: 15 Wheatley Avenue GOULBURN NSW 2580
+  description: Construction of new Garage
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0035%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-07-06'
-- council_reference: DA/0006/2021
-  address: 3 Gertrude Street GOULBURN NSW 2580
-  description: Construction of Single Storey Dwelling
-  info_url: https://eservices.goulburn.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0006%2F2021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-17'
+- council_reference: CC/0036/2324
+  address: 8 Merilla Lane PARKESBOURNE NSW 2580
+  description: Install in ground fibreglass swimming pool (Private - Premium Building
+    Certifiers)
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0036%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-07-07'
-- council_reference: DA/0007/2021
-  address: 3 Kidd Circuit GOULBURN NSW 2580
-  description: Addition's and Alterations -New Pool and alfresco
-  info_url: https://eservices.goulburn.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0007%2F2021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-17'
+- council_reference: CC/0037/2324
+  address: 3A Ivy Lea Place GOULBURN NSW 2580
+  description: Rebuild fire damaged dwelling
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0037%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-07-08'
-- council_reference: MODDA/0001/2021
-  address: 17 Fenwick Crescent GOULBURN NSW 2580
-  description: Modification to balcony design for dwellings 15-19
-  info_url: https://eservices.goulburn.nsw.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MODDA%2F0001%2F2021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-21'
+- council_reference: CC/0038/2324
+  address: 778 Crookwell Road KINGSDALE NSW 2580
+  description: Proposed dwelling, demolition of existing structures and decommission
+    septic tank
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0038%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-07-08'
+  date_received: '2023-08-21'
+- council_reference: CC/0039/2324
+  address: 108 Victoria Street GOULBURN NSW 2580
+  description: Construction of a Swimming Pool
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0039%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-22'
+- council_reference: CC/0040/2324
+  address: 35 Madeleine Drive GOULBURN NSW 2580
+  description: Dual Occupancy
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0040%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-22'
+- council_reference: CC/0041/2324
+  address: 14 Herdwick Place MARULAN NSW 2579
+  description: Installation of Fibreglass Swimming Pool - Private (Buildcert)
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0041%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-24'
+- council_reference: CC/0042/2324
+  address: Norwood Road KINGSDALE NSW 2580
+  description: Farm building (Private - Building Certifiers Pty Ltd)
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0042%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-25'
+- council_reference: CC/0043/2324
+  address: 70 Mulwaree Street TARAGO NSW 2580
+  description: CC application - proposed covered deck
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0043%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-25'
+- council_reference: CC/0044/2324
+  address: 34 Platypus Circuit GOULBURN NSW 2580
+  description: construct a steel framed colour bond shed
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0044%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-28'
+- council_reference: CC/0045/2324
+  address: 10 Southdown Road MARULAN NSW 2579
+  description: Construction of a new residence and shed on vacant land. - Private
+    (Stoneybark Building Certification)
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0045%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-30'
+- council_reference: CC/0046/2324
+  address: 9 Evangelista Street GOULBURN NSW 2580
+  description: Construction of two semi-detached dwellings with attached garages -
+    Private (BCA Certifiers)
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0046%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-30'
+- council_reference: CC/0047/2324
+  address: 3 Albert Street GOULBURN NSW 2580
+  description: Alterations and additions to an existing dwelling. Demolition of an
+    existing garage and construction of a new one.
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0047%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-30'
+- council_reference: CC/0048/2324
+  address: 30 Stone Place GOULBURN NSW 2580
+  description: Section 4.55 (1a) modification - addition of room PRIVATE BCA Certifiers
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0048%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-30'
+- council_reference: CC/0049/2324
+  address: 1 Colvin Place GOULBURN NSW 2580
+  description: Construction of a Single Storey Dwelling
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0049%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-01'
+- council_reference: CC/0050/2324
+  address: 63 Queen Street GOULBURN NSW 2580
+  description: Pylon & Canopy Signage - Private (BCA Certifiers)
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0050%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-04'
+- council_reference: CC/0051/2324
+  address: 702 Carrick Road CARRICK NSW 2580
+  description: Detached shed and amenities.
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0051%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-04'
+- council_reference: CC/0052/2324
+  address: 445 Sandy Point Road WINDELLAMA NSW 2580
+  description: Construction of a machinery shed and barn shed.
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC%2F0052%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-05'
+- council_reference: CDC/0014/2324
+  address: 14 Barry Crescent GOULBURN NSW 2580
+  description: Install inground fibreglass swimming pool - Private (Premium Building
+    Certifiers)
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC%2F0014%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-30'
+- council_reference: CDC/0015/2324
+  address: 35 Bonneville Boulevard GOULBURN NSW 2580
+  description: Two (2) Lot Strata Subdivision - Private (Barker Ryan Stewart Pty Ltd)
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC%2F0015%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-31'
+- council_reference: CDC/0016/2324
+  address: 217 Auburn Street GOULBURN NSW 2580
+  description: Internal shop fitout for use as retail premises for "Platypus Shoes"
+    - Shop 6 - Total cost of works - $45,000 - Private (Advance Building Approvals)
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC%2F0016%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-31'
+- council_reference: CDC/0017/2324
+  address: 37 Bonneville Boulevard GOULBURN NSW 2580
+  description: Two (2) Lot Strata Subdivision - Private (Barker Ryan Stewart Pty Ltd)
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC%2F0017%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-31'
+- council_reference: CDC/0018/2324
+  address: 27 Bonneville Boulevard GOULBURN NSW 2580
+  description: Subdivision of Land Two(2) Lot Subdivision PRIVATE BRS
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC%2F0018%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-31'
+- council_reference: CDC/0019/2324
+  address: 25 Bonneville Boulevard GOULBURN NSW 2580
+  description: Two lot strata subdivision (Private - Barker Ryan Stewart Pty Limited)
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC%2F0019%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-01'
+- council_reference: CDC/0020/2324
+  address: 39 Bonneville Boulevard GOULBURN NSW 2580
+  description: Two (2) Lot Strata Subdivision - Private (Barker Ryan Stewart Pty Limited)
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC%2F0020%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-04'
+- council_reference: CDC/0021/2324
+  address: 14 Mewburn Drive GOULBURN NSW 2580
+  description: Alterations & Additions to Existing Dwelling - Private (BCA Certifiers
+    Australia Pty Ltd)
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC%2F0021%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-05'
+- council_reference: DA/0073/2324
+  address: 13 Bumballa Street TALLONG NSW 2579
+  description: Detached Steel Framed Shed
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0073%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-11'
+- council_reference: DA/0074/2324
+  address: 96 Winfarthing Road MARULAN NSW 2579
+  description: Removal of existing relocatable dwelling, construction of a new single
+    story dwelling on the original dwelling location.
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0074%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-11'
+- council_reference: DA/0075/2324
+  address: 26 Snowgums Drive GOULBURN NSW 2580
+  description: dwelling house, pool and pool cabana
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0075%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-11'
+- council_reference: DA/0076/2324
+  address: 32 Goulburn Street TARAGO NSW 2580
+  description: 3 Lot Non-Serviced residential subdivision
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0076%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-14'
+- council_reference: DA/0077/2324
+  address: 15 Jockey Court GOULBURN NSW 2580
+  description: Alterations and additions. Extension and enclosure of existing alfresco.
+    New pergola. Detached shed with WC. (PAN-360171)
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0077%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-16'
+- council_reference: DA/0078/2324
+  address: 50 Caoura Road TALLONG NSW 2579
+  description: Construction of a new Single Storey Dwelling
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0078%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-17'
+- council_reference: DA/0079/2324
+  address: 50 Caoura Road TALLONG NSW 2579
+  description: Detached Steel Framed Shed
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0079%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-17'
+- council_reference: DA/0080/2324
+  address: 35 Madeleine Drive GOULBURN NSW 2580
+  description: Dual Occupancy
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0080%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-18'
+- council_reference: DA/0081/2324
+  address: 70 Mulwaree Street TARAGO NSW 2580
+  description: Rear verandah
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0081%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-21'
+- council_reference: DA/0082/2324
+  address: 112 Park Road GOULBURN NSW 2580
+  description: "New detached shed \r\nThere is a sewer drain approximately in the
+    middle of the yard. The garage will be 1.5 meters from existing drain as per council
+    regulation. Due to this it has been suggested that the garage be built less than
+    900mm from the left boundary fence."
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0082%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-21'
+- council_reference: DA/0083/2324
+  address: 77 Corrinyah Road BRISBANE GROVE NSW 2580
+  description: Demolition of an existing dwelling and erection of a new dwelling
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0083%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-21'
+- council_reference: DA/0084/2324
+  address: 139 Readers Road QUIALIGO NSW 2580
+  description: Alternations and Additions to existing House
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0084%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-21'
+- council_reference: DA/0085/2324
+  address: 477 Mountain Ash Road GUNDARY NSW 2580
+  description: "*RETURNED* Conversion of the existing part shed to a secondary dwelling."
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0085%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-21'
+- council_reference: DA/0086/2324
+  address: 16 Corriedale Drive MARULAN NSW 2579
+  description: Proposed colorbond metal shed 6m x 14m.
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0086%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-21'
+- council_reference: DA/0087/2324
+  address: 31 Ottiwell Street GOULBURN NSW 2580
+  description: "*RETURNED* proposed detached secondary dwelling to the rear of subject
+    property"
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0087%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-21'
+- council_reference: DA/0088/2324
+  address: 157 Long Street GOULBURN NSW 2580
+  description: resited house
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0088%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-21'
+- council_reference: DA/0089/2324
+  address: 34 Platypus Circuit GOULBURN NSW 2580
+  description: construct a steel framed colour bond shed
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0089%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-23'
+- council_reference: DA/0090/2324
+  address: 88 Badgerys Lookout Road TALLONG NSW 2579
+  description: Proposed single storey dwelling to replace demolished fire damaged
+    dwelling.
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0090%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-23'
+- council_reference: DA/0091/2324
+  address: 25 Corriedale Drive MARULAN NSW 2579
+  description: RETURNED Construction of single storey dwelling subdivision one lot
+    into two lots
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0091%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-24'
+- council_reference: DA/0092/2324
+  address: 1107 Towrang Road TOWRANG NSW 2580
+  description: Erection of a farm building
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0092%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-24'
+- council_reference: DA/0093/2324
+  address: 30 Paddys Close LOWER BORO NSW 2580
+  description: RETURNED - new dwelling
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0093%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-25'
+- council_reference: DA/0094/2324
+  address: 134 Old South Road YARRA NSW 2580
+  description: Alternations & Additions to Existing Dwelling
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0094%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-27'
+- council_reference: DA/0095/2324
+  address: 17 Lime Street TARAGO NSW 2580
+  description: Construction of single story dwelling, detached shed, installation
+    of effluent disposal system, rainwater tanks, hard stand, driveway and associated
+    earthworks.
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0095%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-27'
+- council_reference: DA/0096/2324
+  address: 2 Jockey Court GOULBURN NSW 2580
+  description: "*RETURNED* Proposed construction of 9m x 12m shed"
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0096%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-28'
+- council_reference: DA/0097/2324
+  address: 85-115 Chantry Street GOULBURN NSW 2580
+  description: "*RETURNED* Proposed three (3) lot subdivision, construction of forty-six
+    (46) dwelling multi-dwelling housing development, eleven (11) warehouse units
+    with associated car parking, construction of private and public roads with stormwater
+    drainage works and landscaping."
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0097%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-28'
+- council_reference: DA/0098/2324
+  address: 31 King Street BUNGONIA NSW 2580
+  description: Construction of single stotey dwelling and associated earthworks
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0098%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-28'
+- council_reference: DA/0099/2324
+  address: 130 Deccan Street GOULBURN NSW 2580
+  description: Demolition of existing dwelling and construction of centre based childcare
+    facility for 120 children
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0099%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-28'
+- council_reference: DA/0100/2324
+  address: 251 Annies Lane WOODHOUSELEE NSW 2580
+  description: "*WITHDRAWN* Change in use of an existing approved garage into a dwelling"
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0100%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-29'
+- council_reference: DA/0101/2324
+  address: 20 Chettle Lane GUNDARY NSW 2580
+  description: Construction of proposed Secondary Dwelling including removal of three
+    (3) trees.
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0101%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-29'
+- council_reference: DA/0102/2324
+  address: 28 Addison Street GOULBURN NSW 2580
+  description: Multi Dwelling Housing and associated infrastructure
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0102%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-04'
+- council_reference: DA/0103/2324
+  address: 251 Annies Lane WOODHOUSELEE NSW 2580
+  description: Change in use of an existing approved garage into a dwelling including
+    alterations and additions.
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0103%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-04'
+- council_reference: DA/0104/2324
+  address: 24 Caoura Road TALLONG NSW 2579
+  description: Construction of a new Single Storey Dwelling
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0104%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-05'
+- council_reference: DA/0105/2324
+  address: 201 Caoura Road TALLONG NSW 2579
+  description: RETURNED Construction of 500m2 farm building (not fully enclosed) and
+    associated earthworks to facilitate construction.
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0105%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-05'
+- council_reference: DA/0106/2324
+  address: 85-115 Chantry Street GOULBURN NSW 2580
+  description: Proposed subdivision into three (3) lots, construction of forty-six
+    (46) dwellings in multi-dwelling housing development, eleven (11) warehouse units
+    with associated carparking, construction of private and public roads with stormwater
+    drainage works and landscaping.
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0106%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-06'
+- council_reference: DA/0107/2324
+  address: 8 Carmella Drive GOULBURN NSW 2580
+  description: DWELLING, ATTACHED GARAGE, POOL, RETAINING WALLS, DRIVEWAYS
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0107%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-06'
+- council_reference: DA/0108/2324
+  address: 25 Corriedale Drive MARULAN NSW 2579
+  description: propose construction single storey dwelling related landscaping subdividing
+    one lot into two lots
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0108%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-06'
+- council_reference: DA/0109/2324
+  address: Norwood Road MIDDLE ARM NSW 2580
+  description: Construction of an Agricultural storage shed with WC and associated
+    site works.
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA%2F0109%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-06'
+- council_reference: MODCD/0004/2324
+  address: 16 Madeleine Drive GOULBURN NSW 2580
+  description: Proposed Dual Occupancy & Torrens Title Subdivision - Private (Building
+    Certification Associates Pty Ltd)
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MODCD%2F0004%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-25'
+- council_reference: MODDA/0018/2324
+  address: 138 Sunninghill Road WINDELLAMA NSW 2580
+  description: MOD 4.55(1A) to construction of two (2) sheds and additional use as
+    a community facility. (PAN-366080)
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MODDA%2F0018%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-30'
+- council_reference: MODDA/0019/2324
+  address: 64 Sinclair Street GOULBURN NSW 2580
+  description: Storage unit development.
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MODDA%2F0019%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-04'
+- council_reference: MODDA/0020/2324
+  address: 33-35 Lagoon Street GOULBURN NSW 2580
+  description: Alteration to Trade Waste Contimainated Water Treatment and the installation
+    of alternative treatment system.
+  info_url: https://gmc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MODDA%2F0020%2F2324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-05'
