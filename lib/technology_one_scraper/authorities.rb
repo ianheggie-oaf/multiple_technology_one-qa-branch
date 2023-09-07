@@ -128,7 +128,8 @@ module TechnologyOneScraper
       period: "TM",
       webguest: "SSC.P1.WEBGUEST",
       # ssslabs shows an incomplete certificate. Ugh.
-      disable_ssl_certificate_check: true
+      disable_ssl_certificate_check: true,
+      australian_proxy: true
     },
     tamworth: {
       url: "https://eproperty.tamworth.nsw.gov.au/T1PRProd/WebApps/eProperty",
