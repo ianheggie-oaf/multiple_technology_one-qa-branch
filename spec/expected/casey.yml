@@ -1,761 +1,594 @@
 ---
-- council_reference: PA21-0233
-  address: 135-331I Narre Warren North Road NARRE WARREN VIC 3805
-  description: Native Vegetation Removal
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0233&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+- council_reference: PA23-0410
+  address: 21 Sunset Boulevard BERWICK VIC 3806
+  description: Installation of a Business Identification Sign
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0410&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-04-20'
-- council_reference: PA21-0239
-  address: 37 Rainier Crescent CLYDE NORTH VIC 3978
-  description: Development of a Warehouse with an Ancillary Mezzanine Office
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0239&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-18'
+- council_reference: PA23-0431
+  address: 2 Abbott Road HALLAM VIC 3803
+  description: Alterations and Additions to an Existing Industrial Building and Reduction
+    in Car Parking
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0431&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-04-21'
-- council_reference: PA21-0255
-  address: 12 Valma Avenue CRANBOURNE VIC 3977
-  description: Development of a Second Dwelling
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0255&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-15'
+- council_reference: PA23-0433
+  address: 9 Hazeldean Court HAMPTON PARK VIC 3976
+  description: Development of Dwelling to Rear of Existing Property and 2 Lot Subdivision
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0433&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-04-26'
-- council_reference: PA21-0257
-  address: 19 Laurel Avenue DOVETON VIC 3177
-  description: Development of Three (Double Storey) Dwellings with Associated Carparking
+  date_received: '2023-08-13'
+- council_reference: PA23-0437
+  address: 55S Butternut Drive LYNDHURST VIC 3975
+  description: Multi Lot Subdivision
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0437&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-28'
+- council_reference: PA23-0438
+  address: 178 Hessell Road HARKAWAY VIC 3806
+  description: Removal of Cypress Trees
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0438&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-15'
+- council_reference: PA23-0439
+  address: 70S Smiths Lane CLYDE NORTH VIC 3978
+  description: Use and Development of Land for Supermarket, Bottle Shop, Speciality
+    Retail Premises, Food and Drink Premises, Medical Centre, Offices, and Restricted
+    Recreation Facility (Swim School and Gym) associated with Smiths Lane Town Centre
+    (Alexander Boulevard Town Centre), the Use of land for the Sale of Liquor, and
+    a Reduction in Car Parking Requirements.
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0439&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-14'
+- council_reference: PA23-0440
+  address: 65 Valley Fair Drive NARRE WARREN VIC 3805
+  description: Development of Multi Units
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0440&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-14'
+- council_reference: PA23-0441
+  address: 39 Craig Road JUNCTION VILLAGE VIC 3977
+  description: Development of 34 Dwellings
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0441&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-31'
+- council_reference: PA23-0442
+  address: 16 Banksia Street DOVETON VIC 3177
+  description: Development of Two Dwellings
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0442&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-15'
+- council_reference: PA23-0444
+  address: 23 Hamersley Drive CLYDE NORTH VIC 3978
+  description: Use of Land (Retail Store)
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0444&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-17'
+- council_reference: PA23-0445
+  address: 155-157 Beaumont Road BERWICK VIC 3806
+  description: Development of an Agricultural Shed and Earthworks Greater than 1M
+    (Fill)
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0445&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-16'
+- council_reference: PA23-0447
+  address: 32-34 Glen Moidart Drive BERWICK VIC 3806
+  description: Development of One Dwelling
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0447&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-17'
+- council_reference: PA23-0448
+  address: 31 Marylyn Place CRANBOURNE VIC 3977
+  description: Development of Two Dwellings
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0448&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-20'
+- council_reference: PA23-0449
+  address: 19 Woodlands Crescent NARRE WARREN VIC 3805
+  description: Three Lot Subdivision
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0449&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-18'
+- council_reference: PA23-0450
+  address: 252-258C Clyde Road BERWICK VIC 3806
+  description: Use of the land for a Food and Drink Premises
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0450&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-21'
+- council_reference: PA23-0451
+  address: 11 South Anderson Court CRANBOURNE VIC 3977
+  description: Additional Dwelling and Two Lot Subdivision
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0451&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-24'
+- council_reference: PA23-0452
+  address: 23 Whitfield Boulevard CRANBOURNE WEST VIC 3977
+  description: Development of Warehouse with Ancillary Office
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0452&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-23'
+- council_reference: PA23-0453
+  address: 6 Fairbairn Road CRANBOURNE VIC 3977
+  description: Two Lot Subdivision
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0453&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-22'
+- council_reference: PA23-0454
+  address: 200 Pearcedale Road CRANBOURNE SOUTH VIC 3977
+  description: Buildings & Works and Earthworks (Retrospective)
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0454&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-24'
+- council_reference: PA23-0455
+  address: 29 Eumemmerring Drive EUMEMMERRING VIC 3177
+  description: Development of Three Dwellings
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0455&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-23'
+- council_reference: PA23-0457
+  address: 17 Margaret Street BERWICK VIC 3806
+  description: Development of the Land for Three Dwellings for Specialist Disability
+    Accommodation (NDIS)
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0457&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-23'
+- council_reference: PA23-0458
+  address: 33 Plateau Crescent HAMPTON PARK VIC 3976
+  description: Vary and Remove Covenant
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0458&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-23'
+- council_reference: PA23-0459
+  address: 30-34 Rainier Crescent CLYDE NORTH VIC 3978
+  description: Business Identification Signage
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0459&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-23'
+- council_reference: PA23-0460
+  address: 515 Tyabb-Tooradin Road PEARCEDALE VIC 3912
+  description: Development of a Farm Shed and Outbuilding
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0460&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-24'
+- council_reference: PA23-0461
+  address: 7 Yucatan Court CLYDE VIC 3978
+  description: Use and Development of a Child Care Centre and Display of Business
+    Identification Signage
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0461&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-24'
+- council_reference: PA23-0462
+  address: 8 Heatherdew Close ENDEAVOUR HILLS VIC 3802
+  description: Development of a Second Dwelling and Alterations and Additions to an
+    existing Dwelling
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0462&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-28'
+- council_reference: PA23-0463
+  address: 209-219I Belgrave-Hallam Road NARRE WARREN NORTH VIC 3804
+  description: Installation of a Telecommunications Facility
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0463&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-28'
+- council_reference: PA23-0464
+  address: 95 Albert Road HALLAM VIC 3803
+  description: Development of Four Dwellings (Comprising three single storey and one
+    double storey Attached Dwellings) with Associated Carparking Provision
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0464&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-28'
+- council_reference: PA23-0465
+  address: 28 Scott Street CRANBOURNE VIC 3977
+  description: Development of Four Dwellings
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0465&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-28'
+- council_reference: PA23-0466
+  address: 4 Oakden Street PEARCEDALE VIC 3912
+  description: Development of a Second Dwelling and Alterations and Additions to an
+    existing Dwelling
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0466&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-28'
+- council_reference: PA23-0468
+  address: 109 Gipps Crescent CRANBOURNE NORTH VIC 3977
+  description: Development of a Second Dwelling and Alterations and Additions to an
+    existing Dwelling
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0468&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-29'
+- council_reference: PA23-0469
+  address: 155 Greaves Road NARRE WARREN SOUTH VIC 3805
+  description: Use and Development of a Child Care Centre
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0469&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-30'
+- council_reference: PA23-0470
+  address: 2175 Smiths Lane CLYDE NORTH VIC 3978
+  description: Display of Promotional Signage (Land for Sale)
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0470&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-30'
+- council_reference: PA23-0471
+  address: 9 Lilly Pilly Avenue DOVETON VIC 3177
+  description: Alterations and Additions to an existing Single Storey Dwelling and
+    Development of a Second Double Storey Dwelling, both with Associated Carparking
     Provision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0257&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0471&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-04-20'
-- council_reference: PA21-0258
-  address: 8 Cordia Avenue BOTANIC RIDGE VIC 3977
-  description: Development of a Swimming Pool
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0258&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-30'
+- council_reference: PA23-0472
+  address: 100 Anchorage Drive BLIND BIGHT VIC 3980
+  description: Installation of an Odour Control Unit to an existing Water Recycling
+    Plant
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0472&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-04-21'
-- council_reference: PA21-0262
-  address: 7 Pearcedale Road PEARCEDALE VIC 3912
-  description: Development of a Dependant Person's Unit
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0262&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-19'
-- council_reference: PA21-0270
-  address: 35 Somerville Road HAMPTON PARK VIC 3976
-  description: Development of Eighteen Dwellings (Two and Three Storey) and Associated
-    Carparking Provision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0270&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-20'
-- council_reference: PA21-0277
-  address: 30 Volk Road CRANBOURNE WEST VIC 3977
-  description: Section 23 (Creation of Easement)
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0277&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-19'
-- council_reference: PA21-0279
-  address: 38 Louis Street DOVETON VIC 3177
-  description: Development of Three Dwellings
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0279&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-20'
-- council_reference: PA21-0280
-  address: 3 Wethersdane Drive HAMPTON PARK VIC 3976
-  description: Multi-Lot Subdivision, Development of Nineteen Dwellings and Construction
-    of a Shared Path within the Urban Floodway Zone and Creation of a Carriageway
-    Easement at 4 Wethersdane Drive Hampton Park
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0280&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-22'
-- council_reference: PA21-0281
-  address: 1 Gori Court NARRE WARREN NORTH VIC 3804
-  description: Two Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0281&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-05'
-- council_reference: PA21-0282
-  address: 55-57 Hallam South Road HALLAM VIC 3803
-  description: Development of a Warehouse and Creation of Access to a Road in a Road
-    Zone Category 1
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0282&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-28'
-- council_reference: PA21-0283
-  address: 4 Wethersdane Drive HAMPTON PARK VIC 3976
-  description: Staged Muti-Lot Subdivision, Development of Thirty Eight Dwellings,
-    Development of a Shared Path Within an Urban Floodway Zone, Removal of Covenant
-    K200394 and Creation of a Carriageway Easement at 3 Wethersdane Drive)
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0283&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-26'
-- council_reference: PA21-0284
-  address: 10 Branca Court NARRE WARREN NORTH VIC 3804
-  description: Development of a Barn, Chicken Coop and Greenhouse
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0284&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-20'
-- council_reference: PA21-0285
-  address: 13 Welsh Crescent CLYDE NORTH VIC 3978
-  description: Display of a V Sign and Two Double Sided Blade Signs
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0285&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-23'
-- council_reference: PA21-0286
-  address: 10 Murray Court CRANBOURNE VIC 3977
-  description: Development of a Second Dwelling
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0286&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-21'
-- council_reference: PA21-0288
-  address: 106 Paperbark Street DOVETON VIC 3177
-  description: Development of Two Additional Dwellings at the Rear of the existing
-    Dwelling
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0288&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-10'
-- council_reference: PA21-0289
-  address: 470 Pattersons Road CLYDE VIC 3978
-  description: Two Lot Subdivision and Creation of a Restriction (Carriageway Easement)
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0289&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-22'
-- council_reference: PA21-0290
-  address: 470 Pattersons Road CLYDE VIC 3978
-  description: Two Lot Subdivision and Creation of a Restriction (Carriage Way Easement)
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0290&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-22'
-- council_reference: PA21-0291
-  address: 123 Camms Road CRANBOURNE VIC 3977
-  description: Two Lot Subdivision and Creation of Restriction
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0291&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-21'
-- council_reference: PA21-0292
-  address: 1965 Ballarto Road CLYDE VIC 3978
-  description: Two Lot Subdivision and Creation of a Restriction (Carriage Way Easement)
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0292&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-22'
-- council_reference: PA21-0293
-  address: 25 Stenocarpus Drive DOVETON VIC 3177
-  description: Two Lot Subdivision and Creation of Restriction
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0293&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-23'
-- council_reference: PA21-0294
-  address: 46 Cheviot Avenue BERWICK VIC 3806
-  description: Three Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0294&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-23'
-- council_reference: PA21-0295
-  address: 89-101 Oakgrove Drive NARRE WARREN SOUTH VIC 3805
-  description: Section 24A (Removal & Vesting of Reserve) & Boundary Realignment between
-    Two Existing Council Reserves
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0295&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-23'
-- council_reference: PA21-0297
-  address: 33 Bakewell Street CRANBOURNE VIC 3977
-  description: Development of 19 Dwelling and Reduction in Car Parking requirements
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0297&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-26'
-- council_reference: PA21-0298
-  address: 35 Hamersley Drive CLYDE NORTH VIC 3978
-  description: Development of Eight Restricted Retail Units, Warehouse and Office
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0298&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-27'
-- council_reference: PA21-0303
-  address: 48 Paramount Boulevard CRANBOURNE WEST VIC 3977
-  description: Development of a Warehouse with ancillary Office and a Reduction in
-    Car Parking Requirements
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0303&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-27'
-- council_reference: PA21-0304
-  address: 14 The Birches DOVETON VIC 3177
-  description: Development of Three Dwellings
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0304&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-27'
-- council_reference: PA21-0305
-  address: 46 Paramount Boulevard CRANBOURNE WEST VIC 3977
-  description: Development of a Warehouse, ancillary Office and Reduction in Car Parking
-    requirements
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0305&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-29'
-- council_reference: PA21-0306
-  address: 46 Beaumont Road BERWICK VIC 3806
-  description: Section 23 (Creation of Easement)
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0306&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-27'
-- council_reference: PA21-0307
-  address: 1 Maughan Way CRANBOURNE WEST VIC 3977
-  description: Section 22 (Consolidation) - Consolidation of Lots 79-83 on PS742537Q
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0307&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-27'
-- council_reference: PA21-0308
-  address: 4 Alice Court HALLAM VIC 3803
-  description: Three Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0308&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-27'
-- council_reference: PA21-0309
-  address: 5 Eumemmerring Drive EUMEMMERRING VIC 3177
-  description: Two Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0309&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-27'
-- council_reference: PA21-0310
-  address: 6 Jane Street BERWICK VIC 3806
-  description: Development of a Five Storey Residential Building (Including Basement
-    Parking) and a Reduction in Visitor Car Parking Requirements
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0310&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-03'
-- council_reference: PA21-0311
-  address: 275 Evans Road CRANBOURNE WEST VIC 3977
-  description: Five Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0311&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-28'
-- council_reference: PA21-0312
-  address: 664 Cranbourne-Frankston Road CRANBOURNE SOUTH VIC 3977
-  description: Development of a Dam, Outbuilding (Shed) and associated Earthworks
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0312&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-30'
-- council_reference: PA21-0313
-  address: 19-20 Madelyn Court CRANBOURNE SOUTH VIC 3977
-  description: Use of the land as a Contractor's Depot and Development of Stables
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0313&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-30'
-- council_reference: PA21-0314
-  address: 6 Fairmont Court NARRE WARREN NORTH VIC 3804
-  description: Two Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0314&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-29'
-- council_reference: PA21-0315
-  address: 6 Penrith Court BERWICK VIC 3806
-  description: Development of a Second Dwelling
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0315&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-03'
-- council_reference: PA21-0316
-  address: 90 Craig Road DEVON MEADOWS VIC 3977
-  description: Development of an Extension and Verandah to the Existing Dwelling and
-    Development of a Garage and Vegetation Removal on Land Affected by a Land Subject
-    to Inundation Overlay
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0316&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-03'
-- council_reference: PA21-0317
-  address: 12 James Cook Drive ENDEAVOUR HILLS VIC 3802
-  description: Two Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0317&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-03'
-- council_reference: PA21-0318
-  address: 14 Homewood Road CRANBOURNE SOUTH VIC 3977
-  description: Development of Two Sheds on Land Affected by a Bushfire Management
-    and Environmental Significance Overlay
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0318&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-04'
-- council_reference: PA21-0321
-  address: 5 Manuka Road BERWICK VIC 3806
-  description: Removal of One Tree
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0321&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-05'
-- council_reference: PA21-0322
-  address: 31 Bartok Court NARRE WARREN SOUTH VIC 3805
-  description: Two Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0322&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-04'
-- council_reference: PA21-0323
-  address: 33 Louis Street DOVETON VIC 3177
-  description: Three Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0323&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-04'
-- council_reference: PA21-0325
-  address: Fy 17/151-159 Princes Highway HALLAM VIC 3803
-  description: Use of Premises for a Restricted Recreation Facility (Pilates and Fitness
-    Studio)
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0325&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-11'
-- council_reference: PA21-0326
-  address: 165A Browns Road CRANBOURNE SOUTH VIC 3977
-  description: Use and Development of a Dwelling On Land Affected by a Bushfire Management
-    and Enviornmental Significance Overlay
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0326&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-05'
-- council_reference: PA21-0327
-  address: 41 Renee Avenue ENDEAVOUR HILLS VIC 3802
+  date_received: '2023-08-30'
+- council_reference: PA23-0475
+  address: 212-300 King Road HARKAWAY VIC 3806
   description: Development of Alterations and Additions to an existing Dwelling
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0327&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0475&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-05-11'
-- council_reference: PA21-0328
-  address: 1965 Ballarto Road CLYDE VIC 3978
-  description: Multi Lot Subdivision, Creation of a Restriction and Creation of Access
-    to a Road in a Road Zone Category 1
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0328&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-30'
+- council_reference: PA23-0476
+  address: 1B Derham Street PEARCEDALE VIC 3912
+  description: Development of a Dwelling and Garage within a Bushfire Management Overlay
+    and Development of a Porch outside the Building Envelope
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0476&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-05-06'
-- council_reference: PA21-0329
-  address: 25 Paramount Boulevard CRANBOURNE WEST VIC 3977
-  description: Use of Land as a Food and Drink Premise and Licensed Premise (Liquor
-    License), and Reduction in Car Parking Requirement
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0329&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-31'
+- council_reference: PA23-0478
+  address: 9-10 Mackellar Close NARRE WARREN NORTH VIC 3804
+  description: Two Lot Subdivision and Removal of Covenant M171651V
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0478&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-04-27'
-- council_reference: PA21-0330
-  address: 25 Gwen Road CRANBOURNE WEST VIC 3977
-  description: Development of Six Warehouses and Reduction in Car Parking Requirements
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0330&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-28'
+- council_reference: PA23-0479
+  address: 33 Arcadia Avenue HALLAM VIC 3803
+  description: Two Lot Subdivision and Provision for Section 173 Agreement to Delay
+    Works
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0479&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-05-07'
-- council_reference: PA21-0331
-  address: 88-92 Baker Road HARKAWAY VIC 3806
-  description: Development of a Replacement Dwelling
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0331&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-31'
+- council_reference: PA23-0480
+  address: Unit 2/44 Langmore Lane BERWICK VIC 3806
+  description: Two Lot Re-Subdivision comprising Increasing size of Lot 1 and altering
+    to Lot 1A and Alteration of Common Property comprising a reduction in size (PS824012Y)
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA23-0480&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-05-06'
-- council_reference: PA21-0332
-  address: 27 Shetland Street ENDEAVOUR HILLS VIC 3802
-  description: Development of a Second Dwelling
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0332&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-09-01'
+- council_reference: PPA23-0120
+  address: 1/20-32 Kangan Drive BERWICK VIC 3806
+  description: Amendment to Planning Permit PlnA00300/14.B (Use and Development of
+    land for Car Sales)
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PPA23-0120&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-05-06'
-- council_reference: PA21-0333
-  address: 12-16 Fox Road NARRE WARREN NORTH VIC 3804
+  date_received: '2023-08-17'
+- council_reference: PPA23-0123
+  address: 1S Settlers Run BOTANIC RIDGE VIC 3977
+  description: Amendment to Planning Permit PlnA00954/05.C - (Use and Development
+    of a Golf Club House (including golf pro-shop, administration areas, restricted
+    recreation facility (pool and gym), function rooms, restaurant, temporary land
+    sales office (discovery centre), tennis courts and pavilion) and Liquor License
+    in accordance with the endorsed plans)
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PPA23-0123&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-23'
+- council_reference: PPA23-0124
+  address: 1690 Baxter-Tooradin Road CANNONS CREEK VIC 3977
+  description: Amendment to Planning Permit PA22-0866 (Use and Development of an Outbuilding
+    to Facilitate Remediation and Re-Vegetation of the Site)
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PPA23-0124&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-14'
+- council_reference: PPA23-0127
+  address: 5/37 Industrial Circuit CRANBOURNE WEST VIC 3977
+  description: PA21-0334 - Use of Premises for a Restricted Recreational Facility
+    (Gymnasium) - Amendment to Planning Permit
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PPA23-0127&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-11'
+- council_reference: PPA23-0133
+  address: 1100 Pound Road CLYDE NORTH VIC 3978
+  description: Amendment to Amended Planning Permit PPA23-0040 (PlnA00089/15.C - Use
+    and Development of Convenience Restaurants, Food & Drink Premises, Convenience
+    Shop, Restricted Recreational Facility, Car Wash, Childcare Centre and Medical
+    Centre, Reduction in the Car Parking Requirements, Display of Advertising Signage
+    and Creation of Access to a Road Zone Category 1) - Amendment to Planning Permit
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PPA23-0133&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-15'
+- council_reference: PPA23-0134
+  address: 14-18 Smethurst Street CRANBOURNE VIC 3977
+  description: Amendment to Planning Permit PlnA00996/12 - (Development of Pergola
+    and Licensed Premises)
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PPA23-0134&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-17'
+- council_reference: PPA23-0135
+  address: 22-24 Abbott Road HALLAM VIC 3803
+  description: Amendment to Planning Permit PA22-0441 (Development of Additions and
+    External Alterations to Existing Store and Associated Changes to the Car Parking
+    Layout_
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PPA23-0135&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-16'
+- council_reference: PPA23-0136
+  address: 1-25S Hummingbird Drive BOTANIC RIDGE VIC 3977
+  description: Amendment to Planning Permit PA21-0989 - (Use and Development of the
+    Land for the Purpose of a Restricted Recreation Facility (Swim School and Gym)
+    and Childcare Centre, Display of Advertising Signs, Subdivision of the Land and
+    Creation of Easements, Restrictions and Reserves)
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PPA23-0136&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-18'
+- council_reference: PPA23-0137
+  address: 54 Normanby Street CRANBOURNE VIC 3977
+  description: Amendment to Planning Permit PA22-0885 (Three Lot Subdivision)
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PPA23-0137&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-18'
+- council_reference: PPA23-0138
+  address: 74S Lynbrook Boulevard LYNBROOK VIC 3975
+  description: Amendment to Planning Permit PA21-0576 (Development of 22 Dwellings
+    and 22 Lot Subdivision)
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PPA23-0138&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-21'
+- council_reference: PPA23-0139
+  address: 31 Louis Street DOVETON VIC 3177
+  description: Amendment to PA21-0814 (Three Lot Subdivision)
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PPA23-0139&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-18'
+- council_reference: PPA23-0140
+  address: 322-340 Centre Road BERWICK VIC 3806
+  description: "Amendment to Planning Permit PPA23-0090 (PlnA00723/17 - Use and Development
+    of the land for a Local Town Centre in Stages comprising:\r\n• Buildings and Works,
+    including bulk earthworks.\r\n• Residential Accommodation (Dwellings and Apartments).\r\n•
+    Child Care Centre.\r\n• Medical Centre.\r\n• Indoor Recreation Facility (Dance
+    School & Gym).\r\n• Reduction in Car Parking)"
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PPA23-0140&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-23'
+- council_reference: PPA23-0141
+  address: 1585S Thompsons Road CRANBOURNE NORTH VIC 3977
+  description: Amendment to Amended Planning Permit PPA22-0101 (PlnA00522/20 - Staged
+    Multi-Lot Subdivision, Use and Development of a Service Station, Two (2) Convenience
+    Restaurants, Retail Premises, Restricted Recreation Facility, Advertising Signage,
+    Removal of Native Vegetation, Creation & Alteration of Access to Land Adjacent
+    to a Road Zone Category 1)
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PPA23-0141&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-24'
+- council_reference: PPA23-0142
+  address: 13 Olive Road DEVON MEADOWS VIC 3977
+  description: Amendment to Amended Planning Permit PPA23-0074 (PlnA00226/20 - Use
+    and Development of an Exhibition Centre (Retrospective) and Extensions to the
+    Existing Exhibition Building and Display of Business Identification Signage)
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PPA23-0142&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-28'
+- council_reference: PPA23-0146
+  address: 70S Smiths Lane CLYDE NORTH VIC 3978
+  description: Amendment to Amended Planning Permit PPA21-0032 (PlnA00333/20 - Use
+    of a Land as Display Village including associated Buildings & Works, Advertising
+    Signage and Reduction in Carparking)
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PPA23-0146&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-28'
+- council_reference: PPA23-0149
+  address: 590 Western Port Highway CRANBOURNE WEST VIC 3977
+  description: Amendment to Planning Permit PA22-0841 (Staged Multi Lot Subdivision;
+    Creation of Access to Transport Zone 2; Subdivision of land adjacent to the Public
+    Acquisition Overlay - Schedule 1; and Removal of Easements and Creation of Reserves)
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PPA23-0149&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-09-04'
+- council_reference: PPA23-0150
+  address: Unit 1/25 William Avenue HALLAM VIC 3803
+  description: Application to Amend Planning Permit PA23-0041 (Five Lot Subdivision)
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PPA23-0150&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-30'
+- council_reference: SubA00199/23
+  address: 33-34 Malanie Close NARRE WARREN NORTH VIC 3804
   description: Two Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0333&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00199%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-05-06'
-- council_reference: PA21-0335
-  address: 61 Aldridge Street ENDEAVOUR HILLS VIC 3802
-  description: Development of Three Dwellings
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0335&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-29'
+- council_reference: SubA00227/23
+  address: 1650S Pound Road CLYDE NORTH VIC 3978
+  description: 12 Lot Subdivision - Orana Stage 20
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00227%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-05-07'
-- council_reference: PA21-0336
-  address: 15I Ercildoune Court CRANBOURNE WEST VIC 3977
-  description: Alterations and Use of existing Building for the Purpose of a Community
-    Facility
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0336&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-11'
+- council_reference: SubA00228/23
+  address: 1S Indra Street HAMPTON PARK VIC 3976
+  description: 10 Lot Subdivision
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00228%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-05-06'
-- council_reference: PA21-0337
-  address: 5 Fiona Court NARRE WARREN VIC 3805
-  description: Development of Three Dwellings
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0337&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-11'
+- council_reference: SubA00229/23
+  address: 9S Aberforth Place HAMPTON PARK VIC 3976
+  description: 18 Lot Subdivision
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00229%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-05-07'
-- council_reference: PA21-0338
-  address: 590 Cranbourne-Frankston Road CRANBOURNE SOUTH VIC 3977
-  description: Development of a Shed (Retrospective)
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0338&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-11'
+- council_reference: SubA00230/23
+  address: 1525 Pound Road CLYDE NORTH VIC 3978
+  description: 51 Lot Subdivision - Meridian Green
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00230%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-05-07'
-- council_reference: PA21-0339
-  address: Shop 6/350-398 South Gippsland Highway CRANBOURNE VIC 3977
-  description: Display of Business Identification Signage and Internally Illuminated
-    Signage
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0339&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-14'
+- council_reference: SubA00231/23
+  address: 1275S Pound Road CLYDE NORTH VIC 3978
+  description: Three Lot Subdivision - Honour Village Town Centre Release 1
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00231%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-05-07'
-- council_reference: PA21-0340
-  address: 1305 Ballarto Road CRANBOURNE EAST VIC 3977
-  description: Multi-Lot Subdivision (Eighty Lots) and Removal of an Easement
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0340&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-17'
+- council_reference: SubA00232/23
+  address: 103 Camms Road CRANBOURNE VIC 3977
+  description: Section 35 (Acq of land affected by owners corp) - 2 Lots
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00232%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-05-10'
-- council_reference: PA21-0341
-  address: 12 Tatterson Street HAMPTON PARK VIC 3976
-  description: Three Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0341&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-07'
-- council_reference: PA21-0342
-  address: 50S Merribrook Boulevard CLYDE VIC 3978
-  description: 45 Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0342&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-07'
-- council_reference: PA21-0344
-  address: 8 Latrobe Street CRANBOURNE VIC 3977
-  description: Three Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0344&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-11'
-- council_reference: PA21-0346
-  address: 1 Trout Cod Lane CLYDE NORTH VIC 3978
-  description: Four Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0346&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-11'
-- council_reference: PA21-0347
-  address: 749 Princes Highway BERWICK VIC 3806
-  description: Two Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0347&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-11'
-- council_reference: PA21-0354
-  address: 7 Ridgeline Drive BOTANIC RIDGE VIC 3977
-  description: Development of Swimming Pool
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0354&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-03'
-- council_reference: PA21-0363
-  address: 5 Slingsby Avenue BEACONSFIELD VIC 3807
-  description: Development of Three Dwellings
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PA21-0363&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-13'
-- council_reference: PPA21-0049
-  address: 13S Freycinet Drive BOTANIC RIDGE VIC 3977
-  description: Amendment to Planning Permit PPA20-0480 (Development of a Supermarket,
-    Shops, Food and Drink Premises, Medical Centre and Pharmacy; Use and Development
-    of a Restricted Recreation Facility (Gymnasium); Use of Land to Sell Packaged
-    Liquor (Bottle Shop) and Advertising Signage)
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PPA21-0049&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-23'
-- council_reference: PPA21-0052
-  address: 120 Middle Road PEARCEDALE VIC 3912
-  description: Amendment to Permit PlnA00683/20 (Realignment of Common Boundary)
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PPA21-0052&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-20'
-- council_reference: PPA21-0053
-  address: 50 Edinborough Street HALLAM VIC 3803
-  description: Amendment to Planning Permit PlnA00458/20 (Three Lot Subdivision)
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PPA21-0053&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-28'
-- council_reference: PPA21-0054
-  address: 40 Meadow Wood Walk NARRE WARREN VIC 3805
-  description: Amendment to Planning Permit PlnA00690/20 (Development of Five Dwellings)
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PPA21-0054&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-29'
-- council_reference: PPA21-0056
-  address: 66 Pearcedale Road PEARCEDALE VIC 3912
-  description: Amendment to Planning Permit PlnA00542/19 (Two Lot Subdivision)
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PPA21-0056&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-29'
-- council_reference: PPA21-0057
-  address: 10 Feltham Street PEARCEDALE VIC 3912
-  description: Amendment to Planning Permit PA20-0811 (Two Lot Subdivision)
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PPA21-0057&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-29'
-- council_reference: PPA21-0058
-  address: 2 Apple Street PEARCEDALE VIC 3912
-  description: Two Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PPA21-0058&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-30'
-- council_reference: PPA21-0059
-  address: 20 Eugenia Street DOVETON VIC 3177
-  description: Amendment to Planning Permit PlnA00534/17 (Development of a Second
-    Dwelling and Alterations and Additions to the Existing Dwelling)
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PPA21-0059&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-03'
-- council_reference: PPA21-0060
-  address: 90S Hardys Road CLYDE NORTH VIC 3978
-  description: Amendment to Planning Permit PlnA00515/14 (Subdivision, Variation and
-    Removal of Easements, Creation of Restrictions and Removal of Native Vegetation
-    (PPAR 252))
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PPA21-0060&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-03'
-- council_reference: PPA21-0061
-  address: 7 Hamersley Drive CLYDE NORTH VIC 3978
-  description: Amendment to Planning Permit PlnA00073/19 (Staged Development of 7
-    Warehouses)
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PPA21-0061&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-04'
-- council_reference: PPA21-0062
-  address: 85 O'Shea Road BERWICK VIC 3806
-  description: Amendment to Planning Permit PlnA01181/00 (Development of Primary &
-    Secondary Schools Including Parish Centre & Place of Worship and Associated Access,
-    Landscaping and Earthworks)
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PPA21-0062&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-06'
-- council_reference: PPA21-0063
-  address: Unit 4/280 Pound Road HAMPTON PARK VIC 3976
-  description: Amendment to Planning Permit PlnA00579/12.B (Development of 14 Dwellings,
-    Alteration to Access to a Road In a Road Zone Category 1 and Removal of Native
-    Vegetation and the Development of a Verandah to the Rear of Unit 4
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PPA21-0063&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-06'
-- council_reference: PPA21-0066
-  address: 70 Dalmore Road TOORADIN VIC 3980
-  description: Amendment to Planning Permit PlnA00423/11.A Use and Development of
-    Animal Husbandry {Breeding and Keeping of Up to 30 Dogs} and a Dwelling {Including
-    Three Sheds} and Alterations to the existing Dwelling
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PPA21-0066&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-07'
-- council_reference: SubA00129/21
-  address: 11 Sheoak Street DOVETON VIC 3177
+  date_received: '2023-08-17'
+- council_reference: SubA00233/23
+  address: 3 Ayr Court BERWICK VIC 3806
   description: VICSMART - Two Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00129%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00233%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-04-22'
-- council_reference: SubA00130/21
-  address: 21S Azzam Street CLYDE NORTH VIC 3978
-  description: 67 Lot Subdivision - Delaray Estate Stage 19B
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00130%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-21'
-- council_reference: SubA00132/21
-  address: 325S Tuckers Road CLYDE NORTH VIC 3978
-  description: Creation of Road and Balance Lot S200 - Delaray Estate Stage 19A
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00132%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-21'
-- council_reference: SubA00133/21
-  address: 25 Stenocarpus Drive DOVETON VIC 3177
-  description: Two Lot Subdivision and Creation of Restriction
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00133%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-22'
-- council_reference: SubA00134/21
-  address: 46 Cheviot Avenue BERWICK VIC 3806
+  date_received: '2023-08-18'
+- council_reference: SubA00234/23
+  address: 19 Woodlands Crescent NARRE WARREN VIC 3805
   description: Three Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00134%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00234%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-04-22'
-- council_reference: SubA00135/21
-  address: 89-101 Oakgrove Drive NARRE WARREN SOUTH VIC 3805
-  description: Section 24A (Rem & Vest of Reserve - Sub) - Re-alignment of Boundary
-    Between Two Reserves
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00135%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-23'
-- council_reference: SubA00136/21
-  address: 7 Nyora Close ENDEAVOUR HILLS VIC 3802
-  description: VICSMART - Two Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00136%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-26'
-- council_reference: SubA00137/21
-  address: 123 Camms Road CRANBOURNE VIC 3977
-  description: Two Lot Subdivision and Creation of Restriction
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00137%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-21'
-- council_reference: SubA00138/21
-  address: 46 Beaumont Road BERWICK VIC 3806
-  description: Section 23 (Creation of Easement)
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00138%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-27'
-- council_reference: SubA00139/21
-  address: 1 Maughan Way CRANBOURNE WEST VIC 3977
-  description: Section 22 (Consolidation) - Consolidation of Lots 79-83 on PS742537Q
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00139%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-27'
-- council_reference: SubA00140/21
-  address: 4 Alice Court HALLAM VIC 3803
-  description: Three Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00140%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-27'
-- council_reference: SubA00141/21
-  address: 5 Eumemmerring Drive EUMEMMERRING VIC 3177
+  date_received: '2023-08-18'
+- council_reference: SubA00235/23
+  address: 6 Fairbairn Road CRANBOURNE VIC 3977
   description: Two Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00141%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00235%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-04-27'
-- council_reference: SubA00142/21
-  address: 1275 Pound Road CLYDE NORTH VIC 3978
-  description: 34 Lot Subdivision - Honour Village Release 6
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00142%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-21'
+- council_reference: SubA00236/23
+  address: 1435S Pound Road CLYDE NORTH VIC 3978
+  description: Creation of Road & Balance Lot F - St Germain Stage 29A
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00236%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-04-26'
-- council_reference: SubA00143/21
-  address: 375S Pattersons Road CLYDE NORTH VIC 3978
-  description: Two Lot Subdivision - Orana Estate Stage 8A
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00143%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-24'
+- council_reference: SubA00237/23
+  address: 63 Strathavan Drive BERWICK VIC 3806
+  description: 3 Lot Subdivision
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00237%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-04-26'
-- council_reference: SubA00144/21
-  address: 375S Pattersons Road CLYDE NORTH VIC 3978
-  description: 58 Lot Subdivision - Orana Estate Stage 9
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00144%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-24'
+- council_reference: SubA00238/23
+  address: 2125 Thompsons Road CLYDE NORTH VIC 3978
+  description: Creation of Lot and Balance Lot A
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00238%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-04-26'
-- council_reference: SubA00145/21
-  address: 275 Evans Road CRANBOURNE WEST VIC 3977
-  description: Five Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00145%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-24'
+- council_reference: SubA00239/23
+  address: 350 Narre Warren Road CRANBOURNE EAST VIC 3977
+  description: 46 Lot Subdivision - Eastleigh Estate Stage 1
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00239%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-04-28'
-- council_reference: SubA00146/21
-  address: 6 Fairmont Court NARRE WARREN NORTH VIC 3804
+  date_received: '2023-08-24'
+- council_reference: SubA00240/23
+  address: 350 Narre Warren Road CRANBOURNE EAST VIC 3977
+  description: 30 Lot Subdivision - Eastleigh Estate Stage 2
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00240%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-25'
+- council_reference: SubA00241/23
+  address: 9-10 Mackellar Close NARRE WARREN NORTH VIC 3804
+  description: Two Lot Subdivision and Removal of Covenant M171651V
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00241%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-28'
+- council_reference: SubA00242/23
+  address: 33 Arcadia Avenue HALLAM VIC 3803
+  description: Two Lot Subdivision and Provision for Section 173 Agreement to Delay
+    Works
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00242%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-31'
+- council_reference: SubA00244/23
+  address: 590 Western Port Highway CRANBOURNE WEST VIC 3977
+  description: Creation of Road and Removal of Easements - Green Link Estate Stage
+    2A (1 Lot)
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00244%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-30'
+- council_reference: SubA00245/23
+  address: 300 Hardys Road CLYDE NORTH VIC 3978
+  description: Section 35 (Acq by acquiring auth) - 1 Lot
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00245%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-28'
+- council_reference: SubA00246/23
+  address: 52S Burnbank Parade CLYDE NORTH VIC 3978
+  description: Eight Lot Subdivision - Smiths Lane Phase 10F
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00246%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-31'
+- council_reference: SubA00247/23
+  address: 15S Seamill Lane CLYDE NORTH VIC 3978
+  description: Eight Lot Subdivision - Smiths Lane Phase 10R
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00247%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-31'
+- council_reference: SubA00248/23
+  address: 37S Generation Drive CLYDE NORTH VIC 3978
+  description: Eight Lot Subdivision - Smiths Lane Phase 11F
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00248%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-31'
+- council_reference: SubA00249/23
+  address: 116S Burnbank Parade CLYDE NORTH VIC 3978
+  description: Eight Lot Subdivision - Smiths Lane Phase 16S
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00249%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2023-08-31'
+- council_reference: SubA00250/23
+  address: 28 Monahans Road CRANBOURNE VIC 3977
   description: Two Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00146%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00250%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-04-29'
-- council_reference: SubA00147/21
-  address: 720 Berwick-Cranbourne Road CLYDE NORTH VIC 3978
-  description: 50 Lot Subdivision - Mondous Island Estate Release 14
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00147%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-09-01'
+- council_reference: SubA00251/23
+  address: 23S Rainier Crescent CLYDE NORTH VIC 3978
+  description: 32 Lot Subdivision - Saffron Estate
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00251%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-04-29'
-- council_reference: SubA00148/21
-  address: 12 James Cook Drive ENDEAVOUR HILLS VIC 3802
-  description: Two Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00148%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-09-01'
+- council_reference: SubA00252/23
+  address: 40S Tuckers Road CLYDE VIC 3978
+  description: 42 Lot Subdivision - Riverfield Square Stage 27
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00252%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-05-03'
-- council_reference: SubA00149/21
-  address: 1 Maughan Way CRANBOURNE WEST VIC 3977
-  description: Section 22 (Consolidation)
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00149%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-09-01'
+- council_reference: SubA00253/23
+  address: 12 Angel Close NARRE WARREN SOUTH VIC 3805
+  description: Section 23 (Removal of Restriction) - 1 Lot
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00253%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-05-04'
-- council_reference: SubA00150/21
-  address: 33 Louis Street DOVETON VIC 3177
-  description: Three Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00150%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-09-04'
+- council_reference: VS23-0107
+  address: 32-34 Glen Moidart Drive BERWICK VIC 3806
+  description: VICSMART - Development of a Dwelling
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=VS23-0107&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-05-04'
-- council_reference: SubA00151/21
-  address: 342-350 Centre Road BERWICK VIC 3806
-  description: 30 Lot Subdivision - Alira Estate Stage 6F
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00151%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-25'
+- council_reference: VS23-0114
+  address: 120 Favorite Hill Road PEARCEDALE VIC 3912
+  description: VICSMART - Development of a Carport
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=VS23-0114&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-05-06'
-- council_reference: SubA00152/21
-  address: 12 Tatterson Street HAMPTON PARK VIC 3976
-  description: Three Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00152%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-07'
-- council_reference: SubA00153/21
-  address: 50S Merribrook Boulevard CLYDE VIC 3978
-  description: 45 Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00153%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-07'
-- council_reference: SubA00154/21
-  address: 8 Latrobe Street CRANBOURNE VIC 3977
-  description: Three Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00154%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-11'
-- council_reference: SubA00155/21
-  address: 1 Trout Cod Lane CLYDE NORTH VIC 3978
-  description: Four Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00155%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-11'
-- council_reference: SubA00156/21
-  address: 749 Princes Highway BERWICK VIC 3806
-  description: Two Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SubA00156%2F21&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-11'
-- council_reference: VS21-0063
-  address: 65 Palladium Circuit CLYDE NORTH VIC 3978
-  description: VICSMART - Development of a Two Warehouses with an ancillary Office
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=VS21-0063&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-21'
-- council_reference: VS21-0064
-  address: 10 Keira Street CLYDE NORTH VIC 3978
-  description: VICSMART - Development of two Warehouses with Ancillary Offices and
-    Reduction in Car Parking Requirements
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=VS21-0064&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-19'
-- council_reference: VS21-0066
-  address: 4 Gum Court DOVETON VIC 3177
+  date_received: '2023-08-15'
+- council_reference: VS23-0116
+  address: 3 Ayr Court BERWICK VIC 3806
   description: VICSMART - Two Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=VS21-0066&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=VS23-0116&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-04-19'
-- council_reference: VS21-0067
-  address: 28 Hamersley Drive CLYDE NORTH VIC 3978
-  description: VICSMART - Development of a Warehouse with an ancillary Office
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=VS21-0067&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-18'
+- council_reference: VS23-0117
+  address: 12 Rutland Road BERWICK VIC 3806
+  description: VICSMART - Development of a Front Fence on Land affected by a Significant
+    Landscape Overlay Schedule 4
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=VS23-0117&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-04-22'
-- council_reference: VS21-0068
-  address: 30 Hamersley Drive CLYDE NORTH VIC 3978
-  description: VICSMART - Development of a Warehouse with an ancillary Office
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=VS21-0068&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-21'
+- council_reference: VS23-0118
+  address: 1215S Ballarto Road CRANBOURNE EAST VIC 3977
+  description: VICSMART - Display of Business Identification Signage
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=VS23-0118&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-04-22'
-- council_reference: VS21-0069
-  address: 11 Sheoak Street DOVETON VIC 3177
-  description: VICSMART - Two Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=VS21-0069&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2023-08-24'
+- council_reference: VS23-0119
+  address: 18 Pearcedale Road PEARCEDALE VIC 3912
+  description: VICSMART - Development of a Replacement Shed
+  info_url: https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=VS23-0119&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-04-22'
-- council_reference: VS21-0071
-  address: 7 Nyora Close ENDEAVOUR HILLS VIC 3802
-  description: VICSMART - Two Lot Subdivision
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=VS21-0071&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-04-27'
-- council_reference: VS21-0072
-  address: 14-16 Westpool Drive HALLAM VIC 3803
-  description: VICSMART - Development of Alterations and Additions to an existing
-    Warehouse
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=VS21-0072&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-03'
-- council_reference: VS21-0073
-  address: 19 Link Road NARRE WARREN VIC 3805
-  description: VICSMART - To Display of Business Identification Signage
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=VS21-0073&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-03'
-- council_reference: VS21-0074
-  address: 20 Carr-Boyd Road CRANBOURNE SOUTH VIC 3977
-  description: VICSMART - Development of a Shed
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=VS21-0074&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-04'
-- council_reference: VS21-0075
-  address: 13 Seaview Drive BOTANIC RIDGE VIC 3977
-  description: VICSMART - Development of a Swimming Pool Partially Outside the Building
-    Envelope on Land Affected by an Environmental Significance Overlay
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=VS21-0075&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-05'
-- council_reference: VS21-0076
-  address: 236 Cranbourne Road NARRE WARREN SOUTH VIC 3805
-  description: VICSMART - Buildings and works associated with an existing Medical
-    Centre up to $100,000
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=VS21-0076&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-10'
-- council_reference: VS21-0077
-  address: 77 Industrial Circuit CRANBOURNE WEST VIC 3977
-  description: VICSMART - Development of Two Warehouses and Reduction in Car Parking
-    requirements
-  info_url: https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=VS21-0077&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-05-13'
+  date_received: '2023-08-31'

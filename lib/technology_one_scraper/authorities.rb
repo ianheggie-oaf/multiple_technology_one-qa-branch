@@ -13,7 +13,7 @@ module TechnologyOneScraper
       webguest: "SOC.WEBGUEST"
     },
     casey: {
-      url: "https://eproperty.casey.vic.gov.au/T1PRProd/WebApps/eProperty",
+      url: "https://casey-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
       period: "L28"
     },
     cassowary_coast: {
