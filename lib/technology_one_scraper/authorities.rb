@@ -153,7 +153,9 @@ module TechnologyOneScraper
     },
     yarra: {
       url: "https://eservices.yarracity.vic.gov.au/WebApps/eProperty",
-      period: "L28"
+      period: "L28",
+      # It's possible they might be blocking our old scraper by IP. So, let's try our proxy.
+      australian_proxy: true
     }
   }.freeze
 end
