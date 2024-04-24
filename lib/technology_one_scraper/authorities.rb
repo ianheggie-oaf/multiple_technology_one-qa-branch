@@ -135,13 +135,8 @@ module TechnologyOneScraper
       australian_proxy: true
     },
     tamworth: {
-      url: "https://eproperty.tamworth.nsw.gov.au/T1PRProd/WebApps/eProperty",
-      period: "L28",
-      # Tamworth is blocking requests from outside Australia. You can verify this
-      # yourself by scraping via a VPN and switch between different countries.
-      # morph.io is hosted in the US. So, to get around this we send our
-      # traffic to an australian proxy
-      australian_proxy: true
+      url: "https://tamworth-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
+      period: "L28"
     },
     wagga: {
       url: "https://eservices.wagga.nsw.gov.au/T1PRWeb/eProperty",
