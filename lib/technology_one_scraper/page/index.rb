@@ -53,7 +53,7 @@ module TechnologyOneScraper
         when "Application Link", "ID", "Application Number", "Application ID",
              "Application", "Permit No."
           :council_reference
-        when "Lodgement Date", "Lodged", "Submitted Date", "Date Received"
+        when "Lodgement Date", "Lodged", "Submitted Date", "Date Received", "Application Received"
           :date_received
         when "Description", "Proposal"
           :description
