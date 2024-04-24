@@ -1,1577 +1,1599 @@
 ---
-- council_reference: COP19/1505
-  address: 100 Hastings Street SCARBOROUGH WA 6019
-  description: Building Plans - Single Resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1505&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+- council_reference: BAC24/0046
+  address: 48 Tangmere Way BALGA WA 6061
+  description: Application for BAC strata (s.52 (2)) Three (3) Residential Dwellings
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BAC24%2F0046&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
-- council_reference: COP19/1506
-  address: 2/46 Porter Street GWELUP WA 6018
+  date_received: '2024-03-28'
+- council_reference: BAC24/0047
+  address: 5 Lakeside Road CHURCHLANDS WA 6018
+  description: Application for BAC Unauthorised Works (s.51) Enclosure of &/or alterations
+    to Class 1a dwelling & Class 10a alfresco areas.
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BAC24%2F0047&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-02'
+- council_reference: BAC24/0048
+  address: 4 Coleman Way KARRINYUP WA 6018
+  description: Application for BAC Unauthorised Works (s.51) Unauthorised conversion
+    of roof cover from tiles to metal.
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BAC24%2F0048&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-03'
+- council_reference: BAC24/0049
+  address: 33 Langley Crescent INNALOO WA 6018
+  description: Application for BAC Unauthorised Works (s.51) Unauthorised timber post
+    & colorbond roof patio with wall cladding
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BAC24%2F0049&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-04'
+- council_reference: BAC24/0050
+  address: 26 Hanworth Street BALCATTA WA 6021
+  description: Application for BAC Unauthorised Works (s.51) – Roof line change and
+    masonry pier to Double garage only
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BAC24%2F0050&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-04'
+- council_reference: BAC24/0051
+  address: 53A Pollard Street GLENDALOUGH WA 6016
+  description: Application for BAC Unauthorised Works (s.51) Class 1a single dwelling
+    not constructed as per approved plans (wall & door added on ground floor, wall
+    & door added on first floor, low masonry in lieu of metal balustrade, additional
+    smoke alarm installed)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BAC24%2F0051&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-05'
+- council_reference: BAC24/0052
+  address: 34 Harold Street DIANELLA WA 6059
+  description: Application for BAC strata (s.52 (2)) 2 x Single Storey Dwellings
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BAC24%2F0052&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-09'
+- council_reference: BAC24/0053
+  address: 55 Osborne Street JOONDANNA WA 6060
+  description: Application for BAC strata (s.52 (2)) 3 x Grouped Dwellings (2 x Single
+    Storey and 1 x Two Storey Grouped Dwellings) - Retaining walls
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BAC24%2F0053&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-11'
+- council_reference: BAC24/0054
+  address: 10 Prevelly Parkway DIANELLA WA 6059
+  description: Application for BAC Unauthorised Works (s.51) Screen Wall
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BAC24%2F0054&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-11'
+- council_reference: BAC24/0055
+  address: 18 Delphine Avenue DIANELLA WA 6059
+  description: Application for BAC strata (s.52 (2)) 2 x Single storey dwellings
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BAC24%2F0055&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-11'
+- council_reference: BAC24/0056
+  address: 3 Mica Court CARINE WA 6020
+  description: Application for BAC Unauthorised Works (s.51) - Screen
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BAC24%2F0056&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-12'
+- council_reference: BAC24/0057
+  address: 2 Annan Court HAMERSLEY WA 6022
+  description: Application for BAC Unauthorised Works (s.51) Conversion of existing
+    garage to bedroom, outdoor laundry & masonry boundary fence
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BAC24%2F0057&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-16'
+- council_reference: BAC24/0058
+  address: 141 Moulden Avenue YOKINE WA 6060
+  description: Application for BAC strata (s.52 (2)) 6 x Single storey residential
+    dwellings
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BAC24%2F0058&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-18'
+- council_reference: BAC24/0059
+  address: 143 Moulden Avenue YOKINE WA 6060
+  description: Application for BAC strata (s.52 (2)) 6 x Single storey residential
+    dwellings
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BAC24%2F0059&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-18'
+- council_reference: BAC24/0060
+  address: 10 Alvaston Drive CARINE WA 6020
+  description: Application for BAC Unauthorised Works (s.51) Addition of living room
+    to existing single storey residential dwelling
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BAC24%2F0060&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-22'
+- council_reference: COP24/1321
+  address: 4 Parant Place CARINE WA 6020
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1321&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-03-30'
+- council_reference: COP24/1322
+  address: 1/50 Arkana Road WESTMINSTER WA 6061
+  description: Building Plans - Res strata 3+ ($120.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1322&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-03-31'
+- council_reference: COP24/1323
+  address: 13 Chrysostom Street NORTH BEACH WA 6020
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1323&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-03-31'
+- council_reference: COP24/1324
+  address: 2 Rochester Way DIANELLA WA 6059
   description: Planning/Development Approvals ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1506&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
-- council_reference: COP19/1507
-  address: 125B Ravenscar Street DOUBLEVIEW WA 6018
+  date_received: '2024-04-01'
+- council_reference: COP24/1325
+  address: 25 Campus Way CHURCHLANDS WA 6018
   description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1507&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1325&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-22'
-- council_reference: COP19/1508
-  address: 125B Ravenscar Street DOUBLEVIEW WA 6018
+  date_received: '2024-04-01'
+- council_reference: COP24/1326
+  address: 21 Mitcham Street WEMBLEY DOWNS WA 6019
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1326&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-01'
+- council_reference: COP24/1327
+  address: 36 Williton Road KARRINYUP WA 6018
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1327&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-02'
+- council_reference: COP24/1328
+  address: 7A Wardlow Way BALGA WA 6061
+  description: Building Plans - Res strata 3+ ($120.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1328&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-02'
+- council_reference: COP24/1329
+  address: 14 Floribunda Gardens MIRRABOOKA WA 6061
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1329&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-02'
+- council_reference: COP24/1330
+  address: 206A Gildercliffe Street SCARBOROUGH WA 6019
   description: Planning/Development Approvals ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1508&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1330&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-22'
-- council_reference: COP19/1509
-  address: 156B Northstead Street SCARBOROUGH WA 6019
+  date_received: '2024-04-02'
+- council_reference: COP24/1331
+  address: 239 Swan Street YOKINE WA 6060
+  description: URGENT Building Permits - No Development Applications ($80.00 incl
+    GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1331&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-02'
+- council_reference: COP24/1332
+  address: 126 Flamborough Street DOUBLEVIEW WA 6018
+  description: ".......Building Plans - Single resident ($80.00 incl GST)"
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1332&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-02'
+- council_reference: COP24/1333
+  address: 4 Boskoop Place MIRRABOOKA WA 6061
   description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1509&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1333&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-23'
-- council_reference: COP19/1510
-  address: 156B Northstead Street SCARBOROUGH WA 6019
+  date_received: '2024-04-03'
+- council_reference: COP24/1334
+  address: 222 Odin Drive STIRLING WA 6021
+  description: URGENT Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1334&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-03'
+- council_reference: COP24/1335
+  address: 35 Alumni Terrace CHURCHLANDS WA 6018
   description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1510&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1335&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-23'
-- council_reference: COP19/1511
-  address: 7 Rowsley Way CARINE WA 6020
+  date_received: '2024-04-03'
+- council_reference: COP24/1336
+  address: 254 Erindale Road HAMERSLEY WA 6022
   description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1511&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1336&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-23'
-- council_reference: COP19/1512
-  address: 307 Selby Street North OSBORNE PARK WA 6017
+  date_received: '2024-04-03'
+- council_reference: COP24/1337
+  address: 7 Wren Street DIANELLA WA 6059
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1337&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-03'
+- council_reference: COP24/1339
+  address: 7 Balfern Court HAMERSLEY WA 6022
+  description: URGENT Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1339&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-03'
+- council_reference: COP24/1340
+  address: 160 Scarborough Beach Road SCARBOROUGH WA 6019
+  description: ".......Building plans - Comm/Res units ($120.00 incl GST)"
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1340&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-03'
+- council_reference: COP24/1341
+  address: 51 Golding Street DIANELLA WA 6059
+  description: URGENT Building Permits - No Development Approvals ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1341&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-03'
+- council_reference: COP24/1342
+  address: 16 Vincent Avenue WESTMINSTER WA 6061
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1342&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-03'
+- council_reference: COP24/1343
+  address: 36 Chellaston Crescent CARINE WA 6020
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1343&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-03'
+- council_reference: COP24/1344
+  address: 113 Flinders Street YOKINE WA 6060
+  description: URGENT Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1344&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-03'
+- council_reference: COP24/1345
+  address: 4 Summit Court DIANELLA WA 6059
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1345&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-03'
+- council_reference: COP24/1346
+  address: 71 Collingwood Street OSBORNE PARK WA 6017
   description: Building plans - Comm/Res units ($120.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1512&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1346&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-24'
-- council_reference: COP19/1513
-  address: 9 Okely Road CARINE WA 6020
+  date_received: '2024-04-04'
+- council_reference: COP24/1347
+  address: 173A Edward Street OSBORNE PARK WA 6017
+  description: BASEMENT Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1347&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-04'
+- council_reference: COP24/1348
+  address: 25 Steedman Loop MIRRABOOKA WA 6061
   description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1513&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1348&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-25'
-- council_reference: COP19/1514
-  address: 15 Salamander Street DIANELLA WA 6059
-  description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1514&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2024-04-05'
+- council_reference: COP24/1349
+  address: 234A Eighth Avenue INGLEWOOD WA 6052
+  description: URGENT Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1349&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-25'
-- council_reference: COP19/1515
-  address: 98 Holmfirth Street COOLBINIA WA 6050
-  description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1515&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-26'
-- council_reference: COP19/1516
-  address: 19 Covent Gardens STIRLING WA 6021
-  description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1516&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-26'
-- council_reference: COP19/1517
-  address: 47 Water Crest Gardens GWELUP WA 6018
-  description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1517&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-26'
-- council_reference: COP19/1518
-  address: 1 Holbrook Gardens CARINE WA 6020
-  description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1518&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-26'
-- council_reference: COP19/1519
-  address: 373 Scarborough Beach Road INNALOO WA 6018
-  description: Planning/Development Approvals ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1519&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-26'
-- council_reference: COP19/1520
-  address: Observation City 148 The Esplanade SCARBOROUGH WA 6019
+  date_received: '2024-04-05'
+- council_reference: COP24/1350
+  address: Perth College 27 Lawley Crescent MOUNT LAWLEY WA 6050
   description: Building plans - Comm/Res units ($120.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1520&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1350&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-03'
-- council_reference: COP19/1521
-  address: 12 Barrallier Circle MIRRABOOKA WA 6061
+  date_received: '2024-04-05'
+- council_reference: COP24/1351
+  address: 21 Inveraray Crescent HAMERSLEY WA 6022
   description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1521&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1351&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-27'
-- council_reference: COP19/1522
-  address: 4 Cygnet Street DIANELLA WA 6059
+  date_received: '2024-04-06'
+- council_reference: COP24/1352
+  address: 4/258 Flinders Street NOLLAMARA WA 6061
   description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1522&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1352&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-27'
-- council_reference: COP19/1523
-  address: Harvey Norman 469 Scarborough Beach Road OSBORNE PARK WA 6017
-  description: Planning/Development Approvals ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1523&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2024-04-07'
+- council_reference: COP24/1353
+  address: 80A Harold Street DIANELLA WA 6059
+  description: ECM Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1353&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-27'
-- council_reference: COP19/1524
-  address: 9 Salar Place DIANELLA WA 6059
+  date_received: '2024-04-08'
+- council_reference: COP24/1354
+  address: 6 Gannet Street STIRLING WA 6021
+  description: URGENT Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1354&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-08'
+- council_reference: COP24/1355
+  address: 77 Boyare Avenue MIRRABOOKA WA 6061
   description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1524&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1355&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-28'
-- council_reference: COP19/1525
-  address: 20 Salmson Street BALCATTA WA 6021
+  date_received: '2024-04-08'
+- council_reference: COP24/1356
+  address: 470A Light Street DIANELLA WA 6059
+  description: Building Plans - Res strata 3+ ($120.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1356&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-08'
+- council_reference: COP24/1357
+  address: 130 Walcott Street MOUNT LAWLEY WA 6050
   description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1525&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1357&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-28'
-- council_reference: COP19/1526
-  address: 373 Scarborough Beach Road INNALOO WA 6018
-  description: Building plans - Comm/Res units ($120.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1526&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-28'
-- council_reference: COP19/1527
-  address: 1-6/8 Fletching Street BALGA WA 6061
-  description: Planning/Development Approvals ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1527&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-28'
-- council_reference: COP19/1528
-  address: 5 Hope Street WATERMANS BAY WA 6020
+  date_received: '2024-04-09'
+- council_reference: COP24/1358
+  address: 89 Jones Street STIRLING WA 6021
   description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1528&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1358&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-30'
-- council_reference: COP19/1529
-  address: 5 Hope Street WATERMANS BAY WA 6020
-  description: Planning/Development Approvals ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1529&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-30'
-- council_reference: COP19/1530
-  address: 33 Chaucer Street YOKINE WA 6060
+  date_received: '2024-04-09'
+- council_reference: COP24/1359
+  address: 39 Hamersley Street NORTH BEACH WA 6020
   description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1530&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1359&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-01'
-- council_reference: COP19/1531
-  address: 16 Gibberd Road BALCATTA WA 6021
+  date_received: '2024-04-09'
+- council_reference: COP24/1360
+  address: 12/160 Balcatta Road BALCATTA WA 6021
+  description: "......Planning/Development Approvals ($80.00 incl GST)"
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1360&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-09'
+- council_reference: COP24/1361
+  address: 7 Seabrook Way DIANELLA WA 6059
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1361&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-10'
+- council_reference: COP24/1362
+  address: 155 Boyare Avenue MIRRABOOKA WA 6061
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1362&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-10'
+- council_reference: COP24/1363
+  address: 270 Main Street OSBORNE PARK WA 6017
   description: Written Planning Advice
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1531&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1363&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-01'
-- council_reference: COP19/1532
-  address: 29 Purdom Road WEMBLEY DOWNS WA 6019
-  description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1532&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2024-04-10'
+- council_reference: COP24/1364
+  address: 109B Deanmore Road SCARBOROUGH WA 6019
+  description: BASEMENT Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1364&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-10'
-- council_reference: COP19/1533
-  address: 1/36A Third Avenue MOUNT LAWLEY WA 6050
+  date_received: '2024-04-10'
+- council_reference: COP24/1365
+  address: 170A Holbeck Street DOUBLEVIEW WA 6018
   description: Building plans - Comm/Res units ($120.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1533&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1365&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-01'
-- council_reference: COP19/1534
-  address: 98 First Avenue MOUNT LAWLEY WA 6050
+  date_received: '2024-04-10'
+- council_reference: COP24/1366
+  address: 171 Alexander Drive DIANELLA WA 6059
+  description: URGENT Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1366&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-11'
+- council_reference: COP24/1367
+  address: 8 Alver Road DOUBLEVIEW WA 6018
   description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1534&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1367&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-02'
-- council_reference: COP19/1535
-  address: 98 First Avenue MOUNT LAWLEY WA 6050
+  date_received: '2024-04-11'
+- council_reference: COP24/1368
+  address: 173 Central Avenue MOUNT LAWLEY WA 6050
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1368&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-11'
+- council_reference: COP24/1369
+  address: 41A Coatelan Drive STIRLING WA 6021
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1369&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-11'
+- council_reference: COP24/1370
+  address: 1 Wishart Street GWELUP WA 6018
+  description: URGENT Planning/Development Approvals ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1370&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-12'
+- council_reference: COP24/1371
+  address: 17A Windemere Crescent NOLLAMARA WA 6061
+  description: URGENT - All architectural plans
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1371&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-12'
+- council_reference: COP24/1372
+  address: 3/51 Dover Road SCARBOROUGH WA 6019
+  description: REFUND Building Plans - Res strata 3+ ($120.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1372&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-12'
+- council_reference: COP24/1373
+  address: 1/44 Scalby Street DOUBLEVIEW WA 6018
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1373&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-12'
+- council_reference: COP24/1374
+  address: 2/46 Pearl Parade SCARBOROUGH WA 6019
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1374&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-12'
+- council_reference: COP24/1375
+  address: 13 Cobb Street SCARBOROUGH WA 6019
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1375&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-13'
+- council_reference: COP24/1376
+  address: 13 Cobb Street SCARBOROUGH WA 6019
   description: Planning/Development Approvals ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1535&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1376&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-02'
-- council_reference: COP19/1536
-  address: 7 Marri Street WEMBLEY DOWNS WA 6019
+  date_received: '2024-04-13'
+- council_reference: COP24/1377
+  address: 91 Glenelg Avenue WEMBLEY DOWNS WA 6019
   description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1536&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1377&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-02'
-- council_reference: COP19/1537
-  address: 13 Spence Street TRIGG WA 6029
+  date_received: '2024-04-15'
+- council_reference: COP24/1378
+  address: 31 Whitely Street HAMERSLEY WA 6022
   description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1537&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1378&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-02'
-- council_reference: COP19/1538
-  address: 2 Gibberd Road BALCATTA WA 6021
-  description: Building Plans - Res strata 3+ ($120.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1538&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2024-04-15'
+- council_reference: COP24/1379
+  address: 11 Garland Way TRIGG WA 6029
+  description: REFUND Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1379&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-02'
-- council_reference: COP19/1539
-  address: 31 Etchingham Road BALGA WA 6061
+  date_received: '2024-04-15'
+- council_reference: COP24/1380
+  address: 21 Fifth Avenue MOUNT LAWLEY WA 6050
   description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1539&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1380&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-02'
-- council_reference: COP19/1540
-  address: 20A Purdom Road WEMBLEY DOWNS WA 6019
-  description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1540&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-03'
-- council_reference: COP19/1541
-  address: 1/380 Crawford Road DIANELLA WA 6059
-  description: Building Plans - Res strata 3+ ($120.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1541&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-03'
-- council_reference: COP19/1542
-  address: 24 Grebe Street STIRLING WA 6021
-  description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1542&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-03'
-- council_reference: COP19/1543
-  address: 19 Settlers Circle GWELUP WA 6018
-  description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1543&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-03'
-- council_reference: COP19/1544
-  address: 14 St Kilda Road BALGA WA 6061
-  description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1544&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-04'
-- council_reference: COP19/1545
-  address: 30 Maroog Way NOLLAMARA WA 6061
-  description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1545&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-04'
-- council_reference: COP19/1546
-  address: 12 Stoneham Street JOONDANNA WA 6060
-  description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1546&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-04'
-- council_reference: COP19/1547
-  address: 12 Stoneham Street JOONDANNA WA 6060
-  description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1547&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-04'
-- council_reference: COP19/1548
-  address: 9 Woodroyd Street MOUNT LAWLEY WA 6050
+  date_received: '2024-04-15'
+- council_reference: COP24/1381
+  address: 7A Alga Street SCARBOROUGH WA 6019
   description: Planning/Development Approvals ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1548&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1381&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-05'
-- council_reference: COP19/1549
-  address: 3A Mahlberg Avenue WOODLANDS WA 6018
+  date_received: '2024-04-15'
+- council_reference: COP24/1382
+  address: 7A Alga Street SCARBOROUGH WA 6019
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1382&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-15'
+- council_reference: COP24/1383
+  address: 16B James Street NORTH BEACH WA 6020
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1383&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-15'
+- council_reference: COP24/1384
+  address: 58B Elsie Street WATERMANS BAY WA 6020
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1384&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-15'
+- council_reference: COP24/1385
+  address: 7 Sarus Rise GWELUP WA 6018
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1385&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-16'
+- council_reference: COP24/1386
+  address: 11 Barrallier Circle MIRRABOOKA WA 6061
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1386&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-16'
+- council_reference: COP24/1387
+  address: 130 Virgil Avenue YOKINE WA 6060
+  description: URGENT Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1387&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-16'
+- council_reference: COP24/1388
+  address: 684 Beach Road HAMERSLEY WA 6022
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1388&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-17'
+- council_reference: COP24/1389
+  address: 1/163 Abbett Street SCARBOROUGH WA 6019
   description: Building Plans - Res strata 3+ ($120.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1549&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1389&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-05'
-- council_reference: COP19/1550
-  address: 14B Newbury Street BALGA WA 6061
+  date_received: '2024-04-17'
+- council_reference: COP24/1390
+  address: 61B Spencer Avenue YOKINE WA 6060
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1390&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-17'
+- council_reference: COP24/1391
+  address: 244A Crawford Road INGLEWOOD WA 6052
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1391&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-17'
+- council_reference: COP24/1392
+  address: 44 Hepburn Way BALGA WA 6061
+  description: I need a copy of plans and approvals for a house constructed in 1970
+    including extensions done probably in 1980 and patio in 2006
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1392&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-18'
+- council_reference: COP24/1393
+  address: 3/2 Railton Place DIANELLA WA 6059
   description: Building Plans - Res strata 3+ ($120.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1550&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1393&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-05'
-- council_reference: COP19/1551
-  address: 3 Swainson Place DIANELLA WA 6059
-  description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1551&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-07'
-- council_reference: COP19/1552
-  address: 60B Westview Street SCARBOROUGH WA 6019
-  description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1552&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-09'
-- council_reference: COP19/1553
-  address: 7 Gannet Street STIRLING WA 6021
-  description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1553&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-09'
-- council_reference: COP19/1554
-  address: 87 Rosewood Avenue WOODLANDS WA 6018
-  description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1554&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-09'
-- council_reference: COP19/1555
-  address: 3 Kyle Court HAMERSLEY WA 6022
-  description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1555&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-10'
-- council_reference: COP19/1556
-  address: 10 Ballart Way DIANELLA WA 6059
-  description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1556&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-10'
-- council_reference: COP19/1557
-  address: 20 March Street GWELUP WA 6018
-  description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1557&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-10'
-- council_reference: COP19/1558
-  address: 30 Bedale Street DIANELLA WA 6059
-  description: Building Plans - Res strata 3+ ($120.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1558&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-10'
-- council_reference: COP19/1559
-  address: 1/37 Raymond Street YOKINE WA 6060
-  description: Building Plans - Res strata 3+ ($120.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1559&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-10'
-- council_reference: COP19/1560
-  address: 16 Warri Road CITY BEACH WA 6015
-  description: Home Indemnity Certificate ($73.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1560&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-10'
-- council_reference: COP19/1561
-  address: 16 Warri Road CITY BEACH WA 6015
-  description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1561&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-10'
-- council_reference: COP19/1562
-  address: 8 Somerton Road KARRINYUP WA 6018
-  description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1562&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-10'
-- council_reference: COP19/1563
-  address: 16 Warri Road CITY BEACH WA 6015
+  date_received: '2024-04-18'
+- council_reference: COP24/1394
+  address: 74A Ashington Street DIANELLA WA 6059
   description: Planning/Development Approvals ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1563&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1394&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-10'
-- council_reference: COP19/1564
-  address: 188 Duke Street SCARBOROUGH WA 6019
+  date_received: '2024-04-19'
+- council_reference: COP24/1395
+  address: 42 Pascoe Street KARRINYUP WA 6018
   description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1564&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1395&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-10'
-- council_reference: COP19/1566
-  address: 54 Banksia Street JOONDANNA WA 6060
+  date_received: '2024-04-19'
+- council_reference: COP24/1396
+  address: Ground Floor 29/6 Gemstone Boulevard CARINE WA 6020
+  description: Written Planning Advice
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1396&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-19'
+- council_reference: COP24/1397
+  address: 31 Linden Street DIANELLA WA 6059
   description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1566&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1397&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-11'
-- council_reference: COP19/1567
-  address: 77 Wessex Street CARINE WA 6020
+  date_received: '2024-04-19'
+- council_reference: COP24/1398
+  address: 44B Purdom Road WEMBLEY DOWNS WA 6019
   description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1567&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1398&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-11'
-- council_reference: COP19/1568
-  address: 3/14 Bower Street SCARBOROUGH WA 6019
-  description: Building Plans - Res strata 3+ ($120.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1568&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-11'
-- council_reference: COP19/1569
-  address: 2/158 Eighth Avenue INGLEWOOD WA 6052
+  date_received: '2024-04-19'
+- council_reference: COP24/1399
+  address: 25 Talia Drive STIRLING WA 6021
   description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1569&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1399&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-12'
-- council_reference: COP19/1570
+  date_received: '2024-04-19'
+- council_reference: COP24/1400
+  address: 7/30 Erindale Road BALCATTA WA 6021
+  description: Building plans - Comm/Res units ($120.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1400&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-19'
+- council_reference: COP24/1401
+  address: 30 Latrobe Street YOKINE WA 6060
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1401&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-19'
+- council_reference: COP24/1402
+  address: 17 Queenscliffe Road DOUBLEVIEW WA 6018
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1402&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-22'
+- council_reference: COP24/1403
+  address: 382A Coode Street DIANELLA WA 6059
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1403&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-22'
+- council_reference: COP24/1404
+  address: 17 Silver Place CARINE WA 6020
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1404&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-22'
+- council_reference: COP24/1405
+  address: Woodlands Village 84 Rosewood Avenue WOODLANDS WA 6018
+  description: Planning/Development Approvals ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1405&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-22'
+- council_reference: COP24/1406
+  address: 26 Stoner Street INNALOO WA 6018
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1406&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-22'
+- council_reference: COP24/1407
+  address: 7 Thurston Street MOUNT LAWLEY WA 6050
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1407&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-23'
+- council_reference: COP24/1408
+  address: 7/239 McDonald Street JOONDANNA WA 6060
+  description: Building plans - Comm/Res units ($120.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1408&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-23'
+- council_reference: COP24/1409
+  address: 22A Glenelg Avenue WEMBLEY DOWNS WA 6019
+  description: Building Plans - Single resident ($80.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1409&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-23'
+- council_reference: COP24/1410
   address: 36 Edmondson Crescent KARRINYUP WA 6018
-  description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1570&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-12'
-- council_reference: COP19/1571
-  address: 12A Arthur Street INGLEWOOD WA 6052
-  description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1571&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-15'
-- council_reference: COP19/1572
-  address: 116 Burniston Street SCARBOROUGH WA 6019
   description: Building plans - Comm/Res units ($120.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1572&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1410&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-15'
-- council_reference: COP19/1573
-  address: 26 Cressbrook Way CARINE WA 6020
+  date_received: '2024-04-23'
+- council_reference: COP24/1411
+  address: 2/63 King Edward Road OSBORNE PARK WA 6017
+  description: Building plans - Comm/Res units ($120.00 incl GST)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1411&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-23'
+- council_reference: COP24/1412
+  address: 6 Annan Court HAMERSLEY WA 6022
   description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1573&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1412&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-15'
-- council_reference: COP19/1574
-  address: 26 Cressbrook Way CARINE WA 6020
-  description: Planning/Development Approvals ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1574&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-15'
-- council_reference: COP19/1575
-  address: 5A Cone Place MENORA WA 6050
-  description: Planning/Development Approvals ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1575&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-16'
-- council_reference: COP19/1576
-  address: 10A Shaw Road DIANELLA WA 6059
+  date_received: '2024-04-23'
+- council_reference: COP24/1413
+  address: 28 Macalister Gardens MIRRABOOKA WA 6061
   description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1576&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1413&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-17'
-- council_reference: COP19/1577
-  address: 32 Seahorse Parade KARRINYUP WA 6018
+  date_received: '2024-04-23'
+- council_reference: COP24/1414
+  address: 3/25 Roscorla Avenue YOKINE WA 6060
   description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1577&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP24%2F1414&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-17'
-- council_reference: COP19/1578
-  address: 5 Chestnut Grove MIRRABOOKA WA 6061
-  description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1578&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-17'
-- council_reference: COP19/1579
-  address: 34A Medhurst Crescent NOLLAMARA WA 6061
-  description: Building Plans - Single resident ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1579&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-17'
-- council_reference: COP19/1580
-  address: 34A Medhurst Crescent NOLLAMARA WA 6061
-  description: Planning/Development Approvals ($80.00 incl GST)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=COP19%2F1580&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-17'
-- council_reference: D19/0200
-  address: 126 Charles Riley Road TRIGG WA 6029
+  date_received: '2024-04-23'
+- council_reference: D24/0072
+  address: 6 Williams Road DIANELLA WA 6059
   description: Full Residential Demolition
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D19%2F0200&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D24%2F0072&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-24'
-- council_reference: D19/0201
-  address: 17 Dryandra Drive MIRRABOOKA WA 6061
+  date_received: '2024-03-28'
+- council_reference: D24/0073
+  address: 26 Shakespeare Avenue YOKINE WA 6060
   description: Full Residential Demolition
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D19%2F0201&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D24%2F0073&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-25'
-- council_reference: D19/0202
-  address: Observation City 148 The Esplanade SCARBOROUGH WA 6019
-  description: Partial Commercial Demolition Permit (Toilet Block)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D19%2F0202&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-26'
-- council_reference: D19/0203
-  address: 5 Pola Street DIANELLA WA 6059
-  description: Residential Demolition Permit - Full Demolition
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D19%2F0203&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-27'
-- council_reference: D19/0204
-  address: 13 Rawlins Street GLENDALOUGH WA 6016
-  description: Residential Demolition Permit - Full Demolition
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D19%2F0204&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-27'
-- council_reference: D19/0205
-  address: 16 Canara Road WESTMINSTER WA 6061
-  description: Residential Demolition Permit - Full Demolition
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D19%2F0205&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-27'
-- council_reference: D19/0206
-  address: 191 Huntriss Road DOUBLEVIEW WA 6018
+  date_received: '2024-04-02'
+- council_reference: D24/0074
+  address: 21 Victoria Street DIANELLA WA 6059
   description: Full Residential Demolition
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D19%2F0206&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D24%2F0074&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-01'
-- council_reference: D19/0207
-  address: 51 Raymond Street YOKINE WA 6060
-  description: Residential Demolition Permit
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D19%2F0207&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2024-04-03'
+- council_reference: D24/0075
+  address: 62 Fifth Avenue MOUNT LAWLEY WA 6050
+  description: Partial Demolition - demolition of carport/outbuilding structure
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D24%2F0075&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-02'
-- council_reference: D19/0208
-  address: 2B Rawlins Street GLENDALOUGH WA 6016
-  description: Residential Demolition Permit - Group Dwelling
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D19%2F0208&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2024-04-03'
+- council_reference: D24/0076
+  address: 49 Porter Street GWELUP WA 6018
+  description: CANCELLED - Residential Demolition Permit
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D24%2F0076&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-03'
-- council_reference: D19/0209
-  address: 2 Porlock Way KARRINYUP WA 6018
-  description: Residential Demolition Permit - Duplex 2 & 2A
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D19%2F0209&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-04'
-- council_reference: D19/0210
-  address: 2 Satin Way INNALOO WA 6018
-  description: Residential Demolition Permit
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D19%2F0210&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-04'
-- council_reference: D19/0211
-  address: 40 Crocker Way INNALOO WA 6018
+  date_received: '2024-04-04'
+- council_reference: D24/0077
+  address: 49 Porter Street GWELUP WA 6018
   description: Full Residential Demolition
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D19%2F0211&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D24%2F0077&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-04'
-- council_reference: D19/0212
-  address: 106 Paramatta Road DOUBLEVIEW WA 6018
-  description: Residential Demolition Permit
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D19%2F0212&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-05'
-- council_reference: D19/0213
-  address: 5 Pitt Street DIANELLA WA 6059
-  description: Residential Demolition Permit
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D19%2F0213&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-08'
-- council_reference: D19/0214
-  address: 96 Culloton Crescent BALGA WA 6061
-  description: Residential Demolition Permit
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D19%2F0214&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-09'
-- council_reference: D19/0215
-  address: 23 Saunders Street NORTH BEACH WA 6020
-  description: Residential Demolition Permit
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D19%2F0215&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-10'
-- council_reference: D19/0216
-  address: 70 Sorrento Street NORTH BEACH WA 6020
-  description: Residential Demolition Permit
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D19%2F0216&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-10'
-- council_reference: D19/0217
-  address: 11 Ramsay Street KARRINYUP WA 6018
-  description: Full Residential Demotion
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D19%2F0217&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-10'
-- council_reference: D19/0218
-  address: 91 Buntine Road WEMBLEY DOWNS WA 6019
+  date_received: '2024-04-04'
+- council_reference: D24/0078
+  address: 140 Scarborough Beach Road SCARBOROUGH WA 6019
   description: Full Residential Demolition
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D19%2F0218&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D24%2F0078&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-11'
-- council_reference: D19/0219
-  address: 14 Pinewood Avenue WOODLANDS WA 6018
+  date_received: '2024-04-04'
+- council_reference: D24/0079
+  address: 42 Flinders Street YOKINE WA 6060
   description: Full Residential Demolition
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D19%2F0219&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D24%2F0079&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-12'
-- council_reference: D19/0220
-  address: 99 Drabble Road SCARBOROUGH WA 6019
-  description: Partial Duplex - Residential Demolition Permit
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D19%2F0220&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2024-04-08'
+- council_reference: D24/0080
+  address: 29 Warralong Crescent COOLBINIA WA 6050
+  description: Partial demolition of the garage, front fence and some trees and vegetation
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D24%2F0080&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-12'
-- council_reference: D19/0221
-  address: 20 Main Street OSBORNE PARK WA 6017
-  description: Multiple x 3 Units - Residential Demolition Permit
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D19%2F0221&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2024-04-08'
+- council_reference: D24/0081
+  address: 30 Mitcham Street WEMBLEY DOWNS WA 6019
+  description: Full Residential Demolition
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D24%2F0081&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-12'
-- council_reference: D19/0222
-  address: 23 Hornsey Way BALGA WA 6061
-  description: Residential Demolition Permit
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D19%2F0222&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2024-04-08'
+- council_reference: D24/0082
+  address: 47 North Street MOUNT LAWLEY WA 6050
+  description: Partial Demolition of he rear half of the residence - as per site plan
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D24%2F0082&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-12'
-- council_reference: D19/0223
-  address: 34 Leeds Street DIANELLA WA 6059
-  description: Residential Demolition Permit
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D19%2F0223&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2024-04-11'
+- council_reference: D24/0083
+  address: 37 Loton Street WOODLANDS WA 6018
+  description: Full Residential Demolition
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D24%2F0083&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-15'
-- council_reference: D19/0224
-  address: 36B Unwin Avenue WEMBLEY DOWNS WA 6019
-  description: Residential Demolition Permit
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D19%2F0224&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2024-04-12'
+- council_reference: D24/0084
+  address: 70 Fernhurst Crescent BALGA WA 6061
+  description: FULL SITE CLEARANCE OF RESIDENTIAL PROPERTY
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D24%2F0084&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-15'
-- council_reference: D19/0225
-  address: 27 Purdom Road WEMBLEY DOWNS WA 6019
-  description: Residential Demolition Permit
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D19%2F0225&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2024-04-15'
+- council_reference: D24/0085
+  address: 70 Fernhurst Crescent BALGA WA 6061
+  description: Full Residential Demolition
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D24%2F0085&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-15'
-- council_reference: D19/0226
-  address: 9A Fyfe Court TRIGG WA 6029
-  description: Residential Demolition Permit
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D19%2F0226&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2024-04-15'
+- council_reference: D24/0086
+  address: 20 Sackville Terrace SCARBOROUGH WA 6019
+  description: Full Residential Demolition
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D24%2F0086&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-15'
-- council_reference: D19/0227
-  address: 8 Gordon Road West DIANELLA WA 6059
-  description: Residential Demolition Permit
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D19%2F0227&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2024-04-16'
+- council_reference: D24/0087
+  address: 118 Hale Road WEMBLEY DOWNS WA 6019
+  description: Full Residential Demolition
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D24%2F0087&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-17'
-- council_reference: D19/0228
-  address: 18 Windsor Avenue DIANELLA WA 6059
-  description: Residential Demolition Permit
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D19%2F0228&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2024-04-16'
+- council_reference: D24/0088
+  address: 119 Huntriss Road DOUBLEVIEW WA 6018
+  description: Full Residential Demolition
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D24%2F0088&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-17'
-- council_reference: DA19/0957
-  address: 1/36A Third Avenue MOUNT LAWLEY WA 6050
-  description: Residential - Garage Roller Door
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0957&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2024-04-16'
+- council_reference: D24/0089
+  address: 111 Cobb Street WEMBLEY DOWNS WA 6019
+  description: Full Residential Demolition Permit
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D24%2F0089&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
-- council_reference: DA19/0958
-  address: 25 Bosworth Street HAMERSLEY WA 6022
-  description: Residential - Single House - Amendment to DA18/2215
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0958&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2024-04-17'
+- council_reference: D24/0090
+  address: 6 Smart Court DIANELLA WA 6059
+  description: Full Residential Demolition Permit
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D24%2F0090&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
-- council_reference: DA19/0959
-  address: 117 Miles Street KARRINYUP WA 6018
-  description: Community - School Shed
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0959&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2024-04-17'
+- council_reference: D24/0091
+  address: 109 Huntriss Road KARRINYUP WA 6018
+  description: Full Residential Demolition
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D24%2F0091&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
-- council_reference: DA19/0960
-  address: 84 Vickers Street HAMERSLEY WA 6022
-  description: Cancelled - Residential - Carport
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0960&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2024-04-18'
+- council_reference: D24/0092
+  address: 70 Arkana Road WESTMINSTER WA 6061
+  description: Full Residential Demolition
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D24%2F0092&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-22'
-- council_reference: DA19/0961
-  address: 84 Vickers Street HAMERSLEY WA 6022
-  description: Cancelled - colorbond flat carport 500mm from fence
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0961&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2024-04-18'
+- council_reference: D24/0093
+  address: 3 Clematis Road WOODLANDS WA 6018
+  description: Full Residential Demolition
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D24%2F0093&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-22'
-- council_reference: DA19/0962
-  address: Carine Baseball Club 47 Monyash Road CARINE WA 6020
-  description: Community - Reserves - Baseball Scorer's Huts
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0962&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2024-04-20'
+- council_reference: D24/0094
+  address: 93 Odin Road INNALOO WA 6018
+  description: Full Residential Demolition
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D24%2F0094&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-24'
-- council_reference: DA19/0963
-  address: 18 Almurta Way NOLLAMARA WA 6061
-  description: Residential - Single House
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0963&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2024-04-22'
+- council_reference: D24/0095
+  address: 11 Hertha Place INNALOO WA 6018
+  description: Full residential Demolition
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D24%2F0095&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-24'
-- council_reference: DA19/0964
-  address: 19A Constance Street YOKINE WA 6060
-  description: Residential - Patio
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0964&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2024-04-22'
+- council_reference: D24/0096
+  address: 16 Balwarra Avenue DIANELLA WA 6059
+  description: Full Residential Demolition
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=D24%2F0096&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-24'
-- council_reference: DA19/0965
-  address: 40A Queens Crescent MOUNT LAWLEY WA 6050
-  description: Residential - Additions
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0965&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-24'
-- council_reference: DA19/0966
-  address: 11 Calais Road SCARBOROUGH WA 6019
-  description: Residential - Patio
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0966&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-24'
-- council_reference: DA19/0967
-  address: 20 Gay Street DIANELLA WA 6059
-  description: Commercial - Twenty Display Homes, Sale Office and Two Carparks (Amendment
-    to DA15/1961) Extension of Development Application DA16/2756 & DA17/2091
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0967&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-24'
-- council_reference: DA19/0968
-  address: 40 Belhus Drive TRIGG WA 6029
-  description: Residential - Single House
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0968&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-24'
-- council_reference: DA19/0969
-  address: 40 Belhus Drive TRIGG WA 6029
-  description: Cancelled - DA application
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0969&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-24'
-- council_reference: DA19/0970
-  address: 76 Ardleigh Crescent HAMERSLEY WA 6022
-  description: Residential - Patio
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0970&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-24'
-- council_reference: DA19/0971
-  address: Stirling Central 478 Wanneroo Road WESTMINSTER WA 6061
-  description: Commercial - Construction of Canopy and Signage
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0971&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-24'
-- council_reference: DA19/0972
-  address: 112 Duke Street SCARBOROUGH WA 6019
-  description: Residential - Home Occupation
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0972&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-24'
-- council_reference: DA19/0973
-  address: 81A Milverton Avenue KARRINYUP WA 6018
-  description: Residential - Single House
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0973&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-24'
-- council_reference: DA19/0974
-  address: 3/83 First Avenue MOUNT LAWLEY WA 6050
-  description: Change of Use - Residential to Short Term Accomodation
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0974&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-25'
-- council_reference: DA19/0975
-  address: 3A Cornwall Street DIANELLA WA 6059
-  description: Residential - Dividing Fence with Retaining
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0975&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-25'
-- council_reference: DA19/0976
-  address: 2A Arundale Crescent WEMBLEY DOWNS WA 6019
-  description: Residential - Single House
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0976&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-25'
-- council_reference: DA19/0977
-  address: 45 Lancelot Street CARINE WA 6020
-  description: Residential - Single House (Lot 618)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0977&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-25'
-- council_reference: DA19/0978
-  address: 35 Learoyd Street MOUNT LAWLEY WA 6050
-  description: Residential - Additions
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0978&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-25'
-- council_reference: DA19/0979
-  address: 19 Hartfield Way WESTMINSTER WA 6061
-  description: Residential - Three Grouped Dwellings
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0979&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-25'
-- council_reference: DA19/0980
-  address: 53B Lancaster Street DIANELLA WA 6059
-  description: Residential - Single House
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0980&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-26'
-- council_reference: DA19/0981
-  address: 1 Tamarisk Court DIANELLA WA 6059
-  description: Residential - Patio
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0981&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-26'
-- council_reference: DA19/0982
-  address: 10 Harcourt Street INGLEWOOD WA 6052
-  description: Residential - Addition
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0982&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-26'
-- council_reference: DA19/0983
-  address: 10 Rona Street NORTH BEACH WA 6020
-  description: Residential - Addition
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0983&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-26'
-- council_reference: DA19/0984
-  address: 29 Silica Road CARINE WA 6020
-  description: Community - Patio
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0984&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-26'
-- council_reference: DA19/0985
-  address: 30 Castle Road WOODLANDS WA 6018
-  description: Residential - Single House - Amendment to DA18/2037
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0985&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-26'
-- council_reference: DA19/0986
-  address: 40 Crocker Way INNALOO WA 6018
-  description: Residential - Three Grouped Dwelling
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0986&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-26'
-- council_reference: DA19/0987
-  address: 49 Lawley Street NORTH BEACH WA 6020
-  description: Residential - Single House
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0987&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-26'
-- council_reference: DA19/0988
-  address: 9 Quondong Street NOLLAMARA WA 6061
-  description: Residential - Patio
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0988&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-27'
-- council_reference: DA19/0989
-  address: 52E Cotoneaster Ramble STIRLING WA 6021
-  description: Residential - Front Fence (Unauthorised Existing Development)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0989&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-27'
-- council_reference: DA19/0990
-  address: Ground Floor 4/48 Odin Road INNALOO WA 6018
-  description: Residential - Patio
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0990&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-27'
-- council_reference: DA19/0991
-  address: 114 Westview Street SCARBOROUGH WA 6019
-  description: Residential - Additions
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0991&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-27'
-- council_reference: DA19/0992
-  address: 8 Cobb Street SCARBOROUGH WA 6019
-  description: Residential - Patio
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0992&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-27'
-- council_reference: DA19/0993
-  address: 127 Fourth Avenue MOUNT LAWLEY WA 6050
-  description: Residential - Addition
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0993&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-27'
-- council_reference: DA19/0994
-  address: 104 Erindale Road BALCATTA WA 6021
-  description: Development Application Panel (LG Form 2) - Multiple Use and Commercial
-    Development - Amendment to DA17/2483 & DA18/2127
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0994&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-27'
-- council_reference: DA19/0995
-  address: 15 Millgate Road BALGA WA 6061
-  description: Residential - Four Grouped Dwellings
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0995&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-27'
-- council_reference: DA19/0996
-  address: 414 Grand Promenade DIANELLA WA 6059
-  description: Residential - Patio
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0996&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-27'
-- council_reference: DA19/0997
-  address: 3/24 Newport Way BALGA WA 6061
-  description: Residential - Patio
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0997&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-27'
-- council_reference: DA19/0998
-  address: 180 Royal Street YOKINE WA 6060
-  description: Residential - Two Grouped Dwellings
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0998&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-27'
-- council_reference: DA19/0999
-  address: 109 Central Avenue MOUNT LAWLEY WA 6050
-  description: Residential - Retaining Wall and Fence
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0999&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-27'
-- council_reference: DA19/1000
-  address: 161 Edward Street OSBORNE PARK WA 6017
-  description: Residential - Ten Multiple Dwellings - Extension of Time to DA14/2784,
-    DA15/1198, DA17/1040 and DA19/0660
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1000&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-27'
-- council_reference: DA19/1001
-  address: 161 Edward Street OSBORNE PARK WA 6017
-  description: Cancelled - Amendment to DA19/0660 - addition of second bathroom to
-    9 out of 10 apartments. Minor changes to minor openings.
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1001&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-27'
-- council_reference: DA19/1002
-  address: 29 Rockliff Avenue KARRINYUP WA 6018
-  description: Residential - Home Occupation - Beauty Treatment
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1002&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-28'
-- council_reference: DA19/1003
-  address: 9C Moorland Street SCARBOROUGH WA 6019
-  description: Residential - Home Occupation - Beauty Therapy
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1003&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-28'
-- council_reference: DA19/1004
-  address: 3 Spinoza Street MOUNT LAWLEY WA 6050
-  description: Residential - Additions
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1004&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-28'
-- council_reference: DA19/1005
-  address: 66 Hodgson Street TUART HILL WA 6060
-  description: Residential - Patio
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1005&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-28'
-- council_reference: DA19/1006
-  address: Doubleview Primary School 193 St Brigids Terrace DOUBLEVIEW WA 6018
-  description: Cancelled - Amendment to DA17/0902. Enhancement to Playground. Series
-    of proprietary and custom play elements.
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1006&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-28'
-- council_reference: DA19/1007
-  address: 35 Wittering Crescent BALGA WA 6061
-  description: Residential - Four Grouped Dwellings
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1007&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-28'
-- council_reference: DA19/1008
-  address: 94A Empire Avenue WEMBLEY DOWNS WA 6019
-  description: Residential - Carport (Amendment to DA18/0991)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1008&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-28'
-- council_reference: DA19/1009
-  address: 209B Woodside Street DOUBLEVIEW WA 6018
-  description: Residential - Single House
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1009&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-29'
-- council_reference: DA19/1010
-  address: 84 Vickers Street HAMERSLEY WA 6022
+  date_received: '2024-04-23'
+- council_reference: DA24/0429
+  address: 147 Tenth Avenue INGLEWOOD WA 6052
   description: Residential - Carport
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1010&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0429&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-30'
-- council_reference: DA19/1011
-  address: 37B Sulman Road WEMBLEY DOWNS WA 6019
-  description: Residential - Additions
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1011&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2024-03-28'
+- council_reference: DA24/0430
+  address: 56 Gildercliffe Street SCARBOROUGH WA 6019
+  description: Residential - Additions to Single House
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0430&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-01'
-- council_reference: DA19/1012
-  address: 43 Wittering Crescent BALGA WA 6061
-  description: Residential - Three Grouped Dwellings (Extension of Time to DA17/2271
-    and DA15/1810)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1012&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2024-03-28'
+- council_reference: DA24/0431
+  address: 56 Gildercliffe Street SCARBOROUGH WA 6019
+  description: Residential - Additions to Single House
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0431&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-01'
-- council_reference: DA19/1013
-  address: 53 Thor Street INNALOO WA 6018
+  date_received: '2024-03-28'
+- council_reference: DA24/0432
+  address: 19 Hepworth Road TRIGG WA 6029
+  description: Residential - Single House
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0432&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-03-28'
+- council_reference: DA24/0433
+  address: 72 Millcrest Street SCARBOROUGH WA 6019
+  description: Residential - Two Grouped Dwellings
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0433&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-03-28'
+- council_reference: DA24/0434
+  address: 6 Gladman Way KARRINYUP WA 6018
+  description: Residential - Additions to Single House
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0434&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-03-28'
+- council_reference: DA24/0435
+  address: 157A Seventh Avenue INGLEWOOD WA 6052
+  description: Cancelled - Bed and Breakfast
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0435&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-03-30'
+- council_reference: DA24/0436
+  address: 157A Seventh Avenue INGLEWOOD WA 6052
+  description: Cancelled - Bed and Breakfast
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0436&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-03-30'
+- council_reference: DA24/0437
+  address: 157A Seventh Avenue INGLEWOOD WA 6052
+  description: Cancelled - Bed and Breakfast
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0437&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-03-30'
+- council_reference: DA24/0438
+  address: 28 Brendon Way KARRINYUP WA 6018
+  description: Residential - Single House
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0438&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-01'
+- council_reference: DA24/0439
+  address: 310C Hector Street TUART HILL WA 6060
+  description: Residential - Additions to Single House
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0439&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-02'
+- council_reference: DA24/0440
+  address: 33B Tontave Road WESTMINSTER WA 6061
+  description: Residential - Patio
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0440&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-02'
+- council_reference: DA24/0441
+  address: 2 Wyndham Way YOKINE WA 6060
+  description: Residential - Single House
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0441&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-02'
+- council_reference: DA24/0442
+  address: 63 Boulton Street DIANELLA WA 6059
+  description: Residential - Three Grouped Dwellings
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0442&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-02'
+- council_reference: DA24/0443
+  address: 5/12 Selsfield Place BALGA WA 6061
+  description: Residential - Patio
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0443&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-02'
+- council_reference: DA24/0444
+  address: 10 Blissett Way HAMERSLEY WA 6022
+  description: Residential - Front Fence (Unauthorised Existing Development)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0444&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-02'
+- council_reference: DA24/0445
+  address: 23 Michael Street YOKINE WA 6060
+  description: Residential - Retaining Wall and Front Fence
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0445&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-02'
+- council_reference: DA24/0446
+  address: 24 Walters Drive OSBORNE PARK WA 6017
+  description: Change of Use - Use Not Listed (Creche) to Childcare Premises and Internal
+    Refurbishments - Amendment to DA23/1532
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0446&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-03'
+- council_reference: DA24/0447
+  address: 70 Beryl Street BALCATTA WA 6021
   description: Residential - Four Grouped Dwellings
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1013&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0447&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-01'
-- council_reference: DA19/1014
-  address: 30C Quadea Way NOLLAMARA WA 6061
+  date_received: '2024-04-03'
+- council_reference: DA24/0448
+  address: 263 Eighth Avenue INGLEWOOD WA 6052
+  description: Residential - Front Fence
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0448&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-03'
+- council_reference: DA24/0449
+  address: 16B Dunholme Street OSBORNE PARK WA 6017
+  description: Residential - Additions to Single House - Existing Unauthorised Development
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0449&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-03'
+- council_reference: DA24/0450
+  address: 21 Grebe Street STIRLING WA 6021
+  description: Residential - Carport
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0450&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-03'
+- council_reference: DA24/0451
+  address: 67 North Street MOUNT LAWLEY WA 6050
+  description: Residential - Patio
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0451&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-03'
+- council_reference: DA24/0452
+  address: 122 Telford Crescent STIRLING WA 6021
+  description: Residential - Single House (Proposed Lot 22)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0452&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-03'
+- council_reference: DA24/0453
+  address: 774 Karrinyup Road BALCATTA WA 6021
+  description: Residential - Twelve Grouped Dwellings
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0453&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-03'
+- council_reference: DA24/0454
+  address: 774 Karrinyup Road BALCATTA WA 6021
+  description: Residential - Three Grouped Dwellings
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0454&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-03'
+- council_reference: DA24/0455
+  address: 18 Kestrel Street KARRINYUP WA 6018
+  description: Residential - Single House - Amendment to DA24/0337
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0455&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-04'
+- council_reference: DA24/0456
+  address: 230 Eighth Avenue INGLEWOOD WA 6052
+  description: Residential - Front Fence and Crossover
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0456&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-04'
+- council_reference: DA24/0457
+  address: 80 Holmfirth Street COOLBINIA WA 6050
   description: Residential - Home Occupation
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1014&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-01'
-- council_reference: DA19/1015
-  address: 3 Spoonbill Road STIRLING WA 6021
-  description: Change of Use - Residential to Childcare
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1015&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-01'
-- council_reference: DA19/1016
-  address: 56 Mary Street WATERMANS BAY WA 6020
-  description: Residential - Additions
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1016&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-02'
-- council_reference: DA19/1017
-  address: 66 Hodgson Street TUART HILL WA 6060
-  description: Cancelled - Residential - Patio
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1017&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-02'
-- council_reference: DA19/1018
-  address: 1/20 St Kilda Road BALGA WA 6061
-  description: Residential - Six Grouped Dwellings - One Additional
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1018&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-02'
-- council_reference: DA19/1019
-  address: 1/20 St Kilda Road BALGA WA 6061
-  description: Cancelled - Proposed 2 Storey 'Built Strata' Residence @ 1/20 St. kilda
-    Rd BALGA
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1019&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-02'
-- council_reference: DA19/1020
-  address: 53 West Coast Drive WATERMANS BAY WA 6020
-  description: Residential - Additions
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-02'
-- council_reference: DA19/1021
-  address: 29 Porter Street GWELUP WA 6018
-  description: Residential - Single House
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-02'
-- council_reference: DA19/1022
-  address: 56A Francis Avenue KARRINYUP WA 6018
-  description: Residential - Single House
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1022&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-02'
-- council_reference: DA19/1023
-  address: Karrinyup Shopping Centre 200 Karrinyup Road KARRINYUP WA 6018
-  description: Development Assessment Panel (Form 2) - Major Expansion of Karrinyup
-    Shopping Centre - (Amendment to DA15/0460)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1023&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-02'
-- council_reference: DA19/1024
-  address: 178 Lawley Street YOKINE WA 6060
-  description: Residential - Addition
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1024&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-02'
-- council_reference: DA19/1025
-  address: 363A Light Street DIANELLA WA 6059
-  description: Residential - Front Fence
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1025&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-03'
-- council_reference: DA19/1026
-  address: 30 Carnarvon Crescent COOLBINIA WA 6050
-  description: Residential - Single House
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1026&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-03'
-- council_reference: DA19/1027
-  address: 57 Swan Street TUART HILL WA 6060
-  description: Residential - Three Grouped Dwellings
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1027&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-03'
-- council_reference: DA19/1028
-  address: 7/7 Erindale Road STIRLING WA 6021
-  description: Signage
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1028&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-03'
-- council_reference: DA19/1029
-  address: 22 Whittle Place STIRLING WA 6021
-  description: Residential - Patio
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1029&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-03'
-- council_reference: DA19/1030
-  address: 22 Beverley Street COOLBINIA WA 6050
-  description: Residential - Single House
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1030&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-03'
-- council_reference: DA19/1031
-  address: 9 Waverley Street DIANELLA WA 6059
-  description: Residential - Two Grouped Dwellings - One Additional
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1031&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-03'
-- council_reference: DA19/1032
-  address: 43 David Street YOKINE WA 6060
-  description: Residential - Ancillary Dwelling
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1032&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-04'
-- council_reference: DA19/1033
-  address: 22 Roberts Street West OSBORNE PARK WA 6017
-  description: Industry - Waste Transfer Station for the City of Perth Osborne Park
-    Works Depot
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1033&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-04'
-- council_reference: DA19/1034
-  address: 45 Lewin Way SCARBOROUGH WA 6019
-  description: Residential - Additions
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1034&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-04'
-- council_reference: DA19/1035
-  address: 16 Canara Road WESTMINSTER WA 6061
-  description: Residential - Three Grouped Dwellings
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1035&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-04'
-- council_reference: DA19/1036
-  address: 214 Ewen Street WOODLANDS WA 6018
-  description: Residential - Four Grouped Dwellings
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1036&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-04'
-- council_reference: DA19/1037
-  address: Servite College 148 Cape Street TUART HILL WA 6060
-  description: Community - School - Internal Upgrades to parts of two existing buildings
-    and landscape/facade upgrades.
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1037&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-04'
-- council_reference: DA19/1038
-  address: 1 Lanark Street MENORA WA 6050
-  description: Residential - Front Fence
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1038&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-04'
-- council_reference: DA19/1039
-  address: 20 Salmson Street BALCATTA WA 6021
-  description: Residental - Carport
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1039&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-05'
-- council_reference: DA19/1040
-  address: 33 Second Avenue MOUNT LAWLEY WA 6050
-  description: Residential - Additions
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1040&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-05'
-- council_reference: DA19/1041
-  address: 47 Water Crest Gardens GWELUP WA 6018
-  description: Residential - Patio
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1041&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-05'
-- council_reference: DA19/1042
-  address: 487 The Strand DIANELLA WA 6059
-  description: Residential - Single House
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1042&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-05'
-- council_reference: DA19/1043
-  address: 22 Jenkins Place WEMBLEY DOWNS WA 6019
-  description: Residential - Retaining Wall
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1043&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-05'
-- council_reference: DA19/1044
-  address: 1 Puccini Court STIRLING WA 6021
-  description: Commercial - Change of use and signage
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1044&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-05'
-- council_reference: DA19/1045
-  address: 36 Newborough Street KARRINYUP WA 6018
-  description: Residential - Addition
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1045&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-05'
-- council_reference: DA19/1046
-  address: First Floor 6/7 Mahlberg Avenue WOODLANDS WA 6018
-  description: Change of Use - Short Stay Accommodation (Renewal/extension of time
-    to DA18/0697)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1046&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-08'
-- council_reference: DA19/1047
-  address: 135 Cobb Street WEMBLEY DOWNS WA 6019
-  description: Residential - Patio
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1047&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-08'
-- council_reference: DA19/1048
-  address: 1 Galahad Way CARINE WA 6020
-  description: Residential - Carport - Amendment to DA19/0450
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1048&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-08'
-- council_reference: DA19/1049
-  address: 154 Alice Street DOUBLEVIEW WA 6018
-  description: Residential - Patio
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1049&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-08'
-- council_reference: DA19/1050
-  address: 26 Joondanna Drive JOONDANNA WA 6060
-  description: Residential - Additions
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1050&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-08'
-- council_reference: DA19/1051
-  address: 43A Glover Street DIANELLA WA 6059
-  description: Residential - Single House
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1051&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-09'
-- council_reference: DA19/1052
-  address: 34B Cottonwood Crescent DIANELLA WA 6059
-  description: Residential - Patio
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1052&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-09'
-- council_reference: DA19/1053
-  address: 40 Nola Avenue SCARBOROUGH WA 6019
-  description: Residential - Additions (Amendment to DA19/0412)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1053&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-09'
-- council_reference: DA19/1054
-  address: 145 Hale Road WEMBLEY DOWNS WA 6019
-  description: Residential - Additions
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1054&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-09'
-- council_reference: DA19/1055
-  address: 30 Collingwood Street OSBORNE PARK WA 6017
-  description: Industrial - Change of Use and Signage
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1055&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-09'
-- council_reference: DA19/1056
-  address: 29 Helmsley Street SCARBOROUGH WA 6019
-  description: Residential - Balcony
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1056&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-09'
-- council_reference: DA19/1057
-  address: Doubleview Primary School 193 St Brigids Terrace DOUBLEVIEW WA 6018
-  description: Community - Enhancement to School Playground
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1057&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-09'
-- council_reference: DA19/1058
-  address: 5B Northgate Street KARRINYUP WA 6018
-  description: Residential - Retaining Wall
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1058&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-09'
-- council_reference: DA19/1059
-  address: 70B Fifth Avenue MOUNT LAWLEY WA 6050
-  description: Residential - Patio
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1059&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-10'
-- council_reference: DA19/1060
-  address: 21 Third Avenue MOUNT LAWLEY WA 6050
-  description: Residential - Additions
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1060&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-10'
-- council_reference: DA19/1061
-  address: 90 Short Street JOONDANNA WA 6060
-  description: Residential - Single House
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1061&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-10'
-- council_reference: DA19/1062
-  address: 450 Coode Street DIANELLA WA 6059
-  description: Residential - Patio
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1062&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-10'
-- council_reference: DA19/1063
-  address: 143 Central Avenue MOUNT LAWLEY WA 6050
-  description: Residential - Front Fence
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1063&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-10'
-- council_reference: DA19/1064
-  address: 43A Glenwood Way BALCATTA WA 6021
-  description: Residential - Single House
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1064&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-10'
-- council_reference: DA19/1065
-  address: Westfield Innaloo 388 Scarborough Beach Road INNALOO WA 6018
-  description: Signage
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1065&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-11'
-- council_reference: DA19/1066
-  address: 21A Williamson Way TRIGG WA 6029
-  description: Residential - Single House
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1066&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-11'
-- council_reference: DA19/1067
-  address: 20 Tyler Street JOONDANNA WA 6060
-  description: Residential - Three Grouped Dwelling
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1067&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-12'
-- council_reference: DA19/1068
-  address: 755 Beaufort Street MOUNT LAWLEY WA 6050
-  description: Change of Use - Commercial - Dental Services and Ancillary Use
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1068&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-12'
-- council_reference: DA19/1069
-  address: 4 Brown Way KARRINYUP WA 6018
-  description: Residential - Additions
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1069&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-12'
-- council_reference: DA19/1070
-  address: 134A Duffy Road CARINE WA 6020
-  description: Residential - Patio
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1070&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-12'
-- council_reference: DA19/1071
-  address: 12 Swanston Street YOKINE WA 6060
-  description: Three Multiple Dwellings
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1071&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-12'
-- council_reference: DA19/1072
-  address: 46 Stoneham Street JOONDANNA WA 6060
-  description: Residential - Single House
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1072&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-12'
-- council_reference: DA19/1073
-  address: 67A Boulton Street DIANELLA WA 6059
-  description: Residential - Patio and parapet wall
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1073&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-12'
-- council_reference: DA19/1074
-  address: 61A Sulman Road WEMBLEY DOWNS WA 6019
-  description: Residential - Retaining Wall (Amendment to DA17/2214)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1074&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-12'
-- council_reference: DA19/1075
-  address: 53 Erindale Road BALCATTA WA 6021
-  description: Signage
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1075&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-12'
-- council_reference: DA19/1076
-  address: 6B Shakespeare Avenue YOKINE WA 6060
-  description: Residential - Single House
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1076&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-12'
-- council_reference: DA19/1077
-  address: 79C Baden Street JOONDANNA WA 6060
-  description: Residential - Patio
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1077&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-12'
-- council_reference: DA19/1078
-  address: 90 Frobisher Street OSBORNE PARK WA 6017
-  description: Signage
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1078&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-12'
-- council_reference: DA19/1079
-  address: 7/161 Scarborough Beach Road SCARBOROUGH WA 6019
-  description: Residential - Patio (Unauthorised Existing Srtucture)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1079&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-12'
-- council_reference: DA19/1080
-  address: Mirrabooka Square Shopping Centre 43 Yirrigan Drive MIRRABOOKA WA 6061
-  description: Facade upgrades, signage and minor internal modifications to support
-    new tenancy.
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1080&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-12'
-- council_reference: DA19/1081
-  address: 17 Talia Drive STIRLING WA 6021
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0457&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-04'
+- council_reference: DA24/0458
+  address: 335 Crawford Road INGLEWOOD WA 6052
   description: Residential - Home Business
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1081&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0458&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-15'
-- council_reference: DA19/1082
-  address: 3 Sawley Court CARINE WA 6020
+  date_received: '2024-04-04'
+- council_reference: DA24/0459
+  address: 12 Galpini Place MIRRABOOKA WA 6061
+  description: Residential - Two Patios
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0459&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-04'
+- council_reference: DA24/0460
+  address: 283 Pearson Street WOODLANDS WA 6018
+  description: Residential - Ancillary Accommodation
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0460&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-04'
+- council_reference: DA24/0461
+  address: 15 Carbon Court OSBORNE PARK WA 6017
+  description: Signage
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0461&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-04'
+- council_reference: DA24/0462
+  address: 3 Dove Street STIRLING WA 6021
+  description: Residential - Additions to Single House
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0462&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-04'
+- council_reference: DA24/0463
+  address: 75 Collier Avenue BALCATTA WA 6021
+  description: Residential - Four Grouped Dwellings
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0463&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-04'
+- council_reference: DA24/0464
+  address: 8 Landrail Road STIRLING WA 6021
+  description: Residential - Additions to Single House
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0464&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-05'
+- council_reference: DA24/0465
+  address: 64 Burwood Road BALCATTA WA 6021
   description: Residential - Patio
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1082&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0465&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-15'
-- council_reference: DA19/1083
-  address: 2/7 Moore Street DIANELLA WA 6059
-  description: patio
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1083&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2024-04-05'
+- council_reference: DA24/0466
+  address: 52B Tibbits Lane SCARBOROUGH WA 6019
+  description: Change of Use - Residential to Short Stay Accommodation
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0466&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-15'
-- council_reference: DA19/1084
-  address: 27A Harkins Street WESTMINSTER WA 6061
-  description: patio
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1084&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2024-04-05'
+- council_reference: DA24/0467
+  address: 362A Main Street BALCATTA WA 6021
+  description: Residential - Two Patios
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0467&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-15'
-- council_reference: DA19/1085
-  address: 10 Ewen Street SCARBOROUGH WA 6019
-  description: Patio
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1085&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2024-04-05'
+- council_reference: DA24/0468
+  address: 157A Seventh Avenue INGLEWOOD WA 6052
+  description: Change of Use - Residential to Short Stay Accommodation
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0468&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-15'
-- council_reference: DA19/1086
-  address: 39A Valerie Street DIANELLA WA 6059
-  description: "Extend existing balcony wall by about 2000mm, the area of balcony
-    is increasing by about 8.52 square meter. \r\nthe street front side of the balcony
-    is finishing by glass balustrade, the neighbor side wall is finishing by glass
-    blocks."
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1086&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-15'
-- council_reference: DA19/1087
-  address: 221 Eighth Avenue INGLEWOOD WA 6052
-  description: Residential -Two Grouped Dwellings - One Additional and Additions (Amendment
-    to DA17/0313)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1087&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-15'
-- council_reference: DA19/1088
-  address: 7 Highbridge Way KARRINYUP WA 6018
-  description: Residential - Outbuilding
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1088&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-15'
-- council_reference: DA19/1089
-  address: 19A Dallington Crescent BALGA WA 6061
-  description: Residential - Single House
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1089&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-15'
-- council_reference: DA19/1090
-  address: 141 Woodrow Avenue DIANELLA WA 6059
-  description: 141 Woodrow Ave
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1090&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-15'
-- council_reference: DA19/1091
-  address: 61 Ventnor Street SCARBOROUGH WA 6019
-  description: Residential - Patio
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1091&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-15'
-- council_reference: DA19/1092
-  address: 22 Jenkins Place WEMBLEY DOWNS WA 6019
-  description: "This planning application is for the relocation of a low-height retaining
-    wall and the removal of an existing timber fence. The retaining wall is to be
-    relocated to the boundary with a new fence to be built on top of it. An existing
-    unauthorised carport is to be removed completely and we are seeking retrospective
-    approval for two existing retaining walls. \r\nWe are also seeking that the red
-    brick retaining wall deemed as being unauthorised be removed from the scope of
-    this development application. This wall was clearly built at the same time as
-    the house and should already have been approved by the shire."
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1092&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-15'
-- council_reference: DA19/1093
-  address: 133 Central Avenue MOUNT LAWLEY WA 6050
-  description: Residential - Three Grouped Dwellings
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1093&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-16'
-- council_reference: DA19/1094
-  address: 38A Unwin Avenue WEMBLEY DOWNS WA 6019
-  description: Two Storey Dwelling
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1094&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-16'
-- council_reference: DA19/1095
-  address: 84 Vickers Street HAMERSLEY WA 6022
-  description: Residential - Garage
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1095&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-16'
-- council_reference: DA19/1096
-  address: Princess Wallington Reserve 50 Wallington Road BALGA WA 6061
-  description: Community - additions and alterations to Clubrooms
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1096&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-16'
-- council_reference: DA19/1097
-  address: 16 Northgate Street KARRINYUP WA 6018
-  description: Duplex townhouse development
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1097&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-16'
-- council_reference: DA19/1098
-  address: Clarko Reserve 348 West Coast Drive TRIGG WA 6029
-  description: SummerXSalt Markets and Movie Season 2019-20
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1098&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-16'
-- council_reference: DA19/1099
-  address: 3/40 Sylvia Street BALCATTA WA 6021
-  description: Residential - Patio (Extension of DA16/1993)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1099&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-17'
-- council_reference: DA19/1100
-  address: 42B Francis Avenue KARRINYUP WA 6018
-  description: Amendment to previous approval (DA19/0140) - increased LHS Dining -
-    Living wall height by 0.257m.
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1100&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-17'
-- council_reference: DA19/1101
-  address: 42 Pearl Parade SCARBOROUGH WA 6019
-  description: Residential - Retaining Wall (removal of existing and installation
-    of new panel and post retaining)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1101&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-17'
-- council_reference: DA19/1102
-  address: 41 Sanderling Street STIRLING WA 6021
-  description: AMENDMENT TO EXISITING DA 190160
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1102&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-17'
-- council_reference: DA19/1103
-  address: 10 Dumbarton Crescent MENORA WA 6050
-  description: Alterations to existing residence
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1103&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-17'
-- council_reference: DA19/1104
-  address: 13 Croydon Avenue YOKINE WA 6060
-  description: REQUEST FOR TIME EXTENSION OF EXISTING DEVELOPMENT APPLICATION – DA17/0964,
-    13 CROYDON AVE, YOKINE (2 GROUPED DWELLINGS)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1104&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-17'
-- council_reference: DA19/1105
-  address: 61 Brodie Lane SCARBOROUGH WA 6019
-  description: Steel Framed and steel roofed gable patio with fully welded trusses.
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1105&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-17'
-- council_reference: DA19/1106
-  address: 187 Seventh Avenue INGLEWOOD WA 6052
-  description: Change of Use - Residential to Short Stay Accommodation (Unauthorised
-    Existing Development)
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1106&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-17'
-- council_reference: DA19/1107
-  address: 321 Grand Promenade DIANELLA WA 6059
-  description: Residential - Single House
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1107&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-07-17'
-- council_reference: DA19/1108
-  address: 17B Nautilus Crescent SCARBOROUGH WA 6019
+  date_received: '2024-04-05'
+- council_reference: DA24/0469
+  address: 50 Bamford Place BALCATTA WA 6021
   description: Residential - One Grouped Dwelling
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1108&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0469&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-17'
-- council_reference: DA19/1109
-  address: 16 Cherrywood Avenue DIANELLA WA 6059
-  description: PROPOSED EXTENSION OF EXISTING DWELLING, AND CONSTRUCTION OF PATIOS(METAL
-    FRAME &ROOF COVER), FOR RESIDENCE USE.
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1109&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2024-04-05'
+- council_reference: DA24/0470
+  address: 50 Wellington Parade YOKINE WA 6060
+  description: Residential - Two Grouped Dwellings
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0470&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-17'
-- council_reference: DA19/1110
-  address: 4/16 Dover Road SCARBOROUGH WA 6019
-  description: Unit 4, 16 Dover Rd, Scarborough
-  info_url: https://onlineservices.stirling.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F1110&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2024-04-05'
+- council_reference: DA24/0471
+  address: 85 Railway Parade MOUNT LAWLEY WA 6050
+  description: Residential - Patio
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0471&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-07-17'
+  date_received: '2024-04-05'
+- council_reference: DA24/0472
+  address: 5/22 Drabble Road SCARBOROUGH WA 6019
+  description: Change of Use - Residential to Short Stay Accommodation
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0472&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-05'
+- council_reference: DA24/0473
+  address: 20A Yarruk Street YOKINE WA 6060
+  description: Residential - Front Fence
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0473&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-07'
+- council_reference: DA24/0474
+  address: 21 Wesley Street BALCATTA WA 6021
+  description: Residential - Three Grouped Dwellings
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0474&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-08'
+- council_reference: DA24/0475
+  address: 5 Welton Street BALCATTA WA 6021
+  description: Residential - Single House
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0475&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-08'
+- council_reference: DA24/0476
+  address: 44 Bamford Place BALCATTA WA 6021
+  description: Residential - Additions to Single House
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0476&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-08'
+- council_reference: DA24/0477
+  address: City of Stirling Administration and Civic Centre 25 Cedric Street STIRLING
+    WA 6021
+  description: TEST - Residential - Grouped Dwelling
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0477&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-08'
+- council_reference: DA24/0478
+  address: 59 Lombardy Street WOODLANDS WA 6018
+  description: Residential - Carport
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0478&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-08'
+- council_reference: DA24/0480
+  address: 44 Davenport Street KARRINYUP WA 6018
+  description: Residential - Additions to Single House
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0480&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-08'
+- council_reference: DA24/0481
+  address: 20 Favell Way BALGA WA 6061
+  description: Residential - Three Grouped Dwellings
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0481&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-09'
+- council_reference: DA24/0482
+  address: 6A Ontario Road DIANELLA WA 6059
+  description: Residential - One Grouped Dwelling
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0482&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-09'
+- council_reference: DA24/0483
+  address: 46B Westview Street KARRINYUP WA 6018
+  description: Residential - Single House - Amendment to DA22/0682
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0483&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-09'
+- council_reference: DA24/0484
+  address: 1 Woodroyd Street MOUNT LAWLEY WA 6050
+  description: Residential - Front Fence - Cancelled
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0484&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-09'
+- council_reference: DA24/0485
+  address: 1 Woodroyd Street MOUNT LAWLEY WA 6050
+  description: Residential - Front Fence
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0485&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-09'
+- council_reference: DA24/0486
+  address: 204 Empire Avenue CHURCHLANDS WA 6018
+  description: Residential - Single House
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0486&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-09'
+- council_reference: DA24/0487
+  address: 38 Porcelain Way BALCATTA WA 6021
+  description: Residential - Single House
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0487&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-09'
+- council_reference: DA24/0488
+  address: 3B Howes Crescent DIANELLA WA 6059
+  description: Residential - Carport and Patio
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0488&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-09'
+- council_reference: DA24/0489
+  address: 4 Porcelain Way BALCATTA WA 6021
+  description: Residential - Single House
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0489&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-10'
+- council_reference: DA24/0490
+  address: 37 Houston Avenue DIANELLA WA 6059
+  description: Residential - Additions to Grouped Dwelling
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0490&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-10'
+- council_reference: DA24/0491
+  address: 1/323 Crawford Road INGLEWOOD WA 6052
+  description: Residential - Front Fence
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0491&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-10'
+- council_reference: DA24/0492
+  address: 12 Porcelain Way BALCATTA WA 6021
+  description: Residential - Single House
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0492&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-10'
+- council_reference: DA24/0493
+  address: 10 Porcelain Way BALCATTA WA 6021
+  description: Residential - Single House
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0493&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-10'
+- council_reference: DA24/0494
+  address: 6 Porcelain Way BALCATTA WA 6021
+  description: Residential - Single House
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0494&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-10'
+- council_reference: DA24/0495
+  address: 415 Lennard Street DIANELLA WA 6059
+  description: Residential - Three Grouped Dwellings
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0495&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-10'
+- council_reference: DA24/0496
+  address: 875 Beaufort Street INGLEWOOD WA 6052
+  description: Change of Use - to Dog Grooming
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0496&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-10'
+- council_reference: DA24/0497
+  address: 6 Wagstaff Way DIANELLA WA 6059
+  description: Residential - Single House
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0497&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-10'
+- council_reference: DA24/0498
+  address: 11 Ringmer Way WESTMINSTER WA 6061
+  description: Cancelled - Residential - Grouped Dwelling
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0498&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-10'
+- council_reference: DA24/0499
+  address: 11 Ringmer Way WESTMINSTER WA 6061
+  description: Residential - Three Grouped Dwellings
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0499&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-10'
+- council_reference: DA24/0501
+  address: 36 Frape Avenue YOKINE WA 6060
+  description: Residential - Two Grouped Dwellings
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0501&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-10'
+- council_reference: DA24/0502
+  address: 5 Triller Street STIRLING WA 6021
+  description: Residential - Patio
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0502&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-11'
+- council_reference: DA24/0503
+  address: 26 Latrobe Street YOKINE WA 6060
+  description: Residential - Single House
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0503&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-11'
+- council_reference: DA24/0504
+  address: 5/717 Beaufort Street MOUNT LAWLEY WA 6050
+  description: Residential - Patio
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0504&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-11'
+- council_reference: DA24/0505
+  address: 8 Porcelain Way BALCATTA WA 6021
+  description: Residential - Single House
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0505&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-11'
+- council_reference: DA24/0506
+  address: 14 Porcelain Way BALCATTA WA 6021
+  description: Residential - Single House
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0506&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-11'
+- council_reference: DA24/0507
+  address: 3/51 Dover Road SCARBOROUGH WA 6019
+  description: Residential - Retaining Wall
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0507&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-11'
+- council_reference: DA24/0508
+  address: 101C Abbett Street SCARBOROUGH WA 6019
+  description: Cancelled - Change of Use - Residential
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0508&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-12'
+- council_reference: DA24/0509
+  address: 101C Abbett Street SCARBOROUGH WA 6019
+  description: Change of Use - Residential to Short Stay Accommodation
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0509&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-12'
+- council_reference: DA24/0510
+  address: 153 Wood Street INGLEWOOD WA 6052
+  description: Residential - Outbuilding - Amendment to DA23/1365
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0510&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-12'
+- council_reference: DA24/0511
+  address: The Saint 2 Morris Road INNALOO WA 6018
+  description: Commercial - Hotel - Addition of Shade Sail and Playground
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0511&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-12'
+- council_reference: DA24/0512
+  address: 148 Sackville Terrace DOUBLEVIEW WA 6018
+  description: Residential - Front Fence
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0512&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-12'
+- council_reference: DA24/0513
+  address: 330 Wanneroo Road NOLLAMARA WA 6061
+  description: Residential - Three Grouped Dwellings - Two Additional
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0513&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-12'
+- council_reference: DA24/0514
+  address: 18 Brolga Way STIRLING WA 6021
+  description: Residential - Additions to Single House
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0514&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-12'
+- council_reference: DA24/0515
+  address: 12/163 Scarborough Beach Road SCARBOROUGH WA 6019
+  description: Residential - Patio - Unauthorised Existing Development
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0515&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-13'
+- council_reference: DA24/0516
+  address: 66 Duke Street SCARBOROUGH WA 6019
+  description: Residential - Front Fence
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0516&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-13'
+- council_reference: DA24/0517
+  address: 11 Floyd Street TRIGG WA 6029
+  description: Residential - Additions to Single House - Amendment to DA23/1202
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0517&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-13'
+- council_reference: DA24/0518
+  address: 62 Lynn Street TRIGG WA 6029
+  description: Residential - Additions to Single House
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0518&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-14'
+- council_reference: DA24/0519
+  address: 486 Karrinyup Road GWELUP WA 6018
+  description: Residential - Home Business - Therapeutic Massage
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0519&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-14'
+- council_reference: DA24/0520
+  address: 35 Esperanto Way WESTMINSTER WA 6061
+  description: Residential - Three Grouped Dwellings - Two Additional Dwellings and
+    Alterations to Existing
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0520&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-16'
+- council_reference: DA24/0521
+  address: 26 Latrobe Street YOKINE WA 6060
+  description: Cancelled - Residential - Two Grouped Dwellings (One Additional)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0521&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-16'
+- council_reference: DA24/0522
+  address: 60 Osborne Street JOONDANNA WA 6060
+  description: Community - Private Institutions (TO BE CANCELLED - BA1)
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0522&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-16'
+- council_reference: DA24/0523
+  address: 272 Victoria Road MIRRABOOKA WA 6061
+  description: Industrial - Outdoor Storage and Servicing of Earthmoving Plant and
+    Equipment
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0523&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-16'
+- council_reference: DA24/0524
+  address: 259 Holbeck Street DOUBLEVIEW WA 6018
+  description: Residential - Retaining Wall
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0524&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-16'
+- council_reference: DA24/0525
+  address: 92 Gildercliffe Street SCARBOROUGH WA 6019
+  description: Residential - Change of Use to Short Stay Accommodation
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0525&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-16'
+- council_reference: DA24/0526
+  address: 32 Grimwood Avenue GWELUP WA 6018
+  description: Residential - Additions to Single House
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0526&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-16'
+- council_reference: DA24/0527
+  address: 8B Wordsworth Street DIANELLA WA 6059
+  description: Change of Use - Residential - Short Stay Accommodation
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0527&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-16'
+- council_reference: DA24/0528
+  address: 26A Greenwell Street SCARBOROUGH WA 6019
+  description: Change of Use - Residential to Short Stay Accommodation
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0528&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-16'
+- council_reference: DA24/0529
+  address: 16 Wynyard Street YOKINE WA 6060
+  description: Residential - Three Grouped Dwellings - Amendment to DA24/0274
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0529&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-17'
+- council_reference: DA24/0530
+  address: 24A Edgehill Street SCARBOROUGH WA 6019
+  description: Residential - Patio
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0530&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-17'
+- council_reference: DA24/0531
+  address: 9 Bonsall Place CARINE WA 6020
+  description: Residential - Patio
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0531&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-17'
+- council_reference: DA24/0532
+  address: 69A Swan Street TUART HILL WA 6060
+  description: Residential - Additions to Grouped Dwelling
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0532&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-17'
+- council_reference: DA24/0535
+  address: Mount Lawley Private Hospital 14 Alvan Street MOUNT LAWLEY WA 6050
+  description: Commercial - Outbuilding - Unauthorised Existing Development
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0535&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-17'
+- council_reference: DA24/0536
+  address: 7 Edward Street NORTH BEACH WA 6020
+  description: Residential - Single House
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0536&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-17'
+- council_reference: DA24/0537
+  address: 5 Ledgar Road BALCATTA WA 6021
+  description: Commercial - 7 Warehouses
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0537&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-18'
+- council_reference: DA24/0539
+  address: 33A North Street MOUNT LAWLEY WA 6050
+  description: Residential - Ancillary Dwelling
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0539&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-18'
+- council_reference: DA24/0540
+  address: 154B Huntriss Road DOUBLEVIEW WA 6018
+  description: Change of Use - Residential - Short Stay Accommodation
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0540&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-18'
+- council_reference: DA24/0541
+  address: 7 Princess Road DOUBLEVIEW WA 6018
+  description: Residential - Additions to Single House
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0541&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-19'
+- council_reference: DA24/0545
+  address: 57B Tuckfield Way NOLLAMARA WA 6061
+  description: Residential - Single House
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0545&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-22'
+- council_reference: DA24/0547
+  address: Meath Care 18/10 Williamson Way TRIGG WA 6029
+  description: Residential - Patio
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0547&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-22'
+- council_reference: DA24/0553
+  address: 45 Latrobe Street YOKINE WA 6060
+  description: Residential - Two Grouped Dwellings
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0553&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-23'
+- council_reference: DA24/0554
+  address: 1-22/181 Central Avenue MOUNT LAWLEY WA 6050
+  description: Residential - Multiple Dwelling - Awning Additions
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA24%2F0554&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-23'
+- council_reference: DTC24/0027
+  address: City of Stirling Administration and Civic Centre 25 Cedric Street STIRLING
+    WA 6021
+  description: TEST - Deemed to Comply - Residential - Grouped Dwelling
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DTC24%2F0027&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-08'
+- council_reference: DTC24/0028
+  address: 21 Knight Street WEMBLEY DOWNS WA 6019
+  description: Deemed to Comply - Residential - Additions to Single House
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DTC24%2F0028&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-10'
+- council_reference: DTC24/0029
+  address: 33A North Street MOUNT LAWLEY WA 6050
+  description: Cancelled - Deemed to Comply Check - Ancillary Dwelling
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DTC24%2F0029&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-11'
+- council_reference: DTC24/0030
+  address: 11 Birchwood Avenue WOODLANDS WA 6018
+  description: Deemed to Comply Check - Front Fence
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DTC24%2F0030&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-11'
+- council_reference: DTC24/0031
+  address: 6A Greenwell Street SCARBOROUGH WA 6019
+  description: Deemed to Comply Check - Single House
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DTC24%2F0031&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-18'
+- council_reference: FTP24/0002
+  address: 817 Beaufort Street MOUNT LAWLEY WA 6050
+  description: Footpath permit cat6 corner lot - more than 3.8m
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=FTP24%2F0002&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-22'
+- council_reference: LGG24/0003
+  address: Bethanie Lifestyle Village 2 Plantation Street MENORA WA 6050
+  description: Gaming Licensing - Section 55 - Extended Event
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LGG24%2F0003&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-03'
+- council_reference: LGG24/0004
+  address: 3 Doncaster Road MIRRABOOKA WA 6061
+  description: Gaming Licencing - Section 55 - Extended Event - Duplicate application
+    LGG24/0005
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LGG24%2F0004&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-08'
+- council_reference: LGG24/0005
+  address: 3 Doncaster Road MIRRABOOKA WA 6061
+  description: Gaming Licencing - Section 55 - Extended Event
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LGG24%2F0005&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-08'
+- council_reference: LGG24/0006
+  address: Laguna Social and Bocce Sporting Club Inc 49 Homer Street INGLEWOOD WA
+    6052
+  description: Gaming Licencing - Section 55 - Extended Event
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LGG24%2F0006&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-16'
+- council_reference: LGL24/0015
+  address: 43 Shannon Road DIANELLA WA 6059
+  description: Liquor Licencing - Section 40 - Wholesaler`s
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LGL24%2F0015&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-02'
+- council_reference: OP24/0039
+  address: 10 Nautilus Crescent SCARBOROUGH WA 6019
+  description: "New Building Complete - s46 A new seven storey residential apartment
+    building with two basement carpark levels & ancillary cafe & pool facilities.
+    \r\nThis application for occupancy for basement levels, ground floor, 1,2,3,4,5,6th
+    floors & ground floor cafe."
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OP24%2F0039&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-03-28'
+- council_reference: OP24/0040
+  address: St Paul's Primary School 74 Rookwood Street MOUNT LAWLEY WA 6050
+  description: New Building Complete - s46 - Stage 2 – St. Paul’s Primary School
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OP24%2F0040&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-04'
+- council_reference: OP24/0041
+  address: Mirrabooka Square Shopping Centre 43 Yirrigan Drive MIRRABOOKA WA 6061
+  description: New Building Complete - s46 Proposed alterations to existing retail
+    shop - Strandbags
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OP24%2F0041&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-04'
+- council_reference: OP24/0042
+  address: Scarborough Beach Reserve 309 West Coast Highway SCARBOROUGH WA 6019
+  description: New Building Complete - s46 Dome Scarborough Fit out
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OP24%2F0042&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-10'
+- council_reference: OP24/0043
+  address: 885 Beaufort Street INGLEWOOD WA 6052
+  description: Application for replacement s52 Single storey restaurant
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OP24%2F0043&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-15'
+- council_reference: OP24/0044
+  address: 1 Manning Street SCARBOROUGH WA 6019
+  description: New Building Complete Occupancy Permit - s46 - Relocated Sales Display
+    Suite and UAT
+  info_url: https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OP24%2F0044&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2024-04-17'

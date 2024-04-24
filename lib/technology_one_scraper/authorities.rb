@@ -124,7 +124,7 @@ module TechnologyOneScraper
       period: "L28"
     },
     stirling: {
-      url: "https://onlineservices.stirling.wa.gov.au/eProperty",
+      url: "https://stirling-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
       period: "L28"
     },
     sutherland: {
