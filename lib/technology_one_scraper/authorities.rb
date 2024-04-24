@@ -70,9 +70,8 @@ module TechnologyOneScraper
       webguest: "LV.WEBGUEST"
     },
     manningham: {
-      url: "https://eproclaim.manningham.vic.gov.au/eProperty",
-      period: "L28",
-      australian_proxy: true
+      url: "https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
+      period: "L28"
     },
     mid_coast: {
       url: "https://midcoast-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
