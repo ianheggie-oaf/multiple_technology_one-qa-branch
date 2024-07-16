@@ -54,7 +54,7 @@ module TechnologyOneScraper
       disable_ssl_certificate_check: true
     },
     kuringgai: {
-      url: "https://eservices.kmc.nsw.gov.au/T1ePropertyProd",
+      url: "https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
       period: "TM",
       webguest: "KC_WEBGUEST",
       # Looks like it's blocking requests outside Australia
