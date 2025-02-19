@@ -1,631 +1,715 @@
 ---
-- council_reference: 132001.210081.8
-  address: 119 Moorindil St TEWANTIN  QLD  4565
+- council_reference: 132001.210146.2
+  address: 297 Sister Tree Creek Rd KIN KIN  QLD  4571
   description: Change to Development Approval
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=132001.210081.8&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=132001.210146.2&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-18'
-- council_reference: 132007.2398.06
-  address: 19 Trading Post Rd COOROY  QLD  4563
-  description: Generally in Accordance
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=132007.2398.06&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-13'
+- council_reference: 132008.176.06
+  address: 3 Serenity Cl NOOSA HEADS  QLD  4567
+  description: Pre-request Response Notice - Change to Exist App
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=132008.176.06&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-14'
-- council_reference: 51901.4113.01
-  address: Treetops 15 Katharina St NOOSA HEADS  QLD  4567
+  date_received: '2025-02-11'
+- council_reference: 132009.273.03
+  address: Bicentennial Hall 100 Bicentennial Dr SUNSHINE BEACH  QLD  4567
+  description: Outdoor sport and recreation
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=132009.273.03&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: 51983.3225.22
+  address: The Hastings 30 Hastings St NOOSA HEADS  QLD  4567
   description: Change to Development Approval
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=51901.4113.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=51983.3225.22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-03'
-- council_reference: 51987.2944.01
-  address: 7 Garnet St COOROY  QLD  4563
+  date_received: '2025-02-12'
+- council_reference: 51997.2182.03
+  address: Sunrise Villas 13 Advance Pl SUNRISE BEACH  QLD  4567
   description: Change to Development Approval
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=51987.2944.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=51997.2182.03&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-20'
-- council_reference: DBW19/0015
-  address: 14 Queen St COORAN  QLD  4569
-  description: Additions to Detached House
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DBW19%2F0015&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-18'
-- council_reference: DBW19/0016
-  address: 9 The Esplanade SUNSHINE BEACH  QLD  4567
-  description: Additions to Detached House (Coastal Protection)
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DBW19%2F0016&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-20'
-- council_reference: DBW19/0017
-  address: 6 Tropicana Rise CASTAWAYS BEACH  QLD  4567
-  description: Additions to Detached House (Coastal Protection)
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DBW19%2F0017&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-20'
-- council_reference: MCU16/0098.02
-  address: 21 Venture Dr NOOSAVILLE  QLD  4566
-  description: Change to Development Approval
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MCU16%2F0098.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
-- council_reference: MCU17/0004.02
-  address: 46 Elizabeth St NOOSAVILLE  QLD  4566
-  description: Extension to Currency Period
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MCU17%2F0004.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
-- council_reference: MCU17/0512.01
-  address: 15 Arakoon Cres SUNSHINE BEACH  QLD  4567
-  description: Change to Development Approval
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MCU17%2F0512.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-25'
-- council_reference: MCU18/0048.02
-  address: 7 Arakoon Cres SUNSHINE BEACH  QLD  4567
-  description: Change to Development Approval
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MCU18%2F0048.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-13'
-- council_reference: MCU19/0061
-  address: Bay Village 18/18 Hastings St NOOSA HEADS  QLD  4567
-  description: Ent & Dining Type 2 Recreation amusement fitness
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MCU19%2F0061&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-04'
-- council_reference: MCU19/0062
-  address: 50 Firewheel Rd RINGTAIL CREEK  QLD  4565
-  description: Detached House
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MCU19%2F0062&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-17'
-- council_reference: MCU19/0066
-  address: 2197 David Low Way PEREGIAN BEACH  QLD  4573
-  description: Commercial Business - Type 1 Office
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MCU19%2F0066&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-20'
-- council_reference: OPW16/0183.02
-  address: 21 Venture Dr NOOSAVILLE  QLD  4566
-  description: Change to Development Approval
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW16%2F0183.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
-- council_reference: OPW17/0005.02
-  address: 46 Elizabeth St NOOSAVILLE  QLD  4566
-  description: Extension to Currency Period
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW17%2F0005.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
-- council_reference: OPW19/0121
-  address: Nardella 29 Ann St NOOSAVILLE  QLD  4566
-  description: Clearing Vegetation under planning scheme
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW19%2F0121&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-04'
-- council_reference: OPW19/0122
-  address: Noosa Glades One 17/159 Moorindil St TEWANTIN  QLD  4565
-  description: Clearing Vegetation under planning scheme
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW19%2F0122&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-04'
-- council_reference: OPW19/0128
-  address: The Inlet 14/16 Blakesley St TEWANTIN  QLD  4565
-  description: Clearing Vegetation under planning scheme
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW19%2F0128&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-06'
-- council_reference: OPW19/0129
-  address: 74 Lake Entrance Bvd NOOSAVILLE  QLD  4566
-  description: Vehicle Crossover
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW19%2F0129&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-03'
-- council_reference: OPW19/0130
-  address: 16 Palm Grove Rd COOROY  QLD  4563
-  description: Vehicle Crossover
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW19%2F0130&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-03'
-- council_reference: OPW19/0131
-  address: 3 Kingsgate Dr TINBEERWAH  QLD  4563
-  description: Vehicle Crossover
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW19%2F0131&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-06'
-- council_reference: OPW19/0133
-  address: 10 Opal St COOROY  QLD  4563
-  description: Landscaping, Roadworks, Stormwater
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW19%2F0133&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-05'
-- council_reference: OPW19/0134
-  address: 2 Hilton Tce TEWANTIN  QLD  4565
-  description: Stormwater
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW19%2F0134&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-06'
-- council_reference: OPW19/0135
-  address: Cycad Court 4 Commerce Ct NOOSAVILLE  QLD  4566
-  description: Clearing Vegetation under planning scheme
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW19%2F0135&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-12'
-- council_reference: OPW19/0136
-  address: Parkshores Sunshine 2 Park Cres SUNSHINE BEACH  QLD  4567
-  description: Clearing Vegetation under planning scheme
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW19%2F0136&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-12'
-- council_reference: OPW19/0137
-  address: Noosa Glades Two 44 Tait St TEWANTIN  QLD  4565
-  description: Clearing Vegetation under planning scheme
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW19%2F0137&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-13'
-- council_reference: OPW19/0138
-  address: 82-100 Mckinnon Dr TEWANTIN  QLD  4565
-  description: Landscaping
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW19%2F0138&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-11'
-- council_reference: OPW19/0139
-  address: 5 Garnet St COOROY  QLD  4563
-  description: Drainage Works, Earthworks, Landscaping, Roadworks, Stormwater
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW19%2F0139&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-12'
-- council_reference: OPW19/0140
-  address: The Ridge 533/61 Noosa Springs Dr NOOSA HEADS  QLD  4567
-  description: Clearing Vegetation under planning scheme
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW19%2F0140&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-17'
-- council_reference: OPW19/0141
-  address: The Duke Street Beach Houses 5/12 Duke St SUNSHINE BEACH  QLD  4567
-  description: Clearing Vegetation under planning scheme
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW19%2F0141&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-19'
-- council_reference: OPW19/0142
-  address: Bayview Woods 1-7 Bayview Rd NOOSA HEADS  QLD  4567
-  description: Clearing Vegetation under planning scheme
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW19%2F0142&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-20'
-- council_reference: OPW19/0143
-  address: THE POINT 61 Noosa Springs Dr NOOSA HEADS  QLD  4567
-  description: Clearing Vegetation under planning scheme
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW19%2F0143&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-20'
-- council_reference: OPW19/0145
-  address: Laguna Villa 10 Edgar Bennett Ave NOOSA HEADS  QLD  4567
-  description: Clearing Vegetation under planning scheme
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW19%2F0145&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-25'
-- council_reference: OPW19/0146
-  address: Sundancer 11 Henderson St SUNSHINE BEACH  QLD  4567
-  description: Clearing Vegetation under planning scheme
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW19%2F0146&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-25'
-- council_reference: OPW19/0147
-  address: Solway Court 1/24 Solway Dr SUNSHINE BEACH  QLD  4567
-  description: Clearing Vegetation under planning scheme
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW19%2F0147&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-25'
-- council_reference: PC19/0623
-  address: 553 Lake Macdonald Dr LAKE MACDONALD  QLD  4563
-  description: Private Pool
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0623&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-03'
-- council_reference: PC19/0629
-  address: 25 Silky Oak Lane KIN KIN  QLD  4571
-  description: Alterations (internal)
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0629&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-04'
-- council_reference: PC19/0634
-  address: 23 Eugarie St NOOSA HEADS  QLD  4567
-  description: Carport
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0634&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-03'
-- council_reference: PC19/0641
-  address: 355 Jampot Creek Rd COORAN  QLD  4569
+  date_received: '2025-02-10'
+- council_reference: ASBON25/0007
+  address: 12 Boreen Pde BOREEN POINT  QLD  4565
   description: " "
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0641&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=ASBON25%2F0007&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-04'
-- council_reference: PC19/0644
-  address: 99 Outlook Dr TEWANTIN  QLD  4565
+  date_received: '2025-02-12'
+- council_reference: CEM2025/0004
+  address: Cooroy Cemetery 42 Lake Macdonald Dr COOROY  QLD  4563
+  description: " "
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CEM2025%2F0004&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: CEM2025/0005
+  address: Tewantin Cemetery 16 Cooroy Noosa Rd TEWANTIN  QLD  4565
+  description: " "
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CEM2025%2F0005&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: CEM2025/0006
+  address: Pomona Cemetery 36 Pomona Kin Kin Rd POMONA  QLD  4568
+  description: " "
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CEM2025%2F0006&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: DBW25/0012
+  address: 10 Dayspring St SUNRISE BEACH  QLD  4567
+  description: Demolition Class 1 and 10
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DBW25%2F0012&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: DBW25/0014
+  address: 7 Maher Tce SUNSHINE BEACH  QLD  4567
+  description: Demolition Class 1 and 10
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DBW25%2F0014&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: DBW25/0015
+  address: 10 Reliance Pl SUNRISE BEACH  QLD  4567
+  description: Demolition Class 1 and 10
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DBW25%2F0015&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: DBW25/0016
+  address: 37 Doonella St TEWANTIN  QLD  4565
+  description: Demolition Class 1 and 10
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DBW25%2F0016&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: DBW25/0017
+  address: 53 Bougainvillea Dr BLACK MOUNTAIN  QLD  4563
+  description: Additions to Dwelling House (Biodiversity)
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DBW25%2F0017&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: DBW25/0018
+  address: 30 Wyuna Dr NOOSAVILLE  QLD  4566
+  description: Demolition Class 1 and 10
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DBW25%2F0018&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: DBW25/0019
+  address: 84 Werin St TEWANTIN  QLD  4565
+  description: Demolition Class 1 and 10
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DBW25%2F0019&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: DBW25/0020
+  address: 4 Seascout Cct NOOSAVILLE  QLD  4566
+  description: Demolition Class 1 and 10
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DBW25%2F0020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: DBW25/0021
+  address: 35 George St TEWANTIN  QLD  4565
+  description: Demolition Class 1 and 10
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DBW25%2F0021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: DBW25/0022
+  address: 8 Oak St SUNSHINE BEACH  QLD  4567
+  description: Demolition Class 1 and 10
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DBW25%2F0022&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: EXE25/0003
+  address: 51 Reserve St POMONA  QLD  4568
+  description: " "
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=EXE25%2F0003&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: EXE25/0004
+  address: 5 Bowman Tce SUNSHINE BEACH  QLD  4567
+  description: " "
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=EXE25%2F0004&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: HHA25/0005
+  address: 365 David Low Way PEREGIAN BEACH  QLD  4573
+  description: " "
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=HHA25%2F0005&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: HHA25/0006
+  address: 292 Pomona Kin Kin Rd PINBARREN  QLD  4568
+  description: " "
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=HHA25%2F0006&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: HHA25/0007
+  address: 107 Evans Rd COOROY  QLD  4563
+  description: " "
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=HHA25%2F0007&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: MCU21/0150.02
+  address: 9 Rules Rd POMONA  QLD  4568
+  description: Generally in Accordance
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MCU21%2F0150.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: MCU24/0045.01
+  address: 5 Wyuna Dr NOOSAVILLE  QLD  4566
+  description: Generally in Accordance
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MCU24%2F0045.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: MCU24/0060.01
+  address: 11 Wattle St COOROY  QLD  4563
+  description: Change to Development Approval
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MCU24%2F0060.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: MCU25/0012
+  address: 688 Pomona Kin Kin Rd KIN KIN  QLD  4571
+  description: Dwelling house
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MCU25%2F0012&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: OPW24/0046.01
+  address: 5 Wyuna Dr NOOSAVILLE  QLD  4566
+  description: Generally in Accordance
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW24%2F0046.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: OPW24/0063.01
+  address: 11 Wattle St COOROY  QLD  4563
+  description: Change to Development Approval
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW24%2F0063.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: OPW25/0017
+  address: 38 Mossman Ct NOOSA HEADS  QLD  4567
+  description: Earthworks
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW25%2F0017&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: OPW25/0018
+  address: Advance Sunset 4 Advance Pl SUNRISE BEACH  QLD  4567
+  description: Clearing Vegetation under planning scheme
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW25%2F0018&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: OPW25/0020
+  address: 14 Shearwater St PEREGIAN BEACH  QLD  4573
+  description: Vehicle Crossover
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW25%2F0020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: OPW25/0021
+  address: 41 Tallowwood Pl BLACK MOUNTAIN  QLD  4563
+  description: Electrical and Street Lighting
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW25%2F0021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: OPW25/0022
+  address: Belle De Jour 2/24 Edgar Bennett Ave NOOSA HEADS  QLD  4567
+  description: Clearing Vegetation under planning scheme
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW25%2F0022&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: OPW25/0023
+  address: 85 Gympie St TEWANTIN  QLD  4565
+  description: Stormwater
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW25%2F0023&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-06'
+- council_reference: OPW25/0024
+  address: Kyeema Court 5/22 Nannygai St NOOSAVILLE  QLD  4566
+  description: Clearing Vegetation under planning scheme
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW25%2F0024&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: OPW25/0025
+  address: 135 Cooroy Belli Creek Rd COOROY  QLD  4563
+  description: Vehicle Crossover
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW25%2F0025&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: OPW25/0026
+  address: Riverlight Settlers 8 Serenity Cl NOOSA HEADS  QLD  4567
+  description: Clearing Vegetation under planning scheme
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OPW25%2F0026&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: PC25/0177
+  address: 36 Overlander Ave COOROY  QLD  4563
   description: Additions (enclosed), Alterations (internal)
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0644&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC25%2F0177&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-06'
-- council_reference: PC19/0645
-  address: 6 Fuller Ct NOOSAVILLE  QLD  4566
-  description: Additions (enclosed), Carport, Patio / Covered Area (not enclosed)
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0645&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-03'
+- council_reference: PC25/0178
+  address: 8 Flooded Gum Pl BLACK MOUNTAIN  QLD  4563
+  description: Additions (enclosed), Alterations (internal)
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC25%2F0178&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-04'
-- council_reference: PC19/0646
-  address: 9 Red Ash Ct COOROY  QLD  4563
-  description: Private Pool
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0646&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-03'
+- council_reference: PC25/0187
+  address: 78 Cudgerie Dr BLACK MOUNTAIN  QLD  4563
+  description: Additions (enclosed), Alterations (internal)
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC25%2F0187&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-04'
-- council_reference: PC19/0651
-  address: 19 Trading Post Rd COOROY  QLD  4563
-  description: Shed / Garage, Single Detached Dwelling
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0651&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: PC25/0190
+  address: 42 Shipyard Cct NOOSAVILLE  QLD  4566
+  description: Carport, Patio Classification as CL10a
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC25%2F0190&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-05'
-- council_reference: PC19/0652
-  address: 19 Trading Post Rd COOROY  QLD  4563
-  description: Shed / Garage, Single Detached Dwelling
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0652&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: PC25/0202
+  address: 10 Kildeys Rd COOTHARABA  QLD  4565
+  description: Shed / Garage
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC25%2F0202&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-05'
-- council_reference: PC19/0653
-  address: 19 Trading Post Rd COOROY  QLD  4563
-  description: Shed / Garage, Single Detached Dwelling
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0653&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: PC25/0204
+  address: 5 Bramble Pl TEWANTIN  QLD  4565
+  description: Additions (enclosed), Alterations (internal), Carport, Private Pool
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC25%2F0204&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-05'
-- council_reference: PC19/0654
-  address: 19 Trading Post Rd COOROY  QLD  4563
-  description: Shed / Garage, Single Detached Dwelling
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0654&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-05'
-- council_reference: PC19/0655
-  address: 19 Trading Post Rd COOROY  QLD  4563
-  description: Shed / Garage, Single Detached Dwelling
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0655&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-05'
-- council_reference: PC19/0656
-  address: 19 Trading Post Rd COOROY  QLD  4563
-  description: Shed / Garage, Single Detached Dwelling
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0656&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-03'
-- council_reference: PC19/0657
-  address: 19 Trading Post Rd COOROY  QLD  4563
-  description: Shed / Garage, Single Detached Dwelling
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0657&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-05'
-- council_reference: PC19/0658
-  address: 19 Trading Post Rd COOROY  QLD  4563
-  description: Shed / Garage, Single Detached Dwelling
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0658&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-05'
-- council_reference: PC19/0660
-  address: 19 Trading Post Rd COOROY  QLD  4563
-  description: Shed / Garage, Single Detached Dwelling
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0660&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-05'
-- council_reference: PC19/0661
-  address: 10 Grosvenor Tce NOOSA HEADS  QLD  4567
-  description: Carport
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0661&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-07'
-- council_reference: PC19/0668
-  address: 27 Hill St SUNSHINE BEACH  QLD  4567
-  description: Structure Demolished on Site
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0668&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-04'
-- council_reference: PC19/0669
-  address: 12 Azolla Cir NOOSAVILLE  QLD  4566
-  description: Additions (enclosed), Patio / Covered Area (not enclosed)
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0669&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-05'
-- council_reference: PC19/0670
-  address: 19 Trading Post Rd COOROY  QLD  4563
-  description: Shed / Garage, Single Detached Dwelling
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0670&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-06'
-- council_reference: PC19/0671
-  address: 19 Trading Post Rd COOROY  QLD  4563
-  description: Shed / Garage, Single Detached Dwelling
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0671&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-06'
-- council_reference: PC19/0672
-  address: 19 Trading Post Rd COOROY  QLD  4563
-  description: Shed / Garage, Single Detached Dwelling
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0672&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-06'
-- council_reference: PC19/0677
-  address: 6 Podargus Pde PEREGIAN BEACH  QLD  4573
-  description: Alterations (internal)
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0677&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-06'
-- council_reference: PC19/0679
-  address: 22 Wyandra St NOOSA HEADS  QLD  4567
-  description: Private Pool
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0679&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-12'
-- council_reference: PC19/0682
-  address: 45 Eumundi Noosa Rd NOOSAVILLE  QLD  4566
+  date_received: '2025-02-05'
+- council_reference: PC25/0205
+  address: 11 Mahogany Dr MARCUS BEACH  QLD  4573
   description: Additions (enclosed)
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0682&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC25%2F0205&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-05'
-- council_reference: PC19/0684
-  address: 41 Poinciana Ave TEWANTIN  QLD  4565
-  description: Public Assembly Building Alterations
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0684&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: PC25/0206
+  address: 134 Cudgerie Dr BLACK MOUNTAIN  QLD  4563
+  description: Additions (enclosed), Alterations (internal)
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC25%2F0206&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-10'
-- council_reference: PC19/0687
-  address: 31 Queen St COORAN  QLD  4569
+  date_received: '2025-02-04'
+- council_reference: PC25/0207
+  address: 220 Lawnville Rd BLACK MOUNTAIN  QLD  4563
+  description: Additions (enclosed), Alterations (internal)
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC25%2F0207&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-06'
+- council_reference: PC25/0208
+  address: 28 Eenie Creek Rd NOOSAVILLE  QLD  4566
+  description: Retail Alterations (internal)
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC25%2F0208&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-06'
+- council_reference: PC25/0209
+  address: Tewantin Plaza 113 Poinciana Ave TEWANTIN  QLD  4565
+  description: Office Fitout
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC25%2F0209&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-06'
+- council_reference: PC25/0210
+  address: 235 Blueberry Dr BLACK MOUNTAIN  QLD  4563
   description: Alterations (internal)
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0687&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC25%2F0210&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-03'
-- council_reference: PC19/0689
-  address: 9 Livistona Dr DOONAN  QLD  4562
-  description: Patio Classification as CL10a
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0689&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-10'
+- council_reference: PC25/0212
+  address: 210 Blueberry Dr BLACK MOUNTAIN  QLD  4563
+  description: Additions (enclosed), Alterations (internal)
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC25%2F0212&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-06'
-- council_reference: PC19/0690
-  address: 5 Ridgeway St SUNRISE BEACH  QLD  4567
-  description: Alterations (internal)
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0690&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-07'
+- council_reference: PC25/0223
+  address: Salt Water 1/19 Jacana St PEREGIAN BEACH  QLD  4573
+  description: Additions (enclosed), Alterations (internal), Private Pool
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC25%2F0223&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-06'
-- council_reference: PC19/0691
-  address: 3 Maher Tce SUNSHINE BEACH  QLD  4567
-  description: Additions (enclosed), Private Pool
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0691&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-11'
-- council_reference: PC19/0692
-  address: 70 Callistemon Ct COOTHARABA  QLD  4565
-  description: Shed / Garage
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0692&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-04'
-- council_reference: PC19/0695
-  address: 31 Turpentine Rd RINGTAIL CREEK  QLD  4565
-  description: Shed / Garage
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0695&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-12'
-- council_reference: PC19/0698
-  address: 50 Moorindil St TEWANTIN  QLD  4565
-  description: Structure Removed from Site
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0698&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-13'
-- council_reference: PC19/0700
-  address: 24 Whale Dr SUNSHINE BEACH  QLD  4567
-  description: Private Pool
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0700&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-11'
-- council_reference: PC19/0702
-  address: 48-50 Lancaster Lane COOROIBAH  QLD  4565
-  description: Shed / Garage
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0702&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-13'
-- council_reference: PC19/0707
-  address: 58 Griffith Ave TEWANTIN  QLD  4565
-  description: Shed / Garage
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0707&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-05'
-- council_reference: PC19/0708
-  address: 203 Nandroya Rd COOROY  QLD  4563
+  date_received: '2025-02-11'
+- council_reference: PC25/0225
+  address: 15 Cedarleigh Dr TEWANTIN  QLD  4565
   description: Carport
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0708&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC25%2F0225&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-17'
-- council_reference: PC19/0711
-  address: 8 Garnet St COOROY  QLD  4563
-  description: Removal Dwelling
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0711&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-03'
+- council_reference: PC25/0227
+  address: 36 Coral Fern Dr COOROIBAH  QLD  4565
+  description: Additions (enclosed), Alterations (internal)
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC25%2F0227&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-06'
-- council_reference: PC19/0714
-  address: 106 Butler St TEWANTIN  QLD  4565
-  description: Patio Classification as CL10a
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0714&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: PC25/0229
+  address: 203 Black Mountain Rd BLACK MOUNTAIN  QLD  4563
+  description: Additions (enclosed), Alterations (internal)
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC25%2F0229&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-17'
-- council_reference: PC19/0716
-  address: 26 Doonella St TEWANTIN  QLD  4565
-  description: Structure Demolished on Site
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0716&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-10'
+- council_reference: PC25/0230
+  address: 55 Booyong Dr BLACK MOUNTAIN  QLD  4563
+  description: Additions (enclosed), Alterations (internal)
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC25%2F0230&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-18'
-- council_reference: PC19/0718
-  address: 14 Belmore Tce SUNSHINE BEACH  QLD  4567
+  date_received: '2025-02-10'
+- council_reference: PC25/0231
+  address: 182 Lake Macdonald Dr LAKE MACDONALD  QLD  4563
+  description: Additions (enclosed), Alterations (internal)
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC25%2F0231&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: PC25/0235
+  address: 4 Rosewood Lane BLACK MOUNTAIN  QLD  4563
+  description: Additions (enclosed), Alterations (internal)
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC25%2F0235&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: PC25/0240
+  address: 78 Booyong Dr BLACK MOUNTAIN  QLD  4563
+  description: Additions (enclosed), Alterations (internal)
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC25%2F0240&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: PC25/0243
+  address: 38 Hilton Tce TEWANTIN  QLD  4565
+  description: Additions (enclosed), Alterations (internal)
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC25%2F0243&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: PC25/0244
+  address: 45 Podargus Pde PEREGIAN BEACH  QLD  4573
+  description: Carport
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC25%2F0244&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: PC25/0246
+  address: 10 Blackbean Ct BLACK MOUNTAIN  QLD  4563
+  description: Additions (enclosed), Alterations (internal)
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC25%2F0246&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: PC25/0251
+  address: 145 Blueberry Dr BLACK MOUNTAIN  QLD  4563
   description: Additions (enclosed)
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0718&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC25%2F0251&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-13'
-- council_reference: PC19/0721
-  address: 251 Uhlmanns Rd FEDERAL  QLD  4568
-  description: Shed / Garage
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0721&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-12'
+- council_reference: PC25/0256
+  address: 106 Cudgerie Dr BLACK MOUNTAIN  QLD  4563
+  description: Additions/Alterations
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC25%2F0256&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-06'
-- council_reference: PC19/0723
-  address: 6 Corella Ct TEWANTIN  QLD  4565
-  description: Patio Classification as CL10a
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC19%2F0723&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: PC25/0267
+  address: 326 Lawnville Rd BLACK MOUNTAIN  QLD  4563
+  description: Additions (enclosed), Alterations (internal)
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC25%2F0267&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-12'
-- council_reference: RAB19/0119
-  address: 10 Shields St TEWANTIN  QLD  4565
+  date_received: '2025-02-12'
+- council_reference: PC25/0268
+  address: 35 Ferguson St SUNSHINE BEACH  QLD  4567
+  description: Private Pool, Secondary Dwelling, Shed / Garage, Single Detached Dwelling
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC25%2F0268&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: PS25/0004
+  address: 31 Overlander Ave COOROY  QLD  4563
+  description: Standard Format Plan
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PS25%2F0004&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: RAB25/0012
+  address: 20 Marlin Dr NOOSAVILLE  QLD  4566
   description: Siting Provisions
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAB19%2F0119&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAB25%2F0012&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-04'
-- council_reference: RAB19/0120
-  address: 48 Mossman Ct NOOSA HEADS  QLD  4567
+  date_received: '2025-02-07'
+- council_reference: RAB25/0013
+  address: 42 Waterside Ct NOOSAVILLE  QLD  4566
   description: Siting Provisions
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAB19%2F0120&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAB25%2F0013&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-04'
-- council_reference: RAB19/0121
-  address: 18 Delorme St NOOSA HEADS  QLD  4567
-  description: Siting Provisions
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAB19%2F0121&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-07'
+- council_reference: RAL24/0004.01
+  address: 11 Wattle St COOROY  QLD  4563
+  description: Change to Development Approval
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAL24%2F0004.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-05'
-- council_reference: RAB19/0122
-  address: 10 Hill St SUNSHINE BEACH  QLD  4567
-  description: Assessment of Demolition Bond
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAB19%2F0122&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: RAL25/0004
+  address: 62 Lake Macdonald Dr COOROY  QLD  4563
+  description: Residential
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAL25%2F0004&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-06'
-- council_reference: RAB19/0123
-  address: 8 Garnet St COOROY  QLD  4563
-  description: Assessment of Demolition Bond
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAB19%2F0123&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-07'
+- council_reference: RAP25/0008
+  address: 7 Maher Tce SUNSHINE BEACH  QLD  4567
+  description: Dwelling House
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAP25%2F0008&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-07'
-- council_reference: RAB19/0124
-  address: 89 Ward St TEWANTIN  QLD  4565
-  description: Siting Provisions
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAB19%2F0124&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: RAP25/0009
+  address: 53 Bougainvillea Dr BLACK MOUNTAIN  QLD  4563
+  description: Dwelling House
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAP25%2F0009&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-10'
-- council_reference: RAB19/0125
-  address: 19 Bartholomew Ct COOROY  QLD  4563
-  description: Siting Provisions
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAB19%2F0125&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-11'
+- council_reference: RAP25/0010
+  address: 41 Myles St TEWANTIN  QLD  4565
+  description: Dwelling House
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAP25%2F0010&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-12'
-- council_reference: RAB19/0126
-  address: 4 Broadreach Ct NOOSAVILLE  QLD  4566
-  description: Siting Provisions
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAB19%2F0126&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: RAP25/0011
+  address: 41 Myles St TEWANTIN  QLD  4565
+  description: Dwelling House
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAP25%2F0011&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-12'
-- council_reference: RAB19/0127
-  address: 1 Bartholomew Ct COOROY  QLD  4563
-  description: Siting Provisions
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAB19%2F0127&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-11'
+- council_reference: SSL22/0006.01
+  address: Tristania 1/13 Mitti St NOOSA HEADS  QLD  4567
+  description: Change of Contact Details
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL22%2F0006.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-12'
-- council_reference: RAB19/0128
-  address: 11-13 Butler St TEWANTIN  QLD  4565
-  description: Siting Provisions
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAB19%2F0128&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-11'
+- council_reference: SSL22/0321.01
+  address: Coral Beach 33/12 Robert St NOOSAVILLE  QLD  4566
+  description: Transfer of Ownership
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL22%2F0321.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-14'
-- council_reference: RAB19/0129
-  address: 18 Oceania Cres SUNSHINE BEACH  QLD  4567
-  description: Siting Provisions
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAB19%2F0129&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-13'
+- council_reference: SSL22/0364.01
+  address: 250 David Low Way PEREGIAN BEACH  QLD  4573
+  description: Change of Contact Details
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL22%2F0364.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-18'
-- council_reference: RAB19/0130
-  address: 34 Allambi Tce NOOSA HEADS  QLD  4567
-  description: Assessment of Demolition Bond
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAB19%2F0130&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: SSL22/0418.01
+  address: Peza Gardens 2/1 Peza Ct NOOSA HEADS  QLD  4567
+  description: Change of Contact Details
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL22%2F0418.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-18'
-- council_reference: RAB19/0131
-  address: 35 Cullinane St TEWANTIN  QLD  4565
-  description: Siting Provisions
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAB19%2F0131&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: SSL22/0591.01
+  address: South Pacific Noosa Apts 36/179 Weyba Rd NOOSAVILLE  QLD  4566
+  description: Transfer of Ownership
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL22%2F0591.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-19'
-- council_reference: RAB19/0132
-  address: 7 Boreen Pde BOREEN POINT  QLD  4565
-  description: Siting Provisions
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAB19%2F0132&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: SSL22/0594.01
+  address: South Pacific Noosa Apts 37/179 Weyba Rd NOOSAVILLE  QLD  4566
+  description: Transfer of Ownership
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL22%2F0594.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-19'
-- council_reference: RAB19/0133
-  address: 11 Bartholomew Ct COOROY  QLD  4563
-  description: Siting Provisions
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAB19%2F0133&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-17'
+- council_reference: SSL22/0767.01
+  address: Tristania 3/13 Mitti St NOOSA HEADS  QLD  4567
+  description: Change of Contact Details
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL22%2F0767.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-20'
-- council_reference: RAB19/0134
-  address: 22 Arakoon Cres SUNSHINE BEACH  QLD  4567
-  description: Assessment of Demolition Bond
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAB19%2F0134&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-14'
+- council_reference: SSL22/0929.01
+  address: Kananda 4/9 Noosa Pde NOOSA HEADS  QLD  4567
+  description: Change of Contact Details
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL22%2F0929.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
-- council_reference: RAB19/0135
-  address: 239 Weyba Rd NOOSAVILLE  QLD  4566
-  description: Assessment of Demolition Bond
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAB19%2F0135&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: SSL22/0967.01
+  address: The Entrance 11/67 Gibson Rd NOOSAVILLE  QLD  4566
+  description: Transfer of Ownership
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL22%2F0967.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-24'
-- council_reference: RAB19/0136
-  address: 23 Bartholomew Ct COOROY  QLD  4563
-  description: Siting Provisions
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAB19%2F0136&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-03'
+- council_reference: SSL22/1037.01
+  address: 4/23 Belmore Tce SUNSHINE BEACH  QLD  4567
+  description: Change of Contact Details
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL22%2F1037.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
-- council_reference: RAB19/0137
-  address: 7 Thompson Cres TEWANTIN  QLD  4565
-  description: Siting Provisions
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAB19%2F0137&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-12'
+- council_reference: SSL22/1489.01
+  address: Enterprise 4/9 Angler St NOOSA HEADS  QLD  4567
+  description: Change of Contact Details
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL22%2F1489.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-24'
-- council_reference: RAL19/0015
-  address: 768 Pomona Kin Kin Rd KIN KIN  QLD  4571
-  description: Boundary Realignment
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAL19%2F0015&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-03'
+- council_reference: SSL22/1491.01
+  address: Enterprise 6/9 Angler St NOOSA HEADS  QLD  4567
+  description: Change of Contact Details
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL22%2F1491.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-11'
-- council_reference: RAP18/0055.01
-  address: 7 Kiamba Ct SUNSHINE BEACH  QLD  4567
-  description: Minor Change to Approval
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAP18%2F0055.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: SSL22/1759.01
+  address: Tea Trees Little Cove 3/1 Mitti St NOOSA HEADS  QLD  4567
+  description: Change of Contact Details
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL22%2F1759.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-06'
-- council_reference: RAP19/0017
-  address: Bayview Woods 1/1-7 Bayview Rd NOOSA HEADS  QLD  4567
-  description: Detached House
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAP19%2F0017&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-18'
+- council_reference: SSL22/1804.01
+  address: Vista Pacific 5/14 Bryan St SUNSHINE BEACH  QLD  4567
+  description: Transfer of Ownership
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL22%2F1804.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-06'
-- council_reference: RAP19/0018
-  address: 67 Butler St TEWANTIN  QLD  4565
-  description: Secondary Dwelling
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAP19%2F0018&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-14'
+- council_reference: SSL22/2122.01
+  address: Rise Apartments 1/37-49 Noosa Dr NOOSA HEADS  QLD  4567
+  description: Change of Contact Details
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL22%2F2122.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-11'
-- council_reference: RAP19/0019
-  address: 65 Butler St TEWANTIN  QLD  4565
-  description: Secondary Dwelling
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAP19%2F0019&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-18'
+- council_reference: SSL22/2208.02
+  address: Purtaboi 12/2 Dolphin Cres NOOSAVILLE  QLD  4566
+  description: Transfer of Ownership
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL22%2F2208.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-11'
-- council_reference: RAP19/0020
-  address: 20 Allambi Tce NOOSA HEADS  QLD  4567
-  description: Detached House
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RAP19%2F0020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-10'
+- council_reference: SSL22/2229.01
+  address: Chez Noosa Resort 28/263 Edwards St SUNSHINE BEACH  QLD  4567
+  description: " "
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL22%2F2229.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-18'
-- council_reference: REC17/0002.02
-  address: 48 Elizabeth St NOOSAVILLE  QLD  4566
-  description: Extension to Currency Period
-  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=REC17%2F0002.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: SSL22/2377.01
+  address: 173 Musa Vale Rd COOROY  QLD  4563
+  description: Change of Contact Details
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL22%2F2377.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
+  date_received: '2025-02-17'
+- council_reference: SSL23/0284.01
+  address: 32 Witta Cir NOOSA HEADS  QLD  4567
+  description: Change of Contact Details
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL23%2F0284.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: SSL23/0341.01
+  address: Portside Noosa Water 17/4 Portside Ct NOOSAVILLE  QLD  4566
+  description: Transfer of Ownership
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL23%2F0341.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: SSL23/0939.01
+  address: Viewland Heights 1/35 Viewland Dr NOOSA HEADS  QLD  4567
+  description: Transfer of Ownership
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL23%2F0939.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: SSL23/0945.01
+  address: Coco Bay 3/289 Weyba Rd NOOSAVILLE  QLD  4566
+  description: Transfer of Ownership
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL23%2F0945.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: SSL23/1000.01
+  address: Noosasoon 6/6 Edgar Bennett Ave NOOSA HEADS  QLD  4567
+  description: Change of Contact Details
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL23%2F1000.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: SSL23/1030.01
+  address: Bayview Woods 2/1-7 Bayview Rd NOOSA HEADS  QLD  4567
+  description: Transfer of Ownership
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL23%2F1030.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: SSL24/0150.01
+  address: 21 Mermaid Qy NOOSAVILLE  QLD  4566
+  description: Request to Amend Conditions (incl  Std & Non Std)
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL24%2F0150.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: SSL24/0440.01
+  address: Sails Lifestyle Resort 9/43-51 Oriole Ave PEREGIAN BEACH  QLD  4573
+  description: Transfer of Ownership
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL24%2F0440.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: SSL24/0518.01
+  address: 17 Netherby Rise SUNRISE BEACH  QLD  4567
+  description: Change of Contact Details
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL24%2F0518.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: SSL25/0025
+  address: Chez Noosa Resort 15/263 Edwards St SUNSHINE BEACH  QLD  4567
+  description: " "
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL25%2F0025&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: SSL25/0026
+  address: Parkridge Villas 703/1 Sedgeland Drive NOOSA HEADS  QLD  4567
+  description: " "
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL25%2F0026&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: SSL25/0027
+  address: The Nautilus Noosa 17/124 Noosa Pde NOOSAVILLE  QLD  4566
+  description: " "
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL25%2F0027&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: SSL25/0028
+  address: Platinum Residences 2/18 Douglas St SUNSHINE BEACH  QLD  4567
+  description: " "
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL25%2F0028&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: SSL25/0029
+  address: South Pacific Noosa Apts 49/179 Weyba Rd NOOSAVILLE  QLD  4566
+  description: " "
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL25%2F0029&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: SSL25/0030
+  address: The Noosa Apartments 2/43 Noosa Pde NOOSA HEADS  QLD  4567
+  description: " "
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL25%2F0030&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: SSL25/0031
+  address: The Noosa Apartments 8/43 Noosa Pde NOOSA HEADS  QLD  4567
+  description: " "
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL25%2F0031&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: SSL25/0032
+  address: Noosa Shores 1/86 Noosa Pde NOOSA HEADS  QLD  4567
+  description: " "
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL25%2F0032&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: SSL25/0033
+  address: Bizantin Place 1/12 Park Cres SUNSHINE BEACH  QLD  4567
+  description: " "
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL25%2F0033&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: SSL25/0034
+  address: 18 Kimberley Ct DOONAN  QLD  4562
+  description: " "
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL25%2F0034&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: SSL25/0036
+  address: Castaway Cove 24/528 David Low Way CASTAWAYS BEACH  QLD  4567
+  description: " "
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL25%2F0036&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: SSL25/0037
+  address: Castaway Cove 16/528 David Low Way CASTAWAYS BEACH  QLD  4567
+  description: " "
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL25%2F0037&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: SSL25/0038
+  address: Noosa Terrace 9/83 Noosa Pde NOOSA HEADS  QLD  4567
+  description: " "
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SSL25%2F0038&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: eBin25/0087
+  address: 778 Calanthe Ave DOONAN  QLD  4562
+  description: " "
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBin25%2F0087&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: eBin25/0090
+  address: CASCADES 127/61 Noosa Springs Dr NOOSA HEADS  QLD  4567
+  description: " "
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBin25%2F0090&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: eBin25/0091
+  address: 415 Sunrise Rd TINBEERWAH  QLD  4563
+  description: " "
+  info_url: https://noo-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBin25%2F0091&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
