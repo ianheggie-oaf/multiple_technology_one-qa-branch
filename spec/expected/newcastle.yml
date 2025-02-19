@@ -1,648 +1,1117 @@
 ---
-- council_reference: CD2020/00218.01
-  address: 16 Woodlands Avenue New Lambton NSW 2305
-  description: Remove Alterations and additions completed without approval.
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2020%2F00218.01&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+- council_reference: CC2025/00047
+  address: 29 Murray Square Mayfield NSW 2304
+  description: 'Amendment to Construction Certificate: Added kitchen window, Amended
+    kitchen layout'
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2025%2F00047&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-21'
-- council_reference: CD2021/00001
-  address: 16 Bitta Street Fletcher NSW 2287
-  description: Swimming pool installation and associated barriers.
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2021%2F00001&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-01-28'
+- council_reference: CC2025/00058
+  address: 269 Mitchell Street Stockton NSW 2295
+  description: 4 bedroom New Dwelling House, secondary dwelling slab only. (secondary
+    dwelling construction beyond ground floor slab and swimming pool are excluded)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2025%2F00058&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-04'
-- council_reference: CD2021/00002
-  address: 160 Teralba Road Adamstown NSW 2289
-  description: Construction of a single storey dwelling.
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2021%2F00002&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-01-27'
+- council_reference: CC2025/00064
+  address: 62 Nevill Street Mayfield NSW 2304
+  description: Dwelling House - Alterations and Additions
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2025%2F00064&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-05'
-- council_reference: CD2021/00003
-  address: 707 Hunter Street Newcastle West NSW 2302
-  description: Alterations and additions to dwelling house
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2021%2F00003&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-01-28'
+- council_reference: CC2025/00069
+  address: 48 Conmurra Circuit Shortland NSW 2307
+  description: Dwelling House - Detached Rumpus and Bathroom and Ancillary Development
+    (Carport and Decks) Including Demolition
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2025%2F00069&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-05'
-- council_reference: CD2021/00005
-  address: 45 Bershire Avenue Merewether Heights NSW 2291
-  description: Demolition of a swimming pool.
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2021%2F00005&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: CC2025/00071
+  address: 92 Janet Street Merewether NSW 2291
+  description: Construction of inground swimming pool, cabana, retaining walls, driveway
+    and garden
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2025%2F00071&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-05'
-- council_reference: CD2021/00007
-  address: 1 Sharpe Street Mayfield NSW 2304
-  description: Alterations and additions to dwelling house
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2021%2F00007&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-01-29'
+- council_reference: CC2025/00080
+  address: 17 Buxton Street Adamstown NSW 2289
+  description: Swimming Pool
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2025%2F00080&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-05'
-- council_reference: CD2021/00016
-  address: 6 Aries Way Elermore Vale NSW 2287
-  description: Alterations and additions to dwelling house
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2021%2F00016&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-01-28'
+- council_reference: CC2025/00085
+  address: 28 Pearson Street Lambton NSW 2299
+  description: Inground Swimming Pool, and Associated Safety Barriers
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2025%2F00085&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-07'
-- council_reference: CD2021/00017
-  address: 277 Mitchell Street Stockton NSW 2295
-  description: Alterations and additions to dwelling house
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2021%2F00017&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-01-31'
+- council_reference: CC2025/00087
+  address: 21 Spargo Lane Wallsend NSW 2287
+  description: Garage
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2025%2F00087&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-08'
-- council_reference: CD2021/00021
-  address: 1 Sheridan Avenue Adamstown Heights NSW 2289
-  description: Louvred roof addition to rear of residential dwelling
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2021%2F00021&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-01'
+- council_reference: CC2025/00089
+  address: 6 Scenic Drive Merewether NSW 2291
+  description: Erection of a new structure - Carport
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2025%2F00089&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-13'
-- council_reference: CD2021/00026
-  address: 19 Sparke Street Georgetown NSW 2298
-  description: Demolition of a dwelling.
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2021%2F00026&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-11'
+- council_reference: CC2025/00090
+  address: 513 Maitland Road Mayfield West NSW 2304
+  description: Erection of a new structure - Double Garage
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2025%2F00090&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-11'
-- council_reference: CD2021/00027
+  date_received: '2025-02-11'
+- council_reference: CC2025/00092
+  address: 16 Lorna Street Waratah NSW 2298
+  description: New carport
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2025%2F00092&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: CC2025/00095
+  address: 9 Berner Street Merewether NSW 2291
+  description: Alteration to garage - window & bathroom amendments
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2025%2F00095&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-31'
+- council_reference: CC2025/00096
+  address: 29A Irving Street Wallsend NSW 2287
+  description: Shed
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2025%2F00096&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: CC2025/00097
+  address: 131 Edith Street Waratah NSW 2298
+  description: Secondary Dwelling
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2025%2F00097&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-16'
+- council_reference: CC2025/00099
+  address: 16 Dawson Street Cooks Hill NSW 2300
+  description: Alterations and additions to an existing house inclduing demolition
+    rear section and adding new living room and bedroom and garage
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2025%2F00099&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: CC2025/00100
+  address: 35 Margaret Street Tighes Hill NSW 2297
+  description: Alterations and Additions to Dwelling, Retaining Walls, Swimming Pool
+    and Associated Safety Barriers
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC2025%2F00100&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: CD2025/00018
+  address: 24 Platt Street Wallsend NSW 2287
+  description: Deck addition to rear of building on the northern side with roof over
+    connecting with existing
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2025%2F00018&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: CD2025/00024
+  address: 315 Sandgate Road Shortland NSW 2307
+  description: NDIS Housing
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2025%2F00024&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-28'
+- council_reference: CD2025/00027
+  address: 653 Hunter Street Newcastle West NSW 2302
+  description: Level 5; Internal alterations, office fitout within Swift Suite 503,
+    in building currently under construction
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2025%2F00027&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: CD2025/00029
+  address: 21 Henley Street New Lambton NSW 2305
+  description: SWIMMING POOL & DECK
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2025%2F00029&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: CD2025/00030
+  address: 4 Kallatina Close Wallsend NSW 2287
+  description: Construction of concrete pool and surrounding deck
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2025%2F00030&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-23'
+- council_reference: CD2025/00033
+  address: 35 Honeysuckle Drive Newcastle NSW 2300
+  description: Remedial tanking / waterproofing works to secant pile perimeter walls
+    of Basement 1 and Basement 2
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2025%2F00033&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: CD2025/00034
+  address: 2 Perks Street Wallsend NSW 2287
+  description: Alterations and Additions to Existing Dwelling
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2025%2F00034&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-06'
+- council_reference: CD2025/00040
+  address: 76 Cambronne Parade Elermore Vale NSW 2287
+  description: Leisure Room
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2025%2F00040&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: CD2025/00041
   address: 57 High Street Waratah NSW 2298
-  description: Early works to facilitate the future construction of the Active Learning
-    Centre including minor alterations and additions to the existing Performing Arts
-    Centre, new Kiosk and associated deck and roof. in-ground services, demolition
-    of demountable buildings.
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2021%2F00027&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  description: Demolition of dwelling and detached garage.
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2025%2F00041&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-11'
-- council_reference: CD2021/00028
-  address: 227 Darby Street Cooks Hill NSW 2300
-  description: Alterations and additions to the existing building
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2021%2F00028&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: CD2025/00042
+  address: 8 Apprentice Close Beresfield NSW 2322
+  description: 'Internal alterations: office fitout to the first floor of the existing
+    industrial building'
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2025%2F00042&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-12'
-- council_reference: CD2021/00029
-  address: 23 Wakun Street Fletcher NSW 2287
-  description: Single storey residential dwelling
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2021%2F00029&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-11'
+- council_reference: CD2025/00043
+  address: 17 Vickers Street Mayfield West NSW 2304
+  description: Partial Demolition, Alterations and Additions to Existing Dwelling
+    and Detached Garage
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2025%2F00043&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-13'
-- council_reference: CD2021/00030
-  address: 2 Forsythe Parade Black Hill NSW 2322
-  description: Demolition of existing single storey dwelling, demolition of detached
-    double garage/carport, removal of existing swimming pool.
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2021%2F00030&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-12'
+- council_reference: CD2025/00044
+  address: 15 Farquhar Street The Junction NSW 2291
+  description: Demolition of a dwelling
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2025%2F00044&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-13'
-- council_reference: CD2021/00031
+  date_received: '2025-01-30'
+- council_reference: DA2025/00031
+  address: 127 Cameron Street Wallsend NSW 2287
+  description: Dwelling House - alterations and additions to garage
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00031&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-29'
+- council_reference: DA2025/00034
+  address: 8 Ohara Street Maryville NSW 2293
+  description: Dwelling House - alterations and additions including associated demolition
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00034&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-29'
+- council_reference: DA2025/00035
+  address: 162 Glebe Road Merewether NSW 2291
+  description: Dwelling House - ancillary development (deck)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00035&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-28'
+- council_reference: DA2025/00036
+  address: 8 Pell Street Merewether NSW 2291
+  description: Dwelling House - ancillary development (pool, retaining walls, landscaping)
+    and associated demolition
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00036&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-23'
+- council_reference: DA2025/00042
+  address: 19 Durham Road Lambton NSW 2299
+  description: Dwelling House - alterations, additions, ancillary structures (deck,
+    driveway, shed) and associated demolition
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00042&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: DA2025/00046
+  address: 38 Sunderland Street Mayfield NSW 2304
+  description: Secondary dwelling and ancillary structure (carport)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00046&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: DA2025/00048
+  address: 192 Morgan Street Merewether NSW 2291
+  description: Dwelling house - ancillary development (spa and deck)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00048&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-31'
+- council_reference: DA2025/00050
+  address: 304 Lambton Road New Lambton NSW 2305
+  description: Dwelling House - Ancillary Development (Covered Deck) Including Demolition
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00050&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: DA2025/00052
+  address: 6 Musgrove Street New Lambton NSW 2305
+  description: Secondary Dwelling
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00052&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: DA2025/00056
+  address: 80 Springfield Avenue Kotara NSW 2289
+  description: Multi Dwelling Housing - includes demolition of existing dwelling,
+    1 into 2 lot subdivision and 2 lot strata subdivision
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00056&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-31'
+- council_reference: DA2025/00058
+  address: 17 Oliver Street Hamilton NSW 2303
+  description: Dwelling House - alterations, additions
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00058&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: DA2025/00061
+  address: 648 Glebe Road Adamstown NSW 2289
+  description: Telecommunications Facility
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00061&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: DA2025/00062
+  address: 63 Russell Road New Lambton NSW 2305
+  description: Dwelling House - includes demolition of existing dwelling
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00062&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: DA2025/00063
+  address: 56 Tudor Street Hamilton NSW 2303
+  description: Signage
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00063&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: DA2025/00064
+  address: 13 Lewis Street Islington NSW 2296
+  description: Dwelling House - alterations, additions & ancillary development (shed,
+    retaining wall)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00064&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: DA2025/00065
+  address: 10 Moira Street Adamstown NSW 2289
+  description: Dual Occupancy - including ancillary development (garage, deck) and
+    removal of trees
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00065&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-31'
+- council_reference: DA2025/00066
+  address: 19 Avon Street Mayfield NSW 2304
+  description: Dwelling House - ancillary development (driveway)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00066&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: DA2025/00067
+  address: 4 Edward Street Merewether NSW 2291
+  description: Dwelling House - alterations, additions, ancillary development (deck)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00067&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: DA2025/00070
+  address: 14 Fields Way Elermore Vale NSW 2287
+  description: Dwelling house - ancillary structure (patio cover)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00070&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: DA2025/00073
+  address: 841 Hunter Street Newcastle West NSW 2302
+  description: Office premises - alterations and additions
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00073&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: DA2025/00074
+  address: 139 King Street Newcastle NSW 2300
+  description: Food and Drink Premises (Restaurant) - change of use, internal fit
+    out, alterations to facade
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00074&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: DA2025/00075
+  address: 9 Penman Street New Lambton NSW 2305
+  description: Dual Occupancy - 1 Into 2 lot subdivision, and attached dual occupancy
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00075&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: DA2025/00077
+  address: 5 Workshop Way Newcastle NSW 2300
+  description: Recreation Facility (Indoor) - building repairs
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00077&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: DA2025/00078
+  address: 17 Thomas Street Mayfield NSW 2304
+  description: Dwelling House - ancillary development (shed)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00078&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: DA2025/00080
+  address: 5/47 Ridge Street Merewether NSW 2291
+  description: Dwelling House - Ancillary Development (Pool)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00080&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: DA2025/00081
+  address: 61 Ridge Street Merewether NSW 2291
+  description: Hotel or Motel Accommodation - change of use
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00081&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-06'
+- council_reference: DA2025/00082
+  address: 2/129 Gordon Avenue Hamilton South NSW 2303
+  description: Dwelling House - ancillary development (pool and associated barriers)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00082&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: DA2025/00083
+  address: 52 Glebe Road The Junction NSW 2291
+  description: Commercial Premises - alterations and additions
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00083&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-06'
+- council_reference: DA2025/00084
+  address: 1 Curley Road Broadmeadow NSW 2292
+  description: Dwelling House - alterations, additions, ancillary development (pool,
+    shed) and associated demolition
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00084&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: DA2025/00087
+  address: 119 Edith Street Waratah NSW 2298
+  description: Dwelling House - ancillary development (carport)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00087&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-06'
+- council_reference: DA2025/00088
+  address: 281 Hunter Street Newcastle NSW 2300
+  description: Business Premises - change of use and internal fitout
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00088&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: DA2025/00089
+  address: 7 Walter Parade Black Hill NSW 2322
+  description: Dwelling House - alterations, additions, ancillary development (deck)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00089&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: DA2025/00092
+  address: 11 Gordon Street Mayfield West NSW 2304
+  description: Dwelling House - alterations, additions, ancillary development (deck)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00092&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: DA2025/00093
+  address: 9 Moira Street Adamstown NSW 2289
+  description: Dwelling House - ancillary development (shed)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00093&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: DA2025/00095
+  address: 32 Morris Street Mayfield West NSW 2304
+  description: Group Home - including associated demolition
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00095&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: DA2025/00096
+  address: 44 Ulick Street Merewether NSW 2291
+  description: Secondary Dwelling
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00096&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: DA2025/00097
+  address: 129 Young Street Carrington NSW 2294
+  description: Commercial Premises - ancillary development (awnings)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00097&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: DA2025/00098
+  address: 24 Corriston Crescent Adamstown Heights NSW 2289
+  description: Dwelling House - alterations, additions, ancillary development (deck)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00098&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: DA2025/00099
+  address: 32 Kimian Avenue Waratah West NSW 2298
+  description: Dwelling House - ancillary development (garage)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00099&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: DA2025/00100
+  address: 1 Morris Street Birmingham Gardens NSW 2287
+  description: Dwelling House - ancillary development (awning)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00100&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: DA2025/00101
+  address: 17 Wilkinson Street Mayfield NSW 2304
+  description: Dwelling House - alterations and additions, ancillary development (deck)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00101&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: DA2025/00102
+  address: 9 Lexington Parade Adamstown Heights NSW 2289
+  description: Dwelling House - alterations, additions, ancillary structures (garage,
+    retaining wall) and associated demolition
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00102&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: DA2025/00105
+  address: 45 Quarterhorse Drive Minmi NSW 2287
+  description: Dwelling House - construction of new two storey dwelling and ancillary
+    development (garage and alfresco)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00105&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: DA2025/00109
+  address: 52 Kings Road Tighes Hill NSW 2297
+  description: Multi Dwelling Housing - 5 lot subdivision
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00109&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: DA2025/00110
+  address: 33 Durham Road Lambton NSW 2299
+  description: Dwelling House - ancillary development (shed, retaining walls)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00110&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: DA2025/00111
+  address: 20 Fields Way Elermore Vale NSW 2287
+  description: Dwelling House - two-storey dwelling and ancillary development (driveway,
+    retaining wall, deck)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00111&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: DA2025/00112
+  address: 78 Fleming Street Islington NSW 2296
+  description: Dwelling House - ancillary development (deck, workshop)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00112&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: DA2025/00113
+  address: 205 Grinsell Street Kotara NSW 2289
+  description: Dwelling House - ancillary development (retaining wall, deck)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00113&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: DA2025/00114
+  address: 295 Brunker Road Adamstown NSW 2289
+  description: Change of use - includes 1 into 2 lot subdivision, alterations, additions
+    and change of use to dwelling houses
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00114&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: DA2025/00115
+  address: 2 Duke Street New Lambton NSW 2305
+  description: Dwelling House - ancillary development (pool)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00115&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: DA2025/00116
+  address: 9 Mena Street Mayfield NSW 2304
+  description: Dwelling House - alterations, additions, ancillary development (porch)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00116&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: DA2025/00118
+  address: 1 Graham Road Hamilton NSW 2303
+  description: Dwelling House - alterations, additions, ancillary development (roof
+    over deck)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2025%2F00118&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: MA2025/00014
+  address: 6 Lemnos Parade The Hill NSW 2300
+  description: Sec 4.55 (2) Modification to DA2024/00744- ancillary development (retaining
+    wall) - weep holes replace dispersion trench
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2025%2F00014&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-23'
+- council_reference: MA2025/00015
+  address: 39 Scenic Drive Merewether NSW 2291
+  description: Sec 4.55(2) Modification to DA2021/01581 - Dwelling house alterations
+    and additions including demolition - Eastern Boundary wall for small raised yard
+    & adjusted ground levels. New 3m fence setback at south boundary / frontage .
+    Widen driveway. New roof over entry gate & steps.
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2025%2F00015&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: MA2025/00016
+  address: 59 Samdon Street Hamilton NSW 2303
+  description: Sec 4.55(1A) Modification to DA2023/00774 - dwelling house - ancillary
+    development (carport) and demolition of existing structures - removal of condition
+    3 (Ausgrid Clearance) from development consent
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2025%2F00016&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-31'
+- council_reference: MA2025/00017
+  address: 378 Sandgate Road Shortland NSW 2307
+  description: Sec 4.55 (2) Modification to DA2023/00197 - dwelling house - alterations,
+    additions, and ancillary structures (garage, retaining wall and water tank) -
+    alterations, additions, ancillary structures (decks)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2025%2F00017&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: MA2025/00018
+  address: 2 Rydal Street New Lambton NSW 2305
+  description: Sec 4.55 (1A) Modification to DA2018/00496 - dwelling house - alterations
+    and additions to dwelling - changes to height and footprint of rear addition and
+    glazing locations
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2025%2F00018&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: MA2025/00019
+  address: 29A Irving Street Wallsend NSW 2287
+  description: Sec 4.55 (1) Modification to DA2024/00442 - Dwelling House - ancillary
+    development (shed) - change from roller door to glass sliding door
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2025%2F00019&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: MA2025/00021
+  address: 11-17 Mosbri Crescent The Hill NSW 2300
+  description: Sec 4.55 (1) Modification to DA2019/00061 - residential accommodation,
+    strata subdivision, earthworks and demolition - correction to calculation discrepancies
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2025%2F00021&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: MA2025/00024
+  address: 14 Roberts Circuit Lambton NSW 2299
+  description: Sec 4.55(1A) Modification to DA2023/00036 - Dwelling house alterations,
+    additions and ancillary development (pool and retaining walls) - removal of the
+    external stairs and retaining walls
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2025%2F00024&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: MA2025/00026
+  address: 31 Turnbull Street Merewether NSW 2291
+  description: Sec 4.55(1A) Modification to DA2024/00003 - Dwelling house - alterations,
+    additions and ancillary development (pool) including demolition - reduce garage
+    floor level
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2025%2F00026&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-06'
+- council_reference: MA2025/00027
+  address: 50 Monmouth Street Stockton NSW 2295
+  description: Sec 4.55(2) Modification to DA2023/00833 - Dwelling house - secondary
+    dwelling and ancillary development (pool) including demolition - addition of covered
+    walkway, changes to secondary dwelling design, change to pool location
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2025%2F00027&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: MA2025/00029
+  address: 28 Weller Street Fletcher NSW 2287
+  description: Construction of Insulated Gable Patio Cover and Glass Enclosure
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2025%2F00029&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: MA2025/00032
+  address: 192 Morgan Street Merewether NSW 2291
+  description: Sec 4.55 (1A) Modification to DA2025/00048 - dwelling house - ancillary
+    development (spa and deck) - deck extension, change to spa dimensions, extension
+    to top of service pit
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2025%2F00032&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: MA2025/00033
+  address: 18 Sketchley Parade New Lambton NSW 2305
+  description: Sec 4.55 (1A) Modification to DA2018/01306 - Proposed Two Into Three
+    Lot Subdivision, Erection Of Dwelling House, Alterations To Existing Building
+    And Change Of Use To Residential Dwelling - change to building design
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2025%2F00033&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: MA2025/00034
+  address: 111-115 Griffiths Road Lambton NSW 2299
+  description: Sec 4.55 (1A) Modification to DA2019/01016 - Commercial - demolition
+    of structures erection of service station food and drink premises recreational
+    facility (indoor) and signage - addition of wellness room and three business identification
+    signs
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2025%2F00034&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: MA2025/00038
+  address: 1/28 Denison Street Newcastle West NSW 2302
+  description: Sec 4.55 (1A) Modification to - DA2024/00351 - Co-living housing -
+    including demolition - changes to conditions
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2025%2F00038&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: MA2025/00039
+  address: 98 Dunbar Street Stockton NSW 2295
+  description: Sec 4.55 (2) Modification to DA2023/00074 - Dwelling house - including
+    ancillary development (garage) - double storey redesign and ancillary development
+    (garage, pool)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2025%2F00039&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: MA2025/00040
+  address: 44 Joslin Street Kotara NSW 2289
+  description: Sec 4.55 (1) Modification to DA2022/01448 - Dwelling house - ancillary
+    structures (garage, covered deck and retaining walls) includes demolition
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2025%2F00040&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: MA2025/00041
+  address: 71 Industrial Drive Mayfield North NSW 2304
+  description: Sec 4.56 Modification to DA2021/01074 - Subdivision – One into five
+    lot community title - removal of two additional trees
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2025%2F00041&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: MA2025/00042
+  address: 14 Tooke Street Bar Beach NSW 2300
+  description: Sec 4.55(1A) Modification to DA2023/00434 - Dwelling house - alterations,
+    additions and ancillary structure (pool) - raising floor levels and roof, adjustment
+    to driveway slope
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2025%2F00042&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: MA2025/00043
+  address: 9 Crest Road Wallsend NSW 2287
+  description: Sec 4.55 (2) Modification to DA2019/00707 - Boarding House - reduction
+    of height to single storey
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2025%2F00043&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: MA2025/00044
+  address: 121 Hunter Street Newcastle NSW 2300
+  description: Development Application is for a mixed-use development at 105-137 Hunter
+    Street, 3 Morgan Street, 22 Newcomen Street and 66-74 King Street, Newcastle.
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2025%2F00044&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: MA2025/00045
+  address: 3 Silsoe Street Hamilton East NSW 2303
+  description: Partial demolition of rear lean-to, removal of in-ground pool and raised
+    paving, Construction of new rear additions - single storey with storage loft within
+    new roof space. Minor DA amendment to some windows, and minor internal alterations
+    to approved DA.
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2025%2F00045&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: MA2025/00046
+  address: 52 Ridge Street Merewether NSW 2291
+  description: Concrete Pool
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2025%2F00046&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: MA2025/00047
+  address: 16 Corona Street Hamilton East NSW 2303
+  description: Alterations and Additions to existing residence and alterations to
+    existing double garage
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2025%2F00047&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: OC2025/00047
+  address: 127 Union Street Cooks Hill NSW 2300
+  description: 'Description of Whole Development: Stage 1 alterations and additions
+    and the redevelopment of Newcastle Grammar School – Park Campus OC1 for: ? Union
+    Street Building – whole ? Building B – part External works associated with the
+    above Refer to "Figure 1" on the occupation certificate'
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00047&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-24'
+- council_reference: OC2025/00049
+  address: 127 Union Street Cooks Hill NSW 2300
+  description: Minor alterations to existing Block A involving change of use from
+    teaching facility (primary school classrooms) to administration areas for the
+    purposes of the school. All works approved are complete.
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00049&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-24'
+- council_reference: OC2025/00055
   address: 29 Cressington Way Wallsend NSW 2287
-  description: Covered outdoor area.
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2021%2F00031&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  description: Roof Awning (Over Existing Deck)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00055&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-13'
-- council_reference: CD2021/00032
-  address: 2 Jersey Avenue Sandgate NSW 2304
-  description: 4 x light industrial units
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2021%2F00032&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-01-29'
+- council_reference: OC2025/00056
+  address: 125 Bull Street Newcastle West NSW 2302
+  description: Alterations to existing commercial building including new DDA compliant
+    passenger lift; 1 x new unisex accessible bathrooms; new boys and girl's amenities;
+    amalgamated tenancy for use as a Class 9b education facility and refurbishment
+    of existing foyers, corridors and amenities.
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00056&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-14'
-- council_reference: CD2021/00033
-  address: 24 Elwell Close Beresfield NSW 2322
-  description: Industrial Building - New.
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2021%2F00033&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-01-28'
+- council_reference: OC2025/00057
+  address: 117 Elder Street Lambton NSW 2299
+  description: Building Alterations ( Internal ) & Change Of Use from Retail Premises
+    (Pharmacy) to Business Premises (Beauty Salon)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00057&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-15'
-- council_reference: CD2021/00034
-  address: 28 Clarence Road New Lambton NSW 2305
-  description: Retaining wall and associated earthworks.
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2021%2F00034&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-01-30'
+- council_reference: OC2025/00061
+  address: 102 King Street Shortland NSW 2307
+  description: Reconstruction of Fire Damaged Dwelling
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00061&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-19'
-- council_reference: CD2021/00035
-  address: 131 Lockyer Street Adamstown NSW 2289
-  description: Construction of a shed at rear of the property.
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2021%2F00035&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-01-30'
+- council_reference: OC2025/00062
+  address: 20 Babilla Close Beresfield NSW 2322
+  description: Warehouse Distribution Centre, Light Industrial Building with 2x Tenancies
+    & Offices (Attached) and Retaining Walls
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00062&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-20'
-- council_reference: CD2021/00036
-  address: 2 Groongal Street Mayfield West NSW 2304
-  description: Alterations and additions to a dwelling.
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2021%2F00036&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-01-31'
+- council_reference: OC2025/00063
+  address: 133 Mitchell Street Stockton NSW 2295
+  description: Dwelling House - alterations and additions to ancillary development
+    (studio). Demolition of existing wall to extent shown in plans.
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00063&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-21'
-- council_reference: CD2021/00037
-  address: 18 Gamma Close Beresfield NSW 2322
-  description: Alterations and additions to an industrial premises.
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2021%2F00037&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: OC2025/00065
+  address: 42 Georgetown Road Georgetown NSW 2298
+  description: Demolition of existing structures, site remediation including removal
+    of underground fuel storage tanks, construction of a four storey shop top housing
+    development with related earthworks, landscaping and connection of utility services
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00065&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-22'
-- council_reference: CD2021/00038
-  address: 20 Elwell Close Beresfield NSW 2322
-  description: Industrial buildings - New
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CD2021%2F00038&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: OC2025/00066
+  address: 70 Nevill Street Mayfield NSW 2304
+  description: Dwelling House – Ancillary Development (Shed) Including Demolition
+    of Existing Ancillary Development (Shed)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00066&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-20'
-- council_reference: DA2005/2271.01
-  address: 9 Egret Street Kooragang NSW 2304
-  description: Sec 4.55(2) Modification - Truck Depot - change of conditions to allow
-    for B-double trucks
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2005%2F2271.01&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: OC2025/00067
+  address: 5 Durham Street Mayfield NSW 2304
+  description: Swimming Pool & Associated Safety Barriers
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00067&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-11'
-- council_reference: DA2016/00982.04
-  address: 70 Blue Gum Road Jesmond NSW 2299
-  description: Sec 4.55(2) modification to DA2016/00982 - Demolition of dwelling and
-    outbuildings, erection of three storey Residential flat building (42 units), ground
-    floor parking and associated site works - changes to apartment configuration
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2016%2F00982.04&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-01-31'
+- council_reference: OC2025/00068
+  address: 99 Watkins Street Merewether NSW 2291
+  description: Alteration and additions to existing dwelling including swimming pool
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00068&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-04'
-- council_reference: DA2019/01222.01
-  address: 2 Villiers Street Mayfield NSW 2304
-  description: Sec 4.55(1) Modification - Multi dwelling housing - removal of condition
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2019%2F01222.01&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-01-29'
+- council_reference: OC2025/00069
+  address: 130 Parry Street Newcastle West NSW 2302
+  description: Level 2 - Fitout of Fair Work Commission
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00069&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-04'
-- council_reference: DA2020/01480
-  address: 20 Third Avenue North Lambton NSW 2299
-  description: Dwelling house - alteration, additions and ancillary structure (carport)
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2020%2F01480&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-01-24'
+- council_reference: OC2025/00070
+  address: 37 Mcisaac Street Tighes Hill NSW 2297
+  description: Dwelling Alterations & Additions
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00070&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-06'
-- council_reference: DA2020/01490
-  address: 33 Moira Street Adamstown NSW 2289
-  description: Dwelling house and ancillary structure (pool)
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2020%2F01490&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-01-29'
+- council_reference: OC2025/00071
+  address: 34 Gulliver Street Hamilton NSW 2303
+  description: Alfresco Roof
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00071&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-11'
-- council_reference: DA2020/01494
-  address: 198 Lenaghans Drive Black Hill NSW 2322
-  description: Industrial training facility
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2020%2F01494&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-03'
+- council_reference: OC2025/00072
+  address: 6 Tallowwood Crescent Fletcher NSW 2287
+  description: Installation of Fibreglass Swimming Pool
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00072&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-08'
-- council_reference: DA2020/01497
-  address: 198 Lenaghans Drive Black Hill NSW 2322
-  description: Subdivision (new road) - 1 into 62 Lots (Stages 1 and 2)
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2020%2F01497&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: OC2025/00074
+  address: 80 Joslin Street Kotara NSW 2289
+  description: Dwelling Alterations & Additions
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00074&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-05'
-- council_reference: DA2020/01503
-  address: 54 Perkins Street The Hill NSW 2300
-  description: Creation of an access compliant ramp to the side door of the church.
-    Repairs to the front masonry fence to Perkins Street
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2020%2F01503&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: OC2025/00075
+  address: 17 Jones Street Birmingham Gardens NSW 2287
+  description: Dwelling House - Alterations, Additions and Ancillary Development (Pool
+    and Shed) - [Deck only]
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00075&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-05'
-- council_reference: DA2020/01508
-  address: 98 Meya Crescent Fletcher NSW 2287
-  description: Dwelling house
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2020%2F01508&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: OC2025/00078
+  address: 31 Croudace Road Elermore Vale NSW 2287
+  description: Retaining Wall & Associated Earthworks
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00078&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-08'
-- council_reference: DA2020/01511
-  address: 26 Andrea Close Wallsend NSW 2287
-  description: Dwelling house - alterations and additions including demolition
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2020%2F01511&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-03'
+- council_reference: OC2025/00080
+  address: 127 Kemp Street Hamilton South NSW 2303
+  description: Swimming Pool
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00080&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-04'
-- council_reference: DA2020/01512
-  address: 4 Thomas Street Hamilton South NSW 2303
-  description: Dwelling house - ancillary structure (garage)
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2020%2F01512&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: OC2025/00081
+  address: 48 George Street North Lambton NSW 2299
+  description: Add one additional bedroom, ensuite, laundry, deck and carport at the
+    rear of the existing house. Renovate the existing kitchen and bathroom.
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00081&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-04'
-- council_reference: DA2020/01513
-  address: 3 Cobbans Close Beresfield NSW 2322
-  description: General industry - alterations and additions
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2020%2F01513&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-03'
+- council_reference: OC2025/00083
+  address: 207 Denison Street Hamilton NSW 2303
+  description: Alterations and Additions to Existing Child Care Centre
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00083&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-12'
-- council_reference: DA2020/01521
-  address: 15 Tyrrell Street The Hill NSW 2300
-  description: Dwelling house - Alterations and additions
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2020%2F01521&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: OC2025/00084
+  address: 4 Austin Street Georgetown NSW 2298
+  description: Dwelling House - Ancillary Development (Shed)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00084&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-05'
-- council_reference: DA2020/01530
-  address: 23 Mordue Parade Jesmond NSW 2299
-  description: Dual occupancy - demolition of ancillary structure and one into two
-    lot subdivision
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2020%2F01530&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-01-28'
+- council_reference: OC2025/00085
+  address: 57 Clyde Street Hamilton North NSW 2292
+  description: Dwelling
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00085&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-12'
-- council_reference: DA2020/01537
-  address: 1/10 The Lane Maryville NSW 2293
-  description: Multi dwelling housing - alterations and additions to existing dwelling
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2020%2F01537&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-07'
+- council_reference: OC2025/00086
+  address: 31 Darby Street Newcastle NSW 2300
+  description: Internal alterations to an existing education premises
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00086&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-04'
-- council_reference: DA2020/01539
-  address: 21 Walford Street Wallsend NSW 2287
-  description: Dwelling house - includes demolition of existing structure
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2020%2F01539&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: OC2025/00087
+  address: 34S/8 Murray Dwyer Circuit Mayfield West NSW 2304
+  description: Storage premises - alterations and additions (mezzanine)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00087&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-04'
-- council_reference: DA2020/01542
-  address: 25A Frederick Street Merewether NSW 2291
-  description: Dwelling house - includes demolition of existing dwelling
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2020%2F01542&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-07'
+- council_reference: OC2025/00088
+  address: 147 Prince Street Waratah NSW 2298
+  description: Residential dual-occ
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00088&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-12'
-- council_reference: DA2020/01543
-  address: 28 Moolcha Street Mayfield NSW 2304
-  description: Dwelling house - ancillary structures (alfresco, detached part of house
-    and garage)
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2020%2F01543&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-01-29'
+- council_reference: OC2025/00089
+  address: 102 Newcastle Road Wallsend NSW 2287
+  description: Detached granny flat or secondary dwelling
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00089&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-08'
-- council_reference: DA2020/01544
-  address: 56 Dumaresq Street Hamilton East NSW 2303
-  description: Dwelling house - alterations and additions including demolition
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2020%2F01544&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-10'
+- council_reference: OC2025/00092
+  address: 43 Evescourt Road New Lambton NSW 2305
+  description: Alterations and additions to existing residence
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00092&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-12'
-- council_reference: DA2020/01547
-  address: 109 Maitland Road Mayfield NSW 2304
-  description: Food and drink premises - change to hours of operation
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2020%2F01547&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-11'
+- council_reference: OC2025/00094
+  address: 39 Addison Street Beresfield NSW 2322
+  description: Secondary Dwelling
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00094&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-06'
-- council_reference: DA2020/01549
-  address: 4 Werribi Street Mayfield West NSW 2304
-  description: Dwelling house - alterations and additions including demolition
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2020%2F01549&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-01-24'
+- council_reference: OC2025/00095
+  address: 25 Grove Street Waratah NSW 2298
+  description: Alterations & Additions to Existing Dwelling
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00095&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-05'
-- council_reference: DA2020/01554
-  address: 8 Selwyn Street Merewether NSW 2291
-  description: Dwelling house - ancillary structure (fence and gate)
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2020%2F01554&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-01-23'
+- council_reference: OC2025/00096
+  address: 163 Waterside Drive Fletcher NSW 2287
+  description: Dwelling House and Retaining Wall
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00096&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-06'
-- council_reference: DA2020/01555
-  address: 50 Honeysuckle Drive Newcastle NSW 2300
-  description: Alterations and additions to existing building including demolition
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2020%2F01555&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: OC2025/00097
+  address: 38 Gregson Avenue Mayfield West NSW 2304
+  description: Swimming Pool and Associated Safety Barriers
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00097&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-08'
-- council_reference: DA2020/01556
-  address: 17 Parry Street Cooks Hill NSW 2300
-  description: Dwelling house - alterations and additions including demolition
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2020%2F01556&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-11'
+- council_reference: OC2025/00098
+  address: 8 Chilcott Street Lambton NSW 2299
+  description: Renovation and extension of existing dwelling
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00098&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-06'
-- council_reference: DA2021/00001
-  address: 38 Craftsman Close Beresfield NSW 2322
-  description: Warehouse and distribution centre
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00001&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-11'
+- council_reference: OC2025/00099
+  address: 51 Gemini Avenue Elermore Vale NSW 2287
+  description: Retaining Walls
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00099&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-06'
-- council_reference: DA2021/00002
-  address: 138 St James Road New Lambton NSW 2305
-  description: Subdivision - consolidation of two lots into one and further three
-    lot Strata subdivision
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00002&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-12'
+- council_reference: OC2025/00100
+  address: 16 Hill Street Wallsend NSW 2287
+  description: Secondary Dwelling
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00100&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-11'
-- council_reference: DA2021/00003
-  address: 49 Moruya Parade Kotara NSW 2289
-  description: Dwelling house - alterations, additions and ancillary structure (carport)
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00003&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-11'
+- council_reference: OC2025/00101
+  address: 47 Tennyson Street Beresfield NSW 2322
+  description: New Dwelling, Subdivision, Carport
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00101&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-11'
-- council_reference: DA2021/00004
-  address: 110 Roxburgh Street Stockton NSW 2295
-  description: Dual occupancy - includes 2 lot strata subdivision
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00004&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-01-28'
+- council_reference: OC2025/00103
+  address: 42A Karoola Road Lambton NSW 2299
+  description: Dwelling House - Ancillary Structure (Roofed Patio)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00103&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-15'
-- council_reference: DA2021/00005
-  address: 24 Winsor Street Merewether NSW 2291
-  description: Dwelling house - alterations, additions and ancillary structure (fence)
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00005&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-03'
+- council_reference: OC2025/00104
+  address: 24 Englund Street Birmingham Gardens NSW 2287
+  description: Secondary Dwelling
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00104&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-09'
-- council_reference: DA2021/00007
-  address: 27D Riverside Drive Mayfield West NSW 2304
-  description: Electricity generating works
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00007&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-13'
+- council_reference: OC2025/00106
+  address: 4/6 Cardiff Road New Lambton Heights NSW 2305
+  description: Ancillary Structures (Pool and Deck)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00106&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-12'
-- council_reference: DA2021/00008
-  address: 118 Young Street Carrington NSW 2294
-  description: Business premises - change of use and alterations including demolition
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00008&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-10'
+- council_reference: OC2025/00108
+  address: 9 Berner Street Merewether NSW 2291
+  description: Inground pool with associated safety barriers and wall.
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00108&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-11'
-- council_reference: DA2021/00009
-  address: 31 Veda Street Hamilton NSW 2303
-  description: Dwelling house - alterations and additions including demolition
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00009&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-01-30'
+- council_reference: OC2025/00109
+  address: 73 Glebe Road The Junction NSW 2291
+  description: Mixed use - alterations and additions to existing health consulting
+    rooms and erection of dwelling house including demolition. Build a proposed residence
+    on the south side of the property and an additional ground floor room to the existing
+    building on the southeast side of the building. • Showerheads with a minimum rating
+    of 4 star (> 6 but <= 7.5 L/min) in all showers in the development. • Toilet flushing
+    system with a minimum rating of 4 star in each toilet in the development. • Taps
+    with a minimum
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00109&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-09'
-- council_reference: DA2021/00011
-  address: 22 Kemp Street The Junction NSW 2291
-  description: Dwelling house - alterations and additions including demolition
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00011&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-03'
+- council_reference: OC2025/00113
+  address: 43 Evescourt Road New Lambton NSW 2305
+  description: Alterations and additions to existing residence
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00113&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-11'
-- council_reference: DA2021/00012
-  address: 24 Rawson Street Mayfield NSW 2304
-  description: Dwelling house - ancillary structure (carport)
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00012&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-11'
+- council_reference: OC2025/00114
+  address: 130 Parry Street Newcastle West NSW 2302
+  description: Internal fit out works associated with an existing commercial shell
+    space to Lv. 1 only
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00114&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-12'
-- council_reference: DA2021/00013
-  address: 8 Norfolk Avenue Islington NSW 2296
+  date_received: '2025-02-12'
+- council_reference: OC2025/00115
+  address: 32 Sandgate Road Wallsend NSW 2287
+  description: Dwelling house - ancillary development (garage, pool, deck and fence)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00115&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: OC2025/00116
+  address: 47 Janet Street Merewether NSW 2291
+  description: Alterations and Additions to ancillary development (pool house)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00116&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: OC2025/00119
+  address: 171 Waterside Drive Fletcher NSW 2287
+  description: Dwelling house - ancillary structure (pool and retaining wall)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00119&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: OC2025/00120
+  address: 5 Southern Avenue Tarro NSW 2322
+  description: Shed
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00120&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: OC2025/00121
+  address: 53 Douglas Street Stockton NSW 2295
+  description: completion of house, garage and swimming pool
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00121&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: OC2025/00125
+  address: 29A Irving Street Wallsend NSW 2287
+  description: Shed
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00125&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: OC2025/00127
+  address: 8 Wrightson Avenue Bar Beach NSW 2300
+  description: Dwelling House - Includes Construction of Ancillary Structures (Pool,
+    Retaining Walls and Fences)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00127&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: OC2025/00128
+  address: 17 King Street Adamstown NSW 2289
+  description: Construction of Swimming Pool
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00128&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: OC2025/00129
+  address: 24 Honeysuckle Drive Newcastle NSW 2300
+  description: Internal reconfigure of an existing commercial office
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00129&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: OC2025/00130
+  address: 6 Crompton Street Hamilton NSW 2303
+  description: Alterations and Additions to a residential Dwelling. New Upper Level,
+    attached carport and detached workshop/studio
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00130&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: OC2025/00131
+  address: 22 Callistemon Close Warabrook NSW 2304
+  description: Alterations and Additions to existing commercial building
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OC2025%2F00131&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: PC2024/00056
+  address: 70 Nevill Street Mayfield NSW 2304
+  description: Dwelling House – Ancillary Development (Shed) Including Demolition
+    of Existing Ancillary Development (Shed)
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC2024%2F00056&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: PC2025/00003
+  address: 29 Murray Square Mayfield NSW 2304
+  description: 'The modifications to the construction plans: Added kitchen window,
+    Amended kitchen layout'
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC2025%2F00003&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-28'
+- council_reference: PC2025/00004
+  address: 24 Platt Street Wallsend NSW 2287
+  description: Deck addition to rear of building on the northern side with roof over
+    connecting with existing
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC2025%2F00004&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: PC2025/00005
+  address: 48 Conmurra Circuit Shortland NSW 2307
+  description: Dwelling House - Detached Rumpus and Bathroom and Ancillary Development
+    (Carport and Decks) Including Demolition
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC2025%2F00005&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: PC2025/00006
+  address: 49 Edward Street Merewether NSW 2291
   description: Dwelling house - alterations, additions and ancillary structure (garage)
-    including demolition
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00013&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC2025%2F00006&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-12'
-- council_reference: DA2021/00015
-  address: 13 Wakun Street Fletcher NSW 2287
-  description: Dwelling house - ancillary structure (pool)
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00015&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-12'
+- council_reference: PC2025/00007
+  address: 16 Lorna Street Waratah NSW 2298
+  description: New carport
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PC2025%2F00007&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-11'
-- council_reference: DA2021/00016
-  address: 6 Bridge Street Hamilton NSW 2303
-  description: Dwelling house - demolition
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00016&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-11'
+- council_reference: SC2025/00014
+  address: 198 Lenaghans Drive Black Hill NSW 2322
+  description: 2 into 62 lot Torrens Subdivision
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SC2025%2F00014&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-11'
-- council_reference: DA2021/00018
-  address: 136 Waterside Drive Fletcher NSW 2287
-  description: Dwelling house
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00018&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-01-29'
+- council_reference: SC2025/00015
+  address: 92 Bruce Street Cooks Hill NSW 2300
+  description: Two into two lot torrens subdivision
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SC2025%2F00015&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-15'
-- council_reference: DA2021/00019
-  address: 3A Barr Street Merewether NSW 2291
-  description: Dwelling house - ancillary structure (pool)
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00019&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: SC2025/00016
+  address: 121 Woodstock Street Mayfield North NSW 2304
+  description: 1 into 3 Lot Community Title Subdivision
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SC2025%2F00016&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-13'
-- council_reference: DA2021/00020
-  address: 11 Atkinson Street Birmingham Gardens NSW 2287
-  description: Dwelling house - alterations and additions
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00020&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-10'
+- council_reference: SC2025/00017
+  address: 60 Lawson Avenue Beresfield NSW 2322
+  description: 2 into 6 lot strata subdivision
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SC2025%2F00017&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-12'
-- council_reference: DA2021/00022
-  address: 8 Aldyth Street New Lambton NSW 2305
-  description: Dwelling house - demolition of existing structures
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00022&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-10'
+- council_reference: SC2025/00018
+  address: 29 Bulkara Street Wallsend NSW 2287
+  description: Subdivision - one into two lot subdivision - torrens
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SC2025%2F00018&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-15'
-- council_reference: DA2021/00027
-  address: 31 Kekul Street Fletcher NSW 2287
-  description: Dwelling house - ancillary structure (pool)
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00027&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
+  date_received: '2025-02-10'
+- council_reference: SC2025/00019
+  address: 175 Lake Road Elermore Vale NSW 2287
+  description: Strata Subdivision - 1 into 5
+  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SC2025%2F00019&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2021-01-13'
-- council_reference: DA2021/00028
-  address: 8 Glossop Street New Lambton NSW 2305
-  description: Dwelling house - alterations, additions and ancillary structure (carport)
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00028&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-19'
-- council_reference: DA2021/00029
-  address: 36 Teralba Road Broadmeadow NSW 2292
-  description: Dwelling house - ancillary structure (garage)
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00029&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-15'
-- council_reference: DA2021/00030
-  address: 430 Minmi Road Fletcher NSW 2287
-  description: Dwelling house
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00030&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-15'
-- council_reference: DA2021/00031
-  address: 2 Macarthur Street Shortland NSW 2307
-  description: Dwelling house - ancillary structure (garage)
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00031&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-15'
-- council_reference: DA2021/00033
-  address: 79 Kenrick Street Merewether NSW 2291
-  description: Dwelling house - ancillary structure (garage and studio)
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00033&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-18'
-- council_reference: DA2021/00034
-  address: 12 St James Road New Lambton NSW 2305
-  description: Multi dwelling housing - includes demolition of ancillary structure
-    (garage) and one into three lot subdivision
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00034&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-20'
-- council_reference: DA2021/00035
-  address: 35 Addison Street Beresfield NSW 2322
-  description: General industry - alterations and additions
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00035&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-20'
-- council_reference: DA2021/00036
-  address: 19 Frances Street Wallsend NSW 2287
-  description: Demolition of existing dwelling and construction of Dwelling house
-    and secondary dwelling
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00036&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-15'
-- council_reference: DA2021/00037
-  address: 10 Mosbri Crescent The Hill NSW 2300
-  description: Dwelling house - alterations and additions
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00037&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-18'
-- council_reference: DA2021/00038
-  address: 28 Meredith Street New Lambton NSW 2305
-  description: Dwelling house - ancillary structure (awning and carport)
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00038&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-20'
-- council_reference: DA2021/00039
-  address: 24 Jubilee Road Wallsend NSW 2287
-  description: Dual Occupancy - Includes demolition of existing structures and one
-    into two lot subdivision
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00039&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-21'
-- council_reference: DA2021/00040
-  address: 130 Denison Street Hamilton NSW 2303
-  description: Dwelling house - alterations and additions
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00040&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-18'
-- council_reference: DA2021/00041
-  address: 38 Hickson Street Merewether NSW 2291
-  description: Dwelling house - alterations and additions
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00041&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-18'
-- council_reference: DA2021/00042
-  address: 27 Havelock Street Mayfield NSW 2304
-  description: Dwelling house
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00042&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-19'
-- council_reference: DA2021/00043
-  address: 24 Diana Street Wallsend NSW 2287
-  description: Secondary dwelling
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00043&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-18'
-- council_reference: DA2021/00044
-  address: 17 Gibson Street Newcastle NSW 2300
-  description: Dwelling house - alterations and additions
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00044&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-18'
-- council_reference: DA2021/00045
-  address: 90 Henry Street Tighes Hill NSW 2297
-  description: Dwelling house - alterations and additions
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00045&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-19'
-- council_reference: DA2021/00046
-  address: 140 Lambton Road Broadmeadow NSW 2292
-  description: Artisan food and drink premises - change of use
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00046&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-19'
-- council_reference: DA2021/00047
-  address: 178A Fullerton Street Stockton NSW 2295
-  description: Dwelling house - alterations additions
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00047&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-15'
-- council_reference: DA2021/00048
-  address: 71 Clyde Street Stockton NSW 2295
-  description: Emergency services facility
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00048&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-22'
-- council_reference: DA2021/00049
-  address: 12 Bailey Street Adamstown NSW 2289
-  description: Tree removal
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00049&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-19'
-- council_reference: DA2021/00052
-  address: 50 Awabakal Drive Fletcher NSW 2287
-  description: Multi dwelling housing - 23 dwelling and 23 lot strata subdivision
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00052&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-22'
-- council_reference: DA2021/00055
-  address: 14 Mima Street Fletcher NSW 2287
-  description: Dwelling house - Ancillary structure (retaining walls)
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00055&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-19'
-- council_reference: DA2021/00058
-  address: 352 Hunter Street Newcastle West NSW 2302
-  description: Business identification signage
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00058&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-21'
-- council_reference: DA2021/00060
-  address: 22 Margaret Street Tighes Hill NSW 2297
-  description: Dwelling house - driveway and hard stand space
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00060&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-22'
-- council_reference: DA2021/00062
-  address: 104 Darby Street Cooks Hill NSW 2300
-  description: Tourist and visitor accommodation - alterations and additions to existing
-    commercial premises and change of use
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA2021%2F00062&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-22'
-- council_reference: MA2020/01034
-  address: 28 Lorna Street Waratah NSW 2298
-  description: Sec 4.55(1A) Modification to DA2017/01562 - Seniors housing - Changes
-    to floor plan
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2020%2F01034&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-07'
-- council_reference: MA2021/00001
-  address: 31 Hudson Street Hamilton NSW 2303
-  description: Sec 4.55(2) modification to DA2018/00797 - mixed use development -
-    change of use to seniors housing, changes to floor plans and elevations
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2021%2F00001&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-06'
-- council_reference: MA2021/00006
-  address: 4 Croydon Street Mayfield NSW 2304
-  description: Sec 4.55(1A) Modification to DA2018/00603 - alterations and additions
-    to dwelling house - changes to floor plan
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2021%2F00006&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-15'
-- council_reference: MA2021/00009
-  address: 34 Griffiths Road Lambton NSW 2299
-  description: Sec 4.55 (1A) modification to DA2020/00261 - vehicle sales premises
-    - changes to site plan and elevations
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2021%2F00009&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-22'
-- council_reference: MA2021/00011
-  address: 90A Turton Road Waratah NSW 2298
-  description: Change of suburb for the new dwelling from Waratah to Georgetown in
-    Condition 37 of the Development Consent
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2021%2F00011&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-22'
-- council_reference: MA2021/00012
-  address: 57 Kempster Road Merewether NSW 2291
-  description: Sec 4.55(1) modification to DA2020/01159 - dwelling house - correction
-    to stamped plans
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2021%2F00012&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-19'
-- council_reference: MA2021/00014
-  address: 25 Marshall Street New Lambton Heights NSW 2305
-  description: Sec 4.55(1A) modification to DA2018/00948 - multi dwelling housing
-    - changes to floor plans and elevations
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2021%2F00014&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-21'
-- council_reference: MA2021/00015
-  address: 31 Bar Beach Avenue The Junction NSW 2291
-  description: Conditions 6 and 23 were incorrectly added to the consent and need
-    to be removed from the approval
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2021%2F00015&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-21'
-- council_reference: MA2021/00017
-  address: 5 Mordue Parade Jesmond NSW 2299
-  description: Client wishes to modify internal fit out of proposed garage. The locations
-    of the large and small roller door located on the same side of the garage are
-    to be swapped with each other. There is also an amenities block proposed to be
-    put in the northern corner of the garage. This was not included in the original
-    application. The footprint and external appearance are to be unchanged.
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2021%2F00017&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-22'
-- council_reference: MA2021/00018
-  address: 11 Argyle Street Newcastle NSW 2300
-  description: "Change to Back of House layout to include an enclosed food preparation
-    and storage area. Previously this area was open to the carpark area and provided
-    no security or separation. \r\nRemoval of consent condition No. 16 \"The premises
-    is only permitted to prepare and serve hot beverages such as coffee, tea, hot
-    chocolate, and limited to the sale of low risk food preparation such as the sale
-    of pre-made cakes and sandwiches. Hot food preparation/cooking is not permitted
-    from this premise.\""
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2021%2F00018&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-25'
-- council_reference: MA2021/00019
-  address: 132 Hannell Street Wickham NSW 2293
-  description: Modification to slightly extend the operational hours
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2021%2F00019&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-25'
-- council_reference: MA2021/00020
-  address: 5 Woodward Street Merewether NSW 2291
-  description: Proposed internal wall changes, adding internal lift and 2 additional
-    windows
-  info_url: https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA2021%2F00020&f=%24P1.ETR.APPDET.VIW&r=TCON.LG.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2021-01-25'
+  date_received: '2025-02-10'
