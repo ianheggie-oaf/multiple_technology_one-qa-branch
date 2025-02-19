@@ -1,341 +1,279 @@
 ---
-- council_reference: PLA24/0029
-  address: 35 Clontarf Crescent TEMPLESTOWE VIC 3106
-  description: "Amendment to Planning Permit PLN18/0302 by deleting Conditions 1A.3
-    and 1A.4\r\n(Planning Permit PLN18/0302 was issued for the construction of two,
-    two-storey dwellings (with undercroft/basement garage level) and associated two
-    lot subdivision)"
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLA24%2F0029&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+- council_reference: PLA25/0006
+  address: 220 Serpells Road TEMPLESTOWE VIC 3106
+  description: "Amendment to Planning Permit PLN23/0079 by reconfiguring the services
+    enclosure and including alternative fencing treatment along the street frontage,
+    extending the western deck for staff use, construction of a fire exit stairwell
+    from the basement car park along the western boundary, and alterations to the
+    basement car park including new support columns and underground rainwater tank.\r\n(Planning
+    Permit PLN23/0079 was issued for the use and development of the land for a child
+    care centre (130 places) with basement car parking and associated vegetation removal)"
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLA25%2F0006&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-08'
-- council_reference: PLA24/0030
-  address: 152 Andersons Creek Road DONCASTER EAST VIC 3109
-  description: "Amendment to Planning Permit PLN22/0170 by alterations to the release
-    of lots in stages 1 to 3\r\n(Planning Permit PLN22/0170 was issued for 58 lot
-    staged subdivision in 4 stages)"
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLA24%2F0030&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-24'
+- council_reference: PLA25/0007
+  address: 19-21 Manningham Road BULLEEN VIC 3105
+  description: "Amendment to Planning Permit PL99/010996 by allowing for up to 7 practitioners
+    at any one time and reallocation of car parking spaces\r\n(Planning Permit PL99/010996
+    was issued for a reduction in the parking requirement of Clause 19 of the Planning
+    Scheme to allow for five (5) practitioners instead of four (4) to operate from
+    the medical centre"
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLA25%2F0007&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-09'
-- council_reference: PLA24/0031
-  address: 12 Nottingwood Street DONCASTER EAST VIC 3109
-  description: "Amendment to Planning Permit PLN22/0015 by modifying levels, building
-    heights, materials and internal layouts\r\n(Planning Permit PLN22/0015 was issued
-    for the construction of two, two-storey dwellings with basement garages)"
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLA24%2F0031&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-28'
+- council_reference: PLA25/0008
+  address: 1/22 Bayley Grove DONCASTER VIC 3108
+  description: "Amendment to Planning Permit PL17/027589 by removing one dead tree
+    within the front setback and modifying Conditions 1.3, 9.1 and 12 of the permit\r\n(Planning
+    Permit PL17/027589 was issued for the construction of five, three-storey dwellings
+    and one, two-storey dwelling, with associated semi-basement car parking)"
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLA25%2F0008&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-12'
-- council_reference: PLA24/0032
-  address: 2/856-860 Doncaster Road DONCASTER EAST VIC 3109
-  description: "Amendment to Planning Permit PLN21/0329 by incorporating the adjacent
-    tenancy ( tenancy 3 in addition to tenancy 2 at 856-860 Doncaster Road) to which
-    the permit applies\r\n(Planning Permit PLN21/0329 was issued for the use of the
-    land for a restricted recreation facility (gymnasium) and alteration of access
-    to a Transport Zone 2)"
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLA24%2F0032&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-25'
+- council_reference: PLA25/0009
+  address: 2 Gaudion Road DONCASTER EAST VIC 3109
+  description: "Amendment to the Planning Permit PLN20/0445 by alterations including
+    to the layout, roofing, windows and open space \r\n(Planning Permit PLN20/0445
+    was issued for the construction of two, two-storey dwellings)"
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLA25%2F0009&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-16'
-- council_reference: PLA24/0033
-  address: 19 Louisa Place TEMPLESTOWE VIC 3106
-  description: "Amendment to Planning Permit PLN22/0204 by modifying floor levels,
-    setbacks, windows, and internal reconfigurations\r\n(Planning Permit PLN22/0204
-    was issued for the construction of a two-storey dwelling adjacent to the existing
-    dwelling and an extension to the existing dwelling)"
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLA24%2F0033&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-28'
+- council_reference: PLA25/0010
+  address: 52A Devon Drive DONCASTER EAST VIC 3109
+  description: "Amendment to Planning Permit PLN22/0140 by adding, altering and removing
+    windows\r\n(Planning Permit PLN22/0140 was issued for the construction of two,
+    two-storey dwellings)"
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLA25%2F0010&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-18'
-- council_reference: PLN24/0091
-  address: 32-34 Johansons Road WARRANDYTE VIC 3113
-  description: Buildings and works for the construction of carports, decking and a
+  date_received: '2025-02-05'
+- council_reference: PLA25/0011
+  address: 37 Bellara Street DONCASTER VIC 3108
+  description: "Amendment to Planning Permit PLN18/0488 by reducing the side setbacks
+    and increasing the alfrescos\r\n(Planning Permit PLN18/0488 was issued for the
+    construction of two, two - storey dwellings)"
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLA25%2F0011&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: PLA25/0012
+  address: The Pines - Header 181 Reynolds Road DONCASTER EAST VIC 3109
+  description: "Amendment to Planning Permit PL02/013974 by installing a portable
+    amenities block and a further reduction in parking of three car parking spaces\r\n(Planning
+    Permit PL02/013974 was issued for the use and development of the subject land
+    for shops, offices and food and drink premises associated with the expansion of
+    the existing shopping centre, including buildings and works outside The Pines
+    Shopping Centre Building Envelope Plan (November 1992), and a reduction in parking,
+    removal of native trees and new landscaping"
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLA25%2F0012&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: PLA25/0013
+  address: 73-75 Arundel Road PARK ORCHARDS VIC 3114
+  description: "Amendment to Planning PermitPLN23/0277 by removing a tree\r\n(Planning
+    Permit PLN23/0277 was issued for buildings and works, including vegetation removal,
+    associated with the construction of a dwelling and swimming pool)"
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLA25%2F0013&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: PLA25/0014
+  address: 11 Bourke Street BULLEEN VIC 3105
+  description: "Amendment to Planning Permit PLN24/0170 by the removal of Easements
+    E-2 and E-5 for drainage and sewerage on TP483622D\r\n(Planning Permit PLN24/0170
+    was issued for three lot subdivision)"
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLA25%2F0014&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: PLN25/0007
+  address: 361-363 Ringwood-Warrandyte Road WARRANDYTE VIC 3113
+  description: Works for the filling of the existing dam
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0007&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-23'
+- council_reference: PLN25/0008
+  address: 31 Ada Street DONCASTER VIC 3108
+  description: "(Retrospective) Conversion of an existing dependent persons unit to
+    a small second dwelling"
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0008&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-23'
+- council_reference: PLN25/0009
+  address: 5 Vassil Court WARRANDYTE VIC 3113
+  description: Buildings and works for the construction of a dwelling and associated
     swimming pool
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0091&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0009&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-04'
-- council_reference: PLN24/0093
-  address: 25 Tandarook Crescent DONVALE VIC 3111
-  description: Removal of vegetation (8 trees)
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0093&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-23'
+- council_reference: PLN25/0010
+  address: 66 McLachlan Street TEMPLESTOWE VIC 3106
+  description: Removal of two dead trees
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0010&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-01'
-- council_reference: PLN24/0098
-  address: 3 Gerard Street TEMPLESTOWE LOWER VIC 3107
-  description: Construction of a two-storey dwelling to the rear of the existing dwelling
-    and alterations and additions to the existing dwelling
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0098&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-27'
+- council_reference: PLN25/0011
+  address: 6 Treeline Place PARK ORCHARDS VIC 3114
+  description: Removal of one tree
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0011&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-11'
-- council_reference: PLN24/0099
-  address: 20 Bellara Street DONCASTER VIC 3108
-  description: Construction of two, two-storey dwellings
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0099&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-28'
+- council_reference: PLN25/0012
+  address: Macedon Square Shopping Centre 17 Macedon Road TEMPLESTOWE LOWER VIC 3107
+  description: Construction of alterations to the existing building
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0012&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-04'
-- council_reference: PLN24/0100
-  address: 660-662 Park Road PARK ORCHARDS VIC 3114
-  description: Buildings and works for the construction of a single dwelling and associated
-    outbuilding
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0100&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-30'
+- council_reference: PLN25/0013
+  address: Greythorn Bowling Club 7 Gregory Court DONCASTER VIC 3108
+  description: Buildings and works for the construction of light poles associated
+    with the existing outdoor recreation facility
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0013&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-04'
-- council_reference: PLN24/0101
-  address: 46-48 Elgin Crescent PARK ORCHARDS VIC 3114
-  description: Buildings and works for alterations and additions to the existing dwelling
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0101&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-30'
+- council_reference: PLN25/0014
+  address: 9 Ananda Court DONVALE VIC 3111
+  description: Construction of two, two-storey dwellings and two lot subdivision
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0014&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-04'
-- council_reference: PLN24/0102
-  address: 19 Timber Ridge DONCASTER VIC 3108
-  description: Construction of one, three-storey dwelling and one, two-storey dwelling
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0102&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-04'
-- council_reference: PLN24/0104
-  address: 16 Wrendale Drive DONVALE VIC 3111
-  description: Three lot subdivision
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0104&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-08'
-- council_reference: PLN24/0105
-  address: 5 Wallace Avenue DONVALE VIC 3111
-  description: Three lot subdivision
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0105&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-08'
-- council_reference: PLN24/0106
-  address: Jackson Court Shopping Centre 80 Jackson Court DONCASTER EAST VIC 3109
-  description: Construction of a roof associated with the existing building
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0106&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-08'
-- council_reference: PLN24/0107
-  address: 8 Pentlowe Avenue TEMPLESTOWE LOWER VIC 3107
-  description: Removal of Easement E-1 for Lot 20 on Plan of Subdivision 056337 (drainage
-    and sewerage easement)
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0107&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-09'
-- council_reference: PLN24/0108
-  address: 232-236 Foote Street TEMPLESTOWE VIC 3106
-  description: Use of the land for a place of assembly, alteration of access to a
-    road in Transport 2 Zone and display of signage
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0108&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-09'
-- council_reference: PLN24/0110
-  address: 3 Kyrenia Court WARRANDYTE VIC 3113
-  description: Buildings and works for additions to the existing dwelling, including
-    first floor additions
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0110&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-09'
-- council_reference: PLN24/0111
-  address: 1/2 Gordons Road TEMPLESTOWE LOWER VIC 3107
-  description: Construction of an extension to the existing dwelling
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0111&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-09'
-- council_reference: PLN24/0112
-  address: 12 King Street BULLEEN VIC 3105
-  description: Extension of one dwelling on a lot
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0112&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-12'
-- council_reference: PLN24/0113
-  address: 71 Turana Street DONCASTER VIC 3108
-  description: Construction of two, three-storey dwellings and removal of Easement
-    E-1 for Lot 26 on Plan of Subdivision 077901 (drainage and sewerage easement)
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0113&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-10'
-- council_reference: PLN24/0114
-  address: 39 Rathmullen Quadrant DONCASTER VIC 3108
-  description: Construction of two, two-storey dwellings
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0114&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-12'
-- council_reference: PLN24/0115
-  address: 19 Gray Street DONCASTER VIC 3108
-  description: Three lot subdivision
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0115&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-15'
-- council_reference: PLN24/0116
-  address: 140 Parker Street TEMPLESTOWE VIC 3106
-  description: Five lot subdivision
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0116&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-15'
-- council_reference: PLN24/0118
-  address: 740 Elgar Road DONCASTER VIC 3108
-  description: Four lot subdivision
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0118&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-15'
-- council_reference: PLN24/0119
-  address: 249 Warrandyte Road PARK ORCHARDS VIC 3114
-  description: Section 23 (Variation of Restriction)
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0119&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-15'
-- council_reference: PLN24/0120
-  address: 9 Laviah Court TEMPLESTOWE VIC 3106
-  description: Six lot subdivision
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0120&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-15'
-- council_reference: PLN24/0121
-  address: 806-808 Doncaster Road DONCASTER VIC 3108
-  description: Put up for display a major promotion sign
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0121&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-15'
-- council_reference: PLN24/0122
-  address: 29-31 Arundel Road PARK ORCHARDS VIC 3114
-  description: Buildings and works to construct a two-storey outbuilding
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0122&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-15'
-- council_reference: PLN24/0123
-  address: 4 Ibis Court WONGA PARK VIC 3115
-  description: Buildings and works for alterations and additions to the existing dwelling
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0123&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-16'
-- council_reference: PLN24/0124
-  address: 100 Macedon Road TEMPLESTOWE LOWER VIC 3107
+  date_received: '2025-01-31'
+- council_reference: PLN25/0015
+  address: 4 Peter Street DONCASTER EAST VIC 3109
   description: Construction of two, three-storey dwellings
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0124&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0015&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-15'
-- council_reference: PLN24/0125
-  address: 13-15 Anzac Road WARRANDYTE SOUTH VIC 3134
-  description: Use and development of a Small Second Dwelling and associated vegetation
-    removal
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0125&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-02'
+- council_reference: PLN25/0016
+  address: 1/9-13 Old Yarra Road WONGA PARK VIC 3115
+  description: Buildings and works for the redevelopment of existing netball courts
+    and construction of a sports pavilion associated with the existing minor sports
+    and recreation facility
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0016&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-18'
-- council_reference: PLN24/0127
-  address: 1 Canara Street DONCASTER EAST VIC 3109
+  date_received: '2025-02-03'
+- council_reference: PLN25/0017
+  address: 46-48 Garden Road DONVALE VIC 3111
+  description: Buildings and works for alterations and additions to the existing dwelling
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0017&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: PLN25/0018
+  address: 14 Homewood Rise WARRANDYTE VIC 3113
+  description: Buildings and works for the construction of a cabana associated with
+    the existing dwelling
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0018&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: PLN25/0019
+  address: 6 Capricorn Avenue DONCASTER EAST VIC 3109
   description: Construction of two, two-storey dwellings
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0127&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0019&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-19'
-- council_reference: PLN24/0128
-  address: Apt G0 7/5 Sovereign Point Court DONCASTER VIC 3108
-  description: Buildings and works for the construction of a verandah associated with
-    the existing dwelling
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0128&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-19'
-- council_reference: PLN24/0129
-  address: 21 Sargent Street DONCASTER VIC 3108
+  date_received: '2025-02-04'
+- council_reference: PLN25/0021
+  address: 18 Verene Avenue TEMPLESTOWE LOWER VIC 3107
   description: Three lot subdivision
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0129&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-22'
-- council_reference: PLN24/0130
-  address: 1084 Doncaster Road DONCASTER EAST VIC 3109
+  date_received: '2025-02-05'
+- council_reference: PLN25/0022
+  address: 2 Foote Street TEMPLESTOWE LOWER VIC 3107
+  description: Forty-two lot subdivision
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0022&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-06'
+- council_reference: PLN25/0024
+  address: 2 Major Street DONCASTER EAST VIC 3109
   description: Five lot subdivision
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0130&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0024&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-22'
-- council_reference: PVN24/0034
-  address: 1 Ada Street DONCASTER VIC 3108
-  description: Buildings and works for the construction of a carport associated with
-    the existing dwelling
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PVN24%2F0034&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-10'
+- council_reference: PLN25/0026
+  address: 71 Melbourne Hill Road WARRANDYTE VIC 3113
+  description: Buildings and works for the construction of a single dwelling
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0026&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-04'
-- council_reference: PVN24/0036
-  address: 20 Major Street DONCASTER EAST VIC 3109
+  date_received: '2025-02-12'
+- council_reference: PLN25/0027
+  address: Wonga Park Reserve 5-7 Launders Avenue WONGA PARK VIC 3115
+  description: Buildings and works for the existing minor sports and recreation facility
+    (redevelopment of a sporting oval and adjoining cricket nets)
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0027&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: PLN25/0028
+  address: 13 Highview Drive DONCASTER VIC 3108
+  description: "(Retrospective) Display of internally illuminated business identification
+    signage"
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0028&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: PLN25/0029
+  address: 6 Manna Bank View DONVALE VIC 3111
+  description: Buildings and works for the construction of a single dwelling
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0029&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: PLN25/0030
+  address: 177-179 Tindals Road DONVALE VIC 3111
+  description: Buildings and works for the construction of verandahs associated with
+    the existing residential aged care facility
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0030&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: PLN25/0031
+  address: 39 Finlayson Street DONCASTER VIC 3108
+  description: Construction of two, two-storey dwellings
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0031&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: PLN25/0032
+  address: 18 Florence Avenue DONVALE VIC 3111
+  description: Construction of two, two-storey dwellings
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0032&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: PVN25/0010
+  address: 1/37 Hertford Road DONCASTER EAST VIC 3109
+  description: Construction of a front fence
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PVN25%2F0010&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-31'
+- council_reference: PVN25/0011
+  address: 22 Baird Street South DONCASTER VIC 3108
   description: Two lot subdivision
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PVN24%2F0036&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PVN25%2F0011&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-02'
-- council_reference: PVN24/0037
-  address: 29 Bellara Street DONCASTER VIC 3108
+  date_received: '2025-02-03'
+- council_reference: PVN25/0012
+  address: 22 Ayr Street DONCASTER VIC 3108
+  description: "Two lot subdivision\r\n\r\nA permit is required under the following
+    clause of the planning scheme:\r\nClause 32.08-3 (General Residential Zone): To
+    subdivide land"
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PVN25%2F0012&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: PVN25/0014
+  address: 18 Pentlowe Avenue TEMPLESTOWE LOWER VIC 3107
+  description: "Two lot subdivision\r\nA permit is required under the following clause
+    of the planning scheme:\r\nClause 32.08-3 (General Residential Zone): Subdivide
+    land"
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PVN25%2F0014&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: PVN25/0015
+  address: 4 Leonard Court DONCASTER VIC 3108
   description: Two lot subdivision
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PVN24%2F0037&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PVN25%2F0015&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-02'
-- council_reference: PVN24/0038
-  address: 19 Wetherby Road DONCASTER VIC 3108
-  description: Two lot subdivision
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PVN24%2F0038&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-11'
+- council_reference: PVN25/0017
+  address: 46 Pound Road WARRANDYTE VIC 3113
+  description: Construct or carry out works for an outdoor swimming pool associated
+    with the existing dwelling
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PVN25%2F0017&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-02'
-- council_reference: PVN24/0039
-  address: 24-26 Arundel Road PARK ORCHARDS VIC 3114
-  description: Buildings and works for the construction of a garage associated with
-    the existing dwelling
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PVN24%2F0039&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-12'
+- council_reference: PVN25/0018
+  address: 6 Sulva Road WARRANDYTE SOUTH VIC 3134
+  description: Buildings and works for alterations and additions to the existing garage
+    associated with the existing dwelling
+  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PVN25%2F0018&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-04'
-- council_reference: PVN24/0040
-  address: 4 Paynters Road WONGA PARK VIC 3115
-  description: Building and works for the construction of a garage associated with
-    the existing dwelling.
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PVN24%2F0040&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-03'
-- council_reference: PVN24/0041
-  address: 3 Larkspur Avenue DONCASTER VIC 3108
-  description: Two lot subdivision
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PVN24%2F0041&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-08'
-- council_reference: PVN24/0042
-  address: 10 Chatsworth Quadrant TEMPLESTOWE LOWER VIC 3107
-  description: Two lot subdivision
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PVN24%2F0042&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-08'
-- council_reference: PVN24/0043
-  address: 39 Webb Street WARRANDYTE VIC 3113
-  description: Buildings and works for the construction of a carport associated with
-    the existing dwelling
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PVN24%2F0043&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-08'
-- council_reference: PVN24/0044
-  address: 14 Inglewood Close DONCASTER EAST VIC 3109
-  description: Two lot subdivision
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PVN24%2F0044&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-15'
-- council_reference: PVN24/0045
-  address: 69 Rosella Street DONCASTER EAST VIC 3109
-  description: Two lot subdivision
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PVN24%2F0045&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-16'
-- council_reference: PVN24/0046
-  address: 147 Tunstall Road DONVALE VIC 3111
-  description: Two lot subdivision
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PVN24%2F0046&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-17'
-- council_reference: PVN24/0047
-  address: 47 Herlihys Road TEMPLESTOWE LOWER VIC 3107
-  description: Two lot subdivision
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PVN24%2F0047&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-17'
-- council_reference: PVN24/0048
-  address: 6 Gissara Court WONGA PARK VIC 3115
-  description: Buildings and works for the construction of a carport associated with
-    the existing dwelling
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PVN24%2F0048&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-17'
-- council_reference: PVN24/0049
-  address: 17 Marianne Way DONCASTER VIC 3108
-  description: Two lot subdivision
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PVN24%2F0049&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-22'
-- council_reference: PVN24/0050
-  address: 10 Sunray Court DONVALE VIC 3111
-  description: Two lot subdivision
-  info_url: https://manningham-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PVN24%2F0050&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-22'
+  date_received: '2025-02-11'
