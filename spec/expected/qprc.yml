@@ -1,311 +1,491 @@
 ---
-- council_reference: CC.2023.0005.A
-  address: 22 Sarah Reef Road WAMBOIN NSW 2620
-  description: Amendment to original construction certificate as building envelope
-    has been extended and garage which has a BAL rating of 12.5 will be moved 2 Meters
-    closer to the cottage so that it is within the new building envelope
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC.2023.0005.A&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+- council_reference: DA.2021.1284.B
+  address: 55 Wiry Dock Road TRALEE NSW 2620
+  description: 'Modification: Modify Stage 2C Subdivision Application and Reconfiguration
+    of the Road Network'
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2021.1284.B&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-24'
-- council_reference: DA.2021.1284.A
-  address: 138 Environa Drive ENVIRONA NSW 2620
-  description: Concept Subdivision DA and Detailed Da For Stage 1 and 2
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2021.1284.A&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-14'
+- council_reference: DA.2023.0128.A
+  address: 52-54 Turallo Terrace BUNGENDORE NSW 2621
+  description: Changes to bathroom layouts
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0128.A&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-16'
-- council_reference: DA.2021.1436.A
-  address: 460 Environa Drive ENVIRONA NSW 2620
-  description: Community Centre to be delivered as part of the S.7.11 requirements
-    for South Jerrabomberra.
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2021.1436.A&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-23'
+- council_reference: DA.2023.0563.A
+  address: 438 Plains Road HOSKINSTOWN NSW 2621
+  description: 'Modification: Relocation of Garage'
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0563.A&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-31'
-- council_reference: DA.2023.0434
-  address: 312 Quists Road MAJORS CREEK NSW 2622
-  description: Add a Studio and Bedroom and bathroom
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0434&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: DA.2023.0637.A
+  address: 91 Mary Street GOOGONG NSW 2620
+  description: "*RETURNED IN PORTAL*\r\nModification - Increase fence by .30m (brick
+    work)"
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0637.A&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-11'
-- council_reference: DA.2023.0435
-  address: 131 Halloran Drive JERRABOMBERRA NSW 2619
-  description: Extending an existing pergola attached to the house that will increase
-    its size from 19 m2 to 44 m2. Note the flooring is hard tiled so will make no
-    difference to runoff (all handled by existing drainage). I will do the building
-    myself once DA approved and certified, so no impact on car parking. No affect
-    on neighbouring houses - fences obscure their view of this part of the house.
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0435&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-28'
+- council_reference: DA.2023.0637.B
+  address: 91 Mary Street GOOGONG NSW 2620
+  description: "*REJECTED IN PORTAL*\r\nAlteration & Additions to fence by.30m"
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0637.B&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-11'
-- council_reference: DA.2023.0436
-  address: 87 Wyoming Road BYWONG NSW 2621
-  description: New single storey residence on rural block.
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0436&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-03'
+- council_reference: DA.2024.0138.A
+  address: Alexander Playing Fields 14 Heazlett Street GOOGONG NSW 2620
+  description: "*REJECTED IN PORTAL*\r\nModification to DA.2024.0138. No.5 RFS Requirements;
+    No.10 Storm water Disposal Requirements; No.11 On-site Detention System Design"
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2024.0138.A&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-14'
-- council_reference: DA.2023.0437
-  address: 17 Rosella Place BUNGENDORE NSW 2621
-  description: A new single level residence with 5 bedrooms, 3 bathrooms, separate
-    living areas, outdoor area, in ground pool and free standing metal garage
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0437&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-24'
+- council_reference: DA.2024.0138.B
+  address: Alexander Playing Fields 14 Heazlett Street GOOGONG NSW 2620
+  description: 'Modification: Change of Consent Conditions 5; 10 and 11'
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2024.0138.B&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-15'
-- council_reference: DA.2023.0438
-  address: 25 Blackall Avenue CRESTWOOD NSW 2620
-  description: Demolition of existing dwelling. Construction of new single storey
-    dwelling.
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0438&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-07'
+- council_reference: DA.2024.0253.A
+  address: 39 Halliday Street GOOGONG NSW 2620
+  description: Modification of rear Retaining Wall
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2024.0253.A&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-15'
-- council_reference: DA.2023.0439
-  address: 138 Environa Drive ENVIRONA NSW 2620
-  description: Please refer to the SEE
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0439&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-12'
+- council_reference: DA.2025.0024
+  address: Balmain View LARBERT NSW 2622
+  description: Construction of a dwelling house
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0024&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-16'
-- council_reference: DA.2023.0440
-  address: 915 Mount Fairy Road MOUNT FAIRY NSW 2580
-  description: Installation of manufactured home for a principal dwelling and manufactured
-    module for farm stay accommodation
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0440&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-23'
+- council_reference: DA.2025.0025
+  address: 122 Crawford Street QUEANBEYAN NSW 2620
+  description: Change of use; Beautician shop
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0025&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-16'
-- council_reference: DA.2023.0441
-  address: 47 Shinglehouse Road BYWONG NSW 2621
-  description: Change of use to be an event venue for weddings and other events. The
-    property, including house, will be hired out for the weekend. Food and drink will
-    not provided by the venue, only the space for the gathering. Portaloos will be
-    used, so there is no change to sewage requirements. The maximum number of cars
-    to be allowed at the venue is 25. Noise rules will be written into the contract
-    to ensure all amplified music occur only indoors, and will be turned off by 10:30pm.
-    A new deck will be constructed.
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0441&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-24'
+- council_reference: DA.2025.0026
+  address: 119 Wallace Street BRAIDWOOD NSW 2622
+  description: "*REJECTED IN PORTAL* FEES\r\nSignage"
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0026&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-16'
-- council_reference: DA.2023.0442
-  address: 9 Bowen Place QUEANBEYAN WEST NSW 2620
-  description: Boundary adjustment between lot 10 and 11 DP 1219458 to allow more
-    efficient use of land and one to two lot subdivision of lot 10 DP 1219458
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0442&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-24'
+- council_reference: DA.2025.0027
+  address: 9 Speargrass Road TRALEE NSW 2620
+  description: "**RETURNED 28/1/25*** insufficient documents\r\nConstruction of a
+    single-storey dwelling, including 4 bedrooms and double garage."
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0027&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-18'
-- council_reference: DA.2023.0443
-  address: 13 Maidenhair Road TRALEE NSW 2620
-  description: Construction of a double storey dwelling
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0443&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-25'
+- council_reference: DA.2025.0028
+  address: 1109 Farringdon Road FARRINGDON NSW 2622
+  description: Use of shed for home business purposes
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0028&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-19'
-- council_reference: DA.2023.0444
-  address: 500 Royalla Drive ROYALLA NSW 2620
-  description: Extensions to existing steel shed. Existing shed will remain and be
-    extended in two (2) directions using identical materials and construction to make
-    it larger.
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0444&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-26'
+- council_reference: DA.2025.0029
+  address: 18 Glebe Avenue QUEANBEYAN NSW 2620
+  description: Construction of attached dual occupancy housing and use of a room for
+    home business
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0029&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-20'
-- council_reference: DA.2023.0445
-  address: 139 Monaro Street QUEANBEYAN NSW 2620
-  description: Alterations and additions to an existing shopping centre including
-    replacement of existing mechanical and refrigeration plant equipment to the rooftop,
-    the erection of new retail signage associated with the Coles brand, and the construction
-    of a new ‘Click and Collect’ location within the existing carpark at Riverside
-    Plaza.
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0445&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-28'
+- council_reference: DA.2025.0030
+  address: 192 Little River Road BRAIDWOOD NSW 2622
+  description: Construction of a dwelling house
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0030&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-22'
-- council_reference: DA.2023.0446
-  address: 419 Weeroona Drive WAMBOIN NSW 2620
-  description: Portion existing unapproved enclosed pergola removed and rebuilt/ extended
-    with new raked roof over. New kitchen built in new extension. The other portion
-    of bed 4 and laundry that connect into the enclosed pergola to be retained but
-    included in this DA for approval. New proposed deck out from dining room and lounge
-    room Internal renovation to the majority of the house with all windows being replaced
-    - new external bathroom on the lower floor. no int access Proposed pool to the
-    rear of the property
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0446&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-28'
+- council_reference: DA.2025.0031
+  address: 28 Surveyor Street QUEANBEYAN NSW 2620
+  description: Demolition of dwelling house and construction of dwelling house
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0031&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-23'
-- council_reference: DA.2023.0447
-  address: 57 Briand Crescent GOOGONG NSW 2620
-  description: construction of a new 2 storey dwelling.
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0447&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-28'
+- council_reference: DA.2025.0032
+  address: Balmain View LARBERT NSW 2622
+  description: Construction of a dwelling house, shed and pool
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0032&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-23'
-- council_reference: DA.2023.0448
-  address: 109 Monaro Street QUEANBEYAN NSW 2620
-  description: Alterations and additions to restaurant and signage
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0448&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-29'
+- council_reference: DA.2025.0033
+  address: 12 Petralia Street GREENLEIGH NSW 2620
+  description: Construction of swimming pool
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0033&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-23'
-- council_reference: DA.2023.0449
-  address: 21 Lanham Street GOOGONG NSW 2620
-  description: New two storey residence with attached garage.
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0449&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-29'
+- council_reference: DA.2025.0034
+  address: 5 Mowenbah Crescent GOOGONG NSW 2620
+  description: Construction of dwelling house
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0034&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-24'
-- council_reference: DA.2023.0450
-  address: 1319 Norton Road WAMBOIN NSW 2620
-  description: Double steel frame horse shelter, 12 x 3.8 square meters. 100x100x3
-    RHS construction with 150x150x2 Groove Tube roof trusses. Colorbond (Pale Eucalypt)
-    clad roof and rear wall with gutter and down-pipe, roof height 2.4m. Front and
-    side elevations open with gate access. Internal marine ply cladding of rear wall
-    for horse safety. Internal automatic drinking water system. At least 5 meters
-    from closest boundary. I have discussed with neighbour and plan to screen from
-    neighbours with a low photinia hedge.
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0450&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-29'
+- council_reference: DA.2025.0035
+  address: 2 Monaro Street QUEANBEYAN NSW 2620
+  description: Change of use to food and drink premises
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0035&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-25'
-- council_reference: DA.2023.0451
-  address: 48 Bidges Road SUTTON NSW 2620
-  description: 17m*7m Shed. See attached plans. Please note we were not aware we needed
-    approval for a shed otherwise it would have been included on our current DA
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0451&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-30'
+- council_reference: DA.2025.0036
+  address: 726 Norton Road WAMBOIN NSW 2620
+  description: Construction of a shed
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0036&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-26'
-- council_reference: DA.2023.0452
-  address: Majara Street BUNGENDORE NSW 2621
-  description: Painting of external weatherboards and new front picket fence
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0452&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-31'
+- council_reference: DA.2025.0037
+  address: 2 Petralia Street GREENLEIGH NSW 2620
+  description: Construction of a dwelling house
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0037&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-28'
-- council_reference: DA.2023.0453
-  address: 6900 Araluen Road REIDSDALE NSW 2622
-  description: Multi Hip Patio to cover all existing decks
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0453&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-31'
+- council_reference: DA.2025.0038
+  address: 15 Victory Street BRAIDWOOD NSW 2622
+  description: "*REJECTED IN PORTAL*\r\nExtend veranda; Build new entrance; Shed"
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0038&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-30'
-- council_reference: DA.2023.0454
-  address: 460 Weeroona Drive WAMBOIN NSW 2620
-  description: Proposed 17.05m x 16.0m Shed - Ancillary to the existing dwelling
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0454&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-03'
+- council_reference: DA.2025.0039
+  address: 436 Balmain View MAYFIELD NSW 2622
+  description: Construction of Shed
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0039&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-30'
-- council_reference: DA.2023.0455
-  address: 4 Brothers Street GOOGONG NSW 2620
-  description: Construction of a new single storey dwelling.
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0455&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-03'
+- council_reference: DA.2025.0040
+  address: 37 McCauley Avenue GOOGONG NSW 2620
+  description: Construction of dwelling house
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0040&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-30'
-- council_reference: DA.2023.0456
-  address: 138 Environa Drive ENVIRONA NSW 2620
-  description: A subdivision of the site into 6 lots and for the built form for 6
-    group homes and a community building on proposed Lot 3. Kindly refer to the SEE
-    lodged in support of this application for a full description of the proposed development
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0456&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-03'
+- council_reference: DA.2025.0041
+  address: 1414 Collector Road CURRAWANG NSW 2580
+  description: Construction of dwelling house
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0041&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-31'
-- council_reference: DA.2023.0457
-  address: 29 Melicope Street TRALEE NSW 2620
-  description: Construction of a two storey dwelling
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0457&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-03'
+- council_reference: DA.2025.0042
+  address: 1446 Federal Highway Service Road SUTTON NSW 2620
+  description: Alterations and additions to existing dwelling house and swimming pool
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0042&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-09-01'
-- council_reference: DA.2023.0458
-  address: 14 Park Lane BRAIDWOOD NSW 2622
-  description: New installation of wood pellet heater
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0458&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: DA.2025.0043
+  address: 19 Dixon Place JERRABOMBERRA NSW 2619
+  description: Construction of Deck and Carport
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0043&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-09-01'
-- council_reference: DA.2023.0459
-  address: 32 Hereford Street BUNGENDORE NSW 2621
-  description: Installation of a swim spa and deck
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0459&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: DA.2025.0044
+  address: 14 Staunton Place GOOGONG NSW 2620
+  description: "*Returned in Portal*\r\nConstruction of Proposed Art Studio and attached
+    Deck"
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0044&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-09-02'
-- council_reference: DA.2023.0460
-  address: 156 Mount Pleasant Drive GOOGONG NSW 2620
-  description: Construction of a single story, weatherboard house dwelling with related
-    landscaping
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0460&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: DA.2025.0045
+  address: 74 Wickerslack Lane GOOGONG NSW 2620
+  description: Continuous use for Dwelling
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0045&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-09-04'
-- council_reference: DA.2023.0461
-  address: 95 Crawford Street QUEANBEYAN NSW 2620
-  description: Demolition of existing Building, construction of new 20 room co-living
-    facility with common rooms and related landscaping and parking.
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0461&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: DA.2025.0046
+  address: 7 Aspen Rise JERRABOMBERRA NSW 2619
+  description: "*RETURNED IN PORTAL*\r\nRenovate some of the exising residence, construction
+    of a new deck and pergole, new porch and extension to the front of the existing
+    residence"
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0046&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-09-04'
-- council_reference: DA.2023.0462
-  address: 54 Forster Street BUNGENDORE NSW 2621
-  description: Demolish existing shed and construct new Childcare Centre and Outside
-    School Hours Care Centre. retain existing house which is to be used for staff
-    accomodation. New driveway and parking and associated landscaping.
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0462&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: DA.2025.0047
+  address: 24 Taylor Place GREENLEIGH NSW 2620
+  description: Construction of a Shed
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0047&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-09-06'
-- council_reference: DA.2023.0463
-  address: 67 McCauley Avenue GOOGONG NSW 2620
-  description: Construction of single dwellling and related landscaping
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2023.0463&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: DA.2025.0048
+  address: 4 Morgan Place KARABAR NSW 2620
+  description: "*RETURNED IN PORTAL*\r\nConversion of current brick second garage
+    to living space. No change in GFA."
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0048&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-09-06'
-- council_reference: MA.2023.0063
-  address: 5 McMahon Drive BUNGENDORE NSW 2621
-  description: MODIFICATION TO THE EXISTING approved CHILDCARE (DA.2017.286)
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA.2023.0063&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: DA.2025.0049
+  address: 78 Wiry Dock Road TRALEE NSW 2620
+  description: Construction of a dwelling house
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0049&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-11'
-- council_reference: MA.2023.0064
-  address: 10 Hyland Drive BUNGENDORE NSW 2621
-  description: Construction of a 9 x 5m shed
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA.2023.0064&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: DA.2025.0050
+  address: 91 Mary Street GOOGONG NSW 2620
+  description: Extension of current Fence - Vary DCP
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0050&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-14'
-- council_reference: MA.2023.0065
-  address: 8 MacKenzie Road ROYALLA NSW 2620
-  description: Detached garage, barn for horse stables and pergolas
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA.2023.0065&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-07'
+- council_reference: DA.2025.0052
+  address: 31 Saleyards Lane BRAIDWOOD NSW 2622
+  description: "*RETURNED IN PORTAL*\r\n3-Lot Subdivision - Torrens Tiitle"
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0052&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-15'
-- council_reference: MA.2023.0067
-  address: 460 Environa Drive TRALEE NSW 2620
-  description: Community Centre to be delivered as part of the S711 requirements for
-    South Jerrabomberra.
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA.2023.0067&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-11'
+- council_reference: DA.2025.0053
+  address: 6 Frederick Street CRESTWOOD NSW 2620
+  description: Strata Subdivision of approved Dual Occupancy
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0053&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-16'
-- council_reference: MA.2023.0068
-  address: Pre School 66 Wilson Street BRAIDWOOD NSW 2622
-  description: Allowing another 6 months post occupancy for sewer upgrade condition.
-    Removing landscaping from the approval (except for the path and shade structures).
-    Amending fencing height for child safety.
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA.2023.0068&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-12'
+- council_reference: DA.2025.0054
+  address: 10 Cooradigbee Street GOOGONG NSW 2620
+  description: Construction of two storey dwelling house
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0054&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-17'
-- council_reference: MA.2023.0069
-  address: 1566 Federal Highway Service Road SUTTON NSW 2620
-  description: 2-lot subdivision
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA.2023.0069&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-12'
+- council_reference: DA.2025.0055
+  address: 4 Morgan Place KARABAR NSW 2620
+  description: "**RETURNED** \r\n\r\nConversion of current brick second garage to
+    living space. No change in GFA."
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0055&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-18'
-- council_reference: MA.2023.0070
-  address: 4 Glebe Avenue QUEANBEYAN NSW 2620
-  description: Carport
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA.2023.0070&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-12'
+- council_reference: DA.2025.0056
+  address: 4 Horton Street GOOGONG NSW 2620
+  description: "**RETURNED 14/02/25****\r\nConstruction of new single level, 4 bedroom
+    dwelling with attached double garage"
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0056&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-26'
-- council_reference: MA.2023.0071
-  address: 7 Elrington Street BRAIDWOOD NSW 2622
-  description: 122 Lot Subdivision
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA.2023.0071&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-13'
+- council_reference: DA.2025.0057
+  address: 27 Montague Place GOOGONG NSW 2620
+  description: "**RETURNED** \r\nExtension and renovation to existing residence"
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0057&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-28'
-- council_reference: MA.2023.0073
-  address: 15 Chimney Rise GOOGONG NSW 2620
-  description: Construction of single storey dwelling
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA.2023.0073&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-14'
+- council_reference: DA.2025.0058
+  address: 44 Unthank Street GOOGONG NSW 2620
+  description: Construction of dwelling with attached garage
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0058&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-31'
-- council_reference: MA.2023.0075
-  address: 8 Nelson Terrace BUNGENDORE NSW 2621
-  description: construction of a single storey dwelling with 5 bedrooms, 2 bathrooms,
-    living, kitchen and double garage.
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA.2023.0075&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-14'
+- council_reference: DA.2025.0059
+  address: 176 Bombay Road BRAIDWOOD NSW 2622
+  description: "**RETURNED*** \r\nConstruction of shed;"
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0059&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-09-04'
-- council_reference: RVM.2023.004
-  address: 22 Sarah Reef Road WAMBOIN NSW 2620
-  description: Variation of Building Envelope
-  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RVM.2023.004&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-14'
+- council_reference: DA.2025.0060
+  address: 33 Red Hill Road MAJORS CREEK NSW 2622
+  description: Construction of new dwelling and consolidation of two lots;
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0060&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-28'
+  date_received: '2025-02-16'
+- council_reference: DA.2025.0061
+  address: 15 Victory Street BRAIDWOOD NSW 2622
+  description: Extend veranda and Build new entrance
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0061&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: DA.2025.0062
+  address: 245 Norton Road WAMBOIN NSW 2620
+  description: "**RETURNED** 17/02/25\r\n\r\nRemodeling of existing house internally.
+    Small section of external wall on the western elevation (kitchen zone) to be demolished
+    and rebuilt to align with existing western walls. House and garage to be reroofed,
+    new roof to include insulated condensation blanket bringing the roofing up to
+    code."
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0062&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: DA.2025.0063
+  address: 94 Red Box Place ROYALLA NSW 2620
+  description: Continuous Use - dual occupancy
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0063&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: DA.2025.0064
+  address: 19 Jumping Creek Road GREENLEIGH NSW 2620
+  description: "**RETURNED** 18/02/2025\r\nConstruction of a Single storey dwelling"
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0064&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: DA.2025.0065
+  address: 4 Horton Street GOOGONG NSW 2620
+  description: Construction of single dwelling
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0065&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: DA.2025.0066
+  address: 31 Trail Place ROYALLA NSW 2620
+  description: Construction of a secondary residence;
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0066&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: DA.2025.0067
+  address: 2/43 Hopkins Street BUNGENDORE NSW 2621
+  description: Construction of Manufactured Home;
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0067&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: DA.2025.0068
+  address: 340 Harolds Cross Road CAPTAINS FLAT NSW 2623
+  description: Construction of a Double Storey Dwelling
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA.2025.0068&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: MA.2025.0014
+  address: 54 Mooneys Road CURRAWANG NSW 2580
+  description: "*RETURNED IN PORTAL*\r\nConstruction of a single storey dwelling."
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MA.2025.0014&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-02'
+- council_reference: RVM.2025.001
+  address: 67 Warramunga Close WAMBOIN NSW 2620
+  description: RJB:AKB:244361
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RVM.2025.001&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: TA.2025.0027
+  address: 31 Halloran Drive JERRABOMBERRA NSW 2619
+  description: Tree Pruning
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TA.2025.0027&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-23'
+- council_reference: TA.2025.0028
+  address: 52 Day Circuit BUNGENDORE NSW 2621
+  description: Tree Removal
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TA.2025.0028&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-23'
+- council_reference: TA.2025.0029
+  address: 9 Coolebah Crescent KARABAR NSW 2620
+  description: Tree Removal
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TA.2025.0029&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-24'
+- council_reference: TA.2025.0030
+  address: 16 Johanna Moore Avenue JERRABOMBERRA NSW 2619
+  description: Tree Pruning
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TA.2025.0030&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-24'
+- council_reference: TA.2025.0031
+  address: 16 Woodger Parade KARABAR NSW 2620
+  description: Tree Removal
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TA.2025.0031&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-25'
+- council_reference: TA.2025.0032
+  address: 5/78 Uriarra Road CRESTWOOD NSW 2620
+  description: Tree Removal
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TA.2025.0032&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-27'
+- council_reference: TA.2025.0033
+  address: 28 Atkinson Street QUEANBEYAN EAST NSW 2620
+  description: Tree Removal
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TA.2025.0033&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-27'
+- council_reference: TA.2025.0034
+  address: Doncaster Hotel 1 Park Lane BRAIDWOOD NSW 2622
+  description: Tree Pruning
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TA.2025.0034&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-28'
+- council_reference: TA.2025.0035
+  address: 50 Atkinson Street QUEANBEYAN EAST NSW 2620
+  description: "03/02 DZ - Customer came to the front counter to inquiry about this
+    request. Please call customer 6297 9007\r\n\r\nTree Pruning"
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TA.2025.0035&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: TA.2025.0036
+  address: 47 Erin Street QUEANBEYAN NSW 2620
+  description: Tree Pruning
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TA.2025.0036&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: TA.2025.0037
+  address: 58 Wanna Wanna Road CARWOOLA NSW 2620
+  description: Tree Removal
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TA.2025.0037&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-06'
+- council_reference: TA.2025.0038
+  address: 6 Hazelwood Street KARABAR NSW 2620
+  description: Tree Removal
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TA.2025.0038&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-06'
+- council_reference: TA.2025.0039
+  address: 2 Booth Street QUEANBEYAN EAST NSW 2620
+  description: Tree Removal
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TA.2025.0039&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: TA.2025.0040
+  address: 19 Eyre Street BUNGENDORE NSW 2621
+  description: Tree Removal
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TA.2025.0040&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-09'
+- council_reference: TA.2025.0041
+  address: 2 Tully Place JERRABOMBERRA NSW 2619
+  description: Tree Removal
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TA.2025.0041&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: TA.2025.0042
+  address: 55 Collett Street QUEANBEYAN NSW 2620
+  description: Tree Removal
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TA.2025.0042&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: TA.2025.0043
+  address: 10 Snow Gum Place JERRABOMBERRA NSW 2619
+  description: Tree Removal
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TA.2025.0043&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: TA.2025.0044
+  address: 23 Burbong Avenue CARWOOLA NSW 2620
+  description: Tree Pruning
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TA.2025.0044&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: TA.2025.0045
+  address: 12/12 Mulloon Street QUEANBEYAN EAST NSW 2620
+  description: Tree Removal
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TA.2025.0045&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-15'
+- council_reference: TA.2025.0046
+  address: 124 Gibraltar Street BUNGENDORE NSW 2621
+  description: Tree Removal
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TA.2025.0046&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-16'
+- council_reference: TA.2025.0047
+  address: 14 Silky Oak Circle JERRABOMBERRA NSW 2619
+  description: Tree Pruning
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TA.2025.0047&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: TA.2025.0048
+  address: 19 Monaro Street QUEANBEYAN NSW 2620
+  description: Tree Pruning
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TA.2025.0048&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: TA.2025.0049
+  address: 6 Gregory Street QUEANBEYAN WEST NSW 2620
+  description: Tree Removal
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TA.2025.0049&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: TA.2025.0050
+  address: 49 Knox Close CARWOOLA NSW 2620
+  description: Tree Pruning
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TA.2025.0050&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: TA.2025.0051
+  address: 13 Gallagher Crescent WAMBOIN NSW 2620
+  description: Tree Pruning
+  info_url: https://qprc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=TA.2025.0051&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
