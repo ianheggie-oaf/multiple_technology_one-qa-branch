@@ -109,7 +109,7 @@ module TechnologyOneScraper
       period: "L28"
     },
     ryde: {
-      url: "https://eservices.ryde.nsw.gov.au/T1PRProd/WebApps/eProperty",
+      url: "https://ryde-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
       period: "TM",
       webguest: "COR.P1.WEBGUEST"
     },
