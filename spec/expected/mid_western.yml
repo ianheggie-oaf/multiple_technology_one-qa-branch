@@ -1,167 +1,124 @@
 ---
-- council_reference: DA0002/2024
-  address: 79 White Rock Road RYLSTONE NSW 2849
-  description: PAN-347885 - Swimming Pool @ 79 White Rock Road RYLSTONE NSW 2849
-  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0002%2F2024&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+- council_reference: DA0148/2025
+  address: 11B Industrial Avenue MUDGEE NSW 2850
+  description: PAN-458782 - Plant Nursery @ 11B Industrial Avenue MUDGEE NSW 2850
+  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0148%2F2025&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-09-01'
-- council_reference: DA0023/2024
-  address: 36A Sydney Road MUDGEE NSW 2850
-  description: PAN-348000 - Industrial Shed – Light Industry @ 36A Sydney Road MUDGEE
+  date_received: '2025-01-27'
+- council_reference: DA0149/2025
+  address: 61 Knox Crescent CAERLEON NSW 2850
+  description: PAN-502467 - Dwelling @ 61 Knox Crescent CAERLEON NSW 2850
+  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0149%2F2025&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-28'
+- council_reference: DA0151/2025
+  address: 21 Webster Street BOMBIRA NSW 2850
+  description: PAN-503394 - Dwelling and Shed @ 21 Webster Street BOMBIRA NSW 2850
+  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0151%2F2025&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-28'
+- council_reference: DA0153/2025
+  address: 105 Lewis Street MUDGEE NSW 2850
+  description: PAN-504354 - Demolition and Construction of Shed @ 105 Lewis Street
+    MUDGEE NSW 2850
+  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0153%2F2025&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: DA0154/2025
+  address: 10 Knox Crescent CAERLEON NSW 2850
+  description: PAN-505100 - Detached Shed @ 10 Knox Crescent CAERLEON NSW 2850
+  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0154%2F2025&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: DA0155/2025
+  address: 189 Montaza Road TALLAWANG NSW 2852
+  description: PAN-505323 - Dwelling House (Manufactured Home) @ 189 Montaza Road
+    TALLAWANG NSW 2852
+  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0155%2F2025&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: DA0157/2025
+  address: 28 Webster Street BOMBIRA NSW 2850
+  description: PAN-505703 - Dwelling @ 28 Webster Street BOMBIRA NSW 2850
+  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0157%2F2025&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-31'
+- council_reference: DA0158/2025
+  address: 3 Knott Place CAERLEON NSW 2850
+  description: PAN-505852 - Self Storage Units @ 3 Knott Place CAERLEON NSW 2850
+  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0158%2F2025&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: DA0160/2025
+  address: 8 Bawden Road MUDGEE NSW 2850
+  description: PAN-506216 - Alterations, Additions and Inground Swimming Pool @ 8
+    Bawden Road MUDGEE NSW 2850
+  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0160%2F2025&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: DA0162/2025
+  address: 784 Castlereagh Highway BURRUNDULLA NSW 2850
+  description: PAN-503442 - Alterations & Additions @ 784 Castlereagh Highway BURRUNDULLA
     NSW 2850
-  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0023%2F2024&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0162%2F2025&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-18'
-- council_reference: DA0026/2024
-  address: 68 Short Street MUDGEE NSW 2850
-  description: PAN-348321 - Torrens Title Subdivision ( 1 into 9 lots) @ 68 Short
-    Street MUDGEE NSW 2850
-  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0026%2F2024&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: DA0163/2025
+  address: 1 First Street MUDGEE NSW 2850
+  description: PAN-507258 - Detached Shed @ 1 First Street MUDGEE NSW 2850
+  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0163%2F2025&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-15'
-- council_reference: DA0038/2024
-  address: 593 Cope Road STUBBO NSW 2852
-  description: PAN-354618 - Dwelling @ 593 Cope Road STUBBO NSW 2852
-  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0038%2F2024&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-17'
-- council_reference: DA0039/2024
-  address: 13 Donoghue Street KANDOS NSW 2848
-  description: PAN-355627 - Manufactured home @ 13 Donoghue Street KANDOS NSW 2848
-  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0039%2F2024&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-23'
-- council_reference: DA0040/2024
-  address: 390 Yarrawonga Road YARRAWONGA NSW 2850
-  description: PAN-355643 - Alterations and additions to an existing dwelling to erect
-    an attached dual occupancy @ 390 Yarrawonga Road YARRAWONGA NSW 2850
-  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0040%2F2024&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-18'
-- council_reference: DA0044/2024
-  address: Wanda Vale 772 Black Willow Road HARGRAVES NSW 2850
-  description: PAN-356861 - Farm Stay Accommodation @ Wanda Vale 772 Black Willow
-    Road HARGRAVES NSW 2850
-  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0044%2F2024&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-15'
-- council_reference: DA0046/2024
-  address: 36 Lesters Lane CULLENBONE NSW 2850
-  description: PAN-351300 - Shed @ 36 Lesters Lane CULLENBONE NSW 2850
-  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0046%2F2024&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-15'
-- council_reference: DA0047/2024
-  address: 321 Ridge Road COOKS GAP NSW 2850
-  description: PAN-357245 - Dwelling @ 321 Ridge Road COOKS GAP NSW 2850
-  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0047%2F2024&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-28'
-- council_reference: DA0048/2024
-  address: 13 Cook Place MUDGEE NSW 2850
-  description: PAN-357309 - Demolition and Boundary Adjustment @ 13 Cook Place MUDGEE
+  date_received: '2025-02-06'
+- council_reference: DA0164/2025
+  address: 18 Margaret Lane CAERLEON NSW 2850
+  description: PAN-504766 - Dwelling and Retaining Walls @ 18 Margaret Lane CAERLEON
     NSW 2850
-  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0048%2F2024&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0164%2F2025&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-15'
-- council_reference: DA0050/2024
-  address: Gulgong Bowling Club 18 Bulga Street GULGONG NSW 2852
-  description: PAN-347687 - Pylon Sign @ Gulgong Bowling Club 18 Bulga Street GULGONG
-    NSW 2852
-  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0050%2F2024&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: DA0165/2025
+  address: 50 Flirtation Hill Lane GULGONG NSW 2852
+  description: PAN-507570 - Alterations & Additions & Pool @ 50 Flirtation Hill Lane
+    GULGONG NSW 2852
+  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0165%2F2025&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-28'
-- council_reference: DA0053/2024
-  address: Chulumani 971 Green Gully Road BOCOBLE NSW 2850
-  description: PAN-358823 - Retrospective approval for second dwelling (Dual Occupancy)
-    and additions @ Chulumani 971 Green Gully Road BOCOBLE NSW 2850
-  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0053%2F2024&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: DA0167/2025
+  address: 7 Henry Bayly Drive MUDGEE NSW 2850
+  description: PAN-508429 - Torrens Title Subdivision 2 into 3 @ 7 Henry Bayly Drive
+    MUDGEE NSW 2850
+  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0167%2F2025&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-09-04'
-- council_reference: DA0054/2024
-  address: 38 Lewis Street MUDGEE NSW 2850
-  description: PAN-358810 - Secondary Dwelling @ 38 Lewis Street MUDGEE NSW 2850
-  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0054%2F2024&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-18'
+- council_reference: DA0168/2025
+  address: 10 Coomber Street RYLSTONE NSW 2849
+  description: PAN-508580 - Detached Shed @ 10 Coomber Street RYLSTONE NSW 2849
+  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0168%2F2025&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-18'
-- council_reference: DA0058/2024
-  address: 16 Saleyards Lane MUDGEE NSW 2850
-  description: PAN-359298 - Shed @ 16 Saleyards Lane MUDGEE NSW 2850
-  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0058%2F2024&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-11'
+- council_reference: DA0170/2025
+  address: Westcourt 1012 Henry Lawson Drive EURUNDEREE NSW 2850
+  description: PAN-506441 - Alterations, Additions and Carport @ Westcourt 1012 Henry
+    Lawson Drive EURUNDEREE NSW 2850
+  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0170%2F2025&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-15'
-- council_reference: DA0064/2024
-  address: 983 Wollar Road STONY CREEK NSW 2850
-  description: PAN-360202 - Subdivision ( 4 into 3 lots) @ 983 Wollar Road STONY CREEK
-    NSW 2850
-  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0064%2F2024&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-10'
+- council_reference: DA0172/2025
+  address: 14 Industrial Avenue MUDGEE NSW 2850
+  description: PAN-509101 - Change of Use to Vehicle Repair Station and Signage @
+    14 Industrial Avenue MUDGEE NSW 2850
+  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0172%2F2025&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-15'
-- council_reference: DA0067/2024
-  address: Mudgee Junior Rugby League Hall & Amenities 89A Lewis Street MUDGEE NSW
-    2850
-  description: PAN-360707 - Subdivision Part Road Closure @ 89A Lewis Street MUDGEE
-    NSW 2850
-  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0067%2F2024&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-17'
+- council_reference: DA0173/2025
+  address: 41 Redbank Road MUDGEE NSW 2850
+  description: PAN-509286 - Demolition of Dwelling @ 41 Redbank Road MUDGEE NSW 2850
+  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0173%2F2025&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-22'
-- council_reference: DA0070/2024
-  address: 48 Old Ilford Road ILFORD NSW 2850
-  description: PAN-362055 - Environmental Facility @ 48 Old Ilford Road ILFORD NSW
-    2850
-  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0070%2F2024&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-14'
+- council_reference: DA0174/2025
+  address: 24 Peru Lane GULGONG NSW 2852
+  description: PAN-509914 - Dwelling (Shed House) @ 24 Peru Lane GULGONG NSW 2852
+  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0174%2F2025&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-28'
-- council_reference: DA0071/2024
-  address: 80 Court Street MUDGEE NSW 2850
-  description: PAN-362131 - Detached Shed @ 80 Court Street MUDGEE NSW 2850
-  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0071%2F2024&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-24'
-- council_reference: DA0072/2024
-  address: 10 Harvey Street BOMBIRA NSW 2850
-  description: PAN-361623 - Retaining Wall and Earthworks @ 10 Harvey Street BOMBIRA
-    NSW 2850
-  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0072%2F2024&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-24'
-- council_reference: DA0074/2024
-  address: 26 Hosking Street CAERLEON NSW 2850
-  description: PAN-360125 - Dwelling @ 26 Hosking Street CAERLEON NSW 2850
-  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0074%2F2024&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-01'
-- council_reference: DA0083/2024
-  address: 14 Mellon Street RYLSTONE NSW 2849
-  description: PAN-357010 - Shed @ 14 Mellon Street RYLSTONE NSW 2849
-  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0083%2F2024&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-31'
-- council_reference: DA0084/2024
-  address: 521 Ulan Road EURUNDEREE NSW 2850
-  description: PAN-364537 - Dwelling and Cellar Door Premises @ 521 Ulan Road EURUNDEREE
-    NSW 2850
-  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0084%2F2024&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-04'
-- council_reference: DA0086/2024
-  address: 5B Sydney Road MUDGEE NSW 2850
-  description: PAN-364246 - Two Light Industrial Units @ 5B Sydney Road MUDGEE NSW
-    2850
-  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0086%2F2024&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-04'
-- council_reference: DA0368/2023
-  address: Meramie Grove Estate 38 Hill End Road CAERLEON NSW 2850
-  description: PAN-328963 - General Industry @ Meramie 38 Hill End Road CAERLEON NSW
-    2850
-  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0368%2F2023&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-21'
-- council_reference: DA0400/2023
-  address: 24 Cox Street MUDGEE NSW 2850
-  description: PAN-343002 - Multi-Dwelling Housing (5 Dwellings) @ 24 Cox Street MUDGEE
-    NSW 2850
-  info_url: https://midwestern-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0400%2F2023&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-15'
+  date_received: '2025-02-14'

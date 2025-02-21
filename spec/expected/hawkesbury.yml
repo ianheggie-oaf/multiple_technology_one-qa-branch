@@ -1,384 +1,714 @@
 ---
-- council_reference: DA0321/23
-  address: 35 Serpentine Lane BOWEN MOUNTAIN NSW 2753
-  description: Pending Lodgement - PAN-360413 - Dwelling House - Alterations & Additions
-    and Construction of a Swimming Pool and Deck
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0321%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+- council_reference: CC0002/25
+  address: 1 Origma Street VINEYARD NSW 2765
+  description: Construction of a two storey dwelling house and retaining walls
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0002%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-11'
-- council_reference: DA0322/23
-  address: 7 Elizabeth Street NORTH RICHMOND NSW 2754
-  description: Signage
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0322%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-23'
+- council_reference: CC0003/25
+  address: 22 Trident Avenue VINEYARD NSW 2765
+  description: Construction of a two storey dwelling house and retaining walls
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0003%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-12'
-- council_reference: DA0323/23
-  address: 449 Blaxlands Ridge Road BLAXLANDS RIDGE NSW 2758
-  description: Pending Lodgement - PAN-360478 - Dwelling House - Construction of a
-    Dwelling House
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0323%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-23'
+- council_reference: CC0004/25
+  address: 384 Windsor Street RICHMOND NSW 2753
+  description: Construction of a Peal of Bells and Remedial Structural Works
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0004%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-12'
-- council_reference: DA0324/23
-  address: 1 Alma Road OAKVILLE NSW 2765
-  description: Dwelling House - Construction of a Dwelling House
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0324%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-29'
+- council_reference: CC0005/25
+  address: 2 Origma Street VINEYARD NSW 2765
+  description: Construction of a two storey dwelling house and retaining walls
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0005%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-14'
-- council_reference: DA0325/23
-  address: 51 Flying Fox Circuit OAKVILLE NSW 2765
-  description: Pending Lodgement - PAN-360906 - Dwelling House - Construction of a
-    Dwelling House
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0325%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: CC0006/25
+  address: 12 Taylor Street VINEYARD NSW 2765
+  description: Construction of a two storey dwelling house and retaining walls - Lot
+    118 Taylor Street VINEYARD
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0006%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-14'
-- council_reference: DA0326/23
-  address: 240 Commercial Road VINEYARD NSW 2765
-  description: Construction of a double storey dwelling.
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0326%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-11'
+- council_reference: CC0007/25
+  address: 284F Commercial Road VINEYARD NSW 2765
+  description: Construction of a two storey dwelling house and retaining walls - Lot
+    119 Taylor Street VINEYARD
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0007%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-15'
-- council_reference: DA0327/23
-  address: 819 Tizzana Road SACKVILLE NSW 2756
-  description: Pending Lodgement - PAN-360951 - Structure Ancillary to Dwelling -
-    Swimming Pool
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0327%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-11'
+- council_reference: CCMOD0002/25
+  address: 5 Bowen Mountain Road GROSE VALE NSW 2753
+  description: Extend existing balcony across new addition, Add subfloor storage
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCMOD0002%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-15'
-- council_reference: DA0328/23
-  address: 405 Slopes Road THE SLOPES NSW 2754
-  description: Proposed Farm Building (Stables)
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0328%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-17'
+- council_reference: CCPC0010/25
+  address: 4 Ayling Street PITT TOWN NSW 2756
+  description: Construction of a two storey dwelling house, secondary dwelling and
+    associated landscape works.
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPC0010%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-15'
-- council_reference: DA0329/23
-  address: 836 Comleroy Road KURRAJONG NSW 2758
-  description: Pending Lodgement - PAN-361463 - Dwelling House - Construction of a
-    Dwelling House, Swimming Pool and Outbuilding
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0329%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-23'
+- council_reference: CCPC0011/25
+  address: 37 Carrs Road WILBERFORCE NSW 2756
+  description: Single Storey Attached Dual-Occupancy
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPC0011%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-16'
-- council_reference: DA0330/23
+  date_received: '2025-01-24'
+- council_reference: CCPC0012/25
   address: 1129 East Kurrajong Road EAST KURRAJONG NSW 2758
-  description: Pending Lodgement - PAN-361961 - Dwelling House - Demolition of Existing
-    Structure and Construction of a Dwelling House
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0330%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  description: DEMOLITION OF EXISTING STRUCTURES AND CONSTRUCTION OF A DWELLING HOUSE
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPC0012%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-17'
-- council_reference: DA0331/23
-  address: 19 Pebbly Hill Road MARAYLYA NSW 2765
-  description: Section 68 - Woodfire Heater
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0331%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-17'
-- council_reference: DA0332/23
-  address: 146 Old Stock Route Road OAKVILLE NSW 2765
-  description: Pending Lodgement - PAN-362244 - Dwelling House - Alterations & Additions
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0332%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-17'
-- council_reference: DA0333/23
-  address: 75 Avoca Road GROSE WOLD NSW 2753
-  description: Pending Lodgement - PAN-357523 - Structure Ancillary to Dwelling -
-    Swimming Pool, Cabana and Deck
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0333%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-18'
-- council_reference: DA0334/23
-  address: 2 Forbes Street WINDSOR NSW 2756
-  description: Change of Use - Community Facility
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0334%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-18'
-- council_reference: DA0335/23
-  address: 35 Bushpea Road OAKVILLE NSW 2765
-  description: Pending Lodgement - PAN-362772 - Dwelling House - Construction of a
-    Dwelling House
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0335%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-20'
-- council_reference: DA0336/23
-  address: 39 Cleary Drive PITT TOWN NSW 2756
-  description: Pending Lodgement - PAN-363159 - Structure Ancillary to Dwelling -
-    Outbuilding including Stables
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0336%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-21'
-- council_reference: DA0337/23
-  address: 167 Ham Street SOUTH WINDSOR NSW 2756
-  description: Pending Lodgement - PAN-363132 - Minor demolition to existing yard
-    for The proposed additions of new transformer & pallet storage, and new double
-    truck garage.
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0337%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-22'
-- council_reference: DA0338/23
-  address: 6/21 Vincents Road KURRAJONG NSW 2758
-  description: Pending Lodgement - PAN-363408 - Staged community title subdivision
-    of Lot 6 in DP270827, 6/21 Vincents Road, Kurrajong. Easements are also to be
-    released over Lot 300 in DP1184237, 7 Vincents Road, Kurrajong.
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0338%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-22'
-- council_reference: DA0339/23
-  address: 5 Lily Place KURRAJONG NSW 2758
-  description: Pending Lodgement - PAN-363625 - Dwelling House - Construction of a
-    Dwelling House
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0339%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-22'
-- council_reference: DA0340/23
-  address: 151 Grose Wold Road GROSE WOLD NSW 2753
-  description: Pending Lodgement - PAN-364062 - Demolition of an Existing Dwelling
-    and Construction of a Dwelling House
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0340%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-23'
-- council_reference: DA0341/23
-  address: 103 Spinks Road GLOSSODIA NSW 2756
-  description: Pending Lodgement - PAN-363732 - This Development Application seeks
-    approval to construct a roundabout along Spinks Road, road widening and lead-in
-    works to the roundabout and a new entry road off this roundabout at 103 Spinks
-    Road to service the future Jacaranda Estate. It also includes associated works
-    including tree removal, bulk earthworks, stormwater drainage, relocation/installation
-    of services and landscape works.
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0341%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-24'
-- council_reference: DA0342/23
-  address: 13 Wilkinson Street PITT TOWN NSW 2756
-  description: Pending Lodgement - PAN-361635 - Dwelling House - Alterations & Additions
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0342%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-25'
-- council_reference: DA0343/23
-  address: 103 Spinks Road GLOSSODIA NSW 2756
-  description: Pending Lodgement - PAN-364304 - This Development Application seeks
-    approval for the lake and wetland system incorporating new stormwater detention
-    and treatment works to support Jacaranda. The application includes minor earthworks
-    to refine the lake levels, construction of a wetland area, stormwater drainage,
-    shared perimeter pathway, pedestrian boardwalks, vehicular access track, retaining
-    walls, site fencing, a lockable access gate along Spinks Road and associated Lake
-    and Wetland landscaping.
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0343%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-28'
-- council_reference: DA0344/23
-  address: 193A Mileham Street SOUTH WINDSOR NSW 2756
-  description: Pending Lodgement - PAN-364951 - Demolition of existing structures
-    and construct new 140 place childcare centre single storey with on-ground carpark
-    and associated landscaping and 8 Lot Residential subdivision
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0344%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-28'
-- council_reference: DA0345/23
-  address: 131 Burralow Road KURRAJONG HEIGHTS NSW 2758
-  description: Pending Lodgement - PAN-364543 - Dwelling House - Construction of a
-    Dwelling House and Outbuilding
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0345%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-28'
-- council_reference: DA0346/23
-  address: 46 Ginahgullah Avenue GROSE VALE NSW 2753
-  description: Pending Lodgement - PAN-364642 - Structure Ancillary to Dwelling -
-    Swimming Pool
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0346%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-28'
-- council_reference: DA0347/23
-  address: 73 Railway Road North MULGRAVE NSW 2756
-  description: Pending Lodgement - PAN-365225 - Subdivision comprising boundary adjustment
-    and relocation of existing car parking areas
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0347%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-28'
-- council_reference: DA0348/23
-  address: 13 Woodburn Road KURRAJONG NSW 2758
-  description: Pending Lodgement - PAN-363197 - Dwelling House - Alterations & Additions,
-    Demolition of an Existing Garage and Construction of an Outbuilding
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0348%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-29'
-- council_reference: DA0349/23
-  address: 106 Hermitage Road KURRAJONG HILLS NSW 2758
-  description: Pending Lodgement - PAN-365410 - Structure Ancillary to Dwelling -
-    Construction of a Swimming Pool, Deck & Carport
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0349%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-29'
-- council_reference: DA0351/23
-  address: 29 Mountain Avenue YARRAMUNDI NSW 2753
-  description: Pending Lodgement - PAN-366192 - Truck Depot - Construction and Use
-    of a Building as a Truck Depot
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0351%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-31'
-- council_reference: DA0352/23
-  address: 35 George Street WINDSOR NSW 2756
-  description: Pending Lodgement - PAN-366384 - Dwelling House - Alterations & Additions
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0352%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-31'
-- council_reference: DA0353/23
-  address: 17 Currawong Crescent BOWEN MOUNTAIN NSW 2753
-  description: Pending Lodgement - PAN-366534 - Dwelling House - Alterations & Additions
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0353%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-31'
-- council_reference: DA0354/23
-  address: 47 Flannery Avenue NORTH RICHMOND NSW 2754
-  description: Pending Lodgement - PAN-366371 - Dwelling House - Construction of a
-    Dwelling House
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0354%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-01'
-- council_reference: DA0355/23
-  address: 73 Commercial Road VINEYARD NSW 2765
-  description: Pending Lodgement - PAN-366491 - Demolition of an Existing Dwelling
-    and Construction of a Dwelling House
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0355%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-01'
-- council_reference: DA0356/23
-  address: 552 East Kurrajong Road EAST KURRAJONG NSW 2758
-  description: Pending Lodgement - PAN-313319 - Structure Ancillary to Dwelling -
-    Outbuilding
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0356%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-01'
-- council_reference: DA0357/23
-  address: 5 Waratah Street BOWEN MOUNTAIN NSW 2753
-  description: Dwelling House - Construction of a Dwelling House
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0357%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-01'
-- council_reference: DA0358/23
+  date_received: '2025-01-24'
+- council_reference: CCPC0013/25
   address: 66 The Terrace WINDSOR NSW 2756
-  description: Pending Lodgement - PAN-366381 - Demolition of an Existing Dwelling
-    and Construction of a Dwelling House
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0358%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  description: Demolition of existing 3 bedroom dwelling and construction of new 4
+    bedroom dwelling
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPC0013%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-09-01'
-- council_reference: DA0359/23
-  address: 2 Trent Place NORTH RICHMOND NSW 2754
-  description: Pending Lodgement - PAN-366853 - Dwelling House - Alterations & Additions
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0359%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-24'
+- council_reference: CCPC0014/25
+  address: 14 Saddle Crescent NORTH RICHMOND NSW 2754
+  description: Single storey residential dwelling
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPC0014%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-09-01'
-- council_reference: DA0360/23
-  address: 171 George Street WINDSOR NSW 2756
-  description: Pending Lodgement - PAN-367058 - Change of Use - Hair and Beauty Salon
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0360%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-30'
+- council_reference: CCPC0015/25
+  address: 589 Grose Vale Road GROSE VALE NSW 2753
+  description: construction of a single level new dwelling
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPC0015%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-09-03'
-- council_reference: DA0361/23
-  address: 23 North Street WINDSOR NSW 2756
-  description: Pending Lodgement - PAN-367070 - Dwelling House - Alterations & Additions
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0361%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: CCPC0016/25
+  address: 1 Mantle Avenue NORTH RICHMOND NSW 2754
+  description: Two Storey Dwelling
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPC0016%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-09-03'
-- council_reference: DA0362/23
-  address: 20 Threlkeld Drive CATTAI NSW 2756
-  description: Pending in Portal - PAN-367153 - Detached steel framed shed
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0362%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: CCPC0017/25
+  address: 114 Crooked Lane NORTH RICHMOND NSW 2754
+  description: Demolition of existing structures on site and construction of a new
+    dwelling, swimming pool, ancillary outbuilding and landscaping
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPC0017%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-09-04'
-- council_reference: DA0363/23
-  address: 9 Sardonyx Avenue HOBARTVILLE NSW 2753
-  description: Pending in portal- PAN-367195- DEMOLISH DWELLING & CONSTRUCT 2 STOREY
-    DWELLING
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0363%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: CCPC0018/25
+  address: 88 Harkness Road OAKVILLE NSW 2765
+  description: SINGLE STOREY DWELLING
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPC0018%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-09-04'
-- council_reference: MOD0059/23
-  address: 2550 Bells Line Of Road BILPIN NSW 2758
-  description: Modification of Development Consent No. DA0370/20 - Design Amendments
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD0059%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-07'
+- council_reference: CCPC0019/25
+  address: 18 Ida Circuit VINEYARD NSW 2765
+  description: Construction of new residential dwelling. Request to amend the street
+    number on the CC approval.
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPC0019%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-11'
-- council_reference: MOD0060/23
-  address: 40 Chaseling Road North WEBBS CREEK NSW 2775
-  description: Pending Lodgement - PAN-360554 - Modification of Development Consent
-    No DA0370/23 - Updated Geo Tech Report
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD0060%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-10'
+- council_reference: CCPC0020/25
+  address: 125 Belmont Grove NORTH RICHMOND NSW 2754
+  description: Construction of a Pool, Outbuilding, Internal Driveway, Retaining walls
+    and Associated Landscaping
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPC0020%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-13'
-- council_reference: MOD0062/23
-  address: 1442 Kurmond Road KURMOND NSW 2757
-  description: Pending Lodgement - PAN-361187 - Modification of Development Consent
-    No. DA0395/17 - Amend alignment of road
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD0062%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-13'
+- council_reference: CCPC0021/25
+  address: 364 Commercial Road VINEYARD NSW 2765
+  description: Construction of a single storey dwelling with detached Garage with
+    Studio above Garage and retaining walls.
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPC0021%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-15'
-- council_reference: MOD0063/23
-  address: 6 Stone Terrace KURRAJONG HEIGHTS NSW 2758
-  description: Modification of Development Consent No. S82A0005/22 - Remove Condition
-    E
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD0063%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-13'
+- council_reference: CCPC0022/25
+  address: 4 Park Road VINEYARD NSW 2765
+  description: Installation of pole signage and associated footing
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPC0022%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-17'
-- council_reference: MOD0064/23
-  address: 11 Barton Place BLAXLANDS RIDGE NSW 2758
-  description: Pending Lodgement - PAN-362660 - Change of the finished floor levels,
-    by increasing cut and reducing fill.
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD0064%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-17'
+- council_reference: CCPC0023/25
+  address: 1213 St Albans Road CENTRAL MACDONALD NSW 2775
+  description: Dwelling House Alterations & Additions & New Shed
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPC0023%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-18'
-- council_reference: MOD0065/23
-  address: 4 Panorama Crescent FREEMANS REACH NSW 2756
-  description: Modification of Development Consent No. DA0138/23 - Correction to Stamped
-    Approved Plans
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD0065%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-17'
+- council_reference: CCPC0024/25
+  address: 2 Angophora Place KURMOND NSW 2757
+  description: Construction of new single storey dwelling
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPC0024%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-22'
-- council_reference: MOD0066/23
-  address: 209 Blaxlands Ridge Road BLAXLANDS RIDGE NSW 2758
-  description: Modification of Development Consent No.DA0383/22 - Remove Condition
-    for Long Service Levy
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD0066%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-18'
+- council_reference: CDC0001/25
+  address: 81 Sirius Road BLIGH PARK NSW 2756
+  description: Demolition of existing shed & construction of a new shed, alterations
+    to existing outbuilding and additions to existing driveway- CDC0001/25
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDC0001%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-25'
-- council_reference: MOD0067/23
-  address: 42 Griffins Road TENNYSON NSW 2754
-  description: Pending Lodgement - PAN-365309 - Modification of Development Consent
-    No. DA0354/18 - Amend Driveway Location
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD0067%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-09'
+- council_reference: CDCPC0022/25
+  address: 13 Wiese Place OAKVILLE NSW 2765
+  description: Inground Fibreglass swimming Pool
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDCPC0022%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-29'
-- council_reference: MOD0069/23
-  address: 67 Cabbage Tree Road GROSE VALE NSW 2753
-  description: Pending in portal PAN-367684 - Change of Elevation and reduced Ceiling
-    height
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD0069%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-23'
+- council_reference: CDCPC0023/25
+  address: 10 Stringybark Road OAKVILLE NSW 2765
+  description: Proposed double storey dwelling and Retaining Walls
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDCPC0023%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-09-05'
-- council_reference: MOD0070/23
-  address: 30 Douglas Farm Road KURRAJONG HILLS NSW 2758
-  description: Pending Lodgement- PAN-362747 - The size of the new dwelling is being
-    reduced by approx. 200m2
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD0070%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-23'
+- council_reference: CDCPC0024/25
+  address: 193 Cabbage Tree Road GROSE VALE NSW 2753
+  description: Shed
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDCPC0024%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-09-05'
-- council_reference: MOD0071/23
-  address: 17 Yobarnie Avenue NORTH RICHMOND NSW 2754
-  description: Pending Lodgement - PAN-368086- The applicant wishes to make minor
-    changes such as relocate stairs, remove pergola, provide additional details on
-    plans, changes to windows, removal of timber stops, changes to brick work. It
-    is worth noting that the proposed changes are very minor in nature and the proposed
-    modification will not have a noticeable impact when compared to the original dwelling
-    approved under DA207/21.
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD0071%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-24'
+- council_reference: CDCPC0025/25
+  address: 19 Bushpea Road OAKVILLE NSW 2765
+  description: Construction of residential dwelling driveway, plumbing & drainage
+    and connection of associated services.
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDCPC0025%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-09-06'
-- council_reference: SC0022/23
-  address: 9 Cornwallis Road CORNWALLIS NSW 2756
-  description: Plan of Redefinition - Amendments to DP884408
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SC0022%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-24'
+- council_reference: CDCPC0026/25
+  address: 116 Dollins Road KURRAJONG NSW 2758
+  description: Construction of a Swimming Pool
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDCPC0026%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-14'
-- council_reference: SC0023/23
-  address: 66 Fairey Road SOUTH WINDSOR NSW 2756
-  description: Torrens Title Subdivisions - 3 lots into 26 lots
-  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SC0023%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-24'
+- council_reference: CDCPC0027/25
+  address: 52 Chapman Road VINEYARD NSW 2765
+  description: Construction of New Single Storey Primary and Secondary Dwellings
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDCPC0027%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-09-06'
+  date_received: '2025-01-24'
+- council_reference: CDCPC0028/25
+  address: 10 Geebung Street VINEYARD NSW 2765
+  description: Minor amendments to approved plans
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDCPC0028%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-28'
+- council_reference: CDCPC0029/25
+  address: 5 Bushpea Road OAKVILLE NSW 2765
+  description: Construction of a two storey dwelling and associated works
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDCPC0029%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-28'
+- council_reference: CDCPC0030/25
+  address: 9 Flying Fox Circuit OAKVILLE NSW 2765
+  description: Installation of an in-ground fibreglass swimming pool
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDCPC0030%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-29'
+- council_reference: CDCPC0031/25
+  address: 2 Peak Street NORTH RICHMOND NSW 2754
+  description: Construction of inground fibreglass swimming pool
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDCPC0031%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: CDCPC0032/25
+  address: 40 Samuel Street BLIGH PARK NSW 2756
+  description: Demolition of existing shed & construction of a secondary dwelling.
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDCPC0032%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-31'
+- council_reference: CDCPC0033/25
+  address: 17 Portobello Street VINEYARD NSW 2765
+  description: Construction of an in-ground concrete swimming pool
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDCPC0033%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: CDCPC0034/25
+  address: 28 Riceflower Street VINEYARD NSW 2765
+  description: Installation of a in ground Fibreglass Swimming Pool
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDCPC0034%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: CDCPC0035/25
+  address: 154 Lieutenant Bowen Road BOWEN MOUNTAIN NSW 2753
+  description: Proposed reinstatement of impact damaged dwelling.
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDCPC0035%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: CDCPC0036/25
+  address: 6 Jordan Avenue GLOSSODIA NSW 2756
+  description: Internal alterations to existing business premise
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDCPC0036%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: CDCPC0037/25
+  address: 320 Terrace Road NORTH RICHMOND NSW 2754
+  description: Swimming Pool
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDCPC0037%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: CDCPC0038/25
+  address: 103 Irrigator Drive NORTH RICHMOND NSW 2754
+  description: Retaining Walls
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDCPC0038%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: CDCPC0039/25
+  address: 90 Neilson Crescent BLIGH PARK NSW 2756
+  description: Demolition of an existing dwelling
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDCPC0039%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-06'
+- council_reference: CDCPC0040/25
+  address: 2 Dairy Place NORTH RICHMOND NSW 2754
+  description: Construction of a 2 Storey Dwelling.
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDCPC0040%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: CDCPC0041/25
+  address: 78 March Street RICHMOND NSW 2753
+  description: Retail Store Fitout
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDCPC0041%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: CDCPC0042/25
+  address: 126 Ham Street SOUTH WINDSOR NSW 2756
+  description: Erection of 12 warehouse with associated offices
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDCPC0042%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: CDCPC0043/25
+  address: 3 Swale Street NORTH RICHMOND NSW 2754
+  description: Residential single storey dwelling
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDCPC0043%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: CDCPC0044/25
+  address: 112 Mileham Street SOUTH WINDSOR NSW 2756
+  description: Change of Use of Existing Unit to an Auto Electrical and Mechanical
+    Workshop
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDCPC0044%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: CDCPC0045/25
+  address: 322 Blaxlands Ridge Road BLAXLANDS RIDGE NSW 2758
+  description: Construction of a shed 12m x 24m to be used on the property No demolition
+    is required Minimal cut and fill to proposed area
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDCPC0045%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: CDCPC0046/25
+  address: 67 Reserve Road FREEMANS REACH NSW 2756
+  description: Construction of a Shed, Mezzanine and Retaining Walls
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDCPC0046%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: CDCPC0047/25
+  address: 6 Hubert Street OAKVILLE NSW 2765
+  description: Construction of a two storey dwelling house
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDCPC0047%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: CDCPC0048/25
+  address: 70 East Market Street HOBARTVILLE NSW 2753
+  description: Provide an opening within an existing ground floor wall and addition
+    of an ensuite & walk-in robe on upper floor and glass sliding door
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDCPC0048%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: CDCPC0049/25
+  address: 148 Bathurst Street PITT TOWN NSW 2756
+  description: Shed & awning
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDCPC0049%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: CDCPC0050/25
+  address: 5 Catchpole Avenue HOBARTVILLE NSW 2753
+  description: Construction of a secondary dwelling
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CDCPC0050%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: DA0017/25
+  address: 1 Origma Street VINEYARD NSW 2765
+  description: Construction of a two storey dwelling house and retaining walls
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0017%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-23'
+- council_reference: DA0018/25
+  address: 22 Trident Avenue VINEYARD NSW 2765
+  description: Construction of a two storey dwelling house and retaining walls
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0018%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-23'
+- council_reference: DA0019/25
+  address: 18 East Market Street RICHMOND NSW 2753
+  description: RETURNED - PAN-503360 - Use of part of premises for vehicle sales and
+    accessories associated with an online business ancillary to existing retail.
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0019%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-23'
+- council_reference: DA0020/25
+  address: 15 Harkness Road OAKVILLE NSW 2765
+  description: RETURNED - PAN-501241 - Construction of a two storey dwelling.
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0020%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-27'
+- council_reference: DA0021/25
+  address: 27 Mitchell Park Road CATTAI NSW 2756
+  description: Demolition of existing former church building and construction of a
+    new single storey dwelling, associated landscaping and services
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0021%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-29'
+- council_reference: DA0022/25
+  address: 4 West Market Street RICHMOND NSW 2753
+  description: Demolition of existing structures and construction of two storey building
+    to be used for co- living and commercial premises, associated carparking and landscaping
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0022%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-29'
+- council_reference: DA0023/25
+  address: 291 Bells Line Of Road KURMOND NSW 2757
+  description: Pending Lodgement - PAN-506153 - Construction of a shed
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0023%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-29'
+- council_reference: DA0024/25
+  address: 24 Greenfield Place MARAYLYA NSW 2765
+  description: RETURNED - PAN - 506293 - Dwelling House - Alterations & Additions
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0024%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: DA0025/25
+  address: 354 Coobah Road EAST KURRAJONG NSW 2758
+  description: RETURNED - PAN-506332 - Construction of an Outbuilding
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0025%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-31'
+- council_reference: DA0026/25
+  address: 49 Farmhouse Avenue PITT TOWN NSW 2756
+  description: Alterations and additions to existing dwelling house
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0026%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-31'
+- council_reference: DA0027/25
+  address: 2 Harkness Road OAKVILLE NSW 2765
+  description: Pending Lodgement - PAN-506794 - Subdivision of land into 50 residential
+    Torrens Title lots, 1 residue lot and associated works including demolition, tree
+    removal, road works and bulk earthworks.
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0027%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-31'
+- council_reference: DA0028/25
+  address: 32 Whitmore Road MARAYLYA NSW 2765
+  description: Demolition of an existing Dwelling, Sheds and associated structures
+    and construction of a Dwelling, Gazebo, Shed, Pool and ancillary structures
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0028%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: DA0029/25
+  address: 670 Kurmond Road FREEMANS REACH NSW 2756
+  description: Pending Lodgement - PAN-507433 - Partial Demolition of an existing
+    dwelling Alterations and additions to existing dwelling
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0029%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: DA0030/25
+  address: 112 Slopes Road NORTH RICHMOND NSW 2754
+  description: Construction of an Outbuilding
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0030%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: DA0031/25
+  address: 24 Powell Street HOBARTVILLE NSW 2753
+  description: Alterations and additions to existing dwelling house
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0031%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: DA0032/25
+  address: 89 Irrigator Drive NORTH RICHMOND NSW 2754
+  description: RETURNED - PAN-507580 - Construction of a single storey dwelling with
+    an inground swimming pool and related landscaping
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0032%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: DA0033/25
+  address: 2 Origma Street VINEYARD NSW 2765
+  description: Construction of a two storey dwelling house and retaining walls
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0033%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: DA0034/25
+  address: 14 Pecks Road KURRAJONG HEIGHTS NSW 2758
+  description: install skillion carport
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0034%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: DA0035/25
+  address: 13 Bells Line Of Road NORTH RICHMOND NSW 2754
+  description: Proposed alteration and additions to existing hotel and pub
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0035%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-06'
+- council_reference: DA0036/25
+  address: 2230 Bells Line Of Road BILPIN NSW 2758
+  description: Addition to existing farm shed
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0036%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: DA0037/25
+  address: 47 Menin Road OAKVILLE NSW 2765
+  description: RETURNED - PAN-508861 - Earthworks - Fill in Existing Pond/Dam
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0037%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-08'
+- council_reference: DA0038/25
+  address: 18 Vine Street PITT TOWN NSW 2756
+  description: Installation of in-ground fibreglass pool
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0038%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: DA0039/25
+  address: 34 Panorama Crescent FREEMANS REACH NSW 2756
+  description: Pending Lodgement - PAN-509399 - Construction of a Detached Steel Frame
+    Shed (removal of existing shed)
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0039%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: DA0040/25
+  address: 1040 Grose Vale Road KURRAJONG NSW 2758
+  description: The application is Integrated Development under 100B Rural Fires Act
+    and The Water Management Act 2000 - Demolition of Existing Outbuilding, Remediation
+    of the land, Restoration to the existing Heritage Building, Construction of Centre-based
+    Childcare Facility including Outbuilding Storage Shed, 44 space Carpark, Retaining
+    Walls, Landscaping and Signage
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0040%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: DA0042/25
+  address: 58 Mitchell Drive GLOSSODIA NSW 2756
+  description: Construction of 2 bedroom Secondary Dwelling
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0042%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: DA0043/25
+  address: 12 Reserve Road FREEMANS REACH NSW 2756
+  description: Demolition of existing outbuildings, partial demolition of the existing
+    dwelling, Alterations & Additions to the dwelling, Relocation of the Swimming
+    Pool and Construction of an Outbuilding
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0043%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: DA0044/25
+  address: 2 Amara Drive KURMOND NSW 2757
+  description: Pending Lodgement - PAN-509930 - Two lot Torrens Title subdivision
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0044%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: DA0045/25
+  address: 79 Royerdale Place EAST KURRAJONG NSW 2758
+  description: Pending Lodgement - PAN-510131 - Demolition of an Existing Above Ground
+    Swimming Pool, Installation of an in ground fibreglass swimming pool, construction
+    of a deck and carport
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0045%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: DA0047/25
+  address: 284F Commercial Road VINEYARD NSW 2765
+  description: Pending Lodgement - PAN-510215 - boundary adjustment and the construction
+    of a temporary display home and sales office, temporary carpark, site landscaping
+    and civil works, as well as temporary signage in association with the display
+    home and sales office.
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0047%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: DA0048/25
+  address: 50 Bathurst Street PITT TOWN NSW 2756
+  description: Pending Lodgement - PAN-510297 - Demolition of an existing outbuilding
+    with Awning and construction of New outbuilding with Awning
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0048%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: DA0049/25
+  address: 2148 Bells Line Of Road BILPIN NSW 2758
+  description: RETURNED - PAN-497015 - Demolition of an existing dwelling and construction
+    of a Dual Occupancy (attached)
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0049%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: DA0050/25
+  address: 15 Harkness Road OAKVILLE NSW 2765
+  description: Construction of a two storey dwelling.
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0050%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: DA0051/25
+  address: 21 Powell Street HOBARTVILLE NSW 2753
+  description: Pending Lodgement - PAN-509991 - Construction of a new single-storey,
+    dual occupancy including torrens title subdivison.
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0051%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: DA0052/25
+  address: 266 Old East Kurrajong Road EAST KURRAJONG NSW 2758
+  description: Pending Lodgement - PAN-510657 - Animal Boarding and Training Facility
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0052%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: DA0055/25
+  address: 1221 East Kurrajong Road EAST KURRAJONG NSW 2758
+  description: Pending Lodgement - PAN-510743 - installation of an in ground fibreglass
+    pool
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0055%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: DA0056/25
+  address: 6/67 Tierney Road KURMOND NSW 2757
+  description: Pending Lodgement - PAN-510849 - Construction of a outbuilding and
+    4-car garage
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0056%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: DA0059/25
+  address: 16 Barnett Street PITT TOWN NSW 2756
+  description: Detached Steel Frame Shed
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0059%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: DA0060/25
+  address: 33 Bean Lane MOUNTAIN LAGOON NSW 2758
+  description: Proposed dwelling alterations and additions and new swimming pool.
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0060%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: DA0061/25
+  address: 607 Settlers Road LOWER MACDONALD NSW 2775
+  description: Addition of awnings to existing shed and addition of carport to existing
+    shed
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0061%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: MOD0008/25
+  address: 162 George Street WINDSOR NSW 2756
+  description: Section 4.55 (1A) Modification of Development Consent No. DA0379/21
+    - Food and Drink Premises - Use of Ground Floor as Take-Away Food & Drink Premises.
+    The modification includes removal of condition 52.
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD0008%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-23'
+- council_reference: MOD0009/25
+  address: 198 Willeroo Drive WINDSOR DOWNS NSW 2756
+  description: WITHDRAWN - PAN-505688 - 4.55 (2) Modification of Development Consent
+    No. DA0356/24 - Construction of an outbuilding - Amend condition 10 relating to
+    demolition of an existing outbuilding
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD0009%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-28'
+- council_reference: MOD0010/25
+  address: 261 Settlers Road LOWER MACDONALD NSW 2775
+  description: RETURNED - PAN-505720 - Regularisation of Unauthorised Residential
+    Structure, Change Of Use for Existing Structure, Approval for Existing Carport
+    Built Partially on Council Land (Driveway Access) - Changing a Portable building
+    from a habitable building to an ancillary outbuilding
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD0010%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-28'
+- council_reference: MOD0012/25
+  address: 689 Windsor Road VINEYARD NSW 2765
+  description: 4.55 (1A) Modification of Development Consent No. DA0537/19 - Dwelling
+    House - Demolition of Existing Structures and Construction of Dwelling House,
+    Swimming Pool and Tennis Court - Amend Tennis Court Location
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD0012%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-02'
+- council_reference: MOD0013/25
+  address: 128 Grose Wold Road GROSE WOLD NSW 2753
+  description: 4.55 (1a) Modification of Development Consent No DA0305/24 - Demolition
+    of existing dwelling, construction of attached dual occupancy and two outbuildings
+    - Amendment to Condition Number 1a,b,11,14 & 18
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD0013%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: MOD0014/25
+  address: 1026 Grose Vale Road KURRAJONG NSW 2758
+  description: RETURNED - PAN-508389 - 4.55 (2) Modification of Development Consent
+    No. DA0321/17 - Dwelling House - Demolition of Existing Dwelling and Construction
+    of a Dwelling House - convert the existing concrete panel shed to increase the
+    size of the approved residence to be a 5-bedroom residence and add a basement
+    for cars
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD0014%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-06'
+- council_reference: MOD0015/25
+  address: 214 King Road WILBERFORCE NSW 2756
+  description: 4.55 (1A) Modification of Development Consent No. DA0349/22 - Demolition
+    of Existing Structures and Construction of a Dwelling House - Remove Basement
+    Floor Area and internal/external changes to floor plan
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD0015%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: MOD0016/25
+  address: 109 Hebron Road LOWER PORTLAND NSW 2756
+  description: 4.55 (1A) Modification of DEvelopment Consent No. DA0374/21 - Demolition
+    of Existing Swimming Pool, Construction of a Swimming Pool and Recreation Area
+    - Modification of the Swimming Pool, Retaining Wall, Landscaping and Construction
+    of a Gazebo
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD0016%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: MOD0017/25
+  address: 54 Cattai Road PITT TOWN NSW 2756
+  description: 4.55 (1) Modification of Development Consent No. DA0312/23 - Dwelling
+    House - Alterations & Additions - Amend Condition No.14 - Relating to Section
+    7.12 Contributions
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD0017%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: MOD0018/25
+  address: 50 Jordan Avenue GLOSSODIA NSW 2756
+  description: Pending Lodgement - PAN-510455 - 4.55(1A) Modification of Development
+    Consent No. DA0017/22 - Dual Occupancy (Attached) Demolition of Existing Structures,
+    Construction of a Dwelling House to create Dual Occupancy (Attached), Outbuilding
+    and Stable Building
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MOD0018%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: REV0001/25
+  address: 18 Rose Crescent GLOSSODIA NSW 2756
+  description: Construction of a Single Storey Dwelling
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=REV0001%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: REV0002/25
+  address: 48 Irrigator Drive NORTH RICHMOND NSW 2754
+  description: Review of Determination DA0415/24 - Construction of a Swimming Pool
+    and Outbuilding
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=REV0002%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-06'
+- council_reference: SC0001/25
+  address: 25 Pitt Street RICHMOND NSW 2753
+  description: Boundary Adjustment
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SC0001%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: SC0002/25
+  address: 44 Menin Road OAKVILLE NSW 2765
+  description: Torrens Title Subdivision - 91 Lots and Easement Over Lot 3 DP1180840
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SC0002%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: SC0003/25
+  address: 37 Gorricks Lane FREEMANS REACH NSW 2756
+  description: Torrens Title Subdivsion - 1 Lot into 3 Lots
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SC0003%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: SC0004/25
+  address: 283 Commercial Road VINEYARD NSW 2765
+  description: Torens Title Subdivision - 3 Lots into 44 Lots (Stage 2)
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SC0004%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: SC0005/25
+  address: 283 Commercial Road VINEYARD NSW 2765
+  description: Torrens Title Subdivision - 6 Lots into 82 Lots (Stage 1)
+  info_url: https://hawkesbury-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SC0005%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'

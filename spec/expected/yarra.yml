@@ -1,643 +1,951 @@
 ---
-- council_reference: PHRF24/0004
-  address: 158-172 Oxford St Collingwood VIC 3066
-  description: 68-158 Oxford Street, 103-115 Oxford Street, 107-131 Cambridge Street,
-    7 Stanley Street and 158-172 Oxford Street Collingwood - Part of Former Foy &
-    Gibson Complex - P39505 - HO755 - Heritage Victoria Referral for Demolition of
-    external staircase and installation of four new balconies.
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PHRF24%2F0004&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+- council_reference: '001228.01'
+  address: 293 Brunswick St Fitzroy VIC 3065
+  description: "An amendment to Planning Permit 001228 pursuant to Section 72 of the
+    Planning and Environment Act 1987 to amend Condition 3 of the permit to change
+    the hours of sale and consumption of liquor as follows:\r\n- From: between 11.30am
+    and 3.00pm, Monday to Sunday\r\n- To: between 7.00am and 1.00am the following
+    day, Monday to Sunday"
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=001228.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-03'
-- council_reference: PLN19/0298.01
-  address: 30-32 Easey St Collingwood VIC 3066
-  description: Section 72 Amendment to amend the endorsed plans associated with planning
-    permit PLN19/0298.01 to allow for external alterations and the construction of
-    two new buildings.
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN19%2F0298.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-10'
+- council_reference: BA20/00805.05
+  address: 53 Appleton St Richmond VIC 3121
+  description: Construction of residential apartments and basement carpark - Stage
+    4
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BA20%2F00805.05&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-10'
-- council_reference: PLN21/0082.02
-  address: 299 Johnston St Abbotsford VIC 3067
-  description: Section 72 amendment to PLN21/0082 to amend permit conditions
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN21%2F0082.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-12'
+- council_reference: PHRF25/0002
+  address: 157 Cromwell St Collingwood VIC 3066
+  description: Heritage Referral
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PHRF25%2F0002&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-02'
-- council_reference: PLN21/0748.01
-  address: 35 Goodwood St Richmond VIC 3121
-  description: "An amendment to Planning Permit PLN21/0748 pursuant to Section 72
-    of the Planning and Environment Act 1987 to make the following changes. among
-    others:\r\n1. Rendered masonry wall wall on western boundary revised to a recycled/heritage
-    red brick. This is more in line with the heritage Richmond Hill precinct and is
-    consistent with the existing brick fence separating the properties.\r\n2. Windows
-    on eastern facade to be made slightly taller to meet building code requirement
-    of 10% natural light to habitable areas. No change to window locations. glazing
-    to be reeded/frosted/fluted to ensure full privacy.\r\n3. pool has been removed
-    - to be completed at a future stage."
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN21%2F0748.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: PLN12/0453.06
+  address: 1-7 South Audley St Abbotsford VIC 3067
+  description: Amend permit condition 7 to increase operating hours from 7am (permit
+    currently allows for 8.30am start)
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN12%2F0453.06&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-04'
-- council_reference: PLN21/0902.01
-  address: 100 Michael St Fitzroy North VIC 3068
-  description: Section 72 Amendment to planning permit PLN21/0902 to amend the plans
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN21%2F0902.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-30'
+- council_reference: PLN12/0982.02
+  address: 26 North St Richmond VIC 3121
+  description: Amendment to the Endorsed plans to remove the garage and replace with
+    permeable paving and vehicle entry gate for dedicated car parking space
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN12%2F0982.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-08'
-- council_reference: PLN22/0360.01
-  address: 39 Crown St Richmond VIC 3121
-  description: Section 72 amendment to planning permit PLN22/0360 to amend the permit
-    conditions and plans
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN22%2F0360.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-23'
+- council_reference: PLN15/0039.01
+  address: 17 Boyd St Richmond VIC 3121
+  description: Section 72 amendment seeking to change the currently endorsed external
+    cladding.
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN15%2F0039.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-05'
-- council_reference: PLN22/0363.01
-  address: 28 Scotchmer St Fitzroy North VIC 3068
-  description: 72 Amendment
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN22%2F0363.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-13'
+- council_reference: PLN16/0807.05
+  address: Ground Floor 33-35 Stewart St Richmond VIC 3121
+  description: Hector's Deli is the ground floor tenant of this building. We would
+    like to add 3 retractable awnings to the buildings entrance in leu of putting
+    signage on the exterior of the building. The awnings are simple and respectful
+    to the design of the building and will allow way finding to our tenancy.
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN16%2F0807.05&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-11'
-- council_reference: PLN22/0377.01
-  address: 236-238 Park St Fitzroy North VIC 3068
-  description: Refer attached cover letter. Various minor amendments to the plans
-    proposed and endorsement requested.
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN22%2F0377.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-14'
+- council_reference: PLN22/0380.01
+  address: 249 Punt Rd Richmond VIC 3121
+  description: Amendment to allow the deletion of four windows and the increase in
+    height to rear elevation ground floor doors.
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN22%2F0380.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-03'
-- council_reference: PLN22/0960.01
-  address: 17 Fenwick St Clifton Hill VIC 3068
-  description: "1. Amend Condition 1 (a) of the existing planning permit to delete
-    reference to “and associated reduction to the proposed bathroom addition accordingly”
-    to:\r\n2. Amend the plans to shift the bathroom further west\r\n*Note that the
-    GF roof in the northwest corner has been moved back to it's original line"
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN22%2F0960.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: PLN22/0884.01
+  address: 10 Greeves St Fitzroy VIC 3065
+  description: Section 72 Amendment to allow for reduction in scope of demolition
+    and works
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN22%2F0884.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-17'
-- council_reference: PLN22/0995.01
-  address: 156 Nicholson St Fitzroy VIC 3065
-  description: "Buildings and works associated with an existing \r\ndwelling on a
-    lot less than 300 square metres on land \r\naffected by a Heritage Overlay (HO334)"
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN22%2F0995.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: PLN23/0675.01
+  address: 75 Coppin St Richmond VIC 3121
+  description: Condition 1 assessment and amendment to alter plans for construction
+    of ground and first floor addition and first floor balcony
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN23%2F0675.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-09'
-- council_reference: PLN23/0373.01
-  address: 48 Highett St Richmond VIC 3121
-  description: Section 72 Amendment to Planning Permit PLN23/0373 to accommodate remedial
-    works to the existing north-western verandah wing wall and installation of AC
-    unit and HWS
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN23%2F0373.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: PLN24/0362.01
+  address: 45-53 Hoddle St Richmond VIC 3121
+  description: Amend the permit and endorsed plans to allow the construction and display
+    of an electronic major promotion sign
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0362.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-04'
-- council_reference: PLN24/0244
-  address: 19 Studley St Abbotsford VIC 3067
-  description: Use of the land as a Residential Hotel
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0244&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: PLN25/0045
+  address: 329 Punt Rd Richmond VIC 3121
+  description: To externally paint an unpainted surface in a heritage overlay (mural)
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0045&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-03-28'
-- council_reference: PLN24/0245
-  address: 182 Johnston St Fitzroy VIC 3065
-  description: Display of signage including business identification sign and internally
-    illuminated sign.
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0245&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-23'
+- council_reference: PLN25/0046
+  address: 246A Victoria St Richmond VIC 3121
+  description: Alterations to existing building (facade) and internally illuminated
+    signage
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0046&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-03-28'
-- council_reference: PLN24/0247
-  address: 348 Pigdon St Princes Hill VIC 3054
-  description: Part demolition and alterations and additions to the existing dwelling.
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0247&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-23'
+- council_reference: PLN25/0047
+  address: 1/27 Rotherwood St Richmond VIC 3121
+  description: Partial demolition and exterior alterations to the existing dwelling
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0047&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-03-28'
-- council_reference: PLN24/0248
-  address: 8-14 Brunswick St Fitzroy VIC 3065
-  description: Install window graphic / signs
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0248&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-23'
+- council_reference: PLN25/0049
+  address: 43-45 Alexandra Pde Collingwood VIC 3066
+  description: Proposed demolition and construction of boundary fencing.
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0049&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-03-28'
-- council_reference: PLN24/0249
-  address: 181 Holden St Fitzroy North VIC 3068
-  description: Construct a front fence
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0249&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-24'
+- council_reference: PLN25/0051
+  address: 44 Oxford St Collingwood VIC 3066
+  description: Demolition of existing brickwork, glazing and door, construction of
+    one illuminated and non-illuminated business identification signs
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0051&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-03-29'
-- council_reference: PLN24/0250
-  address: 32 Wellington St Collingwood VIC 3066
-  description: Change of use to a place of assembly (cinema), sale and consumption
-    of liquor and buildings and works
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0250&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-28'
+- council_reference: PLN25/0052
+  address: 98 Lennox St Richmond VIC 3121
+  description: Partial demolition and carrying out works associated with installation
+    of new windows and cladding
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0052&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-03-30'
-- council_reference: PLN24/0251
-  address: 211 Mcilwraith St Princes Hill VIC 3054
-  description: Demolition of an existing window and construction of a window to an
-    existing dwelling.
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0251&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-28'
+- council_reference: PLN25/0053
+  address: 68 Fraser St Richmond VIC 3121
+  description: Construction of a single, 2 storey dwelling
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0053&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-02'
-- council_reference: PLN24/0252
-  address: 261 Highett St Richmond VIC 3121
-  description: Subdivision (boundary realignment of 2 lots), removal of party wall
-    easements & removal of a carriageway easement in favour of 261 Highett St.
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0252&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-28'
+- council_reference: PLN25/0054
+  address: 499-501 Lygon St Princes Hill VIC 3054
+  description: Construction and display of floodlit signage
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0054&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-02'
-- council_reference: PLN24/0253
-  address: 159-161 Johnston St Fitzroy VIC 3065
-  description: "Construction of a building (Clause 34.01-4)\r\nDemolition of a building
-    (Clause 43.01-1)\r\nConstruction of a building (Clause 43.01-1)\r\nConstruction
-    of a building (Clause 43.02-2)"
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0253&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-29'
+- council_reference: PLN25/0055
+  address: 597 Church St Richmond VIC 3121
+  description: Buildings and works
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0055&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-02'
-- council_reference: PLN24/0254
-  address: 343 Canning St Carlton North VIC 3054
-  description: Alterations and addition to existing studio
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0254&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-29'
+- council_reference: PLN25/0057
+  address: 61 Holden St Fitzroy North VIC 3068
+  description: Construction and display of floodlit promotion sign
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0057&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-02'
-- council_reference: PLN24/0257
-  address: 52 Johnston St Fitzroy VIC 3065
-  description: Use the land to sell and consume alcohol (Restaurant and Cafe Licence)
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0257&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-30'
+- council_reference: PLN25/0058
+  address: 12-18 Old Heidelberg Rd Alphington VIC 3078
+  description: Remove reserve status & easements
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0058&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-02'
-- council_reference: PLN24/0259
-  address: 95-105 Victoria St Fitzroy VIC 3065
-  description: Replacement of existing windows in a three storey office building.
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0259&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-23'
+- council_reference: PLN25/0059
+  address: 35 Westgarth St Fitzroy VIC 3065
+  description: Part demolition and ground floor extension.
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0059&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-03'
-- council_reference: PLN24/0260
-  address: 41 Tanner St Richmond VIC 3121
-  description: Demolition and construction of front fence
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0260&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-30'
+- council_reference: PLN25/0061
+  address: 143 Nicholson St Abbotsford VIC 3067
+  description: To construct and display a sign
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0061&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-03'
-- council_reference: PLN24/0261
-  address: 411-415 Smith St Fitzroy VIC 3065
-  description: Installation of temporary business identification signage.
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0261&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-03'
+- council_reference: PLN25/0062
+  address: 31 Brighton St Richmond VIC 3121
+  description: Full demolition and construction of a new two storey dwelling.
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0062&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-03'
-- council_reference: PLN24/0263
-  address: 191 Brunswick St Fitzroy VIC 3065
-  description: Construct and display an internally illuminated business identification
-    sign
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0263&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: PLN25/0064
+  address: 106 Leicester St Fitzroy VIC 3065
+  description: Proposed change of use from office to food and drink beverage with
+    associated reduction in car parking and business identification signage.
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0064&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-04'
-- council_reference: PLN24/0265
-  address: 116 Buckingham St Richmond VIC 3121
-  description: Partial demolition and construction of a ground and first floor rear
-    extension with roof terrace above and a double storey rear garage/studio
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0265&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: PLN25/0068
+  address: 37 Cotter St Richmond VIC 3121
+  description: Demolition and construction a new single storey extension, to the rear
+    of the existing dwelling.
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0068&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-04'
-- council_reference: PLN24/0267
-  address: 643 Lygon St Princes Hill VIC 3054
-  description: Removal of the existing roof & gutters and replacement with new roof
-    & gutter
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0267&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: PLN25/0069
+  address: 786-794 Nicholson St Fitzroy North VIC 3068
+  description: Subdivision
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0069&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-04'
-- council_reference: PLN24/0268
-  address: Floor 1 255 Bridge Rd Richmond VIC 3121
-  description: "We had already called the council officer confirmed existing use is
-    the residencial. \r\n\r\nThe landlord would like to use this location for a new
-    business which is a service for skincare/facial/body care at the first level for
-    this location. The mezzanine part will be used as office part. We still to apply
-    the street/facade signage as well. \r\n\r\nThank you. \r\n\r\nRegards, Katherine"
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0268&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-29'
+- council_reference: PLN25/0070
+  address: 310 Amess St Carlton North VIC 3054
+  description: "Install solar panels.\r\n\r\nSolar panels to be fitted on flat roof
+    at the rear of the property, and on the south pitched roof."
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0070&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-05'
-- council_reference: PLN24/0269
-  address: Ground Floor 131 St Georges Rd Fitzroy North VIC 3068
-  description: Two lot subdivision (boundary realignment)
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0269&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: PLN25/0071
+  address: 1 Fairchild St Abbotsford VIC 3067
+  description: Part demolition and construction of a fence
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0071&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-03'
-- council_reference: PLN24/0270
-  address: 415-417 Church St Richmond VIC 3121
-  description: Partial demolition of part of the road and footpath and construction
-    of a pocket park
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0270&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: PLN25/0072
+  address: 449 Punt Rd Cremorne VIC 3121
+  description: Alterations to the building facade
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0072&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-05'
-- council_reference: PLN24/0272
-  address: 104-108 Dover St Cremorne VIC 3121
-  description: Buildings and works to the existing building.
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0272&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: PLN25/0073
+  address: 828 Lygon St Carlton North VIC 3054
+  description: Partial demolition of the rear portion of the existing dwelling and
+    the construction of a ground floor extension and a rear outbuilding.
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0073&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-05'
-- council_reference: PLN24/0273
-  address: 36 Lucerne Cres Alphington VIC 3078
-  description: Removal of one (1) tree
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0273&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: PLN25/0074
+  address: 138 Easey St Collingwood VIC 3066
+  description: Demolish outbuilding and Construct single storey studio/garage
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0074&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-05'
-- council_reference: PLN24/0275
-  address: 88 Hodgkinson St Clifton Hill VIC 3068
-  description: Demolition of a verandah to the rear of the existing dwelling.
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0275&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-07'
+- council_reference: PLN25/0075
+  address: 30 Gold St Collingwood VIC 3066
+  description: Partial demolition and external alterations to the building including
+    to display a signage
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0075&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-08'
-- council_reference: PLN24/0276
-  address: 718 Brunswick St North Fitzroy North VIC 3068
-  description: Partial demolition and construction of single storey extension to the
-    rear of the existing dwelling
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0276&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-07'
+- council_reference: PLN25/0077
+  address: 9-11 Raphael St Abbotsford VIC 3067
+  description: Part demolition and construction of a ground floor rear extension
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0077&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-08'
-- council_reference: PLN24/0278
-  address: 53 Mckean St Fitzroy North VIC 3068
-  description: Demolition of a rear boundary fence and gate and construction of a
-    roller door.
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0278&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-08'
+- council_reference: PLN25/0078
+  address: 297 Punt Rd Richmond VIC 3121
+  description: Replace existing boundary fences.
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0078&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-08'
-- council_reference: PLN24/0283
-  address: 77 Mcilwraith St Princes Hill VIC 3054
-  description: First storey extension to the side of the dwelling.
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0283&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-10'
-- council_reference: PLN24/0287
-  address: 148 Gertrude St Fitzroy VIC 3065
-  description: "External alterations to a building in a Heritage Overlay to construct
-    window grates on the first floor windows\r\nas part of Greening Gertrude Community
-    Project."
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0287&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-11'
-- council_reference: PLN24/0290
-  address: 2/5 Chandler Hwy Alphington VIC 3078
-  description: Construction of a new dwelling on a lot less than 300 sqm
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0290&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-12'
-- council_reference: PLN24/0291
-  address: 29 Ramsden St Clifton Hill VIC 3068
-  description: Replacement of a window at the front of house with a heritage overlay.
-    Window structure and layout to be retained, purpose of window replacement is to
-    improve temperature regulation and reduce noise.
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0291&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-12'
-- council_reference: PLN24/0293
-  address: Ground Floor 278 Bridge Rd Richmond VIC 3121
-  description: The Applicant seeks a retrospective permit for signage installed at
-    the premises Ground Floor, 278 Bridge Road, Richmond. The proposed signage works
-    include on-illuminated, static, branded signage on the front and side of the awning
-    fascia at the Premises and the hanging sign beneath the awning, branded vinyl
-    wrap signage within the lower frame of the windows on the eastern external wall
-    of the Premises and two illuminated signs within the premises.
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0293&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-12'
-- council_reference: PLN24/0295
-  address: 97 Heidelberg Rd Clifton Hill VIC 3068
-  description: Construction of an outbuilding
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0295&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-15'
-- council_reference: PLN24/0296
-  address: 183 Dover St Cremorne VIC 3121
-  description: Demolition and addition in a Land Subject to Inundation Overlay.
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0296&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-15'
-- council_reference: PLN24/0298
-  address: 34-36 Docker St Richmond VIC 3121
-  description: Partial demolition and construction of front fence.
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0298&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-15'
-- council_reference: PLN24/0302
-  address: 49 Como St Alphington VIC 3078
-  description: Installation of solar panels.
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0302&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-16'
-- council_reference: PLN24/0303
-  address: 620 Church St Cremorne VIC 3121
-  description: Construction of a Internally illuminated signs.
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0303&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-16'
-- council_reference: PLN24/0306
-  address: 27 Duke St Abbotsford VIC 3067
+  date_received: '2025-02-08'
+- council_reference: PLN25/0081
+  address: 3 Belgravia St Richmond VIC 3121
   description: Two lot subdivision
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0306&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0081&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-16'
-- council_reference: PLN24/0311
-  address: 55A Gold St Collingwood VIC 3066
-  description: Replace existing tin roof with colorbond and install ceiling insulation
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0311&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-07'
+- council_reference: PLN25/0082
+  address: Ground Floor 354-356 Brunswick St Fitzroy VIC 3065
+  description: Demolition of a pergola
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0082&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-18'
-- council_reference: PLN24/0312
-  address: 392 Church St Richmond VIC 3121
-  description: Proposed single storey addition to the rear of an existing dwelling
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0312&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-10'
+- council_reference: PLN25/0087
+  address: 15 Christine Cres Richmond VIC 3121
+  description: Creation of Council Drainage Easement
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0087&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-18'
-- council_reference: PLN24/0313
-  address: Off 30A Council St Clifton Hill VIC 3068
-  description: "The Proposed amendment to 30A Council Street, Clifton Hill 3068, modifies
-    the facade of the existing rear addition to the property, replacing doors and
-    a window seat and adding a small ensuite and robe to the side of the property.
-    \r\n\r\nThe subject site is in a heritage overlay; however, it is located away
-    from Council Street down an unnamed laneway where the subject site is the only
-    dwelling amongst many roller doors and gate accesses to adjoining properties.
-    The subject site is bound by laneways on the east, south and north."
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0313&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: PLN25/0090
+  address: 12 Dover St Cremorne VIC 3121
+  description: Construction of a multi storey building associated with offices and
+    a food and drink premises (permit not required for uses), reduction in the car
+    parking requirements of the Yarra Planning Scheme and removal of easements
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0090&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-18'
-- council_reference: PLN24/0316
-  address: 138 Barkly St Fitzroy North VIC 3068
-  description: Installation of solar panels.
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0316&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-11'
+- council_reference: PLN25/0091
+  address: 46 Scotchmer St Fitzroy North VIC 3068
+  description: Construction of a front fence
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0091&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-19'
-- council_reference: PLN24/0318
-  address: 333-335 Smith St Fitzroy VIC 3065
-  description: Partial demolition and buildings and works to an existing Hotel
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0318&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-11'
+- council_reference: PLN25/0094
+  address: 64 Bridge Rd Richmond VIC 3121
+  description: "Vision: A space for people to gather, tell stories and connect through
+    shared experiences in creativity. \r\nI am an artist/designer/teacher, looking
+    to open a creative experiences business based on existing sip and paint structures.
+    The space will be used to host arts learning activities in a fun and community
+    based environment. Experiences will include painting & sculpture and more, during
+    scheduled events of 6-8 sessions per week over 4-5 days including weekends. It
+    will be a place of assembly, an art gallery and retail merchandise. The layout
+    will include seats and trestle tables and a coffee machine for drinks with an
+    option to BYO alcohol/drinks & snacks for the 2-3 hour sessions, a max. 24 pax,
+    including staff. There are no competing businesses in this area. Parking and public
+    transport are readily accessible. \r\nI am looking to paint the facade of the
+    building and place window decals for signage and advertising of the business,
+    please refer to attached images."
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0094&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-19'
-- council_reference: PLN24/0320
-  address: 35 White St Cremorne VIC 3121
-  description: Demolition and construction of exterior weatherboard and two windows.
-    In addition to the restoration of the rear roof.
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0320&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-11'
+- council_reference: PLN25/0095
+  address: 127 Mckean St Fitzroy North VIC 3068
+  description: Partial demolition and external alterations to an outbuilding
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0095&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-20'
-- council_reference: PLN24/0322
-  address: 30 Chandler Hwy Alphington VIC 3078
-  description: Creation of water supply easement
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN24%2F0322&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-12'
+- council_reference: PLN25/0097
+  address: 135 Spensley St Clifton Hill VIC 3068
+  description: Construction and installation of Solar panels within a Heritage Overlay
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0097&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-22'
-- council_reference: eBA23/00189
-  address: 85 Greeves St Fitzroy VIC 3065
-  description: Alterations & Additions to Existing Dwelling
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA23%2F00189&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-12'
+- council_reference: PLN25/0098
+  address: 37 Shelley St Richmond VIC 3121
+  description: 9 Lot Subdivision
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0098&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-11'
-- council_reference: eBA23/00453
-  address: 286-288 Bridge Rd Richmond VIC 3121
-  description: Internal alteration (installation of glass flooring and bi-fold door
-    to Level 01 function room.
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA23%2F00453&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-12'
+- council_reference: PLN25/0100
+  address: 328 Bridge Rd Richmond VIC 3121
+  description: Demolition of existing signage and installation of new signage
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0100&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-03'
-- council_reference: eBA23/00521
-  address: 31 Bagung Lane Princes Hill VIC 3054
-  description: Additions and alterations to an existing dwelling
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA23%2F00521&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-13'
+- council_reference: PLN25/0103
+  address: 60 Stafford St Abbotsford VIC 3067
+  description: "The proposal relates to 60 Stafford Street Abbotsford which is a contributory
+    building in a heritage overlay.\r\n\r\nThe proposal is to remove a non-original
+    low front wall at the front of the house, and replace it with a wooden picket
+    fence of similar height."
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0103&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-03'
-- council_reference: eBA23/00940
-  address: 23 Myrtle St Clifton Hill VIC 3068
-  description: Alterations and Additions to an Existing Dwelling
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA23%2F00940&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-16'
+- council_reference: PLN25/0111
+  address: 72 Alexandra Pde Fitzroy VIC 3065
+  description: Demolition and construction of a new roof
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0111&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-08'
-- council_reference: eBA23/01009
-  address: 20 Abbotsford St Abbotsford VIC 3067
-  description: Demolition of laundry at rear of apartment building
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA23%2F01009&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-17'
+- council_reference: PLN25/0116
+  address: 17 Boyd St Richmond VIC 3121
+  description: Two lot subdivision
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLN25%2F0116&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-03'
-- council_reference: eBA24/00006
-  address: 20 Grant St Fitzroy North VIC 3068
-  description: Proposed Additions and Alteration to an Existing Dwelling
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00006&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-03-28'
-- council_reference: eBA24/00007
-  address: 22 Grant St Fitzroy North VIC 3068
-  description: Proposed Additions and Alterations to an Existing Dwelling
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00007&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-03-28'
-- council_reference: eBA24/00075
-  address: 2 Mckean St Fitzroy North VIC 3068
-  description: Alteration to Dwelling
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00075&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-09'
-- council_reference: eBA24/00089
-  address: 93 Miller St Fitzroy North VIC 3068
-  description: Construction of Boundary Fences/wall
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00089&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-05'
-- council_reference: eBA24/00219
-  address: 20 Woodhead St Fitzroy North VIC 3068
-  description: Proposed Alterations to an Existing Dwelling
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00219&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-04'
-- council_reference: eBA24/00238
-  address: 8-10 Peel St Collingwood VIC 3066
-  description: Alterations to Existing Retail Building
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00238&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-03-28'
-- council_reference: eBA24/00290
-  address: 10 Alexandra Pde Fitzroy VIC 3065
-  description: Underpinning to an Existing Dwelling
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00290&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-02'
-- council_reference: eBA24/00291
-  address: 23 Edinburgh St Richmond VIC 3121
-  description: Partial Demolition & Construction of Additions and Alterations of Dwelling
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00291&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-03-28'
-- council_reference: eBA24/00292
-  address: 7A Park Cres Fairfield VIC 3078
-  description: Alterations to an existing dwelling
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00292&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-02'
-- council_reference: eBA24/00294
-  address: 344 Queens Pde Fitzroy North VIC 3068
-  description: Additions & Alterations to Class 4 Dwelling
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00294&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-03'
-- council_reference: eBA24/00295
-  address: 158 Scotchmer St Fitzroy North VIC 3068
-  description: demolition of existing dwelling, carport and front fence
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00295&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-03'
-- council_reference: eBA24/00296
-  address: 133 Victoria Pde Fitzroy VIC 3065
-  description: demolition of existing shops
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00296&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-04-03'
-- council_reference: eBA24/00297
+  date_received: '2025-02-17'
+- council_reference: eBA23/00147.04
   address: 41 Victoria Pde Fitzroy VIC 3065
-  description: Alteration to Existing Building - St Vincents Fluoroscopy/ Angiography
-    scan room
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00297&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  description: "Construction of a New Building\r- Aikenhead Centre for Medical Discovery
+    (ACMD)- Stage 5"
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA23%2F00147.04&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-02'
-- council_reference: eBA24/00300
-  address: 788 Lygon St Carlton North VIC 3054
-  description: Partial demolition of dwelling
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00300&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-12'
+- council_reference: eBA23/00464.25
+  address: 201 Yarra Bend Rd Fairfield VIC 3078
+  description: Stage 24 - Thomas Embling Hospital - Forensic Mental Health Expansion
+    Project
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA23%2F00464.25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-03-29'
-- council_reference: eBA24/00301
-  address: 1/104-114 Moor St Fitzroy VIC 3065
-  description: Internal Non Structural Alterations to Parts of the Existing Office
-    Only - NHO Ground floor level
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00301&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-18'
+- council_reference: eBA23/01243.02
+  address: 452-484 Johnston St Abbotsford VIC 3067
+  description: Proposed internal alterations to GF west - tenancy 1 (parts)
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA23%2F01243.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-05'
-- council_reference: eBA24/00302
-  address: 28 Council St Clifton Hill VIC 3068
-  description: Construction of alterations to an existing dwelling as per engineering
-    removal of internal wall
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00302&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: eBA23/01297.01
+  address: 268-272 Church St Richmond VIC 3121
+  description: Stage 2 - Proposed mix use developments - full structure and services
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA23%2F01297.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-09'
-- council_reference: eBA24/00303
-  address: 20 Lulie St Abbotsford VIC 3067
-  description: Internal Alterations to Existing Dwelling
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00303&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-03'
+- council_reference: eBA24/00068.03
+  address: 118-124 Balmain St Cremorne VIC 3121
+  description: Stage 4 - Construction of a new building
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00068.03&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-11'
-- council_reference: eBA24/00304
-  address: 84 Wilson St Princes Hill VIC 3054
-  description: New Dwelling Extension and alterations
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00304&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-10'
+- council_reference: eBA24/00097.08
+  address: 68-88 Green St Cremorne VIC 3121
+  description: Construction of a new building - – STAGE 9 ARCHITECTURAL WORKS
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00097.08&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-12'
-- council_reference: eBA24/00305
-  address: 399 Canning St Carlton North VIC 3054
-  description: Construction of Alterations and Additions to Dwelling - Studio & Inground
-    Pool
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00305&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-30'
+- council_reference: eBA24/00160
+  address: 84 Egan St Richmond VIC 3121
+  description: Partial demolition and extension to a dwelling
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00160&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-12'
-- council_reference: eBA24/00306
-  address: 108 Hotham St Collingwood VIC 3066
-  description: Alterations & Additions to Existing Dwelling
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00306&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-13'
+- council_reference: eBA24/00224.02
+  address: 36 Wellington St Collingwood VIC 3066
+  description: Fit out works to Ground floor (part), Level 1, Level 2 (part), Level
+    5 & Roof plant alterations - Stage 3
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00224.02&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-11'
-- council_reference: eBA24/00307
-  address: 4 Horne St Clifton Hill VIC 3068
-  description: Two Storey Additions & Alterations to Dual Occupancy Dwellings
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00307&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-11'
+- council_reference: eBA24/00429.01
+  address: 8 The Vaucluse Richmond VIC 3121
+  description: Stage 2 - Foundation to completion
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00429.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-02'
-- council_reference: eBA24/00308
-  address: 35 Bennett St Fitzroy North VIC 3068
-  description: Additions & Alterations to Dwelling
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00308&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: eBA24/00433.01
+  address: 2/204-206 Gipps St Abbotsford VIC 3067
+  description: Stage 2 - Completion of fitout works including installation of new
+    external egress door
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00433.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-16'
-- council_reference: eBA24/00309
-  address: 226 Wellington St Collingwood VIC 3066
-  description: Construction of a mixed use development- Commercial, retail & residential
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00309&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-30'
+- council_reference: eBA24/00499
+  address: 23A Dickmann St Richmond VIC 3121
+  description: Construction of a Retractable Awning
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00499&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-08'
-- council_reference: eBA24/00310
-  address: 283 Station St Carlton North VIC 3054
-  description: Rectification works to existing footings
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00310&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-29'
+- council_reference: eBA24/00504.01
+  address: 8 Abbotsford St Abbotsford VIC 3067
+  description: Stage Two - Partial Demolition, Alterations and Additions to Existing
+    Dwelling – Completion of All Works)
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00504.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-09'
-- council_reference: eBA24/00311
-  address: 8-10 Peel St Collingwood VIC 3066
-  description: Internal Alterations to Existing Retail Building
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00311&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: eBA24/00531
+  address: Melbourne Girls College 55 Yarra Bvd Richmond VIC 3121
+  description: Accessibility Upgrades for Melbourne Girls College
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00531&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-11'
-- council_reference: eBA24/00312
+  date_received: '2025-01-28'
+- council_reference: eBA24/00579
   address: 85 Brighton St Richmond VIC 3121
-  description: "Redevelopment of Existing School Campus, Including Construction of
-    Three Storey \r\nBuilding Linked to Existing Buildings"
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00312&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  description: Alterations to an existing building
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00579&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-11'
-- council_reference: eBA24/00313
-  address: 31 Mills Bvd Alphington VIC 3078
-  description: Alterations to Shop Tenancy 5GCRF
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00313&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-29'
+- council_reference: eBA24/00727
+  address: 861 Rathdowne St Carlton North VIC 3054
+  description: Additions & Alterations to Dwelling
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00727&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-12'
-- council_reference: eBA24/00315
-  address: 1-3 Otter St Collingwood VIC 3066
-  description: Fitout / alterations of the cold shell tenancy
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00315&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: eBA24/00750
+  address: 143 Cremorne St Cremorne VIC 3121
+  description: Construction of a Carport
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00750&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-08'
-- council_reference: eBA24/00316
-  address: 99 Bridge Rd Richmond VIC 3121
-  description: Epworth Nursing & Midwifery Academy - Construction of a new 6 storey
-    building, linking with the existing Richmond Hospital at Level 2
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00316&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: eBA24/00769
+  address: 229 Hoddle St Collingwood VIC 3066
+  description: "CLADDING RECTIFICATION TO A BUILDING -DFFH HIGH RISE ACP CLADDING\r\nREPLACEMENT
+    - PACKAGE 2"
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00769&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-12'
-- council_reference: eBA24/00317
-  address: 47 Richmond Tce Richmond VIC 3121
-  description: Alterations to Existing Building
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00317&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: eBA24/00797.01
+  address: 620 Church St Cremorne VIC 3121
+  description: Stage 2 - Alteration and Change of Use to an existing building
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00797.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-15'
-- council_reference: eBA24/00318
-  address: 357 Mary St Richmond VIC 3121
-  description: Construction of Retaining Wall
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00318&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-13'
+- council_reference: eBA24/00861
+  address: 281 Station St Carlton North VIC 3054
+  description: Additions & Alterations to Dwelling
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00861&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-16'
-- council_reference: eBA24/00319
-  address: 22 Stawell St Richmond VIC 3121
-  description: Alteration & double storey extension to existing dwelling
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00319&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-24'
+- council_reference: eBA24/00866.03
+  address: 2 Brighton St Richmond VIC 3121
+  description: Construction of Mixed-Use Development (Office, Retail, Carparking &
+    Apartments)- Stage 4- Building A & B Cores, Pre-Cast and Columns Up to Ground
+    Floor and Basement Levels PT
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00866.03&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-16'
-- council_reference: eBA24/00320
-  address: 1/168 Cremorne St Cremorne VIC 3121
-  description: Commercial office fitout.
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00320&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-11'
+- council_reference: eBA24/00889
+  address: 50 Gardner St Richmond VIC 3121
+  description: Construction of Alterations & Additions to an Existing Dwelling at
+    Rear
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00889&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-16'
-- council_reference: eBA24/00323
-  address: 24 Elm Gr Richmond VIC 3121
-  description: Partial demolition of existing dwelling
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00323&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-23'
+- council_reference: eBA24/01034
+  address: 1101/54 Wellington St Collingwood VIC 3066
+  description: Alterations to existing Building
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F01034&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-18'
-- council_reference: eBA24/00324
-  address: 3/52 Lyndhurst St Richmond VIC 3121
-  description: Alterations and Additions to Existing Dwelling
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00324&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: eBA24/01050
+  address: 10 Austin St Fairfield VIC 3078
+  description: Additions & Alterations to Dwelling
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F01050&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-18'
-- council_reference: eBA24/00327
-  address: 109 Turner St Abbotsford VIC 3067
-  description: Completion of Carport
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00327&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-14'
+- council_reference: eBA24/01143
+  address: 7A Hargreaves St Fitzroy VIC 3065
+  description: Alterations to existing dwelling
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F01143&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-05'
-- council_reference: eBA24/00329
-  address: 17 Fenwick St Clifton Hill VIC 3068
-  description: Alterations and Additions to Existing Dwelling
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00329&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-23'
+- council_reference: eBA24/01168.01
+  address: 6-7/64 Balmain St Cremorne VIC 3121
+  description: Icon Cyberknife Tenancy Fitout - 6 Palmer Parade Cremorne
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F01168.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-05'
-- council_reference: eBA24/00330
-  address: 631-633 Church St Richmond VIC 3121
-  description: Re-cladding of Apartment Complex
-  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F00330&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-31'
+- council_reference: eBA24/01207
+  address: 402/65 Dover St Cremorne VIC 3121
+  description: Proposed Office Fitout Tenancy 4.02, Level 4
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F01207&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-04-04'
+  date_received: '2025-01-24'
+- council_reference: eBA24/01220
+  address: 511 Church St Richmond VIC 3121
+  description: Alterations to an existing office tenancy
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F01220&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: eBA24/01225
+  address: 14 Park St Richmond VIC 3121
+  description: Proposed Minor Alterations to an Existing Dwelling
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F01225&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-29'
+- council_reference: eBA24/01268.01
+  address: 283A Church St Richmond VIC 3121
+  description: Stage 2 - Change of use from office to Class 9b school (Ground floor
+    only)
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA24%2F01268.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: eBA25/00002
+  address: 9-11 Alfred Cres Fitzroy North VIC 3068
+  description: Construction of remediation works to existing building
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00002&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-23'
+- council_reference: eBA25/00013
+  address: 100 Latrobe Ave Alphington VIC 3078
+  description: Proposed Construction of 20x New Dwellings & Garages (Units 1-6 & 56-69)
+    Stage 1 - Civil works & slabs on ground only.
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00013&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: eBA25/00032
+  address: 248A Hoddle St Abbotsford VIC 3067
+  description: Proposed Internal Non-Structural Demolition
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00032&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-28'
+- council_reference: eBA25/00035
+  address: 168 Amess St Carlton North VIC 3054
+  description: "Additions & Alterations to Dwelling (Including Restumping Works)\r\nStage
+    1: Restumping of Existing Dwelling & New Subfloor ONLY"
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00035&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: eBA25/00041
+  address: 47 Blazey St Richmond VIC 3121
+  description: "Proposed Internal Office Fitout for DFK Benjamin King Money\r\n Stage
+    1 - To Permit Partition Frame & All Services Only"
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00041&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-24'
+- council_reference: eBA25/00052
+  address: Reserves Heidelberg Rd Clifton Hill VIC 3068
+  description: New construction of light poles, Coulson Reserve
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00052&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-23'
+- council_reference: eBA25/00057
+  address: 8 The Vaucluse Richmond VIC 3121
+  description: Underpinning of an Existing Dwelling ONLY |
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00057&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-28'
+- council_reference: eBA25/00058
+  address: 12 Stillman St Richmond VIC 3121
+  description: Demolition of dwelling and shed
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00058&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-23'
+- council_reference: eBA25/00064
+  address: 433 Smith St Fitzroy North VIC 3068
+  description: Proposed Mixed Use Development of Parcel B
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00064&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-23'
+- council_reference: eBA25/00065
+  address: 88 Elizabeth St Richmond VIC 3121
+  description: Demolition of dwelling and garage
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00065&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-23'
+- council_reference: eBA25/00067
+  address: 1 Gough St Cremorne VIC 3121
+  description: Partial Demolition of Dwelling
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00067&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-24'
+- council_reference: eBA25/00068
+  address: 85-87 Johnston St Collingwood VIC 3066
+  description: Retail Tenancy 3 & 4 Fitout
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00068&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-24'
+- council_reference: eBA25/00069
+  address: 227 Napier St Fitzroy VIC 3065
+  description: Proposed Residential Apartment and Carparking Building
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00069&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-23'
+- council_reference: eBA25/00070
+  address: 6 Smith St Collingwood VIC 3066
+  description: Tenancy Fitout of Office (McDonald's Head Office)
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00070&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-24'
+- council_reference: eBA25/00071
+  address: 14A Wilson St Princes Hill VIC 3054
+  description: Alterations to an existing dwelling
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00071&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-28'
+- council_reference: eBA25/00072
+  address: 550 Nicholson St Fitzroy North VIC 3068
+  description: Demolition of Two Existing Dwellings, Sheds & Garage (1ai, 10a)
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00072&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-28'
+- council_reference: eBA25/00073
+  address: 27 Otter St Collingwood VIC 3066
+  description: Partial Demolition of Dwelling and Outbuildings
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00073&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: eBA25/00074
+  address: 27 Type St Richmond VIC 3121
+  description: Restumping of a Single Storey Dwelling
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00074&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-29'
+- council_reference: eBA25/00075
+  address: 100 Latrobe Ave Alphington VIC 3078
+  description: PROPOSED CONSTRUCTION OF 22X NEW DWELLINGS & GARAGES at Lot B (100)
+    Latrobe Avenue (Units 7-12 & 78-93),
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00075&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-28'
+- council_reference: eBA25/00076
+  address: 24 Arnold St Princes Hill VIC 3054
+  description: Renewal of Expired Permit & Completion of Works - Construction of Two
+    Storey Outbuilding ONLY
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00076&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-29'
+- council_reference: eBA25/00077
+  address: 41 Victoria Pde Fitzroy VIC 3065
+  description: Alterations to Clinical School refurbishment
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00077&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-28'
+- council_reference: eBA25/00078
+  address: 47 Westbank Tce Richmond VIC 3121
+  description: New Eastern Boundary Metal Fence
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00078&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: eBA25/00079
+  address: 39 Victoria Pde Collingwood VIC 3066
+  description: Construction of Dwelling Alterations & Garage Alterations
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00079&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: eBA25/00080
+  address: 3 Alphington St Alphington VIC 3078
+  description: Construction of Swimming Pool & Safety Barrier
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00080&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: eBA25/00081
+  address: 41-43 Stewart St Richmond VIC 3121
+  description: New Construction of Office (Thinkerbell)
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00081&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-29'
+- council_reference: eBA25/00082
+  address: 12-20 Victoria Cres Abbotsford VIC 3067
+  description: Proposed Multi Level Self Store / Office Warehouse
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00082&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: eBA25/00083
+  address: 8-10 Shelley St Richmond VIC 3121
+  description: ALTERATIONS AND ADDITIONS AND CHANGE OF USE FROM COMMERCIAL USE TO
+    CLASS 6 RESTAURANT USE
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00083&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-29'
+- council_reference: eBA25/00086
+  address: 176 Swan St Cremorne VIC 3121
+  description: Shop fitout (Master Pho Vietnam)
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00086&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-31'
+- council_reference: eBA25/00087
+  address: 59-61 Victoria Pde Fitzroy VIC 3065
+  description: Proposed alterations to existing retail tenancy
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00087&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-31'
+- council_reference: eBA25/00089
+  address: 38 Murphy St Richmond VIC 3121
+  description: Rectification Works to an Existing Dwelling
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00089&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-31'
+- council_reference: eBA25/00090
+  address: 170 Coppin St Richmond VIC 3121
+  description: Demolition of an Existing Dwelling & Garage
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00090&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-31'
+- council_reference: eBA25/00091
+  address: 41 Victoria Pde Fitzroy VIC 3065
+  description: FIRE SERVICES UPGRADE WORKS TO LEVELS 5 – 8 OF THE DALY WING
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00091&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-28'
+- council_reference: eBA25/00092
+  address: 4/315 Highett St Richmond VIC 3121
+  description: "Dwelling alterations/Additions\r, Lot 4, Unit 4"
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00092&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-29'
+- council_reference: eBA25/00094
+  address: 154 Kent St Richmond VIC 3121
+  description: Construction of Alterations to an Existing Dwelling - Bedroom, WIR,
+    Ensuite, Living/Dining
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00094&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: eBA25/00095
+  address: 348 Pigdon St Princes Hill VIC 3054
+  description: Partial Demolition to an Existing Dwelling
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00095&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: eBA25/00097
+  address: 131-135 Johnston St Fitzroy VIC 3065
+  description: ASE replacement
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00097&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: eBA25/00098
+  address: 13 Blazey St Richmond VIC 3121
+  description: Proposed Construction of Shed and Pergola
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00098&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: eBA25/00099
+  address: 418 Burnley St Richmond VIC 3121
+  description: New 11 storey retail & office building
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00099&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: eBA25/00100
+  address: 5 Forest St Collingwood VIC 3066
+  description: Construction of Alterations & Additions to Dwelling
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00100&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: eBA25/00104
+  address: 411-415 Smith St Fitzroy VIC 3065
+  description: New residential and commercial development (411-421 Smith St - Smith
+    & Leicester)
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00104&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: eBA25/00105
+  address: 121 Easey St Collingwood VIC 3066
+  description: Addition and Alteration to an Existing Dwelling
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00105&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: eBA25/00106
+  address: 81-91 Bridge Rd Richmond VIC 3121
+  description: Alterations to an Existing Building - MRI Fitout
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00106&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: eBA25/00108
+  address: 203 Punt Rd Richmond VIC 3121
+  description: Roof replacement on existing building
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00108&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: eBA25/00109
+  address: 41 Victoria Pde Fitzroy VIC 3065
+  description: Cladding Replacement
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00109&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-06'
+- council_reference: eBA25/00110
+  address: 91 Spensley St Clifton Hill VIC 3068
+  description: Alterations to an Existing Two Storey Detached Dwelling
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00110&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: eBA25/00111
+  address: 9 Parker St Richmond VIC 3121
+  description: demolition of chimney
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00111&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: eBA25/00112
+  address: 79 Gertrude St Fitzroy VIC 3065
+  description: Proposed alterations to existing retail tenancy
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00112&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: eBA25/00115
+  address: 1019 Drummond St Carlton North VIC 3054
+  description: alteration to detached dwelling - changes to the existing openings
+    in the west elevation and new laundry
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00115&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: eBA25/00117
+  address: 800 Nicholson St Fitzroy North VIC 3068
+  description: alterations to an existing Hotel function room
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00117&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: eBA25/00118
+  address: 245 Richardson St Princes Hill VIC 3054
+  description: Construction of alterations and additions to an existing dwelling
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00118&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: eBA25/00120
+  address: 1 Gough St Cremorne VIC 3121
+  description: Alterations and additions to an existing dwelling
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00120&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: eBA25/00121
+  address: 436-438 Johnston St Abbotsford VIC 3067
+  description: Tenancy alterations on Level 4 - MRA25006
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00121&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-29'
+- council_reference: eBA25/00122
+  address: 87 Rowe St Fitzroy North VIC 3068
+  description: Construction of a Carport
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00122&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: eBA25/00124
+  address: 117 Hoddle St Richmond VIC 3121
+  description: Renewal of Expired Permit & Completion in Works- Additions & Alterations
+    to an Existing Dwelling
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00124&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: eBA25/00125
+  address: 17 Yarraford Ave Alphington VIC 3078
+  description: Construction of Alterations & Additons to Dwelling
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00125&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: eBA25/00126
+  address: 2-6 Fitzgibbon St Cremorne VIC 3121
+  description: Office Fitout Levels 5 & 6 - Dover House
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00126&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: eBA25/00128
+  address: 3 Park Cres Fairfield VIC 3078
+  description: Replacement of Tile Roof to Sheet Roof
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00128&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: eBA25/00129
+  address: 15 Albert Pl Richmond VIC 3121
+  description: Completion of an extension to a dwelling - Final only
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00129&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: eBA25/00130
+  address: 42 William St Abbotsford VIC 3067
+  description: Reblocking to an Existing Dwelling
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00130&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: eBA25/00131
+  address: 480 Swan St Richmond VIC 3121
+  description: Level 9 Office Fitout
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00131&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: eBA25/00132
+  address: 52 Rowena Pde Richmond VIC 3121
+  description: Construction of a Veranda
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00132&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: eBA25/00133
+  address: 17 Holtom St East Princes Hill VIC 3054
+  description: Additions & Alterations to Dwelling
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00133&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: eBA25/00134
+  address: 6 O'Connell St Richmond VIC 3121
+  description: Underpinning of an Existing Dwelling
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00134&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: eBA25/00135
+  address: 105 Hotham St Collingwood VIC 3066
+  description: Rectification Works to Existing Footings
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00135&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: eBA25/00136
+  address: 562 Nicholson St Fitzroy North VIC 3068
+  description: restump and underpin
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00136&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: eBA25/00138
+  address: 7 Yarralea St Alphington VIC 3078
+  description: Construction of alterations and additions to existing dwelling
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00138&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: eBA25/00139
+  address: 99 Hotham St Collingwood VIC 3066
+  description: additions and alterations to detached dwelling- Double storey addition
+    and alterations to an existing dwelling.
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00139&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: eBA25/00140
+  address: 2A Wall St Richmond VIC 3121
+  description: Rectification works to Existing Footings
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00140&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: eBA25/00142
+  address: 14 Cameron St Richmond VIC 3121
+  description: Proposed Construction of Three (3) Townhouse Development & Associated
+    Garages
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBA25%2F00142&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: eba24/01294.01
+  address: 3-17 Joel Tce Alphington VIC 3078
+  description: Stage 2 - Construction of new building - proposed new townhouse development
+  info_url: https://eservices.yarracity.vic.gov.au/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eba24%2F01294.01&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
