@@ -19,3 +19,9 @@ bundle exec rake
 ```
 bundle exec rubocop
 ```
+
+## To experiment with scraper loaded in irb
+
+```
+bin/console
+```
