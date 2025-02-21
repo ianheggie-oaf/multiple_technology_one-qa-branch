@@ -1,498 +1,142 @@
 ---
-- council_reference: CC0057/24
-  address: 39 Yowani Road ROSEDALE NSW 2536
-  description: CC 23/182/01 - New Two Storey Dwelling House & Retaining Walls - AMG
-    Building Consultant
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0057%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
+- council_reference: CC0231/25
+  address: 13 Campbell Street MORUYA NSW 2537
+  description: CC25/003/01 - Cafe deck - AMG
+  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0231%2F25&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-14'
-- council_reference: CC0058/24
-  address: 6 Buguri Crescent MALUA BAY NSW 2536
-  description: P23-0073/01 - New shed - Pacific Building Approvals
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0058%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
+  date_received: '2025-01-31'
+- council_reference: CC0232/25
+  address: 20 Sebbens Crescent ROSEDALE NSW 2536
+  description: CC240399/02 - Amendment to CC240399 – Change to skylight - NHC Group
+  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0232%2F25&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-14'
-- council_reference: CC0059/24
-  address: 2 Vista Avenue CATALINA NSW 2536
-  description: CC23/168 - Additions and Alterations to Existing Dwelling including
-    Deck - D&C Ferguson Building Inspection Services
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0059%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: CC0233/25
+  address: 1 Tuross Boulevarde TUROSS HEAD NSW 2537
+  description: CC240734/01 - Amendment to CC22/143 – Performance Solution for ceiling
+    height - NHC Group
+  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0233%2F25&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-14'
-- council_reference: CC0060/24
-  address: 13 Palana Street SURFSIDE NSW 2536
-  description: CC23/167 - Detached shed - D&C Ferguson Building Inspection Services
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0060%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: CC0234/25
+  address: 8 Creighton Parade NORTH NAROOMA NSW 2546
+  description: P25-0016/01 - Shipping container shed (excludes deck)
+  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0234%2F25&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-14'
-- council_reference: CC0061/24
-  address: 5 Beachside Boulevard TOMAKIN NSW 2537
-  description: CC23/165 - Change of Use to Dwelling with Additions and Alterations
-    - D&C Ferguson Building Inspection Services
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0061%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: CC0235/25
+  address: 6 Alexander Place NORTH NAROOMA NSW 2546
+  description: CC629251-B - Dual-Occupancy - Central Certification
+  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0235%2F25&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-14'
-- council_reference: CC0062/24
-  address: 49 Fauna Avenue LONG BEACH NSW 2536
-  description: CC23/171 - Ground Floor Additions & Alterations ONLY - D&C Ferguson
-    Building Inspection Services
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0062%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: CC0236/25
+  address: 6 Wyena Close MALUA BAY NSW 2536
+  description: CCP24-0258/01 - Dwelling & Secondary Dwelling - PBA
+  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0236%2F25&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-14'
-- council_reference: CC0063/24
-  address: 55 Lyrebird Place BODALLA NSW 2545
-  description: CC/3522012 - swimming pool - Buildcert
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0063%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: CC0237/25
+  address: 95 Ridge Road CORUNNA NSW 2546
+  description: P25-0004/01 - Dwelling & Garage - PBA
+  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0237%2F25&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-16'
-- council_reference: CC0064/24
-  address: 125 Beach Road SUNSHINE BAY NSW 2536
-  description: CC23/169 - Detached habitable rooms - D&C Ferguson
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0064%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: CC0238/25
+  address: 49 Tallawang Avenue MALUA BAY NSW 2536
+  description: P24-0246/01 - Construct New Dwelling, Garage & Deck - PBA
+  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0238%2F25&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-16'
-- council_reference: CC0065/24
-  address: 11 Fishermans Crescent NORTH NAROOMA NSW 2546
-  description: CC23/172 - Dwelling Alterations & Additions - D&C Ferguson
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0065%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: CC0239/25
+  address: 22 Clive Court TUROSS HEAD NSW 2537
+  description: P25-0012/01 - Alterations & Additions to Dwelling, New Swimming Pool
+    & Deck - PBA
+  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0239%2F25&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-16'
-- council_reference: CC0066/24
-  address: 36 Gould Street TUROSS HEAD NSW 2537
-  description: CC23/174 - Detached workshop shed and habitable room - D&C Ferguson
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0066%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
+  date_received: '2025-02-07'
+- council_reference: CC0240/25
+  address: 1275 Congo Road MERINGO NSW 2537
+  description: P25-0014/01 - Alterations & Additions to Dwelling - PBA
+  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0240%2F25&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-16'
-- council_reference: CC0067/24
-  address: 7 Dulip Close DALMENY NSW 2546
-  description: CC23/173 - Deck with Roof Over & Dwelling Alterations - D&C Ferguson
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0067%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
+  date_received: '2025-02-07'
+- council_reference: CC0241/25
+  address: 78 Saltwood Drive ROSEDALE NSW 2536
+  description: P24-0248/01 - Dwelling & Garage - PBA
+  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0241%2F25&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-16'
-- council_reference: CC0068/24
-  address: 29 Isabel Street NAROOMA NSW 2546
-  description: CC/3494602 - Dwelling House - Buildcert
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0068%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
+  date_received: '2025-02-07'
+- council_reference: CC0242/25
+  address: 588 Larrys Mountain Road MOGENDOURA NSW 2537
+  description: P24-0231/01 - Alterations & Additions to Existing Dwelling including
+    a Carport - PBA
+  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0242%2F25&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-16'
-- council_reference: CC0069/24
-  address: 3 Marjorie Crescent BATEHAVEN NSW 2536
-  description: CC23/164/01 - New in-ground swimming pool - AMG Building Consultant
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0069%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
+  date_received: '2025-02-07'
+- council_reference: CC0243/25
+  address: 10 Runnyford Road NELLIGEN NSW 2536
+  description: CC240802/01 - Stage 2 - Rear Deck - NHC Group
+  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0243%2F25&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-16'
-- council_reference: CC0070/24
-  address: 21 Clearwater Terrace MOSSY POINT NSW 2537
-  description: CC230354/01 - Detached Shed - Bacchus Partners
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0070%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
+  date_received: '2025-02-07'
+- council_reference: CC0244/25
+  address: 3A Bate Street CENTRAL TILBA NSW 2546
+  description: 22032 - Alterations and additions to existing hall - HBC
+  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0244%2F25&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-16'
-- council_reference: CC0071/24
-  address: 300 Beach Road BATEHAVEN NSW 2536
-  description: CC23/177 - Dwelling additions and alterations, retaining wall and pool
-    - D&C Ferguson
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0071%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
+  date_received: '2025-02-11'
+- council_reference: CC0247/25
+  address: 87A Turnbulls Lane MORUYA NSW 2537
+  description: CC240857/01 - Dwelling - NHC Group
+  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0247%2F25&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-16'
-- council_reference: CC0072/24
-  address: 65-69 Heath Street BROULEE NSW 2537
-  description: CC23/176 - Alterations & Additions to Villa 42 - D&C Ferguson
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0072%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
+  date_received: '2025-02-14'
+- council_reference: CC0249/25
+  address: 39 Clyde Street BATEMANS BAY NSW 2536
+  description: CC240814/01 - Stage 1 - Garage Only - NHC Group
+  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0249%2F25&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-17'
-- council_reference: CC0073/24
-  address: 65-69 Heath Street BROULEE NSW 2537
-  description: CC23/178 - Additions and alterations to dwelling - Villa 6 - D&C Ferguson
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0073%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-17'
-- council_reference: CC0074/24
-  address: 15 Dilkera Street SOUTH DURRAS NSW 2536
-  description: P23-0041/01 - Alterations and additions to existing dwelling, including
-    a new deck and minor internal modifications. Addition of a new detached bunk room
-    - Pacific Building Approvals
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0074%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-17'
-- council_reference: CC0075/24
-  address: 13 Ascension Way BATEHAVEN NSW 2536
-  description: CC221335/01 - Single Storey Dwelling - New Home Certification Group
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0075%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-18'
-- council_reference: CC0076/24
-  address: 35 Riverside Drive NAROOMA NSW 2546
-  description: P23-0055/01 - Alterations and additions to existing dwelling and change
-    of use for existing shed to habitable space ancillary to dwelling - Pacific Building
-    Approvals
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0076%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-18'
-- council_reference: CC0077/24
-  address: 11 Ocean Avenue SURF BEACH NSW 2536
-  description: CC23/138/01 - Swimming pool, surrounding deck and new stairs to existing
-    second story deck - AMG Building Consultant
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0077%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-18'
-- council_reference: CC0078/24
-  address: 5 Marina Avenue SURFSIDE NSW 2536
-  description: P23-0097/01 - Alterations and additions to dwelling house - Pacific
-    Building Approvals
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0078%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-18'
-- council_reference: CC0079/24
-  address: 4 Larmer Close BROULEE NSW 2537
-  description: P23-0101/01 - Replacement of patio roof plus attached bedroom addition
-    - Pacific Building Approvals
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0079%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-18'
-- council_reference: CC0080/24
-  address: 10 Woods Place NORTH NAROOMA NSW 2546
-  description: P23-0015/01 - First floor addition including covered deck alterations
-    and additions to residential dwelling - Pacific Building Approvals
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0080%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-23'
-- council_reference: CC0081/24
-  address: 7 Johnston Way MYSTERY BAY NSW 2546
-  description: CC/3524112 - Detached shed - Buildcert
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0081%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-23'
-- council_reference: CC0082/24
-  address: 13 Burrawang Crescent SUNSHINE BAY NSW 2536
-  description: CC23/182 - Detached Dwelling with Attached Garage - D&C Ferguson Building
-    Inspection Services
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0082%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-28'
-- council_reference: CC0083/24
-  address: 37 Pyang Avenue MALUA BAY NSW 2536
-  description: CC23/184 - Dwelling and Garage Alterations and Additions - D&C Ferguson
-    Building Inspection Services
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0083%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-28'
-- council_reference: CC0084/24
-  address: 2-20 David Avenue BATEHAVEN NSW 2536
-  description: CC23/187 - Detached Shed - D&C Ferguson Building Inspection Services
-    APPROVED
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0084%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-28'
-- council_reference: CC0085/24
-  address: 53 Broomfield Crescent LONG BEACH NSW 2536
-  description: CC23/181 - Dwelling, Garage and Pool - D&C Ferguson Building Inspection
-    Services APPROVED
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0085%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-28'
-- council_reference: CC0086/24
-  address: Duesburys Road DALMENY NSW 2546
-  description: CC23/183 - Seven Industrial Units with acillary offices and amenities
-    - D & C Ferguson
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0086%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-28'
-- council_reference: CC0087/24
-  address: 16 Bondi Street TUROSS HEAD NSW 2537
-  description: CC23/185 - Dwelling Addition - D&C Ferguson Building Inspection Services
-    APPROVED
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0087%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-30'
-- council_reference: CC0088/24
-  address: 1 Broomfield Crescent LONG BEACH NSW 2536
-  description: CC-3513972 - Swimming Pool & Deck - Buildcert APPROVED
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0088%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-30'
-- council_reference: CC0089/24
-  address: 15 Conway Close BROULEE NSW 2537
-  description: CC/3509332 - Carport - Buildcert APPROVED
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0089%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-30'
-- council_reference: CC0090/24
-  address: 43 Yowani Road ROSEDALE NSW 2536
-  description: CC23/170/01 - New two-storey split level dwelling, with studio above
-    garage and solid fuel heater - AMG Building Consultant
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0090%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-30'
-- council_reference: CC0091/24
-  address: 21 Rosedale Parade ROSEDALE NSW 2536
-  description: CC23/188 - Modification of shed to detached studio with deck - D&C
-    Ferguson
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0091%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-31'
-- council_reference: CC0092/24
-  address: 10 Burrawang Street NAROOMA NSW 2546
-  description: CC23/189 - Construction of Bay Window - D&C Ferguson
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0092%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-31'
-- council_reference: CC0093/24
-  address: 11 Banksia Grove MALUA BAY NSW 2536
-  description: P23-0078/01 - Carport and covered deck - Pacific Building Approvals
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0093%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-31'
-- council_reference: CC0094/24
-  address: 18 Euroka Avenue MALUA BAY NSW 2536
-  description: CC21/274-A1 (Modification to CC21/274) - Garage and storage room addition
-    - D&C Ferguson Building Inspection Services APPROVED
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0094%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-01'
-- council_reference: CC0095/24
-  address: 20 Merriwee Avenue MALUA BAY NSW 2536
-  description: C23/190 - Deck Addition with Roof Over - D&C Ferguson Building Inspection
-    Services APPROVED
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0095%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-01'
-- council_reference: CC0096/24
-  address: 47 Broomfield Crescent LONG BEACH NSW 2536
-  description: CC230487/01 - Single Storey Dwelling - New Home Certification Group
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0096%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-01'
-- council_reference: CC0097/24
-  address: 79 Burbidge Lane NAROOMA NSW 2546
-  description: Modification to CC19/027 - Changes to Layout of Dwelling - D&C Ferguson
-    Building Inspection Services APPROVED
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0097%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-04'
-- council_reference: CC0098/24
-  address: 25 Yugura Street MALUA BAY NSW 2536
-  description: CC23/207/01 - Detached Garage (dwelling alterations approved under
-    separate CC) - AMG Building Consultant
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0098%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-06'
-- council_reference: CC0099/24
-  address: 9 Bayview Street SURFSIDE NSW 2536
-  description: CC23/191 - Detached Shed - D&C Ferguson Building Inspection Services
-    APPROVED
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0099%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-06'
-- council_reference: CC0100/24
-  address: 30 Clive Court TUROSS HEAD NSW 2537
-  description: CC23/192 - Addition of first floor, garage, and pool - D&C Ferguson
-    Building Inspection Services APPROVED
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0100%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-06'
-- council_reference: CC0101/24
-  address: 16 Hawkins Road TUROSS HEAD NSW 2537
-  description: CC23/193 - Carport - D&C Ferguson Building Inspection Services APPROVED
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0101%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-06'
-- council_reference: CC0102/24
-  address: 48 Hawkins Road TUROSS HEAD NSW 2537
-  description: CC23/195 - Dwelling Alterations and Additions and Front Deck with Roof
-    - D&C Ferguson Building Inspection Services APPROVED
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0102%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-06'
-- council_reference: CC0103/24
-  address: 38 Goldfields Drive JEREMADRA NSW 2536
-  description: CC23/196 - Shed - D&C Ferguson Building Inspection Services APPROVED
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0103%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-06'
-- council_reference: CC0104/24
-  address: 5 Viewhill Road KIANGA NSW 2546
-  description: CC23/197 - Dwelling and garage - D&C Ferguson Building Inspection Services
-    APPROVED
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CC0104%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-06'
-- council_reference: DA0076/24
-  address: 2 Church Street MOGO NSW 2536
-  description: Demolition of existing shed, construction of a larger storage/warehouse
-    shed in existing location
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0076%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-11'
-- council_reference: DA0077/24
-  address: 6 Seaview Way LONG BEACH NSW 2536
-  description: Strata subdivision of existing dual occupancy
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0077%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-14'
-- council_reference: DA0078/24
-  address: 2 Gareth Avenue NAROOMA NSW 2546
-  description: 'Application to use existing unapproved structures and usage, comprising:
-    Conversion of ground floor garage area to add bedroom and ensuite bathroom, partitioning
-    of family room to add a bedroom, change use of rumpus room to a bedroom, change
-    use of study to a bedroom.'
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0078%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-14'
-- council_reference: DA0079/24
-  address: 210 Broulee Road BROULEE NSW 2537
-  description: Dual occupancy
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0079%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-15'
-- council_reference: DA0081/24
-  address: 25 Amaroo Drive ROSEDALE NSW 2536
-  description: Dwelling house and swimming pool
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0081%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-16'
-- council_reference: DA0083/24
-  address: 18 Pleasurelea Drive SUNSHINE BAY NSW 2536
-  description: Shipping container in backyard for storage
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0083%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-16'
-- council_reference: DA0085/24
-  address: 3 Inlet Place NORTH NAROOMA NSW 2546
+  date_received: '2025-02-17'
+- council_reference: DA0333/25
+  address: 56 Illabunda Drive MALUA BAY NSW 2536
   description: Alterations and additions to existing dwelling
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0085%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
+  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0333%2F25&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-17'
-- council_reference: DA0086/24
-  address: 233 Wagonga Scenic Drive NAROOMA NSW 2546
-  description: Dwelling creating dual occupancy
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0086%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: DA0336/25
+  address: 22 Sebbens Crescent ROSEDALE NSW 2536
+  description: Dwelling house
+  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0336%2F25&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-17'
-- council_reference: DA0087/24
-  address: 79 Murray Street MORUYA NSW 2537
-  description: 5 lot residential subdivision of land
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0087%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: DA0342/25
+  address: 60 Yarrabee Drive CATALINA NSW 2536
+  description: Shed, retaining walls and earthworks
+  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0342%2F25&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-18'
-- council_reference: DA0090/24
-  address: 34 Murray Street MORUYA NSW 2537
-  description: Demolition of existing dwelling and construction of multi-dwelling
-    housing
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0090%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
+  date_received: '2025-02-10'
+- council_reference: DA0344/25
+  address: 123-133 Vulcan Street MORUYA NSW 2537
+  description: Inground swimming pool
+  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0344%2F25&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-21'
-- council_reference: DA0091/24
-  address: 18 Pleasurelea Drive SUNSHINE BAY NSW 2536
-  description: Shipping container
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0091%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-21'
-- council_reference: DA0092/24
-  address: 27 Brighton Street TUROSS HEAD NSW 2537
-  description: Alterations and additions to dwelling
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0092%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-21'
-- council_reference: DA0096/24
-  address: 73 Trafalgar Road TUROSS HEAD NSW 2537
-  description: Renovation/Reinstatement of existing approved boatshed DA64/66
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0096%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-23'
-- council_reference: DA0098/24
-  address: 664 Congo Road CONGO NSW 2537
-  description: Demolition of existing shed, alterations and additions to existing
-    dwelling and construction of new shed
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0098%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-23'
-- council_reference: DA0101/24
-  address: 1 Coronation Drive MORUYA HEADS NSW 2537
-  description: Alterations and additions to existing dwelling
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0101%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-24'
-- council_reference: DA0102/24
-  address: 19 Dell Parade MORUYA HEADS NSW 2537
-  description: Demolition of existing deck and construction of new deck
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0102%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-24'
-- council_reference: DA0104/24
-  address: 12 Azure Avenue BROULEE NSW 2537
-  description: Re-subdivision
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0104%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-25'
-- council_reference: DA0105/24
-  address: 32 Sandy Place LONG BEACH NSW 2536
-  description: Alterations and additions to existing dwelling.
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0105%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-25'
-- council_reference: DA0106/24
-  address: 24 Bate Street CENTRAL TILBA NSW 2546
-  description: Construction of a road within a Right of Carriageway
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0106%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-25'
-- council_reference: DA0107/24
-  address: 14 Clover Street ROSEDALE NSW 2536
-  description: Dwelling house and swimming pool
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0107%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-25'
-- council_reference: DA0108/24
-  address: 37 Clyde Street BATEMANS BAY NSW 2536
-  description: Demolition and construction of new garage
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0108%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-28'
-- council_reference: DA0109/24
-  address: 5 Chauvel Crescent TUROSS HEAD NSW 2537
-  description: Demolition and construction of new dwelling and garage.
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0109%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-28'
-- council_reference: DA0110/24
-  address: 100 Sylvan Street MALUA BAY NSW 2536
-  description: Pergola
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0110%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-28'
-- council_reference: DA0111/24
-  address: 7323 Princes Highway NAROOMA NSW 2546
-  description: Playground equipment
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0111%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-28'
-- council_reference: DA0112/24
-  address: 210 Broulee Road BROULEE NSW 2537
-  description: Demolition, construction of a detached dual occupancy
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0112%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-28'
-- council_reference: DA0113/24
-  address: 7 Dilkera Street SOUTH DURRAS NSW 2536
-  description: In-ground 100,000L rainwater tank
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0113%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-29'
-- council_reference: DA0116/24
-  address: 40-42 Freycinet Drive SUNSHINE BAY NSW 2536
-  description: Property to be sub divided into 2 separate lots. There is currently
-    a house on one side of the property and a second dwelling will be built on the
-    other portion of the property once the subdivision is complete. The first house
-    will be sold after subdivision is completed.
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0116%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-29'
-- council_reference: ENF0025/24
-  address: 7 Newth Place SURF BEACH NSW 2536
+  date_received: '2025-02-11'
+- council_reference: ENF0154/25
+  address: 49 Beach Road BATEMANS BAY NSW 2536
   description: |-
-    Legislation: EP&A
-    Action: Order
-    Detail: Fire damaged dwelling
-  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=ENF0025%2F24&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
+    Legislation: CAA
+    Action: Declare
+    Detail:
+  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=ENF0154%2F25&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-14'
+  date_received: '2025-02-03'
+- council_reference: ENF0167/25
+  address: 61 Surf Beach Avenue SURF BEACH NSW 2536
+  description: |-
+    Legislation: CAA
+    Action: Order
+    Detail:
+  info_url: https://esc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=ENF0167%2F25&f=%24P1.ETR.APPDET.VIW&r=ESC.P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-16'

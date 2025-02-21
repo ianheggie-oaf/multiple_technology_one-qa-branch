@@ -1,615 +1,981 @@
 ---
-- council_reference: BLD2020/0107
-  address: 519 Connors Road HELIDON QLD 4344
+- council_reference: BLD2025/0008
+  address: Ropeley Rockside Road ROCKSIDE QLD 4343
+  description: Inspection of Old File BPC2017/0338 Shed
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD2025%2F0008&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-23'
+- council_reference: BLD2025/0009
+  address: 10 Nagle Crescent HATTON VALE QLD 4341
+  description: Carport - Send to Planning and plumbing - Then TRC - Sent to TRC 06/02
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD2025%2F0009&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: BLD2025/0010
+  address: 11 North Street GATTON QLD 4343
+  description: Structure removed from site - AWAITING PAYMENT
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD2025%2F0010&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-06'
+- council_reference: BLD2025/0011
+  address: 61 Cochrane Street GATTON QLD 4343
+  description: Re-Inspection of old file DA-0555 Dwelling Extension, DA-0010 Garage
+    and DA7374 Carport
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD2025%2F0011&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: BLD2025/0012
+  address: 4 Bowen Street HELIDON QLD 4344
+  description: Change of Classification
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD2025%2F0012&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: BPC2025/0068
+  address: 3 Darling Circuit PLAINLAND QLD 4341
+  description: Dwelling with attached Alfresco, Garage & Porch
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0068&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-28'
+- council_reference: BPC2025/0072
+  address: 6 Camden Court KENSINGTON GROVE QLD 4341
+  description: Single Storey Detached Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0072&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: BPC2025/0074
+  address: 12 Corcet Road LOCKROSE QLD 4342
+  description: Roof Replacement of Dwelling House
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0074&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: BPC2025/0075
+  address: 946 Flagstone Creek Road FLAGSTONE CREEK QLD 4344
+  description: Shed
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0075&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: BPC2025/0076
+  address: 2 Lake Clarendon Road CROWLEY VALE QLD 4342
+  description: Repair Damaged Dwelling House
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0076&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: BPC2025/0078
+  address: 119 Lakes Drive LAIDLEY HEIGHTS QLD 4341
+  description: Extensions and Additions to Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0078&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: BPC2025/0079
+  address: 31 Advance Court KENSINGTON GROVE QLD 4341
+  description: Re-Roofing of Dwelling & Shed
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0079&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-28'
+- council_reference: BPC2025/0080
+  address: 26 Mahogany Drive PLAINLAND QLD 4341
+  description: Shed
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0080&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-28'
+- council_reference: BPC2025/0081
+  address: 164 Mount Sylvia Road UPPER TENTHILL QLD 4343
+  description: Roof Replacement of Dwelling and Ancillary Structures
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0081&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: BPC2025/0082
+  address: 1 Hickey Street GATTON QLD 4343
+  description: Roof Replacement of Commercial Building
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0082&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: BPC2025/0083
+  address: 71 Spencer Street GATTON QLD 4343
+  description: Re-Roofing to Dwelling & Ancillary Structures
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0083&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-28'
+- council_reference: BPC2025/0084
+  address: 15 Douglas Avenue LAIDLEY QLD 4341
+  description: Roof Replacement of Dwelling House
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0084&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: BPC2025/0085
+  address: 13 Golf Links Drive GATTON QLD 4343
+  description: Roof Replacement of Dwelling House
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0085&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: BPC2025/0086
+  address: 23 Graham Court HATTON VALE QLD 4341
+  description: Re-Roofing of Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0086&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-29'
+- council_reference: BPC2025/0087
+  address: Tabletop Road WITHCOTT QLD 4352
+  description: Swimming Pool and Fence
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0087&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-28'
+- council_reference: BPC2025/0088
+  address: 39 Howell Circuit ADARE QLD 4343
+  description: Swimming Pool and Fence
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0088&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-29'
+- council_reference: BPC2025/0089
+  address: 64 Stirling Drive KENSINGTON GROVE QLD 4341
+  description: Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0089&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: BPC2025/0090
+  address: 32 Alexander Street LAIDLEY QLD 4341
+  description: Re-Roofing of Dwelling & Patios
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0090&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-29'
+- council_reference: BPC2025/0091
+  address: 13 Howell Circuit ADARE QLD 4343
+  description: Single Storey Detached Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0091&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: BPC2025/0092
+  address: 26 Elanora Crescent KENSINGTON GROVE QLD 4341
+  description: Shed
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0092&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-29'
+- council_reference: BPC2025/0093
+  address: 12 Jarrah Close KENSINGTON GROVE QLD 4341
+  description: Single Storey Detached Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0093&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: BPC2025/0094
+  address: 28 Howell Circuit ADARE QLD 4343
+  description: Single Storey Detached Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0094&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: BPC2025/0095
+  address: 1 Qually Road LOCKYER WATERS QLD 4311
+  description: Farm Shed with attached Awning x2
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0095&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-29'
+- council_reference: BPC2025/0096
+  address: 32 Hill Street GATTON QLD 4343
+  description: Re-Roofing of Dwelling & Patios
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0096&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-29'
+- council_reference: BPC2025/0097
+  address: 22 Koala Crescent GATTON QLD 4343
+  description: Re-Roofing of Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0097&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-29'
+- council_reference: BPC2025/0098
+  address: 29 Spencer Street GATTON QLD 4343
+  description: Re-Roofing of Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0098&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-29'
+- council_reference: BPC2025/0099
+  address: 9 Tara Haven PLACID HILLS QLD 4343
+  description: Re-Roofing of Dwelling & Garage
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0099&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-29'
+- council_reference: BPC2025/0100
+  address: 73 Old College Road GATTON QLD 4343
+  description: Re- Roofing of Dwelling & Skillion
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0100&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-29'
+- council_reference: BPC2025/0101
+  address: 10 Lyrebird Road REGENCY DOWNS QLD 4341
+  description: Re-Roofing of Dwelling, Granny Flat, Pergola/Garage -
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0101&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: BPC2025/0102
+  address: 72 Crescent Street GATTON QLD 4343
+  description: Re-Roofing of Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0102&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: BPC2025/0103
+  address: 14 Brookside Place POSTMANS RIDGE QLD 4352
+  description: Shed
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0103&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: BPC2025/0104
+  address: 11 Lexcen Court KENSINGTON GROVE QLD 4341
+  description: Roof Replacement of Dwelling House and Ancillary Structures
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0104&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-31'
+- council_reference: BPC2025/0105
+  address: 1 Greenwood Place WITHCOTT QLD 4352
+  description: Swimming Pool and Fence
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0105&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-31'
+- council_reference: BPC2025/0106
+  address: 25 Propeller Place GATTON QLD 4343
+  description: Roof Replacement of Dwelling House
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0106&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-31'
+- council_reference: BPC2025/0107
+  address: 3 Goodman Drive MURPHYS CREEK QLD 4352
+  description: Single Storey Detached Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0107&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-31'
+- council_reference: BPC2025/0108
+  address: 14 Birdwing Court WITHCOTT QLD 4352
+  description: Shed
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0108&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-31'
+- council_reference: BPC2025/0109
+  address: 46 Old Toowoomba Road PLACID HILLS QLD 4343
+  description: Roof Replacement of Dwelling House
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0109&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-31'
+- council_reference: BPC2025/0110
+  address: 14 Wiggins Street GATTON QLD 4343
+  description: Roof Replacement of Dwelling House
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0110&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-31'
+- council_reference: BPC2025/0111
+  address: 19 Logan Street GATTON QLD 4343
   description: Carport
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD2020%2F0107&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0111&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-06-15'
-- council_reference: BLD2020/0108
-  address: 7 Ringwood Road RINGWOOD QLD 4343
-  description: Reclassification of Class 10 to 8, workshop, office & amenities
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD2020%2F0108&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_received: '2025-01-31'
+- council_reference: BPC2025/0112
+  address: 42 Bowen Street HELIDON QLD 4344
+  description: Shed and Awning
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0112&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-06-16'
-- council_reference: BLD2020/0109
-  address: 72 Gehrke Road REGENCY DOWNS QLD 4341
-  description: Shed
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD2020%2F0109&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-17'
-- council_reference: BLD2020/0110
-  address: 63 Ashlands Drive HELIDON SPA QLD 4344
-  description: Shed
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD2020%2F0110&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-18'
-- council_reference: BLD2020/0112
-  address: 9 Feldhahn Street GATTON QLD 4343
-  description: Garage and Awning
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD2020%2F0112&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-22'
-- council_reference: BLD2020/0113
-  address: 41 Glencoe Road WITHCOTT QLD 4352
-  description: Swimming Pool
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD2020%2F0113&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-22'
-- council_reference: BLD2020/0114
-  address: 6 Belmore Drive WITHCOTT QLD 4352
-  description: Shed
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD2020%2F0114&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-23'
-- council_reference: BLD2020/0115
-  address: 5 Carmichael Drive ADARE QLD 4343
-  description: Shed and Patio
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD2020%2F0115&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-23'
-- council_reference: BLD2020/0116
-  address: 27-35 Hannant Road HATTON VALE QLD 4341
-  description: Shed
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD2020%2F0116&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-23'
-- council_reference: BLD2020/0117
-  address: 7 Coolabah Court LAIDLEY QLD 4341
-  description: Dwelling
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD2020%2F0117&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-25'
-- council_reference: BLD2020/0118
-  address: 19 Laverton Close PLAINLAND QLD 4341
-  description: Shed
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD2020%2F0118&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-30'
-- council_reference: BLD2020/0119
-  address: 761 Toowoomba Connection Road WITHCOTT QLD 4352
-  description: Shed - lodgement of a lapsed approval
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD2020%2F0119&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-30'
-- council_reference: BLD2020/0120
-  address: 84 Highview Avenue GATTON QLD 4343
+  date_received: '2025-01-31'
+- council_reference: BPC2025/0113
+  address: 293 Blanchview Road BLANCHVIEW QLD 4352
   description: Carport
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD2020%2F0120&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0113&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-07-01'
-- council_reference: BLD2020/0121
-  address: 27 Gill Street FOREST HILL QLD 4342
-  description: Additions (enclosed)
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD2020%2F0121&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_received: '2025-01-31'
+- council_reference: BPC2025/0115
+  address: 69 Sundew Crescent KENSINGTON GROVE QLD 4341
+  description: Swimming Pool and Fence
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0115&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-07-02'
-- council_reference: BLD2020/0122
-  address: 7 Pamela Court WITHCOTT QLD 4352
-  description: Garage
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD2020%2F0122&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_received: '2025-01-31'
+- council_reference: BPC2025/0116
+  address: 6B Lexcen Court KENSINGTON GROVE QLD 4341
+  description: Swimming Pool and Fence
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0116&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-07-06'
-- council_reference: BLD2020/0123
-  address: 22 Skyline Drive WITHCOTT QLD 4352
+  date_received: '2025-01-31'
+- council_reference: BPC2025/0117
+  address: 8 Monarch Place WITHCOTT QLD 4352
+  description: Single Storey Detached Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0117&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: BPC2025/0118
+  address: 77 Postmans Ridge Road HELIDON SPA QLD 4344
+  description: Swimming Pool and Fence
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0118&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: BPC2025/0119
+  address: 90 Mount Berryman Road MOUNT BERRYMAN QLD 4341
   description: Shed
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD2020%2F0123&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0119&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-07-07'
-- council_reference: BLD2020/0124
-  address: 351 Tenthill Creek Road LOWER TENTHILL QLD 4343
-  description: Swimming Pool
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BLD2020%2F0124&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_received: '2025-02-03'
+- council_reference: BPC2025/0120
+  address: 37 Elanora Crescent KENSINGTON GROVE QLD 4341
+  description: Single Storey Detached Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0120&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-07-07'
-- council_reference: BPC2020/0236
-  address: 268 Goos Road GATTON QLD 4343
+  date_received: '2025-02-03'
+- council_reference: BPC2025/0121
+  address: 90 Tillack Road GATTON QLD 4343
+  description: Re-Roof of Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0121&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: BPC2025/0122
+  address: 6 Archer Crescent PRESTON QLD 4352
+  description: Swimming Pool and Fence
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0122&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: BPC2025/0123
+  address: 13 Vince Road KENSINGTON GROVE QLD 4341
+  description: Re-Roof of Dwelling and Shed
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0123&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: BPC2025/0124
+  address: 22 Hooper Drive PLAINLAND QLD 4341
+  description: Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0124&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: BPC2025/0125
+  address: 35B Jahn Drive GLENORE GROVE QLD 4342
+  description: Removal Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0125&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: BPC2025/0126
+  address: 13 Spencer Street GATTON QLD 4343
+  description: Roof Replacement of Dwelling and Carport
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0126&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: BPC2025/0127
+  address: 96 Davey Road GATTON QLD 4343
+  description: Roof Replacement of Dwelling House
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0127&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: BPC2025/0128
+  address: 896 Murphys Creek Road MURPHYS CREEK QLD 4352
+  description: Farm Shed
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0128&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: BPC2025/0129
+  address: 139 Zischke Road HATTON VALE QLD 4341
+  description: Swimming Pool and Fence
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0129&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: BPC2025/0130
+  address: 24 Nagle Crescent HATTON VALE QLD 4341
   description: Shed
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0236&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0130&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-06-15'
-- council_reference: BPC2020/0237
-  address: 60 Allan Street GATTON QLD 4343
-  description: Shed
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0237&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: BPC2025/0131
+  address: 423 Haldon Road East EAST HALDON QLD 4343
+  description: Single Storey Detached Dwelling with Deck and Porch
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0131&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-06-15'
-- council_reference: BPC2020/0238
-  address: 18 Werth Street HELIDON QLD 4344
-  description: Patio
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0238&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: BPC2025/0132
+  address: 1 Silverbank Court LOCKROSE QLD 4342
+  description: Roof Replacement of Dwelling House and Ancillary Structures
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0132&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-06-16'
-- council_reference: BPC2020/0239
-  address: 7 Hawleys Road LAKE CLARENDON QLD 4343
-  description: Swimming Pool
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0239&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: BPC2025/0133
+  address: 15 Sandpiper Drive REGENCY DOWNS QLD 4341
+  description: Roof Replacement of Dwelling House
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0133&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-06-17'
-- council_reference: BPC2020/0240
-  address: 280 Ma Ma Lilydale Road MA MA CREEK QLD 4347
+  date_received: '2025-02-04'
+- council_reference: BPC2025/0134
+  address: 18 Axford Way ADARE QLD 4343
+  description: Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0134&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: BPC2025/0135
+  address: 67 Cricket Road REGENCY DOWNS QLD 4341
+  description: Roof Replacement of Dwelling House
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0135&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: BPC2025/0136
+  address: 9 Parkdale Place KENSINGTON GROVE QLD 4341
+  description: Swimming Pool and Fence
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0136&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: BPC2025/0137
+  address: 228 Connoles Road HELIDON SPA QLD 4344
+  description: Covered Area
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0137&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: BPC2025/0138
+  address: 52 Staatz Quarry Road REGENCY DOWNS QLD 4341
+  description: Roof Replacement of Dwelling and Ancillary Structures
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0138&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: BPC2025/0139
+  address: 21 Cumners Road GATTON QLD 4343
+  description: Farm Shed
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0139&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: BPC2025/0140
+  address: 9 Karbul Crescent WITHCOTT QLD 4352
+  description: Carport and Patio Roof
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0140&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: BPC2025/0141
+  address: 24 Oak Street BRIGHTVIEW QLD 4311
+  description: Roof Replacement to Dwelling House
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0141&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: BPC2025/0142
+  address: 110 Thallon Road KENSINGTON GROVE QLD 4341
   description: Carport
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0240&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0142&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-06-17'
-- council_reference: BPC2020/0241
-  address: 14 Clarence Place PLAINLAND QLD 4341
+  date_received: '2025-02-07'
+- council_reference: BPC2025/0143
+  address: 15 Propeller Place GATTON QLD 4343
+  description: Hangar
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0143&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: BPC2025/0144
+  address: 45 Lowes Road PLACID HILLS QLD 4343
+  description: Extension to Dwelling and Addition of a Deck
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0144&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: BPC2025/0145
+  address: 35 Elanora Crescent KENSINGTON GROVE QLD 4341
   description: Dwelling
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0241&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0145&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-06-18'
-- council_reference: BPC2020/0242
-  address: 15 Laverton Close PLAINLAND QLD 4341
-  description: Dwelling, Garage & Patio
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0242&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_received: '2025-02-07'
+- council_reference: BPC2025/0146
+  address: 31 Tallaringa Drive ADARE QLD 4343
+  description: Swimming Pool and Fence
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0146&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-06-18'
-- council_reference: BPC2020/0243
-  address: 3 Maragon Court LAKE CLARENDON QLD 4343
-  description: Dwelling
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0243&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_received: '2025-02-07'
+- council_reference: BPC2025/0147
+  address: 5 Woodend Court KENSINGTON GROVE QLD 4341
+  description: Roof Replacement of Dwelling and Ancillary Structures
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0147&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-06-19'
-- council_reference: BPC2020/0244
-  address: 59 Cooper Street LAIDLEY QLD 4341
-  description: Units
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0244&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_received: '2025-02-07'
+- council_reference: BPC2025/0149
+  address: 21 Lakes Drive LAIDLEY HEIGHTS QLD 4341
+  description: Swimming Pool and Fence
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0149&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-06-19'
-- council_reference: BPC2020/0245
-  address: 52 Hastings Avenue PLAINLAND QLD 4341
-  description: Dwelling
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0245&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_received: '2025-02-07'
+- council_reference: BPC2025/0150
+  address: 124 Brightview Road BRIGHTVIEW QLD 4311
+  description: House Raise
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0150&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-06-19'
-- council_reference: BPC2020/0246
-  address: 33 Beames Drive LAIDLEY SOUTH QLD 4341
-  description: Swimming Pool
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0246&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-19'
-- council_reference: BPC2020/0247
-  address: 60 Parkridge Drive WITHCOTT QLD 4352
+  date_received: '2025-02-07'
+- council_reference: BPC2025/0151
+  address: 4 Strong Street GATTON QLD 4343
   description: Shed
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0247&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0151&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-06-19'
-- council_reference: BPC2020/0248
-  address: 8 Wickham Street LAIDLEY QLD 4341
-  description: Patio
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0248&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_received: '2025-02-10'
+- council_reference: BPC2025/0152
+  address: 66 Stirling Drive KENSINGTON GROVE QLD 4341
+  description: Single Storey Detached Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0152&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-06-22'
-- council_reference: BPC2020/0249
-  address: 4 Kingfisher Court REGENCY DOWNS QLD 4341
+  date_received: '2025-02-10'
+- council_reference: BPC2025/0153
+  address: 34 Spotted Gum Road GATTON QLD 4343
   description: Carport
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0249&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0153&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-06-22'
-- council_reference: BPC2020/0250
-  address: 38 Old College Road GATTON QLD 4343
-  description: Garaport
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0250&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-22'
-- council_reference: BPC2020/0251
-  address: 3 Natalie Court REGENCY DOWNS QLD 4341
-  description: Shed
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0251&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-22'
-- council_reference: BPC2020/0252
-  address: 44 Walnut Drive BRIGHTVIEW QLD 4311
-  description: Shed
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0252&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-23'
-- council_reference: BPC2020/0253
-  address: 37 Skyline Drive WITHCOTT QLD 4352
-  description: Dwelling
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0253&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-24'
-- council_reference: BPC2020/0254
-  address: Salt Springs Road GLEN CAIRN QLD 4342
-  description: Dwelling
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0254&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-25'
-- council_reference: BPC2020/0255
-  address: 39 William Street GATTON QLD 4343
-  description: Change of Classification from 1a to 5
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0255&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-25'
-- council_reference: BPC2020/0256
-  address: 17 Teak Street BRIGHTVIEW QLD 4311
-  description: Shed with Carport
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0256&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-25'
-- council_reference: BPC2020/0257
-  address: 20 Richmond Terrace PLAINLAND QLD 4341
-  description: Dwelling
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0257&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-26'
-- council_reference: BPC2020/0258
-  address: 11 Drysdale Place KENSINGTON GROVE QLD 4341
-  description: Patio
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0258&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-26'
-- council_reference: BPC2020/0259
-  address: 40 Sutcliffes Road UPPER FLAGSTONE QLD 4344
-  description: Patio
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0259&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-26'
-- council_reference: BPC2020/0260
-  address: 32 Singh Street GRANTHAM QLD 4347
-  description: Shed
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0260&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-26'
-- council_reference: BPC2020/0261
-  address: 6 Old Laidley Plainland Road PLAINLAND QLD 4341
-  description: Patio
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0261&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-26'
-- council_reference: BPC2020/0262
-  address: 7 Pamela Court WITHCOTT QLD 4352
-  description: Dwelling
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0262&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-26'
-- council_reference: BPC2020/0263
-  address: 82 Orchard Road ADARE QLD 4343
-  description: Greenhouse
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0263&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-29'
-- council_reference: BPC2020/0264
-  address: Ambrose Street LAIDLEY QLD 4341
-  description: Demolition of Old Ministry Centre
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0264&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-29'
-- council_reference: BPC2020/0265
-  address: 2 Wehlow Road LAIDLEY HEIGHTS QLD 4341
-  description: Awning
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0265&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-29'
-- council_reference: BPC2020/0266
-  address: 1953 Rosewood Laidley Road LAIDLEY SOUTH QLD 4341
-  description: Swimming Pool
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0266&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-29'
-- council_reference: BPC2020/0267
-  address: 191 Lakes Drive LAIDLEY HEIGHTS QLD 4341
-  description: Pool
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0267&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-30'
-- council_reference: BPC2020/0268
-  address: 14 Laurette Drive GLENORE GROVE QLD 4342
-  description: Shed
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0268&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-30'
-- council_reference: BPC2020/0269
-  address: 3 Oakhill Place PRESTON QLD 4352
-  description: Dwelling, Pool and Tennis Court
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0269&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-30'
-- council_reference: BPC2020/0270
-  address: 11 Hakea Court PLAINLAND QLD 4341
-  description: Shed
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0270&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-30'
-- council_reference: BPC2020/0271
-  address: 1 Eucalyptus Place REGENCY DOWNS QLD 4341
-  description: Shed
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0271&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-30'
-- council_reference: BPC2020/0272
-  address: Back Flagstone Road IREDALE QLD 4344
-  description: Shed
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0272&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-30'
-- council_reference: BPC2020/0273
-  address: 182 Manteuffel Road ROPELEY QLD 4343
-  description: Carport
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0273&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-30'
-- council_reference: BPC2020/0274
-  address: 58 Bentley Drive REGENCY DOWNS QLD 4341
-  description: Swimming Pool
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0274&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-07-02'
-- council_reference: BPC2020/0275
-  address: 11 Drysdale Place KENSINGTON GROVE QLD 4341
-  description: Shed
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0275&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-07-06'
-- council_reference: BPC2020/0276
-  address: 15 Numera Court ADARE QLD 4343
-  description: Shed
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0276&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-07-06'
-- council_reference: BPC2020/0277
-  address: 10 Hakea Court PLAINLAND QLD 4341
-  description: Dwelling
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0277&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-07-06'
-- council_reference: BPC2020/0278
-  address: 4 Greenwood Place WITHCOTT QLD 4352
-  description: Shed
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0278&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-07-06'
-- council_reference: BPC2020/0279
-  address: 5 Pamela Court WITHCOTT QLD 4352
-  description: Dwelling & Garage
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0279&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-07-06'
-- council_reference: BPC2020/0280
-  address: 229 Lockyer Creek Road HELIDON QLD 4344
-  description: Shed & Awning
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0280&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-07-08'
-- council_reference: BPC2020/0281
-  address: 12 Seilers Road LAKE CLARENDON QLD 4343
-  description: Carport
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2020%2F0281&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-07-08'
-- council_reference: EX2020/0049
-  address: 7 Ropehill Road UPPER TENTHILL QLD 4343
-  description: Deck & Ramp Triggered by an Overlay (TLPI)
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=EX2020%2F0049&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-16'
-- council_reference: EX2020/0050
-  address: 15 Beames Drive LAIDLEY SOUTH QLD 4341
-  description: Shed Triggered by an Overlay (Moderate Ecological Significance)
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=EX2020%2F0050&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-22'
-- council_reference: EX2020/0051
-  address: 17 Teak Street BRIGHTVIEW QLD 4311
-  description: Shed and Garaport Triggered by an Overlay (High Ecological Significance)
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=EX2020%2F0051&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-23'
-- council_reference: EX2020/0052
-  address: 5 Beckey Road PLAINLAND QLD 4341
-  description: Pool Triggered by an Overlay (Slope Greater than 15%)
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=EX2020%2F0052&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-25'
-- council_reference: EX2020/0054
-  address: 57 Parklea Drive PLACID HILLS QLD 4343
-  description: Dwelling House Triggered by an Overlay (TLPI)
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=EX2020%2F0054&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-07-02'
-- council_reference: EX2020/0055
-  address: 7 Coolabah Court LAIDLEY QLD 4341
-  description: Dwelling House Triggered by an Overlay (High Ecological Significance)
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=EX2020%2F0055&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-07-02'
-- council_reference: EX2020/0056
-  address: 4 Ferdinands Road GATTON QLD 4343
-  description: Shed
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=EX2020%2F0056&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-07-07'
-- council_reference: MC2020/0036
-  address: 100 Staatz Quarry Road REGENCY DOWNS QLD 4341
-  description: Preliminary Approval Including Variation Request
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MC2020%2F0036&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-23'
-- council_reference: MC2020/0037
-  address: 110 Main Greenswamp Road CHURCHABLE QLD 4311
-  description: Dog Kennels for a Maximum 100 dogs
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MC2020%2F0037&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-24'
-- council_reference: MC2020/0038
-  address: Airforce Road HELIDON QLD 4344
-  description: Industry for Assembly and Storage of Detonators
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MC2020%2F0038&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-26'
-- council_reference: MC2020/0039
-  address: 26 Teak Street BRIGHTVIEW QLD 4311
-  description: Dwelling House Triggered by and Overlay (High Ecological Significance)
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MC2020%2F0039&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-26'
-- council_reference: MC2020/0040
-  address: 10 Teak Street BRIGHTVIEW QLD 4311
-  description: Dwelling House Triggered by an Overlay (High Ecological Significance
-    and Medium Bushfire Overlay)
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MC2020%2F0040&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-29'
-- council_reference: MC2020/0041
-  address: Fairway Drive KENSINGTON GROVE QLD 4341
-  description: Sport and Recreation
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MC2020%2F0041&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-07-03'
-- council_reference: OW2020/0024
-  address: Evans Road KENSINGTON GROVE QLD 4341
-  description: Roadworks, Stormwater, Earthworks & Clearing Vegetation
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OW2020%2F0024&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-17'
-- council_reference: OW2020/0025
-  address: 8 Echidna Place PLAINLAND QLD 4341
-  description: Earthworks and Erosion & Sediment Control
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OW2020%2F0025&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-23'
-- council_reference: OW2020/0026
-  address: Tenthill Creek Road GATTON QLD 4343
-  description: Roadwork, Drainage Work, Stormwater, Earthworks & Erosion and Sediment
-    Control
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OW2020%2F0026&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-25'
-- council_reference: OW2020/0027
-  address: 28 Gehrke Road PLAINLAND QLD 4341
-  description: Electrical Reticulation & Street Lighting (Design Checking)
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OW2020%2F0027&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-29'
-- council_reference: PLD2020/0116
-  address: 37 Skyline Drive WITHCOTT QLD 4352
-  description: Dwelling
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2020%2F0116&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-12'
-- council_reference: PLD2020/0117
-  address: 20 Richmond Terrace PLAINLAND QLD 4341
-  description: Dwelling
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2020%2F0117&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-15'
-- council_reference: PLD2020/0118
-  address: 25 Campbell Street LAIDLEY QLD 4341
-  description: Unit - Site 22
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2020%2F0118&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-15'
-- council_reference: PLD2020/0119
-  address: 9 Maragon Court LAKE CLARENDON QLD 4343
-  description: Dwelling
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2020%2F0119&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-19'
-- council_reference: PLD2020/0120
-  address: 28 Teak Street BRIGHTVIEW QLD 4311
-  description: Dwelling
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2020%2F0120&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-19'
-- council_reference: PLD2020/0121
-  address: 10 Hakea Court PLAINLAND QLD 4341
-  description: Dwelling
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2020%2F0121&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-23'
-- council_reference: PLD2020/0122
-  address: 19 Laverton Close PLAINLAND QLD 4341
-  description: Dwelling
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2020%2F0122&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-23'
-- council_reference: PLD2020/0123
-  address: 12 Albert Joseph Drive LAIDLEY HEIGHTS QLD 4341
-  description: Dwelling
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2020%2F0123&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-23'
-- council_reference: PLD2020/0124
-  address: 5 Pamela Court WITHCOTT QLD 4352
-  description: Dwelling
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2020%2F0124&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-24'
-- council_reference: PLD2020/0125
-  address: 6 Mahogany Drive PLAINLAND QLD 4341
-  description: Dwelling
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2020%2F0125&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-24'
-- council_reference: PLD2020/0126
-  address: 7 Coolabah Court LAIDLEY QLD 4341
-  description: Dwelling
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2020%2F0126&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-25'
-- council_reference: PLD2020/0127
-  address: 4 Mahogany Drive PLAINLAND QLD 4341
-  description: Dwelling
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2020%2F0127&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-26'
-- council_reference: PLD2020/0128
-  address: 5209 Warrego Highway COLLEGE VIEW QLD 4343
-  description: New On-site Sewerage Facility
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2020%2F0128&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-29'
-- council_reference: PLD2020/0129
-  address: 296 Adare Road ADARE QLD 4343
-  description: Dwelling
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2020%2F0129&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-30'
-- council_reference: PLD2020/0130
-  address: 40 Hastings Avenue PLAINLAND QLD 4341
-  description: Dwelling
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2020%2F0130&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-30'
-- council_reference: PLD2020/0131
-  address: 34 Sandpiper Drive REGENCY DOWNS QLD 4341
-  description: Dwelling
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2020%2F0131&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-07-02'
-- council_reference: PLD2020/0132
-  address: 673 Fords Road RINGWOOD QLD 4343
-  description: Outbuilding / Shed
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2020%2F0132&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-07-06'
-- council_reference: PLD2020/0133
-  address: 4 Singh Street GRANTHAM QLD 4347
-  description: Dwelling
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2020%2F0133&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-07-08'
-- council_reference: PLD2020/0134
-  address: 144 Woodlands Road GATTON QLD 4343
-  description: Wash Bay Facility - Gatton Ergon Energy Depot
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2020%2F0134&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-07-08'
-- council_reference: RL2020/0014
-  address: 100 Staatz Quarry Road REGENCY DOWNS QLD 4341
-  description: Subdivision (1 Lot into 5 Lots)
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RL2020%2F0014&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-23'
-- council_reference: RL2020/0015
-  address: 28 Teak Street BRIGHTVIEW QLD 4311
-  description: Boundary Realignment (2 Lots into 2 Lots)
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RL2020%2F0015&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2020-06-30'
-- council_reference: RL2020/0016
+  date_received: '2025-02-10'
+- council_reference: BPC2025/0154
   address: 24 George Street HELIDON QLD 4344
-  description: Boundary Realignment (2 Lots into 2 Lots)
-  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RL2020%2F0016&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  description: Shed
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0154&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2020-07-08'
+  date_received: '2025-02-10'
+- council_reference: BPC2025/0155
+  address: 11 Silver Wattle Place LAIDLEY QLD 4341
+  description: Swimming Pool and Fence
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0155&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: BPC2025/0156
+  address: 31 George Street HELIDON QLD 4344
+  description: Shed & Awning
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0156&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: BPC2025/0157
+  address: 114 Spencer Street GATTON QLD 4343
+  description: Tenancy fitout of shop
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0157&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: BPC2025/0158
+  address: 3 Silky Oak Court GATTON QLD 4343
+  description: Patio, Carport & Pool
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0158&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: BPC2025/0159
+  address: 19 Koala Crescent GATTON QLD 4343
+  description: Roof Replacement
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0159&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: BPC2025/0160
+  address: 60 Thallon Road HATTON VALE QLD 4341
+  description: Roof Replacement of Dwelling House
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0160&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: BPC2025/0161
+  address: 3 Camden Court KENSINGTON GROVE QLD 4341
+  description: Swimming Pool and Fence
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0161&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: BPC2025/0162
+  address: 32 Hayes Street LAIDLEY QLD 4341
+  description: New Single Storey Detached Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0162&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: BPC2025/0163
+  address: 10 Reisenleiter Avenue GATTON QLD 4343
+  description: Roof Replacement of Dwelling House
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0163&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: BPC2025/0164
+  address: 35 Davis Crescent GATTON QLD 4343
+  description: Roof Replacement of Dwelling House
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0164&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: BPC2025/0165
+  address: 15 Gassman Street GATTON QLD 4343
+  description: Roof Replacement of Dwelling House
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0165&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: BPC2025/0166
+  address: 10 Forestry Road ADARE QLD 4343
+  description: Roof Replacement
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0166&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: BPC2025/0167
+  address: 94 Cochrane Street GATTON QLD 4343
+  description: Roof Replacement
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0167&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: BPC2025/0168
+  address: 20 Monarch Place WITHCOTT QLD 4352
+  description: Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0168&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: BPC2025/0169
+  address: 950 Blanchview Road SILVER RIDGE QLD 4352
+  description: Patio
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0169&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: BPC2025/0170
+  address: 6 Hughes Road PLAINLAND QLD 4341
+  description: Single Storey Dwelling with Attached Apartment
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0170&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: BPC2025/0171
+  address: 97 Redbank Creek Road ADARE QLD 4343
+  description: Single Storey Detached Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0171&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: BPC2025/0172
+  address: 38 Mount Berryman Road BLENHEIM QLD 4341
+  description: Roof Replacement of Dwelling and Ancillary Structures
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0172&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: BPC2025/0174
+  address: 36 White Gums Road HATTON VALE QLD 4341
+  description: Shed with Attached Awning
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0174&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: BPC2025/0175
+  address: 666 Gatton Clifton Road MA MA CREEK QLD 4347
+  description: Extension to an Existing Shed Including Attached Awning
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0175&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: BPC2025/0178
+  address: 54 Bentley Drive REGENCY DOWNS QLD 4341
+  description: Roof Replacement of Dwelling House
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0178&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: BPC2025/0179
+  address: 8 Carol Anne Court REGENCY DOWNS QLD 4341
+  description: Carport
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0179&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: BPC2025/0180
+  address: 18 Fairway Drive HATTON VALE QLD 4341
+  description: Carport
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0180&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: BPC2025/0181
+  address: 12 Archer Road SPRING CREEK QLD 4343
+  description: Farm Shed
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0181&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: BPC2025/0182
+  address: 41 Laidley Plainland Road PLAINLAND QLD 4341
+  description: Swimming Pool and Fence
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0182&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: BPC2025/0183
+  address: 73 Cochrane Street GATTON QLD 4343
+  description: Roof Replacement of Dwelling House
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0183&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: BPC2025/0184
+  address: 251 Jones Road WITHCOTT QLD 4352
+  description: Single Storey Detached Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0184&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: BPC2025/0185
+  address: 1 Huntingdale Drive REGENCY DOWNS QLD 4341
+  description: Shed
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0185&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: BPC2025/0186
+  address: 18 Howell Circuit ADARE QLD 4343
+  description: Shed - TRANSFER CREDIT FROM BPC2025/0174
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0186&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: BPC2025/0188
+  address: 30 Cochrane Street GATTON QLD 4343
+  description: Retaining Wall
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0188&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: BPC2025/0189
+  address: 1 Andrews Drive GATTON QLD 4343
+  description: Roof Replacement of Dwelling House
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0189&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: BPC2025/0190
+  address: 88 Steinhardts Road LOWER TENTHILL QLD 4343
+  description: Roof Replacement of Dwelling House
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPC2025%2F0190&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: BW2025/0003
+  address: 30 Brigalow Street PLACID HILLS QLD 4343
+  description: Shed
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BW2025%2F0003&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: BW2025/0004
+  address: 2229 Murphys Creek Road BALLARD QLD 4352
+  description: Shed
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BW2025%2F0004&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: EX2025/0002
+  address: 14 Brookside Place POSTMANS RIDGE QLD 4352
+  description: Shed TLPI
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=EX2025%2F0002&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-24'
+- council_reference: EX2025/0003
+  address: 7 Olga Court REGENCY DOWNS QLD 4341
+  description: Proposed Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=EX2025%2F0003&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-28'
+- council_reference: EX2025/0004
+  address: 11 Buaraba Street GATTON QLD 4343
+  description: Re-Roof
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=EX2025%2F0004&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: EX2025/0005
+  address: 22 Thomas Street LAIDLEY QLD 4341
+  description: Re-roof of Dwelling House & Structures
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=EX2025%2F0005&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: MC2025/0002
+  address: 41 Mahogany Drive PLAINLAND QLD 4341
+  description: Dwelling House
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MC2025%2F0002&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-31'
+- council_reference: MC2025/0003
+  address: 2 Nelson Lane LAIDLEY CREEK WEST QLD 4341
+  description: Outdoor sport and recreation - Horse Riding Facility
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MC2025%2F0003&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: MC2025/0004
+  address: 7 Markai Road LOCKYER WATERS QLD 4311
+  description: Secondary Dwelling House
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MC2025%2F0004&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: MC2025/0005
+  address: 16 Sandpiper Drive REGENCY DOWNS QLD 4341
+  description: Granny Flat
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MC2025%2F0005&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: MC2025/0006
+  address: 17 Heron Street LAIDLEY HEIGHTS QLD 4341
+  description: Secondary Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MC2025%2F0006&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: MC2025/0007
+  address: Derrymore Road DERRYMORE QLD 4352
+  description: Dwelling house
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MC2025%2F0007&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: OW2022/0023.02
+  address: Alvisio Road ADARE QLD 4343
+  description: Minor Change (OW2022/0023)
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OW2022%2F0023.02&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-29'
+- council_reference: PLD2025/0038
+  address: 8 Dawn Court LOCKROSE QLD 4342
+  description: Dwelling & Granny Flat
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2025%2F0038&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-24'
+- council_reference: PLD2025/0039
+  address: 16 Camden Court KENSINGTON GROVE QLD 4341
+  description: Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2025%2F0039&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-24'
+- council_reference: PLD2025/0040
+  address: 7 Goodman Drive MURPHYS CREEK QLD 4352
+  description: On-site Sewerage Facility
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2025%2F0040&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-29'
+- council_reference: PLD2025/0041
+  address: 4 Bluegum Court HATTON VALE QLD 4341
+  description: Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2025%2F0041&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: PLD2025/0042
+  address: 66 Stirling Drive KENSINGTON GROVE QLD 4341
+  description: Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2025%2F0042&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-29'
+- council_reference: PLD2025/0043
+  address: Ryan Road LAIDLEY QLD 4341
+  description: Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2025%2F0043&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: PLD2025/0044
+  address: 26 Howell Circuit ADARE QLD 4343
+  description: Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2025%2F0044&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: PLD2025/0045
+  address: 28 Monarch Place WITHCOTT QLD 4352
+  description: Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2025%2F0045&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: PLD2025/0046
+  address: 40 Hennessy Street GATTON QLD 4343
+  description: Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2025%2F0046&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: PLD2025/0047
+  address: 291 Eastern Drive GATTON QLD 4343
+  description: Sewer Line
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2025%2F0047&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: PLD2025/0048
+  address: 421 Ma Ma Lilydale Road MA MA CREEK QLD 4347
+  description: Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2025%2F0048&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: PLD2025/0049
+  address: 17 Farm Court HATTON VALE QLD 4341
+  description: Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2025%2F0049&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-06'
+- council_reference: PLD2025/0050
+  address: 33 Harvey Road FOREST HILL QLD 4342
+  description: Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2025%2F0050&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: PLD2025/0051
+  address: 21 Camden Court KENSINGTON GROVE QLD 4341
+  description: Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2025%2F0051&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: PLD2025/0052
+  address: 38 Monarch Place WITHCOTT QLD 4352
+  description: Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2025%2F0052&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: PLD2025/0053
+  address: 38 Haslingden Road LOCKYER WATERS QLD 4311
+  description: On-site Sewerage Facility
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2025%2F0053&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: PLD2025/0054
+  address: 7 Goodman Drive MURPHYS CREEK QLD 4352
+  description: Dwelling Only - PLD2025/0040 - On-site Sewerage Facility Application
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2025%2F0054&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: PLD2025/0055
+  address: 98 Staatz Quarry Road REGENCY DOWNS QLD 4341
+  description: Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2025%2F0055&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: PLD2025/0056
+  address: 24 Neuendorfs Road LILYDALE QLD 4344
+  description: Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2025%2F0056&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: PLD2025/0057
+  address: 22 Moonlight Parade LAIDLEY SOUTH QLD 4341
+  description: Shed/Art Studio
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2025%2F0057&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: PLD2025/0058
+  address: 37 Endeavour Way PLAINLAND QLD 4341
+  description: Warehouse
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2025%2F0058&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: PLD2025/0059
+  address: 25 Seventeen Mile Road HELIDON QLD 4344
+  description: Reinstatement of Old File PC2083
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2025%2F0059&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: PLD2025/0060
+  address: 605 Back Flagstone Road FLAGSTONE CREEK QLD 4344
+  description: Dwelling and Existing Shed
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2025%2F0060&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: PLD2025/0061
+  address: 82 Forest Hill Fernvale Road GLENORE GROVE QLD 4342
+  description: Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2025%2F0061&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: PLD2025/0062
+  address: 1325 Gatton Clifton Road MOUNT WHITESTONE QLD 4347
+  description: Connect Toilet Demountable to Holding Tank
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2025%2F0062&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: PLD2025/0063
+  address: 4 Bowen Street HELIDON QLD 4344
+  description: Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2025%2F0063&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: PLD2025/0064
+  address: 4 Goodman Drive MURPHYS CREEK QLD 4352
+  description: Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2025%2F0064&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: PLD2025/0065
+  address: 2 Camden Court KENSINGTON GROVE QLD 4341
+  description: Dwelling
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PLD2025%2F0065&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: RL2022/0012.02
+  address: 22 Freemans Road GATTON QLD 4343
+  description: Extension to Currency Period RL2022/0012
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RL2022%2F0012.02&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-24'
+- council_reference: RL2022/0029.01
+  address: Princess Street GATTON QLD 4343
+  description: Development Permit for Reconfiguring a Lot for Subdivision (1 Lot into
+    2 Lots)
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RL2022%2F0029.01&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: RL2025/0003
+  address: 1062 Woodlands Road GLEN CAIRN QLD 4342
+  description: Subdivision (2 Lots into 2 Lots)
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RL2025%2F0003&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: RL2025/0004
+  address: 58 Barcoo Drive PLAINLAND QLD 4341
+  description: Request for Generally in Accordance with RL2021/0053
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=RL2025%2F0004&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: SP2025/0002
+  address: 2 Horton Place REGENCY DOWNS QLD 4341
+  description: Reconfiguration of a lot (1 into 2)
+  info_url: https://lvrc-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SP2025%2F0002&f=%24P1.ETR.APPDET.VIW&r=LV.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
