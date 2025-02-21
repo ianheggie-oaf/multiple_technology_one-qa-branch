@@ -9,6 +9,9 @@ gem "mechanize"
 gem "scraperwiki", git: "https://github.com/openaustralia/scraperwiki-ruby.git",
                    branch: "morph_defaults"
 
+gem "scraper_utils", git: "https://github.com/ianheggie-oaf/scraper_utils.git",
+                   branch: "main"
+
 # For development and running tests
 gem "rake", "~> 12.3"
 gem "rspec", "~> 3.0"
