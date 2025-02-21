@@ -1,1184 +1,1052 @@
 ---
-- council_reference: BP19/0975
-  address: 16 Woolwich Way SUCCESS WA 6164
-  description: Building Permit Application - Certified - Single Storey Brick and Tiled
-    Residence
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F0975&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+- council_reference: BP25/0148
+  address: 58 Parkway Road BIBRA LAKE WA 6163
+  description: BP Application (Certified) - Remove 2 walls & partial kitchen relocation
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0148&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-04'
-- council_reference: BP19/0976
-  address: 5 Woolwich Way SUCCESS WA 6164
-  description: Building Permit Application - Certified - Single Storey Dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F0976&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-02'
+- council_reference: BP25/0149
+  address: 15 Austen Street LAKE COOGEE WA 6166
+  description: BP Application (Uncertified)- Patio
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0149&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-04'
-- council_reference: BP19/0977
-  address: 17 Melbourne Loop HAMMOND PARK WA 6164
-  description: Building Permit Application - Certified - Residential dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F0977&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-02'
+- council_reference: BP25/0150
+  address: 127 Forrest Road HAMILTON HILL WA 6163
+  description: BAC Application - Unauthorised conversion of existing garage in to
+    Ancillary Accommodation
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0150&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-04'
-- council_reference: BP19/0978
-  address: 80 Osprey Drive YANGEBUP WA 6164
-  description: Building Approval Certificate- Unauthorised Patio & Additions
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F0978&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-03'
+- council_reference: BP25/0151
+  address: 8 Idyllic Avenue JANDAKOT WA 6164
+  description: BP Application (Certified)- Single Storey Dwelling
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0151&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-04'
-- council_reference: BP19/0979
-  address: 4 Colonial Drive BIBRA LAKE WA 6163
-  description: Building Permit (UnCertified)- Retaining Wall
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F0979&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-03'
+- council_reference: BP25/0153
+  address: 253 Barfield Road HAMMOND PARK WA 6164
+  description: BP Application (Certified)- Single Storey Residential Dwelling
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0153&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-04'
-- council_reference: BP19/0980
-  address: 37 Tamara Drive COCKBURN CENTRAL WA 6164
-  description: Building Permit Application - Certified - Solar Panel Installation
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F0980&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-03'
+- council_reference: BP25/0154
+  address: 52 Arabella Loop NORTH COOGEE WA 6163
+  description: BP Application (Certified)- Below Ground Fibreglass Pool & Underpinning
+    Works
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0154&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-04'
-- council_reference: BP19/0981
-  address: 15 Turnbury Park Drive JANDAKOT WA 6164
-  description: Building Permt Application - Uncertified - SINGLE STOREY DWELLING WITH
-    ANCILLARY
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F0981&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-03'
+- council_reference: BP25/0155
+  address: 76 Follington Place BANJUP WA 6164
+  description: BP Application (Certified)- Below Ground Fibreglass Swimming Pool
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0155&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-04'
-- council_reference: BP19/0982
-  address: 5 Melbourne Loop HAMMOND PARK WA 6164
-  description: Building Permit Application - Certified - Residential dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F0982&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-03'
+- council_reference: BP25/0156
+  address: 54 Tortorici Way YANGEBUP WA 6164
+  description: BP Application (Certified)- Below Ground Fibreglass Swimming Pool &
+    Underpinning Works
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0156&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-05'
-- council_reference: BP19/0983
-  address: 16 La Fayette Boulevard BIBRA LAKE WA 6163
-  description: BP Swimming Pool Application - Uncertified - Spa addtion
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F0983&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-03'
+- council_reference: BP25/0157
+  address: 816 Beeliar Drive SUCCESS WA 6164
+  description: BP Application (Certified)- Shaver Shop Fitout Gateways Shopping Centre
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0157&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-05'
-- council_reference: BP19/0984
-  address: 160 Elderberry Drive SOUTH LAKE WA 6164
-  description: Building Permit Application - Certified - AMENDMENT TO BP19/0487
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F0984&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: BP25/0158
+  address: 11 Bluebell Way BIBRA LAKE WA 6163
+  description: BP Application (Uncertified)- Replace an existing garage with a new
+    larger dimension garage
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0158&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-05'
-- council_reference: BP19/0985
-  address: 64 Aquamarine Parade TREEBY WA 6164
-  description: Building Permit Application - Certified - SINGLE STOREY DWELLING
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F0985&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: BP25/0159
+  address: 16 Denham Street SPEARWOOD WA 6163
+  description: BP Application (Certified)- 3 x Single Storey Grouped Dwellings
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0159&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-05'
-- council_reference: BP19/0986
-  address: 5 Tamarind Road TREEBY WA 6164
-  description: BP Swimming Pool Application - Certified - below ground swimming pool
-    and fence
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F0986&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: BP25/0160
+  address: 37 Wheeler Road HAMILTON HILL WA 6163
+  description: Building permit application (Certified) - shed
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0160&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-05'
-- council_reference: BP19/0987
-  address: 623 Rockingham Road MUNSTER WA 6166
-  description: Building Permit Application - Certified - Single storey residential
-    dwelling and retaining
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F0987&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: BP25/0161
+  address: 8 Tylee Cove ATWELL WA 6164
+  description: Building permit application (Certified) - New carport structure
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0161&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-06'
-- council_reference: BP19/0988
-  address: 76 Aquamarine Parade TREEBY WA 6164
-  description: Building Permit Application - Certified - single storey double brick
-    and colourbond family residence
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F0988&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: BP25/0162
+  address: 6 Peregrine Circle BEELIAR WA 6164
+  description: BP Swimming Pool Application (Certified) - Below Ground Fibreglass
+    Swimming Pool and Chemical Grout Injection Underpinning Works
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0162&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-06'
-- council_reference: BP19/0989
-  address: 7 St Joseph Fairway SUCCESS WA 6164
-  description: Building Permit Application (Cert) Swimming pool fence
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F0989&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: BP25/0163
+  address: 110 Britannia Avenue BEELIAR WA 6164
+  description: Building permit application (Uncertified) - workshop extension
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0163&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-07'
-- council_reference: BP19/0990
-  address: 45 Paddock Parade COCKBURN CENTRAL WA 6164
-  description: Building Permit Application - Certified - Residential dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F0990&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: BP25/0164
+  address: 4 Mayhew Cross ATWELL WA 6164
+  description: Building permit application (Uncertified) - shed
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0164&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-07'
-- council_reference: BP19/0991
-  address: 44 Hanbury Loop SUCCESS WA 6164
-  description: Building Permit Application - Certified - Residential dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F0991&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: BP25/0165
+  address: 36 Coffey Road BANJUP WA 6164
+  description: BP Application (Certified) - Patio
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0165&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-07'
-- council_reference: BP19/0992
-  address: 4 Colonial Drive BIBRA LAKE WA 6163
-  description: BP Swimming Pool Application - Certified - Belowground Fibreglass Pool
-    and Fence
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F0992&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: BP25/0166
+  address: 19 Kotisina Gardens LAKE COOGEE WA 6166
+  description: Building permit application (Certified) - steel openable louvered pergola
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0166&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-07'
-- council_reference: BP19/0993
-  address: 124 Quill Way HENDERSON WA 6166
-  description: Building Permit Application (Cert) Civmec Facility Expansion Project
-    - Main Assembly Hall Stage 4
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F0993&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: BP25/0167
+  address: 41 Buran Way SPEARWOOD WA 6163
+  description: BP Application (Certified)- Forward works- Footings, RC Slab & Below
+    Ground Fibreglass Pool
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0167&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-07'
-- council_reference: BP19/0994
-  address: 11 Gosch Street HAMILTON HILL WA 6163
-  description: Building Permit (UnCert) - Privacy Fence
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F0994&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: BP25/0168
+  address: 124 Hamilton Road SPEARWOOD WA 6163
+  description: BP Application (Uncertified)- Free standing Front Wall
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0168&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-07'
-- council_reference: BP19/0995
-  address: 18 Quartz Road TREEBY WA 6164
-  description: Building Permit Application - Certified - BRICK AND METAL
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F0995&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: BP25/0169
+  address: 5 St Joseph Fairway SUCCESS WA 6164
+  description: BP Application (Uncertified)- Shed
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0169&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-07'
-- council_reference: BP19/0996
-  address: 40 Grande Crescent SUCCESS WA 6164
-  description: Building Permit Application - UnCertified - Pool Barrier Fence
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F0996&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: BP25/0170
+  address: 186 Gibbs Road BANJUP WA 6164
+  description: Building permit application (Uncertified) - extending kitchen, patio
+    and games room and installing a bowling alley, installing a granny flat
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0170&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-07'
-- council_reference: BP19/0997
-  address: 40 Grande Crescent SUCCESS WA 6164
-  description: BP Swimming Pool Application - Certified - Belowground Fibreglass Pool,
-    Construction Barrier
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F0997&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: BP25/0171
+  address: 101 Clementine Boulevard TREEBY WA 6164
+  description: BP Application (Certified)- Roof extension to existing verandah structure
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0171&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-07'
-- council_reference: BP19/0998
-  address: 5B Hanlon Street HAMILTON HILL WA 6163
-  description: BP application (Uncertified) - enclosed patio
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F0998&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: BP25/0172
+  address: 10 Napoleon Parade NORTH COOGEE WA 6163
+  description: BP Application (Certified)- 3 Storey Residential Dwelling
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0172&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-07'
-- council_reference: BP19/0999
-  address: 11 Quartz Road TREEBY WA 6164
-  description: BP application (Certified) DOUBLE STOREY DWELLING ..
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F0999&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: BP25/0173
+  address: 65 East Churchill Avenue BEELIAR WA 6164
+  description: BAC Application - Unauthorised Spa
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0173&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-07'
-- council_reference: BP19/1000
-  address: 165 Whadjuk Drive HAMMOND PARK WA 6164
-  description: BP application (Certified) BRICK AND TILED
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1000&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: BP25/0174
+  address: 25 Abundant Boulevard JANDAKOT WA 6164
+  description: BP Application (Certified)- Single Storey Dwelling
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0174&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-07'
-- council_reference: BP19/1001
-  address: 27 O`Connell Street HAMILTON HILL WA 6163
-  description: Building Permit Application - Certified - Colorbond steel garage
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1001&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: BP25/0175
+  address: 8 Herschell Way COOGEE WA 6166
+  description: BP Application (Certified)- Steel Patio
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0175&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-10'
-- council_reference: BP19/1002
-  address: 64 Massicot Road TREEBY WA 6164
-  description: Building Permit Application - Certified - Amendment to BP19/0700
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1002&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: BP25/0176
+  address: 4 Frogmouth Way TREEBY WA 6164
+  description: BP Application (Certified)- Single Storey Residential Dwelling
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0176&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-10'
-- council_reference: BP19/1003
-  address: 7 St Joseph Fairway SUCCESS WA 6164
-  description: BP Swimming Pool Application - Certified - Belowground fibreglass swimming
-    pool
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1003&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: BP25/0177
+  address: 12 Kirk Loop LAKE COOGEE WA 6166
+  description: BP Application (Certified)- Single Storey Residential Dwelling
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0177&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-10'
-- council_reference: BP19/1004
-  address: 77 Johnsonia Bend HAMMOND PARK WA 6164
-  description: BP Swimming Pool Application - Certified - Belowground concrete swimming
-    pool and fence
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1004&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: BP25/0178
+  address: 14 Kirk Loop LAKE COOGEE WA 6166
+  description: BP Application (Certified)- Single Storey Residential Dwelling
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0178&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-10'
-- council_reference: BP19/1005
-  address: 8 Bosworth Road HAMMOND PARK WA 6164
-  description: Building Permit application - Certified - Residential dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1005&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: BP25/0179
+  address: 1 Ambrella Street TREEBY WA 6164
+  description: BAC Unauthorised work - spa
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0179&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-10'
-- council_reference: BP19/1006
-  address: 2 De Ceglie Street COOGEE WA 6166
-  description: Building Permit Application - Certified - Residential dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1006&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: BP25/0180
+  address: 4 Chicho Way COOGEE WA 6166
+  description: Building permit application (Certified) - Double Storey Detached Dwelling
+    with Garage/Store, Porch and Alfresco (Excludes Pool and Associated Safety Fencing/Barriers)
+    only
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0180&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-10'
-- council_reference: BP19/1007
-  address: 8 Staaten Street HAMMOND PARK WA 6164
-  description: BP Swimming Pool Application (Uncertified)
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1007&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: BP25/0181
+  address: 30 Currawong Loop TREEBY WA 6164
+  description: Building permit application (Certified) - residential dwelling
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0181&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-04'
-- council_reference: BP19/1008
-  address: 13 Woolwich Way SUCCESS WA 6164
-  description: Building Permit Application - Certified - Amendment to BP18/2345
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1008&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: BP25/0182
+  address: 63 Healy Road HAMILTON HILL WA 6163
+  description: Building permit application (Uncertified) - garage
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0182&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-11'
-- council_reference: BP19/1009
-  address: 10 Yellowstone Grove SUCCESS WA 6164
-  description: Building Permit Application (Cert) Single storey residential dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1009&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: BP25/0183
+  address: 12 Iris Place YANGEBUP WA 6164
+  description: Building permit application (Uncertified) - patio
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0183&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-10'
-- council_reference: BP19/1010
-  address: 22 Jervois Street BEELIAR WA 6164
-  description: Building Permit (Cert) - Single Residence
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1010&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: BP25/0184
+  address: 12 Frogmouth Way TREEBY WA 6164
+  description: BP Application (Certified)- Construction of new Double Storey Dwelling
+    ,Garage
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0184&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-11'
-- council_reference: BP19/1011
-  address: 9 Kotisina Gardens MUNSTER WA 6166
-  description: Building Permit Application (UnCert) Extension to existing patio/carport
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1011&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-07'
+- council_reference: BP25/0185
+  address: 64 Encyclia Boulevard TREEBY WA 6164
+  description: BP Application (Certified)- Single Storey Residential Dwelling
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0185&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-10'
-- council_reference: BP19/1012
-  address: 4 Opal Way TREEBY WA 6164
-  description: Building Permit Application - Certified - Amendment to BP19/0520
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1012&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-07'
+- council_reference: BP25/0186
+  address: 26 Strelitz View BEELIAR WA 6164
+  description: BP Application (Certified)- Below Ground Fibreglass Swimming Pool only
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0186&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-11'
-- council_reference: BP19/1013
-  address: 9 Criddle Way HAMMOND PARK WA 6164
-  description: Building Permit Application - Certified - Residential dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1013&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-07'
+- council_reference: BP25/0187
+  address: 16 Ebert Street COOLBELLUP WA 6163
+  description: BP Application (Certified)- Single Storey Residential Dwelling
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0187&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-11'
-- council_reference: BP19/1014
-  address: 74 Aquamarine Parade TREEBY WA 6164
-  description: Building Permit Application - Certified - Amendment to BP19/0291
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1014&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-07'
+- council_reference: BP25/0188
+  address: 9 Ingrilli Court LAKE COOGEE WA 6166
+  description: BP Application (Certified)- 6.25m x 3.0m Fibreglass Swimming Pool Installation
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0188&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-11'
-- council_reference: BP19/1015
-  address: 8 Wisely Court AUBIN GROVE WA 6164
-  description: Building Approval Certificate - Unauthorised Patio/Alfresco area
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1015&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-07'
+- council_reference: BP25/0189
+  address: 11 Comfort Place TREEBY WA 6164
+  description: BP Application (Certified)- Patio Addition
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0189&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-11'
-- council_reference: BP19/1016
-  address: 18 Grasstree Lane SUCCESS WA 6164
-  description: Building Permit Application - Certified - Amendment to BP19/0531
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1016&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-09'
+- council_reference: BP25/0190
+  address: 101 Doolette Street SPEARWOOD WA 6163
+  description: CANCELLED - Removal of existing pergola to replace in same location
+    slightly larger.
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0190&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-11'
-- council_reference: BP19/1017
-  address: 70 Muriel Court COCKBURN CENTRAL WA 6164
-  description: Building Permit Application - Certified - Amendment to BP19/0868
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1017&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-09'
+- council_reference: BP25/0191
+  address: 34 Idyllic Avenue JANDAKOT WA 6164
+  description: BP Application (Certified)- Single Storey Residential Dwelling
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0191&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-12'
-- council_reference: BP19/1018
-  address: 5 Nancy Way COOGEE WA 6166
-  description: Building Permit (UnCertified)- Shed
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1018&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-10'
+- council_reference: BP25/0192
+  address: 39A Starling Street HAMILTON HILL WA 6163
+  description: BP Application (Certified)- Louvred Pergola
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0192&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2019-06-12'
-- council_reference: BP19/1019
+  date_received: '2025-02-10'
+- council_reference: BP25/0193
+  address: 101 Doolette Street SPEARWOOD WA 6163
+  description: BP Application (Uncertified)- New Pergola to replace existing
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0193&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: BP25/0194
+  address: 27 Manarola Loop COOGEE WA 6166
+  description: BP Application (Uncertified)- Boundary Wall & Front Fence
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0194&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: BP25/0195
+  address: 39 Dotterel Way YANGEBUP WA 6164
+  description: CANCELLED - Retrospective approval for new shed at 39 Dotterel Way
+    Yangebup
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0195&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: BP25/0196
+  address: Tempest Park 16 Prospero Crescent COOLBELLUP WA 6163
+  description: BP Application (Certified)- AFL Goal Posts and Ball Stop Barrier Net
+    at Tempest Park, Coolbellup
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0196&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: BP25/0197
+  address: 2B Fenton Way HAMILTON HILL WA 6163
+  description: BP Application (Certified)- Single Storey Dwelling
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0197&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: BP25/0198
+  address: 33 Ocean Drive NORTH COOGEE WA 6163
+  description: BP Application (Certified)- Three Storey Residential Dwelling
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0198&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: BP25/0199
+  address: 17 Cathedral Link AUBIN GROVE WA 6164
+  description: BAC Application - Unauthorised Spa
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0199&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: BP25/0200
+  address: 10 Eucalyptus Drive HAMMOND PARK WA 6164
+  description: BP Application (Certified)- Shade Sails - Hammond Park Primary School
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0200&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: BP25/0201
+  address: 57 Whadjuk Drive HAMMOND PARK WA 6164
+  description: BP Application (Certified)- Single Storey Residential Dwelling only
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0201&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: BP25/0202
+  address: 72 Whadjuk Drive HAMMOND PARK WA 6164
+  description: BP Application (Certified)- 4 x Single Storey Residential Dwellings,
+    Retaining & Stores
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0202&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: BP25/0203
+  address: 25 Caledonia Loop NORTH COOGEE WA 6163
+  description: BP Application (Certified)- Two storey brick and steel roof dwelling
+    & garage
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0203&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: BP25/0204
+  address: 14 Currawong Loop TREEBY WA 6164
+  description: BP Application (Certified)- Double Storey Residential Dwelling
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0204&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: BP25/0205
+  address: 253 Frankland Avenue HAMMOND PARK WA 6164
+  description: BP Application (Certified)- Single Storey Residential Dwelling
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0205&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: BP25/0206
+  address: 32/55 Wellard Street BIBRA LAKE WA 6163
+  description: BP Application (Certified)- Steel Mezzanine
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0206&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: BP25/0207
+  address: 14 Rover Lane SPEARWOOD WA 6163
+  description: BP Application (Certified)- Below Ground Fibreglass Swimming Pool and
+    Chemical Grout Injection Underpinning Works only
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0207&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: BP25/0208
+  address: 21 Wineberry Loop SOUTH LAKE WA 6164
+  description: BP Application (Certified)- Shade Sails
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0208&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: BP25/0209
+  address: 15 Marshwood Retreat BIBRA LAKE WA 6163
+  description: BP Application (Certified)- Steel Patio
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0209&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: BP25/0210
+  address: 1 Condamine Approach HAMMOND PARK WA 6164
+  description: BP Application (Certified)- Patio
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0210&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: BP25/0211
+  address: 16 Tapper Road ATWELL WA 6164
+  description: BP Application (Certified)- Shade Sails
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0211&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: BP25/0212
+  address: 78 Durango Turn AUBIN GROVE WA 6164
+  description: BP Application (Certified)- Shade Sails
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0212&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: BP25/0213
+  address: 7/17 Merino Entrance COCKBURN CENTRAL WA 6164
+  description: BP Application (Certified)- Mezzanine Floor
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0213&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: BP25/0214
+  address: 85 Caledonia Loop NORTH COOGEE WA 6163
+  description: Building permit application (Certified) - Masonry Two Storey Dwelling
+    with Porch, Garage, Store, Alfresco & Balcony only
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0214&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: BP25/0215
+  address: 3 Quickly Crescent HAMILTON HILL WA 6163
+  description: Building permit application (Uncertified) - Family room, ensuite, WIR
+    extension to residence
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0215&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: BP25/0216
+  address: 25 Happiness Way TREEBY WA 6164
+  description: BP Application (Certified)- Below Ground Fibreglass Swimming Pool
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0216&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: BP25/0217
+  address: 4 Tana Court LEEMING WA 6149
+  description: Building permit application (Certified) - Steel carport
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0217&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: BP25/0218
+  address: 34 Sumich Gardens COOGEE WA 6166
+  description: Building permit application (Certified) - Louvred Pergola
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0218&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: BP25/0219
+  address: 1 Eudora Way NORTH COOGEE WA 6163
+  description: Building permit application (Certified) - patio
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0219&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: BP25/0220
+  address: 25 Norfolk Street HAMMOND PARK WA 6164
+  description: Building permit application (Certified) - residential single dwelling
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0220&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: BP25/0221
+  address: 9 Tanunda Road COOGEE WA 6166
+  description: Building permit application (Certified) -PERGOLA TO THE PROPOSED BALCONY
+    AREA
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0221&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: BP25/0222
+  address: 3 Azotic Road TREEBY WA 6164
+  description: Building permit application (Certified) - Patio
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0222&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: BP25/0223
+  address: 18 Sorbonne Turn AUBIN GROVE WA 6164
+  description: BP Swimming Pool (Uncertified) - Concrete Swimming Pool
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0223&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: BP25/0224
+  address: 52 Carnegie Parade SUCCESS WA 6164
+  description: Building Permit Application (Uncertified) - Patio
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0224&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: BP25/0225
+  address: 66 Sparks Road HENDERSON WA 6166
+  description: Building permit application (Certified) - Internal Modifications in
+    Existing Factory for Addition of a Cleaning Room
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0225&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: BP25/0226
+  address: 13 Ploughshare Place SOUTH LAKE WA 6164
+  description: Cancelled - Build of 6x4m Shed
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0226&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: BP25/0227
+  address: 13 Ploughshare Place SOUTH LAKE WA 6164
+  description: Building permit application (Uncertified) - shed
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0227&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: BP25/0228
+  address: 23 Melun Street SPEARWOOD WA 6163
+  description: Building Permit Application (Certified) - Below Ground Swimming Pool
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0228&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: BP25/0229
+  address: 58 Hibiscus Street HAMMOND PARK WA 6164
+  description: Building Permit Application (Certified) - Below Ground Swimming Pool
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0229&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: BP25/0230
+  address: 92 Whadjuk Drive HAMMOND PARK WA 6164
+  description: Building Permit application (Certified) - Double Storey Residential
+    Dwelling & Garage
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0230&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: BP25/0231
+  address: 14 Lilly Court SPEARWOOD WA 6163
+  description: Building permit application (Uncertified) - Single Residential house
+    dwelling
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0231&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: BP25/0232
+  address: 14A Kiesey Street COOGEE WA 6166
+  description: BP Application - Spa
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0232&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: BP25/0233
+  address: 38 Newton Street SPEARWOOD WA 6163
+  description: BP Application (Uncertified)- Amendment to BP24/0641 - Change to setbacks
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0233&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: BP25/0234
+  address: 26 Haifa Street COOGEE WA 6166
+  description: BP Application (Certified)- Amendment to BP24/1376 - Connection detail
+    added, Tie-down bolt, thick true core plate to brick
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0234&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: BP25/0235
+  address: 10 Currawong Loop TREEBY WA 6164
+  description: BP Application (Certified)- Single Storey Dwelling
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0235&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: BP25/0236
+  address: 7/395 Carrington Street HAMILTON HILL WA 6163
+  description: BP Application (Certified)- Balcony Patio
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0236&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: BP25/0237
+  address: 61 Currawong Loop TREEBY WA 6164
+  description: BP Application (Certified)- Single Storey Residential Dwelling
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0237&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: BP25/0238
+  address: 7 Waters Avenue ATWELL WA 6164
+  description: BP Application (Certified)- Proposed SDA dwellings (grouped dwellings
+    x 2) with attached garages
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0238&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: BP25/0239
+  address: 43 Norfolk Street HAMMOND PARK WA 6164
+  description: BP Application (Certified)- Single Storey Residential Dwelling
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0239&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: BP25/0240
+  address: 16 Currawong Loop TREEBY WA 6164
+  description: Building permit application (Certified) - residential dwelling
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0240&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: BP25/0241
+  address: 70 Encyclia Boulevard TREEBY WA 6164
+  description: Building permit application (Certified) - residential dwelling
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0241&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: BP25/0242
+  address: 49 Winterfold Road HAMILTON HILL WA 6163
+  description: BAC Unauthorised Work - additions to residential dwelling (Unit 1)
+    & built strata - existing authorised building (3 residential dwellings)
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0242&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: BP25/0243
+  address: 68 Currawong Loop TREEBY WA 6164
+  description: "SINGLE STOREY RESIDENTIAL DWELLING INCLUDING GARAGE, PORCH &\r\nALFRESCO."
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0243&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: BP25/0244
+  address: 39 Jacaranda Road HAMMOND PARK WA 6164
+  description: fibreglass pool
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0244&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: BP25/0245
+  address: 20 Turfan Way LAKE COOGEE WA 6166
+  description: Below Ground Swimming Pool
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0245&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: BP25/0246
+  address: 9 Rhodes Rise COOGEE WA 6166
+  description: Single (R-Code) House
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0246&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: BP25/0247
+  address: 11A Malcolm Street SPEARWOOD WA 6163
+  description: Proposed Single storey framed dwelling
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0247&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: BP25/0248
+  address: 12 Urlich Close LEEMING WA 6149
+  description: Building permit application (Uncertified) - retaining wall
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0248&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: BP25/0249
+  address: 9 Scroop Way SPEARWOOD WA 6163
+  description: Certified application for construction of 2 new residences and renovation
+    of existing residence
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0249&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: BP25/0250
+  address: 2 Nesting Street TREEBY WA 6164
+  description: single storey dwelling
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0250&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: BP25/0251
+  address: 33 Cherry Drive TREEBY WA 6164
+  description: RESIDENTIAL DWELLING
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0251&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: BP25/0252
+  address: 33 Mitta Street HAMMOND PARK WA 6164
+  description: "New double storey home, concrete slab on ground, suspended slab, double
+    brick\r\nwith colorbond roof, including double carport"
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0252&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: BP25/0253
+  address: 18 Strathcona Rise BIBRA LAKE WA 6163
+  description: BAC Unauthorised Work - shed
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0253&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: BP25/0254
+  address: 1 Hartwell Parade JANDAKOT WA 6164
+  description: Detached Addition to Dwelling
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0254&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: BP25/0255
+  address: 35 Antonio Street COOLBELLUP WA 6163
+  description: Freestanding flat patio
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0255&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: BP25/0256
+  address: 3 Colgrave Mews SOUTH LAKE WA 6164
+  description: Spa installation permit and safety fence
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0256&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: BP25/0257
+  address: 68 Cocos Drive BIBRA LAKE WA 6163
+  description: Building permit application (Certified) - fire damage repairs - workshop
+    with incidental office
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0257&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: BP25/0258
+  address: 2 Nesting Street TREEBY WA 6164
+  description: Building permit application (Certified) - single storey dwelling &
+    garage
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP25%2F0258&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: CL25/0008
+  address: 47 Corsia Crescent HAMMOND PARK WA 6164
+  description: '163922'
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CL25%2F0008&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: CL25/0009
+  address: 9 Escalus Street COOLBELLUP WA 6163
+  description: 716-24
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CL25%2F0009&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: CL25/0010
+  address: 9001L Artemis Loop WATTLEUP WA 6166
+  description: '162836'
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CL25%2F0010&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: CL25/0011
+  address: 28 Hargreaves Road COOLBELLUP WA 6163
+  description: 689-22
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CL25%2F0011&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-15'
+- council_reference: DA25/0062
+  address: 14 Zodiac Loop ATWELL WA 6164
+  description: Single (R-Code) House - Patio and Pergola
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0062&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: DA25/0063
+  address: 95 Leaside Way SPEARWOOD WA 6163
+  description: 2 x Small Grouped Dwellings + 1 Retained Dwelling
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0063&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: DA25/0064
+  address: 33 Lycaste Parade TREEBY WA 6164
+  description: 1. Single (R-Code) House - Patio
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0064&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: DA25/0065
+  address: 7 Davilak Avenue HAMILTON HILL WA 6163
+  description: 2. Grouped (R-Code) Dwelling 3x
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0065&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: DA25/0066
+  address: 19 Captivating Street JANDAKOT WA 6164
+  description: 1. Single (R-Code) House
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0066&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: DA25/0067
+  address: 10 Lillypilly Crescent TREEBY WA 6164
+  description: Renewal of existing approval DA20/1247 - Advertising sign for Lake
+    Treeby residential estate.
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0067&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: DA25/0068
+  address: 68 Waverley Road COOLBELLUP WA 6163
+  description: Place of Worship - Patio
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0068&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: DA25/0069
+  address: 8 Kamala Street TREEBY WA 6164
+  description: 1. Single (R-Code) House
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0069&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: DA25/0070
+  address: 6 Parnell Road HAMILTON HILL WA 6163
+  description: 1. Single (R-Code) House
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0070&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: DA25/0071
+  address: 9 Marlene Way BIBRA LAKE WA 6163
+  description: Change of Use - Residential to short stay accommodation
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0071&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-06'
+- council_reference: DA25/0072
+  address: 5 Keats Place SPEARWOOD WA 6163
+  description: 1. Single (R-Code) House - Carport
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0072&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-06'
+- council_reference: DA25/0073
+  address: 40 Etherington Avenue SPEARWOOD WA 6163
+  description: Single (R-Code) House - Garage
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0073&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: DA25/0074
+  address: 26A View Street BEELIAR WA 6164
+  description: 1. Single (R-Code) House - Patio & Carport
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0074&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: DA25/0075
+  address: 19 Balboa Loop AUBIN GROVE WA 6164
+  description: 1. Single (R-Code) House -Patio
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0075&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: DA25/0076
+  address: 22 Derinton Way HAMILTON HILL WA 6163
+  description: 1. Single (R-Code) House - Patio
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0076&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: DA25/0077
+  address: 24 Firbank Road BEELIAR WA 6164
+  description: 1. Single (R-Code) House
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0077&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: DA25/0079
+  address: 37 Bellingham Road HAMMOND PARK WA 6164
+  description: 1. Single (R-Code) House - Shed
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0079&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: DA25/0080
+  address: 48 Moorhen Drive YANGEBUP WA 6164
+  description: 1. Single (R-Code) House - Shed
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0080&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: DA25/0081
+  address: 39A Ferdinand Crescent COOLBELLUP WA 6163
+  description: 1. Single (R-Code) House
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0081&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: DA25/0082
+  address: 331 Wattleup Road WATTLEUP WA 6166
+  description: Retrospective Change of Use - Christmas Tree Farm
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0082&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: DA25/0083
+  address: 418 Beenyup Road BANJUP WA 6164
+  description: 1. Single (R-Code) House - Shed
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0083&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: DA25/0084
+  address: 38 Orsino Boulevard NORTH COOGEE WA 6163
+  description: 1. Single (R-Code) House
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0084&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: DA25/0086
+  address: 10 Naylor Close ATWELL WA 6164
+  description: Renewal/Modification of Development Approval - Amendment of existing
+    planning application DA23/0550
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0086&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: DA25/0089
+  address: 7 Nivea Lane BEELIAR WA 6164
+  description: 1. Single (R-Code) House - Patio
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0089&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: DA25/0090
+  address: 228 Wentworth Parade SUCCESS WA 6164
+  description: 1. Single (R-Code) House - Patio
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0090&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: DA25/0091
+  address: 157 Barfield Road HAMMOND PARK WA 6164
+  description: Retaining wall for residential subdivision
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0091&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: DA25/0092
+  address: 48 Carriage Chase BANJUP WA 6164
+  description: 1. Single (R-Code) House - MEZZANINE FLOOR/ AWNING
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0092&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: DA25/0093
+  address: 53 Lachlan Way BIBRA LAKE WA 6163
+  description: 1. Single (R-Code) House - Patios x2
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0093&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: DA25/0094
+  address: 127 Forrest Road HAMILTON HILL WA 6163
+  description: Retrospective Ancillary Dwelling
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0094&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: DA25/0095
+  address: 208 Bartram Road ATWELL WA 6164
+  description: "Renewal Extension to DA23/0239 - Change of Use - Tourist accommodation
+    (Hosting Airbnb) \r\nSTRA61647GK7M0FY"
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0095&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: DA25/0096
+  address: 153 Fawcett Road LAKE COOGEE WA 6166
+  description: Single (R-code) Dwelling - Storage area
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0096&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: DA25/0097
+  address: 4 Galsworthy Place SPEARWOOD WA 6163
+  description: 1. Single (R-Code) House - Retaining Wall
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0097&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: DA25/0098
+  address: 96 Hebble Loop BANJUP WA 6164
+  description: 1. Single (R-Code) House - Shed
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0098&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: DA25/0099
+  address: 43 Pelican Ramble YANGEBUP WA 6164
+  description: 1. Single (R-Code) House - Fence
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0099&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: DA25/0100
+  address: 8 Nesting Street TREEBY WA 6164
+  description: 1. Single (R-Code) House
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0100&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-16'
+- council_reference: DA25/0101
+  address: 36 Hamilton Road HAMILTON HILL WA 6163
+  description: 1. Single (R-Code) House - Boundary Wall & Studio/shed for Storage
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0101&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: DA25/0102
+  address: 5 Lorne Avenue HAMMOND PARK WA 6164
+  description: Change of Use - Residential - To apply for a DA number so that we can
+    continue to offer our property on Airbnb past the 90 day exemption
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0102&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: DA25/0103
+  address: 95 Clarence Beach Road HENDERSON WA 6166
+  description: 2x workshops, 2x incidental offices, a barge loading wharf and associated
+    hardstand area - DAP25/002
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA25%2F0103&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: DP25/0006
+  address: 2 Wellard Street BIBRA LAKE WA 6163
+  description: Demolition permit application - tin shed removal
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DP25%2F0006&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: DP25/0007
+  address: 828 North Lake Road COCKBURN CENTRAL WA 6164
+  description: Demolition permit application - full demolition ..
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DP25%2F0007&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: DP25/0008
+  address: 14 Wheeler Road HAMILTON HILL WA 6163
+  description: Demolition permit application - Full site clearance within the property
+    boundaries ..
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DP25%2F0008&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: DP25/0009
   address: 17 Fulton Street HAMILTON HILL WA 6163
-  description: Building Permit Application (UnCert) Front fence/ Pool fence
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1019&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-12'
-- council_reference: BP19/1020
-  address: 26 Deptford Street SUCCESS WA 6164
-  description: Building Permit Application - Certified - Single Storey Residential
-    Dwelling with Garage & Alfresco
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1020&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-12'
-- council_reference: BP19/1021
-  address: 17 Fulton Street HAMILTON HILL WA 6163
-  description: BP Swimming Pool Application - UnCertified - belowground fibreglass
-    swimming
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1021&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-12'
-- council_reference: BP19/1022
-  address: 16A Birbeck Way SPEARWOOD WA 6163
-  description: Building Permit Application - Certified - Residential Single Dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1022&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-12'
-- council_reference: BP19/1023
-  address: 13 Podman Loop NORTH COOGEE WA 6163
-  description: Building Permit Application - Certified - New residential double storey
-    dwelling with retaining walls
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1023&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-12'
-- council_reference: BP19/1024
-  address: 9 Charnley Bend SUCCESS WA 6164
-  description: Building Permit Application - Uncertified - Shed
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1024&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-12'
-- council_reference: BP19/1025
-  address: 27 Jewel Gardens HAMMOND PARK WA 6164
-  description: Building Permit Application - Certified - Residential dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1025&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-13'
-- council_reference: BP19/1026
-  address: 25 Jewel Gardens HAMMOND PARK WA 6164
-  description: Building Permit Application - Certified - Residential dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1026&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-13'
-- council_reference: BP19/1027
-  address: 26 Sawle Road HAMILTON HILL WA 6163
-  description: Building Approval Certificate - Patio & Deck
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1027&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-13'
-- council_reference: BP19/1028
-  address: 10 Quartz Road TREEBY WA 6164
-  description: Building Permit Application - Certified - Residential dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1028&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-13'
-- council_reference: BP19/1029
-  address: 17 Ravello Vista YANGEBUP WA 6164
-  description: Building Permit Application - Certified - Residential dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1029&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-13'
-- council_reference: BP19/1030
-  address: 8 Staaten Street HAMMOND PARK WA 6164
-  description: Building Permit (UnCertified)- Pool fencing
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1030&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-13'
-- council_reference: BP19/1031
-  address: 45 Aquamarine Parade TREEBY WA 6164
-  description: Building Permit Application - Certified - Residential dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1031&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-13'
-- council_reference: BP19/1032
-  address: 122 Harper Road BANJUP WA 6164
-  description: BP application (Certified) - kitchen/laundry renovation
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1032&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-13'
-- council_reference: BP19/1033
-  address: 4 Quarimor Road BIBRA LAKE WA 6163
-  description: Building Permit (Certified)- Alterations to w/house & addition of 1st
-    Floor lunchroom & toilet facilities
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1033&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-13'
-- council_reference: BP19/1034
-  address: 43 Marwood Circuit SUCCESS WA 6164
-  description: Building Permit Application - Certified - Residential dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1034&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-14'
-- council_reference: BP19/1035
-  address: 70 Greensand Promenade TREEBY WA 6164
-  description: Building Permit Application - Certified - single detached residential
-    dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1035&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-14'
-- council_reference: BP19/1036
-  address: 80 Greensand Promenade TREEBY WA 6164
-  description: Building Permit Application - Certified - single detached residential
-    dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1036&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-14'
-- council_reference: BP19/1037
-  address: 72 Birchley Road BEELIAR WA 6164
-  description: Building Permit (UnCert) - Shed
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1037&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-14'
-- council_reference: BP19/1038
-  address: 218 Frankland Avenue HAMMOND PARK WA 6164
-  description: Building Permit Application - Certified - Amendment to BP19/0725
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1038&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-14'
-- council_reference: BP19/1039
-  address: 7 Daviesia Turn SUCCESS WA 6164
-  description: Building Permit (UnCert) - Steel Frame/Steel Roof Patio
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1039&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-17'
-- council_reference: BP19/1040
-  address: 11 Capello Lane HAMMOND PARK WA 6164
-  description: Building Permit Application (Cert) Residential dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1040&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-17'
-- council_reference: BP19/1041
-  address: 18A Kent Street SPEARWOOD WA 6163
-  description: Building Permit Application (Cert) Change in roof (tile to colorbond)
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1041&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-17'
-- council_reference: BP19/1042
-  address: 152 Holmes Road MUNSTER WA 6166
-  description: Building Permit Application - Certified - Residential Dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1042&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-17'
-- council_reference: BP19/1043
-  address: 18B Kent Street SPEARWOOD WA 6163
-  description: Building Permit Application (Cert) Change in roof (Tile to Colorbond)
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1043&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-17'
-- council_reference: BP19/1044
-  address: 15A Othello Quays NORTH COOGEE WA 6163
-  description: BP Swimming Pool Application - Certified - Belowground concrete pool
-    with glass pool fence
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1044&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-17'
-- council_reference: BP19/1045
-  address: 63 McPhee Road HAMMOND PARK WA 6164
-  description: Building Permit Application - Certified - Residential dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1045&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-17'
-- council_reference: BP19/1046
-  address: 2 Solitaire Road TREEBY WA 6164
-  description: Building Permit Application - Certified - Residential dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1046&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-17'
-- council_reference: BP19/1047
-  address: 29 Waitch Loop BEELIAR WA 6164
-  description: Building Permit (Cert) - Timber Framed Patio
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1047&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-17'
-- council_reference: BP19/1048
-  address: 18A Kent Street SPEARWOOD WA 6163
-  description: Building Permit (Cert) - Gable Patio
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1048&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-17'
-- council_reference: BP19/1049
-  address: 123 Orsino Boulevard NORTH COOGEE WA 6163
-  description: Building Permit Application - Certified - Residential dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1049&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-18'
-- council_reference: BP19/1050
-  address: 13 Moondarra Circle SOUTH LAKE WA 6164
-  description: Building Permit Application (Cert) Carport
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1050&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-18'
-- council_reference: BP19/1051
-  address: 13 Recreation Road HAMILTON HILL WA 6163
-  description: Building Approval Certificate application - home hair salon - non habitable
-    building part inclusive of wet area
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1051&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-18'
-- council_reference: BP19/1052
-  address: 52/100 Clementine Boulevard TREEBY WA 6164
-  description: Building Permit Application - Certified - Amendment BP19/0896 to cover
-    change to Unit 46 - design change only.
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1052&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-18'
-- council_reference: BP19/1053
-  address: 21 Hanbury Loop SUCCESS WA 6164
-  description: Building Permit Application - Certified - Residential Dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1053&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-18'
-- council_reference: BP19/1054
-  address: 56 Southwell Crescent HAMILTON HILL WA 6163
-  description: BP application (Certified) - picnic shelter/gazebo - Southwell Park
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1054&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-18'
-- council_reference: BP19/1055
-  address: 11 Welford Way SUCCESS WA 6164
-  description: Building Permit Application - Certified - Residential Single Storey
-    Dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1055&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-18'
-- council_reference: BP19/1056
-  address: 12 Mercator Close NORTH COOGEE WA 6163
-  description: Building Permit (Certified)- 2 Storey Dwelling, screen walls & letterbox
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1056&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-19'
-- council_reference: BP19/1057
-  address: 97 Hammond Road COCKBURN CENTRAL WA 6164
-  description: Building Permit Application - UnCertified - Retaining Wall
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1057&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-19'
-- council_reference: BP19/1058
-  address: 19 Chesterton Street SPEARWOOD WA 6163
-  description: Building Approval Certificate - Patio
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1058&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-20'
-- council_reference: BP19/1059
-  address: 53 Corsia Crescent HAMMOND PARK WA 6164
-  description: Building Permit (UnCertified)- Front Fence to a Single Storey House
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1059&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-18'
-- council_reference: BP19/1060
-  address: 1 Columbus Loop SUCCESS WA 6164
-  description: BP Swimming Pool Application - Uncertified - Belowground Concrete Swimming
-    Pool and Fence
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1060&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-19'
-- council_reference: BP19/1061
-  address: 59 Sylvan Crescent LEEMING WA 6149
-  description: Building Permit (UnCertified)- Shed
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1061&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-19'
-- council_reference: BP19/1062
-  address: 5 Baxteri Way HAMMOND PARK WA 6164
-  description: Building Permit Application - Certified - Residential dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1062&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-19'
-- council_reference: BP19/1063
-  address: 54 Greensand Promenade TREEBY WA 6164
-  description: Building Permit Application - Certified - Amendment to (BP19/0409)
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1063&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-20'
-- council_reference: BP19/1064
-  address: 62 Duchart Way COOGEE WA 6166
-  description: Building Approval Certificate - Rectification works to storeroom/workshop
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1064&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-20'
-- council_reference: BP19/1065
-  address: 19 Owsten Court TREEBY WA 6164
-  description: Building Permit (UnCert) - Shed - Vehicle Storage
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1065&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-20'
-- council_reference: BP19/1066
-  address: 101 Turquoise Boulevard TREEBY WA 6164
-  description: Building Permit (Cert) - Two Storey Dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1066&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-20'
-- council_reference: BP19/1067
-  address: 14 Duchart Way COOGEE WA 6166
-  description: Building Permit Application (Cert) Brick wall/fence
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1067&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-20'
-- council_reference: BP19/1068
-  address: 75 Barfield Road HAMMOND PARK WA 6164
-  description: Building Permit Application - UnCertified - Pool Barrier Fence
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1068&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-20'
-- council_reference: BP19/1069
-  address: 58 Greensand Promenade TREEBY WA 6164
-  description: Building Permit Application - Certified - Single Storey residential
-    dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1069&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
-- council_reference: BP19/1070
-  address: 94 Discovery Drive BIBRA LAKE WA 6163
-  description: Building Permit Application (Cert) Applus Training Centre
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1070&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-20'
-- council_reference: BP19/1071
-  address: 36 Helen Street HAMILTON HILL WA 6163
-  description: Building Permit Application - Certified - Amendment to Building Permit
-    BP18/1364, BP18/1650, BP19/0602 & BP19/0874
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1071&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
-- council_reference: BP19/1072
-  address: 4 Citrus Loop SOUTH LAKE WA 6164
-  description: Building Approval Certificate - Patio
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1072&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
-- council_reference: BP19/1073
-  address: 15 Hybrid Court TREEBY WA 6164
-  description: Building Approval Certificate - Unauthorised works to Building A, B,
-    C, D, water tank, alfresco and veranda
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1073&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
-- council_reference: BP19/1074
-  address: 15 Hybrid Court TREEBY WA 6164
-  description: Building Permit Application (Cert) Remedial work to existing building
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1074&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
-- council_reference: BP19/1075
-  address: 134 Orsino Boulevard NORTH COOGEE WA 6163
-  description: Building Permit Application (Cert) Amendment to BP18/2052
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1075&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-20'
-- council_reference: BP19/1076
-  address: 16 Dusky Court MUNSTER WA 6166
-  description: Building Permit Application - Certified - Single Storey dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1076&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
-- council_reference: BP19/1077
-  address: 6 Voyageurs Way HAMMOND PARK WA 6164
-  description: Building Permit Application - Certified - Single storey double brick
-    and colourbond family residence
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1077&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
-- council_reference: BP19/1078
-  address: 10 Prizba Rise COOGEE WA 6166
-  description: Building Permit Application - Certified - Single storey double brick
-    and colourbond family residence
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1078&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
-- council_reference: BP19/1079
-  address: 7002L Abelia Road TREEBY WA 6164
-  description: BP application (Certified) - residential aged care facility (Opal Treeby)
-    - external alterations & additions (sliding doors, shade structures, outdoor kitchen)
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1079&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
-- council_reference: BP19/1080
-  address: 1/9 Bilcich Gardens SPEARWOOD WA 6163
-  description: Building Permit Application (UnCert) Patio
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1080&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
-- council_reference: BP19/1081
-  address: 21 Mayhew Cross ATWELL WA 6164
-  description: Building Permit Application (UnCert) Conversion of Carport to Garage
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1081&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
-- council_reference: BP19/1082
-  address: 122 Holmes Road MUNSTER WA 6166
-  description: Building Permit Application (UnCert) Additional Water Tank
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1082&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-24'
-- council_reference: BP19/1083
-  address: 78 Muriel Court COCKBURN CENTRAL WA 6164
-  description: Building Permit Application - Certified - single dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1083&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-24'
-- council_reference: BP19/1084
-  address: 20 Malvolio Road COOLBELLUP WA 6163
-  description: Building Permit Application - Certified - single storey dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1084&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-24'
-- council_reference: BP19/1085
-  address: 110 Mills Street COOGEE WA 6166
-  description: Building Permit (Cert) - Double Storey Dwelling & Retaining Walls &
-    Screen Walls
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1085&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-24'
-- council_reference: BP19/1086
-  address: 28 Bondi Way AUBIN GROVE WA 6164
-  description: Building Permit Application - Certified - Single storey residential
-    dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BP19%2F1086&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-24'
-- council_reference: CL19/0071
-  address: 75L Prizmic Street BEELIAR WA 6164
-  description: '155216'
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CL19%2F0071&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-05'
-- council_reference: CL19/0072
-  address: 65 Delaronde Drive SUCCESS WA 6164
-  description: 383-18
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CL19%2F0072&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-06'
-- council_reference: CL19/0073
-  address: 12 Romeo Road COOLBELLUP WA 6163
-  description: Clearance - 691-18
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CL19%2F0073&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-10'
-- council_reference: CL19/0074
-  address: 9000L Wentworth Parade SUCCESS WA 6164
-  description: 152712 / 155253
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CL19%2F0074&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-10'
-- council_reference: CL19/0075
-  address: 9546L Torwood Avenue TREEBY WA 6164
-  description: '152947'
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CL19%2F0075&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-10'
-- council_reference: CL19/0076
-  address: 137 Blackwood Avenue HAMILTON HILL WA 6163
-  description: Clearance - 157250
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CL19%2F0076&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-10'
-- council_reference: CL19/0077
-  address: 139 Forrest Road HAMILTON HILL WA 6163
-  description: 801-18
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CL19%2F0077&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-11'
-- council_reference: CL19/0078
-  address: 34 Sebastian Crescent COOLBELLUP WA 6163
-  description: 745-18
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CL19%2F0078&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-12'
-- council_reference: CL19/0079
-  address: 9037L Mudstone Road TREEBY WA 6164
-  description: '155104'
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CL19%2F0079&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-14'
-- council_reference: CL19/0080
-  address: 68 Edeline Street SPEARWOOD WA 6163
-  description: 1166-18
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CL19%2F0080&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
-- council_reference: DA19/0294
-  address: 125L Wattleup Road HAMMOND PARK WA 6164
-  description: Subdivision Retaining Walls
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0294&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-13'
-- council_reference: DA19/0387
-  address: 52 Entrance Road SPEARWOOD WA 6163
-  description: Renewal DA16/0723 - Office & Health Studio - Mixed Use 11 Unit Commercial
-    Development
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0387&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-04'
-- council_reference: DA19/0388
-  address: 11/40 Port Pirie Street BIBRA LAKE WA 6163
-  description: Motor Vehicle Wash & Fast Food Outlet - Additional Drive Through Coffee
-    Lane Alterations
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0388&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-04'
-- council_reference: DA19/0389
-  address: 451L Railway Parade BIBRA LAKE WA 6163
-  description: General Industry, Warehouse & Office
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0389&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-04'
-- council_reference: DA19/0390
-  address: 119 Winfield Street HAMILTON HILL WA 6163
-  description: Single (R-Code) House
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0390&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-05'
-- council_reference: DA19/0391
-  address: 45 Boronia Road BANJUP WA 6164
-  description: Shed Extension
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0391&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-05'
-- council_reference: DA19/0392
-  address: 3 Leece Street COOLBELLUP WA 6163
-  description: PUBLIC WORKS - x3 Grouped Dwellings
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0392&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-05'
-- council_reference: DA19/0393
-  address: 110 Rockingham Road HAMILTON HILL WA 6163
-  description: Education Establishment - Uniform Storage & Transportable Classroom
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0393&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-05'
-- council_reference: DA19/0394
-  address: 75 Rockingham Road HAMILTON HILL WA 6163
-  description: Single (R-Code) House - Front Fence
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0394&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-05'
-- council_reference: DA19/0395
-  address: 41 Glendower Way SPEARWOOD WA 6163
-  description: x4 Grouped Dwellings
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0395&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-06'
-- council_reference: DA19/0396
-  address: 8/6 Geelong Court BIBRA LAKE WA 6163
-  description: Modification to DA19/0067 – Light & Service Industry – Extension &
-    Signage
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0396&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-06'
-- council_reference: DA19/0397
-  address: 45 Boronia Road BANJUP WA 6164
-  description: Single House - Outbuilding Extension
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0397&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-06'
-- council_reference: DA19/0398
-  address: 3 Colt Entrance COCKBURN CENTRAL WA 6164
-  description: Single (R-Code) House & Ancillary Dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0398&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-06'
-- council_reference: DA19/0399
-  address: 1 Crystalline Road SPEARWOOD WA 6163
-  description: Single (R-Code) House - Patio
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0399&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-07'
-- council_reference: DA19/0400
-  address: 1L Semple Court SOUTH LAKE WA 6164
-  description: x 67 Aged or Dependent Persons Dwellings
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0400&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-07'
-- council_reference: DA19/0401
-  address: 70 Frederick Road HAMILTON HILL WA 6163
-  description: Grouped Dwelling - Retaining Walls
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0401&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-09'
-- council_reference: DA19/0402
-  address: 128 Holmes Road MUNSTER WA 6166
-  description: Single House - Retaining Walls (Paddock Retaining Walls)
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0402&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-10'
-- council_reference: DA19/0403
-  address: 13 Devonshire Link NORTH COOGEE WA 6163
-  description: Single (R-Code) House - Extension to Boundary Wall
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0403&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-10'
-- council_reference: DA19/0404
-  address: 527A Rockingham Road MUNSTER WA 6166
-  description: Grouped Dwelling - Patio
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0404&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-10'
-- council_reference: DA19/0405
-  address: 4 Dotterel Way YANGEBUP WA 6164
-  description: Single (R-Code) House - Patio & Outbuilding
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0405&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-10'
-- council_reference: DA19/0406
-  address: 94 Discovery Drive BIBRA LAKE WA 6163
-  description: Change of Use from Warehouse to Warehouse, Office & Educational Establishment
-    (Training Centre)
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0406&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-11'
-- council_reference: DA19/0407
-  address: 82 Sparks Road HENDERSON WA 6166
-  description: Modification to DA18/0794 - Marine Engineering (Workshop) & Office
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0407&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-11'
-- council_reference: DA19/0408
-  address: 28 Hanbury Loop SUCCESS WA 6164
-  description: Cancelled - Single (R-Code) House
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0408&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-11'
-- council_reference: DA19/0409
-  address: 17 Maxworthy Place HAMILTON HILL WA 6163
-  description: Single (R-Code) House - Addition
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0409&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-11'
-- council_reference: DA19/0410
-  address: 7 Ferdinand Crescent COOLBELLUP WA 6163
-  description: I would like to open a small hair salon at home.
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0410&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-11'
-- council_reference: DA19/0411
-  address: 7 Kennon Court SPEARWOOD WA 6163
-  description: Single (R-Code) House - Outbuilding
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0411&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-11'
-- council_reference: DA19/0412
-  address: 20 Crystalline Road SPEARWOOD WA 6163
-  description: Single (R-Code) House - Balcony and Deck Addition
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0412&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-11'
-- council_reference: DA19/0413
-  address: 7 Daviesia Turn SUCCESS WA 6164
-  description: Single (R-Code) House - Patio
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0413&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-12'
-- council_reference: DA19/0414
-  address: 5 Baxteri Way HAMMOND PARK WA 6164
-  description: 1. Single (R-Code) House - Residential - Planning application 156463
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0414&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-12'
-- council_reference: DA19/0415
-  address: 14 Stanyford Place HAMILTON HILL WA 6163
-  description: Single (R-Code) House - Retrospective Outbuilding & Additions
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0415&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-12'
-- council_reference: DA19/0416
-  address: 40 Mosedale Retreat ATWELL WA 6164
-  description: Home Occupation - IT Repairs
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0416&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-12'
-- council_reference: DA19/0417
-  address: 40 Mosedale Retreat ATWELL WA 6164
-  description: Duplication to DA19/0416 - Home Occupation - 4. Home Occupation - IT
-    repairs
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0417&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-13'
-- council_reference: DA19/0418
-  address: 7 Ferdinand Crescent COOLBELLUP WA 6163
-  description: I would like to apply for home based hair salon.
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0418&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-13'
-- council_reference: DA19/0419
-  address: 24 Fawcett Road MUNSTER WA 6166
-  description: Single (R-Code) House - Patio
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0419&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-14'
-- council_reference: DA19/0420
-  address: 239 Barrington Street BIBRA LAKE WA 6163
-  description: Place of Worship - Dome & Minaret
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0420&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-16'
-- council_reference: DA19/0421
-  address: 79/888 North Lake Road COCKBURN CENTRAL WA 6164
-  description: Change of Use from Shop to Shop (IT Repairs)
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0421&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-17'
-- council_reference: DA19/0422
-  address: 15 Solitaire Road TREEBY WA 6164
-  description: Single (R-Code) House
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0422&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-17'
-- council_reference: DA19/0423
-  address: SP 18/432 Rockingham Road SPEARWOOD WA 6163
-  description: Office - Signage (Fascia & Wall Signage)
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0423&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-17'
-- council_reference: DA19/0424
-  address: 1 Kiesey Street COOGEE WA 6166
-  description: Use Not Listed - Display Home
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0424&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-18'
-- council_reference: DA19/0425
-  address: 27 Bradbury Road HAMILTON HILL WA 6163
-  description: PUBLIC WORKS - Educational Establishment - Storage Shed (East Hamilton
-    Hill Primary School)
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0425&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-18'
-- council_reference: DA19/0426
-  address: 97 Hammond Road COCKBURN CENTRAL WA 6164
-  description: Building Application - Retaining Walls
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0426&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-18'
-- council_reference: DA19/0427
-  address: 17L Cockburn Road NORTH COOGEE WA 6163
-  description: Signage (Advisory Signage)
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0427&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-19'
-- council_reference: DA19/0428
-  address: 60 Medina Parade NORTH COOGEE WA 6163
-  description: New Boundary Fence
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0428&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-19'
-- council_reference: DA19/0429
-  address: 69A Healy Road HAMILTON HILL WA 6163
-  description: Rear Grouped Dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0429&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-19'
-- council_reference: DA19/0430
-  address: 116 Cutler Road JANDAKOT WA 6164
-  description: Proposed office and warehouse extension
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0430&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-19'
-- council_reference: DA19/0431
-  address: 60 Medina Parade NORTH COOGEE WA 6163
-  description: Single (R-Code) House - Fence
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0431&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-19'
-- council_reference: DA19/0432
-  address: 116 Cutler Road JANDAKOT WA 6164
-  description: Warehouse - Office and warehouse extension
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0432&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-19'
-- council_reference: DA19/0433
-  address: 2/2 Points Way COCKBURN CENTRAL WA 6164
-  description: Consulting Room - Proposed consulting room fit-out of an existing empty
-    commercial unit.
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0433&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-19'
-- council_reference: DA19/0434
-  address: 11 Hermione Way COOLBELLUP WA 6163
-  description: Single (R-Code) House - Retrospective Carport
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0434&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-20'
-- council_reference: DA19/0435
-  address: 3/401 Rockingham Road SPEARWOOD WA 6163
-  description: PATIO
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0435&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-20'
-- council_reference: DA19/0436
-  address: 81 Mason Court SOUTH LAKE WA 6164
-  description: Application for installation of spa and spa fence
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0436&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-20'
-- council_reference: DA19/0437
-  address: 3/401 Rockingham Road SPEARWOOD WA 6163
-  description: Single (R-Code) House - Patio
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0437&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-20'
-- council_reference: DA19/0438
-  address: 115 Turquoise Boulevard TREEBY WA 6164
-  description: Single (R-Code) House
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0438&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
-- council_reference: DA19/0439
-  address: 136A Britannia Avenue BEELIAR WA 6164
-  description: Proposed Gable Carport
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0439&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
-- council_reference: DA19/0440
-  address: 1 Arthur Road HAMILTON HILL WA 6163
-  description: Single (R-Code) House
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0440&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
-- council_reference: DA19/0441
-  address: 2/451 Yangebup Road COCKBURN CENTRAL WA 6164
-  description: Change of Use - Retro Change of Use - Warehouse - Educational Establishment
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0441&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
-- council_reference: DA19/0442
-  address: 12 Romeo Road COOLBELLUP WA 6163
-  description: Single Storey Residential Dwelling
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0442&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
-- council_reference: DA19/0443
-  address: 21 Birbeck Way SPEARWOOD WA 6163
-  description: Single (R-Code) House - Carport
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA19%2F0443&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-24'
-- council_reference: DP19/0038
-  address: 1 Timberyard Way BIBRA LAKE WA 6163
-  description: Demolition Permit Application- Existing Single Storey Warehouse & Service
-    Yard
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DP19%2F0038&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-13'
-- council_reference: DP19/0039
-  address: 2 Rosalind Way COOLBELLUP WA 6163
-  description: Demolition permit application - complete demolition of house, driveway
-    and vegetation
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DP19%2F0039&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-18'
-- council_reference: LDP19/22
-  address: 9042L Jandakot Road TREEBY WA 6164
-  description: The application seeks approval for the modification of Local Development
-    plans 3, 4 and 5 - Calleya Estate, Treeby. The modifications are minor in nature
-    and do not alter the intent or provisions of the LDP.
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDP19%2F22&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-11'
-- council_reference: LDP19/23
-  address: 81L McLaren Avenue BEELIAR WA 6164
-  description: Amended Local Development Plan LDP19/13 - Lot 81 (No. 81L) McLaren
-    Avenue, Beeliar 6164
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDP19%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-13'
-- council_reference: Permit19/0048
-  address: 27/60 Flourish Loop ATWELL WA 6164
-  description: "E Request Parking permit\r\n\r\nOUTCOME- Approved and posted"
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=Permit19%2F0048&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-04'
-- council_reference: Permit19/0049
-  address: 13 Affable Way ATWELL WA 6164
-  description: "Parking Permit Request - Owner applying on behalf of tenant.\r\n\r\nOUTCOME-
-    Approved and posted to 13 Affable Way"
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=Permit19%2F0049&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-05'
-- council_reference: Permit19/0050
-  address: 26/60 Flourish Loop ATWELL WA 6164
-  description: E Request I would like a permit for parking out the front of my apartment
-    on flourish loop ATWELL 6164
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=Permit19%2F0050&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-07'
-- council_reference: Permit19/0051
-  address: 11/23 Junction Boulevard COCKBURN CENTRAL WA 6164
-  description: E Request Parking permit application
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=Permit19%2F0051&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-24'
-- council_reference: SU19/0069
-  address: 9 Coleville Crescent SPEARWOOD WA 6163
-  description: "** TEST ** ( This is a TEST )"
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SU19%2F0069&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
-- council_reference: SU19/0070
-  address: 9 Coleville Crescent SPEARWOOD WA 6163
-  description: TEST ( This is a TEST for Online lodgement )
-  info_url: https://ecouncil.cockburn.wa.gov.au/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=SU19%2F0070&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2019-06-21'
+  description: Demolition Permit Application - Removal of Shed and Vegetation
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DP25%2F0009&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: DP25/0010
+  address: 59 Coolbellup Avenue COOLBELLUP WA 6163
+  description: DP Application - Full site clearance of residential property
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DP25%2F0010&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: DP25/0011
+  address: 61 Frederick Road HAMILTON HILL WA 6163
+  description: Removal of current office facility.
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DP25%2F0011&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: DP25/0012
+  address: 15 Camillo Street COOLBELLUP WA 6163
+  description: PARTIAL DEMOLITION, REMOVE CARPORT FROM HOUSE, REMOVE OUTBUILDING,
+    PATIO, BBQ, PAVERS
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DP25%2F0012&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: LDP25/05
+  address: 132 Muriel Court COCKBURN CENTRAL WA 6164
+  description: Proposal to Amend LDP 22/11
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDP25%2F05&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: LDP25/06
+  address: 16L Barfield Road HAMMOND PARK WA 6164
+  description: Local Development Plan at Lot 16 Barfield Road, Hammond Park
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LDP25%2F06&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: MRS25/0009
+  address: 7/12 Argong Chase COCKBURN CENTRAL WA 6164
+  description: Stud wall partion for office space in warehouse.
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=MRS25%2F0009&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: OP25/0006
+  address: 7/5 Merino Entrance COCKBURN CENTRAL WA 6164
+  description: Occupancy Permit Application - Unauthorised Works - Alterations to
+    ambulant sanitary facilities and access to raised platform for ground floor Class
+    9b place of worship
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OP25%2F0006&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: OP25/0007
+  address: 9 Marlene Way BIBRA LAKE WA 6163
+  description: CANCELLED - Change of use application attached for 9 Marlene Way Bibra
+    Lake WA 6163
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OP25%2F0007&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: OP25/0008
+  address: 21 Merino Entrance COCKBURN CENTRAL WA 6164
+  description: Occupancy Permit application - new building (BP23/0676) - 3 x single
+    storey warehouses & upper floor offices
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OP25%2F0008&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-06'
+- council_reference: OP25/0009
+  address: 816 Beeliar Drive SUCCESS WA 6164
+  description: Occupancy permit application - New Building (BP24/2268) - HBF Dental
+    Clinic (G102/G109)
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OP25%2F0009&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-06'
+- council_reference: OP25/0010
+  address: 13 Zeta Road WATTLEUP WA 6166
+  description: Occupancy Permit application - New Building (BP24/06965) - workshop,
+    warehouse, factory & office
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OP25%2F0010&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: OP25/0011
+  address: 128 Farrington Road NORTH LAKE WA 6163
+  description: OP Application - Unauthorised verandah & ramp to office and training
+    room
+  info_url: https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=OP25%2F0011&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
