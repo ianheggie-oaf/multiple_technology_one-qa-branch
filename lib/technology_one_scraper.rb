@@ -13,16 +13,14 @@ require "scraper_utils"
 
 # Scrape the technology one system
 module TechnologyOneScraper
-  def self.scrape(use_proxy, authority)
+  def self.scrape(authority, &block)
     raise "Unexpected authority: #{authority.inspect}" unless AUTHORITIES.key?(authority)
 
-    scrape_period(use_proxy, AUTHORITIES[authority]) do |record|
-      yield record
-    end
+    scrape_period(AUTHORITIES[authority], &block)
   end
 
-  def self.scrape_and_save(authority, use_proxy: false)
-    scrape(use_proxy, authority) do |record|
+  def self.scrape_and_save(authority)
+    scrape(authority) do |record|
       TechnologyOneScraper.save(record)
     end
   end
@@ -48,22 +46,21 @@ module TechnologyOneScraper
   end
 
   def self.scrape_period(
-    use_proxy,
-    url:, period:, webguest: "P1.WEBGUEST", disable_ssl_certificate_check: false,
-    australian_proxy: false, timeout: nil
+    url:, period:, webguest: "P1.WEBGUEST",
+    client_options: {}, &block
   )
-    agent = ScraperUtils::MechanizeUtils.mechanize_agent(use_proxy: use_proxy, timeout: timeout)
-    agent.verify_mode = OpenSSL::SSL::VERIFY_NONE if disable_ssl_certificate_check
+    agent = ScraperUtils::MechanizeUtils.mechanize_agent(**client_options)
 
     # TODO: Get rid of this extra agent
     agent_detail_page = Mechanize.new
-    agent_detail_page.verify_mode = OpenSSL::SSL::VERIFY_NONE if disable_ssl_certificate_check
+    agent_detail_page.verify_mode = OpenSSL::SSL::VERIFY_NONE if client_options[:disable_ssl_certificate_check]
 
     uri = url_period(url, period, webguest)
     ScraperUtils::DebugUtils.debug_request("GET", uri)
     page = agent.get(uri)
 
     while page
+      list = []
       Page::Index.scrape(page, webguest) do |record|
         if record[:council_reference].nil? ||
           record[:address].nil? ||
@@ -77,15 +74,16 @@ module TechnologyOneScraper
           # TODO: Check that we have enough now
         end
 
-        yield(
+        list << {
           "council_reference" => record[:council_reference],
-            "address" => record[:address],
-            "description" => record[:description],
-            "info_url" => record[:info_url],
-            "date_scraped" => Date.today.to_s,
-            "date_received" => record[:date_received]
-        )
+          "address" => record[:address],
+          "description" => record[:description],
+          "info_url" => record[:info_url],
+          "date_scraped" => Date.today.to_s,
+          "date_received" => record[:date_received]
+        }
       end
+      ScraperUtils::RandomizeUtils.randomize_order(list).each(&block)
       page = Page::Index.next(page)
     end
   end

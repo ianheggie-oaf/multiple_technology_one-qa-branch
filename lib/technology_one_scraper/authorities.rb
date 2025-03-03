@@ -51,14 +51,18 @@ module TechnologyOneScraper
       period: "L28",
       webguest: "P1.HCC.WEBGUEST",
       # Site has an incomplete certificate chain. See https://www.ssllabs.com/ssltest/analyze.html?d=ehume.hume.vic.gov.au&latest
-      disable_ssl_certificate_check: true
+      client_options: {
+        disable_ssl_certificate_check: true
+      }
     },
     kuringgai: {
       url: "https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
       period: "TM",
       webguest: "KC_WEBGUEST",
       # Looks like it's blocking requests outside Australia
-      australian_proxy: true
+      client_options: {
+        australian_proxy: true
+      }
     },
     lithgow: {
       url: "https://lithgowcc-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
@@ -86,9 +90,11 @@ module TechnologyOneScraper
       period: "L28",
       # It looks like part of their certificate has expired (but I can't check
       # using ssllabs because they're blocking US traffic. Sigh.)
-      disable_ssl_certificate_check: true,
-      # Mornington peninsula is blocking requests from outside Australia
-      australian_proxy: true
+      client_options: {
+        disable_ssl_certificate_check: true,
+        # Mornington peninsula is blocking requests from outside Australia
+        australian_proxy: true
+      }
     },
     newcastle: {
       url: "https://cn-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
@@ -131,8 +137,10 @@ module TechnologyOneScraper
       period: "TM",
       webguest: "SSC.P1.WEBGUEST",
       # ssslabs shows an incomplete certificate. Ugh.
-      disable_ssl_certificate_check: true,
-      australian_proxy: true
+      client_options: {
+        disable_ssl_certificate_check: true,
+        australian_proxy: true
+      }
     },
     tamworth: {
       url: "https://tamworth-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
@@ -155,7 +163,9 @@ module TechnologyOneScraper
       url: "https://eservices.yarracity.vic.gov.au/WebApps/eProperty",
       period: "L28",
       # It's possible they might be blocking our old scraper by IP. So, let's try our proxy.
-      australian_proxy: true
+      client_options: {
+        australian_proxy: true
+      }
     }
   }.freeze
 end
