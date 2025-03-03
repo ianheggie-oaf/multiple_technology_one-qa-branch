@@ -77,6 +77,6 @@ end
 
 if __FILE__ == $PROGRAM_NAME
   # Default to list of authorities we can't or won't fix in code, explain why
-  ENV["MORPH_EXPECT_BAD"] ||= "corangamite,wagga,yarra"
+  ENV["MORPH_EXPECT_BAD"] ||= "wagga"
   Scraper.run(Scraper.selected_authorities)
 end
