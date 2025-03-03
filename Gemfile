@@ -9,7 +9,7 @@ gem "mechanize"
 gem "scraperwiki", git: "https://github.com/openaustralia/scraperwiki-ruby.git",
                    branch: "morph_defaults"
 
-gem "scraper_utils", "0.4.1"
+gem "scraper_utils", "0.4.2"
 
 # For development and running tests
 gem "rake", "~> 12.3"
