@@ -96,7 +96,7 @@ GEM
       parser (>= 3.1.1.0)
     ruby-progressbar (1.13.0)
     rubyntlm (0.6.3)
-    scraper_utils (0.1.0)
+    scraper_utils (0.3.0)
       mechanize
       nokogiri
       sqlite3
@@ -126,7 +126,7 @@ DEPENDENCIES
   rake (~> 12.3)
   rspec (~> 3.0)
   rubocop
-  scraper_utils (= 0.1.0)
+  scraper_utils (= 0.3.0)
   scraperwiki!
   timecop
   vcr
