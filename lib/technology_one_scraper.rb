@@ -55,7 +55,13 @@ module TechnologyOneScraper
     agent_detail_page = Mechanize.new
     agent_detail_page.verify_mode = OpenSSL::SSL::VERIFY_NONE if client_options[:disable_ssl_certificate_check]
 
-    uri = url_period(url, period, webguest)
+    # Pick one period if period is an Array of values
+    this_period = if period.is_a?(Array)
+                    ScraperUtils::CycleUtils.pick(period)
+                  else
+                    period
+                  end
+    uri = url_period(url, this_period, webguest)
     ScraperUtils::DebugUtils.debug_request("GET", uri)
     page = agent.get(uri)
 

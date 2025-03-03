@@ -161,7 +161,7 @@ module TechnologyOneScraper
     },
     yarra: {
       url: "https://eservices.yarracity.vic.gov.au/WebApps/eProperty",
-      period: "L28",
+      period: %w[L28 L7 L14 L7],
       # It's possible they might be blocking our old scraper by IP. So, let's try our proxy.
       client_options: {
         australian_proxy: true
