@@ -25,3 +25,9 @@ VCR.configure do |c|
   c.hook_into :webmock
   c.configure_rspec_metadata!
 end
+
+ScraperUtils::MechanizeUtils::AgentConfig.configure do |config|
+  config.default_random_delay = nil
+end
+
+ScraperUtils::RandomizeUtils.sequential = true
