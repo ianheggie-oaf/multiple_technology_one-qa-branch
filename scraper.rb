@@ -77,6 +77,8 @@ end
 
 if __FILE__ == $PROGRAM_NAME
   # Default to list of authorities we can't or won't fix in code, explain why
-  ENV["MORPH_EXPECT_BAD"] ||= "wagga"
+  ENV["MORPH_EXPECT_BAD"] ||= "corangamite,wagga"
+  # corangamite - https://github.com/planningalerts-scrapers/issues/issues/990 Application Error
+  # wagga - https://github.com/planningalerts-scrapers/issues/issues/1016 Application error after redirect
   Scraper.run(Scraper.selected_authorities)
 end
