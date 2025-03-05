@@ -9,15 +9,14 @@ require "technology_one_scraper/page/index"
 
 require "scraperwiki"
 require "mechanize"
+require "scraper_utils"
 
 # Scrape the technology one system
 module TechnologyOneScraper
-  def self.scrape(authority)
-    raise "Unexpected authority: #{authority}" unless AUTHORITIES.key?(authority)
+  def self.scrape(authority, &block)
+    raise "Unexpected authority: #{authority.inspect}" unless AUTHORITIES.key?(authority)
 
-    scrape_period(AUTHORITIES[authority]) do |record|
-      yield record
-    end
+    scrape_period(AUTHORITIES[authority], &block)
   end
 
   def self.scrape_and_save(authority)
@@ -47,32 +46,25 @@ module TechnologyOneScraper
   end
 
   def self.scrape_period(
-    url:, period:, webguest: "P1.WEBGUEST", disable_ssl_certificate_check: false,
-    australian_proxy: false
+    url:, period:, webguest: "P1.WEBGUEST",
+    client_options: {}, &block
   )
-    agent = Mechanize.new
-    agent.verify_mode = OpenSSL::SSL::VERIFY_NONE if disable_ssl_certificate_check
-
-    if australian_proxy
-      # On morph.io set the environment variable MORPH_AUSTRALIAN_PROXY to
-      # http://morph:password@au.proxy.oaf.org.au:8888 replacing password with
-      # the real password.
-      agent.agent.set_proxy(ENV["MORPH_AUSTRALIAN_PROXY"])
-    end
+    agent = ScraperUtils::MechanizeUtils.mechanize_agent(**client_options)
 
     # TODO: Get rid of this extra agent
     agent_detail_page = Mechanize.new
-    agent_detail_page.verify_mode = OpenSSL::SSL::VERIFY_NONE if disable_ssl_certificate_check
+    agent_detail_page.verify_mode = OpenSSL::SSL::VERIFY_NONE if client_options[:disable_ssl_certificate_check]
 
     page = agent.get(url_period(url, period, webguest))
 
     while page
       Page::Index.scrape(page, webguest) do |record|
         if record[:council_reference].nil? ||
-           record[:address].nil? ||
-           record[:description].nil? ||
-           record[:date_received].nil?
+          record[:address].nil? ||
+          record[:description].nil? ||
+          record[:date_received].nil?
           # We need more information. We can get this from the detail page
+          ScraperUtils::DebugUtils.debug_request("GET", record[:info_url])
           detail_page = agent_detail_page.get(record[:info_url])
           record_detail = Page::Detail.scrape(detail_page)
           record = record.merge(record_detail)

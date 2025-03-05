@@ -4,6 +4,8 @@ require "bundler/setup"
 require "technology_one_scraper"
 require "vcr"
 
+ENV['CYCLE_POSITION'] = '0'
+
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
   config.example_status_persistence_file_path = ".rspec_status"
@@ -25,3 +27,9 @@ VCR.configure do |c|
   c.hook_into :webmock
   c.configure_rspec_metadata!
 end
+
+ScraperUtils::MechanizeUtils::AgentConfig.configure do |config|
+  config.default_random_delay = nil
+end
+
+ScraperUtils::RandomizeUtils.sequential = true

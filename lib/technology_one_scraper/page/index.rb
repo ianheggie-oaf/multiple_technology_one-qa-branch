@@ -19,6 +19,7 @@ module TechnologyOneScraper
                       result
                     end
                   else
+                    ScraperUtils::DebugUtils.debug_selector(page, 'table.grid', "Looking for table")
                     table = page.at("table.grid")
                     raise "Couldn't find table" if table.nil?
 

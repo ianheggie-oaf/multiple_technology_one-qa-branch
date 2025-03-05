@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require "timecop"
+require_relative '../scraper'
 
 RSpec.describe TechnologyOneScraper do
   it "has a version number" do
@@ -37,7 +38,7 @@ RSpec.describe TechnologyOneScraper do
       expect(results).to eq expected
     end
 
-    TechnologyOneScraper::AUTHORITIES.each_key do |authority|
+    Scraper.selected_authorities.each do |authority|
       it authority do
         test_scrape_and_save(authority)
       end
