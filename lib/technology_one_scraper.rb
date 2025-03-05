@@ -55,18 +55,9 @@ module TechnologyOneScraper
     agent_detail_page = Mechanize.new
     agent_detail_page.verify_mode = OpenSSL::SSL::VERIFY_NONE if client_options[:disable_ssl_certificate_check]
 
-    # Pick one period if period is an Array of values
-    this_period = if period.is_a?(Array)
-                    ScraperUtils::CycleUtils.pick(period)
-                  else
-                    period
-                  end
-    uri = url_period(url, this_period, webguest)
-    ScraperUtils::DebugUtils.debug_request("GET", uri)
-    page = agent.get(uri)
+    page = agent.get(url_period(url, period, webguest))
 
     while page
-      list = []
       Page::Index.scrape(page, webguest) do |record|
         if record[:council_reference].nil? ||
           record[:address].nil? ||
@@ -80,16 +71,15 @@ module TechnologyOneScraper
           # TODO: Check that we have enough now
         end
 
-        list << {
+        yield(
           "council_reference" => record[:council_reference],
           "address" => record[:address],
           "description" => record[:description],
           "info_url" => record[:info_url],
           "date_scraped" => Date.today.to_s,
           "date_received" => record[:date_received]
-        }
+        )
       end
-      ScraperUtils::RandomizeUtils.randomize_order(list).each(&block)
       page = Page::Index.next(page)
     end
   end
