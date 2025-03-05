@@ -50,7 +50,7 @@ GEM
     mime-types (3.6.0)
       logger
       mime-types-data (~> 3.2015)
-    mime-types-data (3.2025.0220)
+    mime-types-data (3.2025.0304)
     mini_portile2 (2.6.1)
     minitest (5.15.0)
     mutex_m (0.3.0)
@@ -96,7 +96,7 @@ GEM
       parser (>= 3.1.1.0)
     ruby-progressbar (1.13.0)
     rubyntlm (0.6.3)
-    scraper_utils (0.4.2)
+    scraper_utils (0.5.0)
       mechanize
       nokogiri
       sqlite3
@@ -126,7 +126,7 @@ DEPENDENCIES
   rake (~> 12.3)
   rspec (~> 3.0)
   rubocop
-  scraper_utils (= 0.4.2)
+  scraper_utils (= 0.5.0)
   scraperwiki!
   timecop
   vcr
