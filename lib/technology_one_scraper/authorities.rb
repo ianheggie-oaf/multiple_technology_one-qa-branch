@@ -147,6 +147,11 @@ module TechnologyOneScraper
       url: "https://rcow-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
       period: "L28"
     },
+    warrnambool: {
+      url: "https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty",
+      period: "L28"
+    },
+
     wyndham: {
       url: "https://eproperty.wyndham.vic.gov.au/ePropertyPROD",
       period: "L28"

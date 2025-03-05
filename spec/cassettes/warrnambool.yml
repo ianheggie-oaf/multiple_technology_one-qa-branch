@@ -1,0 +1,688 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=$P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+      User-Agent:
+      - Mozilla/5.0 (compatible; ScraperUtils/0.5.0 2019-05-15; +https://github.com/ianheggie-oaf/scraper_utils)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - eservices.warrnambool.vic.gov.au
+      Upgrade-Insecure-Requests:
+      - '1'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 302
+      message: Found
+    headers:
+      Content-Type:
+      - text/html; charset=utf-8
+      Location:
+      - "/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=%24P1.ETR.SEARCH.SL28&r=P1.WEBGUEST"
+      Server:
+      - Microsoft-IIS/8.5
+      Date:
+      - Wed, 05 Mar 2025 09:07:38 GMT
+      Content-Length:
+      - '309'
+      Strict-Transport-Security:
+      - max-age=16070400; includeSubDomains
+    body:
+      encoding: UTF-8
+      string: "<html><head><title>Object moved</title></head><body>\r\n<h2>Object
+        moved to <a href=\"%2fT1PRPROD%2fWebApps%2feProperty%2f(S(yuwrnhuw31ooh355fvxsbi45))%2fP1%2feTrack%2feTrackApplicationSearchResults.aspx%3fField%3dS%26Period%3dL28%26f%3d%2524P1.ETR.SEARCH.SL28%26r%3dP1.WEBGUEST\">here</a>.</h2>\r\n</body></html>\r\n"
+  recorded_at: Tue, 14 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: https://eservices.warrnambool.vic.gov.au/robots.txt
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+      Host:
+      - eservices.warrnambool.vic.gov.au
+  response:
+    status:
+      code: 302
+      message: Redirect
+    headers:
+      Content-Type:
+      - text/html; charset=UTF-8
+      Location:
+      - https://cia.warrnambool.vic.gov.au/T1PROD/CiAnywhere/Web/PROD/LogOn/WCC
+      Server:
+      - Microsoft-IIS/8.5
+      Date:
+      - Wed, 05 Mar 2025 09:07:38 GMT
+      Content-Length:
+      - '194'
+      Strict-Transport-Security:
+      - max-age=16070400; includeSubDomains
+    body:
+      encoding: UTF-8
+      string: |-
+        <head><title>Document Moved</title></head>
+        <body><h1>Object Moved</h1>This document may be found <a HREF="https://cia.warrnambool.vic.gov.au/T1PROD/CiAnywhere/Web/PROD/LogOn/WCC">here</a></body>
+  recorded_at: Tue, 14 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=$P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+      User-Agent:
+      - Mozilla/5.0 (compatible; ScraperUtils/0.5.0 2019-05-15; +https://github.com/ianheggie-oaf/scraper_utils)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - eservices.warrnambool.vic.gov.au
+      Upgrade-Insecure-Requests:
+      - '1'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Content-Encoding:
+      - gzip
+      Expires:
+      - "-1"
+      Vary:
+      - Accept-Encoding
+      Server:
+      - Microsoft-IIS/8.5
+      X-Aspnet-Version:
+      - 2.0.50727
+      Date:
+      - Wed, 05 Mar 2025 09:07:40 GMT
+      Content-Length:
+      - '7772'
+      Strict-Transport-Security:
+      - max-age=16070400; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        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
+  recorded_at: Tue, 14 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: https://eservices.warrnambool.vic.gov.au/robots.txt
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+      Host:
+      - eservices.warrnambool.vic.gov.au
+  response:
+    status:
+      code: 302
+      message: Redirect
+    headers:
+      Content-Type:
+      - text/html; charset=UTF-8
+      Location:
+      - https://cia.warrnambool.vic.gov.au/T1PROD/CiAnywhere/Web/PROD/LogOn/WCC
+      Server:
+      - Microsoft-IIS/8.5
+      Date:
+      - Wed, 05 Mar 2025 09:07:40 GMT
+      Content-Length:
+      - '194'
+      Strict-Transport-Security:
+      - max-age=16070400; includeSubDomains
+    body:
+      encoding: UTF-8
+      string: |-
+        <head><title>Document Moved</title></head>
+        <body><h1>Object Moved</h1>This document may be found <a HREF="https://cia.warrnambool.vic.gov.au/T1PROD/CiAnywhere/Web/PROD/LogOn/WCC">here</a></body>
+  recorded_at: Tue, 14 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=$P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+    body:
+      encoding: ASCII-8BIT
+      string: __VIEWSTATE=%2FwEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIBD2QWBgIED2QWBAIBD2QWAmYPZBYEAgEPZBYCZg9kFgJmDw8WEB4EVGV4dAUJRWRpdCBNb2RlHgtDb21tYW5kTmFtZQUEVGFzax4PQ29tbWFuZEFyZ3VtZW50BRpQMUVQUkN1c3RvbWlzYXRpb25FZGl0TW9kZR4JQWNjZXNzS2V5ZR4QQ2F1c2VzVmFsaWRhdGlvbmgeCFRhYkluZGV4AQAAHgdUb29sVGlwZR4PVmFsaWRhdGlvbkdyb3VwZWRkAgIPZBYCZg9kFgJmDw8WEB8ABQ1SZWZyZXNoIENhY2hlHwEFBFRhc2sfAgUeUDFFUFJDdXN0b21pc2F0aW9uUmVmcmVzaENhY2hlHwNlHwRoHwUBAAAfBmUfB2VkZAIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAgcPZBYGAgEPDxYCHwBlZGQCAw9kFgQCAg8PFgIfAAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfAAUWNi8wMi8yMDI1IHRvIDUvMDMvMjAyNWRkAgUPDxYEHghHcmlkVHlwZQUMRVRSQUNLU0VBUkNIHhBHcmlkQ3JpdGVyaWFMaXN0MusEAAEAAAD%2F%2F%2F%2F%2FAQAAAAAAAAAMAgAAAFBUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMsIFZlcnNpb249MTAuNC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAQBAAAAnAFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW1QxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWEsIFQxLlAxLldlYi5PYmplY3RBZGFwdGVycywgVmVyc2lvbj0xMC40LjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsXV0DAAAABl9pdGVtcwVfc2l6ZQhfdmVyc2lvbgQAACdUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhW10CAAAACAgJAwAAAAEAAAABAAAABwMAAAAAAQAAAAQAAAAEJVQxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWECAAAACQQAAAANAwUEAAAAJVQxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWEFAAAAB21zVmFsdWUIbXNWYWx1ZTIObXNPcGVyYXRvckNvZGUKbXNDb2x1bW5JZA5tc1Byb3BlcnR5TmFtZQEBAQEBAgAAAAYFAAAAFTYvMDIvMjAyNSAxMjowMDowMCBBTQYGAAAAFTUvMDMvMjAyNSAxMTo1OTo1OSBQTQYHAAAAAkRCBggAAAANTG9kZ2VtZW50RGF0ZQkIAAAAC2QWAmYPZBYEAgEPZBYCAgEPDxYCHwAFCUdyaWQgVHlwZWRkAgMPDxYCHwhoZBYCAgEPDxYCHwAFHE5vIGluZm9ybWF0aW9uIGlzIGF2YWlsYWJsZS5kZAINDxYCHwhoZBgDBUNjdGwwMCRDb250ZW50JGN1c1Jlc3VsdHNHcmlkJHJlcFdlYkdyaWQkY3RsMDAkZ3JkV2ViR3JpZFRhYnVsYXJWaWV3DzwrAAoBCAIGZAVAY3RsMDAkQ29udGVudCRjdXNSZXN1bHRzR3JpZCRyZXBXZWJHcmlkJGN0bDAwJGR0dldlYkdyaWRMaXN0Vmlldw8UKwAHZGRkZGQWAAJVZAUcY3RsMDAkQ29udGVudCRsYmxTZWFyY2hEYXRlcw9oZKL%2BrMMfcgtiyH4oA5PeS19kFXTZ&__VIEWSTATEGENERATOR=794B1E1F&__EVENTVALIDATION=%2FwEWLQLdq%2By3BgK359HKDwL38%2BS0BQLD0Z%2F%2FCAKDjpzeCAKCqYWLDgK%2B1pGjDgLurtn5CALsuJ7pAgLkoYWSBQLJuOf8CgKDooWSBQLouOf8CgKapIWSBQL%2Fuuf8CgLBooWSBQKmuef8CgLgooWSBQLFuef8CgL%2FooWSBQLkuef8CgKGoYWSBQLrt%2Bf8CgKtn4WSBQKStuf8CgKeo5nNBAKDuvu3CgLFoZnNBAKquPu3CgLkoZnNBALJuPu3CgKDopnNBALouPu3CgKapJnNBAL%2Fuvu3CgLBopnNBAKmufu3CgLgopnNBALFufu3CgKa4Pf0BAKa4Iv0BAKa4J%2F0BAKa4JP0BAKa4If0BAK%2Fg8WMCR%2FzWGMMa1nacSjw4jQjo%2B1aYfG%2F&__EVENTTARGET=ctl00%24Content%24cusResultsGrid%24repWebGrid%24ctl00%24grdWebGridTabularView&__EVENTARGUMENT=Page%242
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+      User-Agent:
+      - Mozilla/5.0 (compatible; ScraperUtils/0.5.0 2019-05-15; +https://github.com/ianheggie-oaf/scraper_utils)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - eservices.warrnambool.vic.gov.au
+      Referer:
+      - https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=%24P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+      Upgrade-Insecure-Requests:
+      - '1'
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '2594'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Content-Encoding:
+      - gzip
+      Expires:
+      - "-1"
+      Vary:
+      - Accept-Encoding
+      Server:
+      - Microsoft-IIS/8.5
+      X-Aspnet-Version:
+      - 2.0.50727
+      Date:
+      - Wed, 05 Mar 2025 09:07:41 GMT
+      Content-Length:
+      - '7585'
+      Strict-Transport-Security:
+      - max-age=16070400; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        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
+  recorded_at: Tue, 14 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: https://eservices.warrnambool.vic.gov.au/robots.txt
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+      Host:
+      - eservices.warrnambool.vic.gov.au
+  response:
+    status:
+      code: 302
+      message: Redirect
+    headers:
+      Content-Type:
+      - text/html; charset=UTF-8
+      Location:
+      - https://cia.warrnambool.vic.gov.au/T1PROD/CiAnywhere/Web/PROD/LogOn/WCC
+      Server:
+      - Microsoft-IIS/8.5
+      Date:
+      - Wed, 05 Mar 2025 09:07:41 GMT
+      Content-Length:
+      - '194'
+      Strict-Transport-Security:
+      - max-age=16070400; includeSubDomains
+    body:
+      encoding: UTF-8
+      string: |-
+        <head><title>Document Moved</title></head>
+        <body><h1>Object Moved</h1>This document may be found <a HREF="https://cia.warrnambool.vic.gov.au/T1PROD/CiAnywhere/Web/PROD/LogOn/WCC">here</a></body>
+  recorded_at: Tue, 14 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=$P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+    body:
+      encoding: ASCII-8BIT
+      string: __VIEWSTATE=%2FwEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIBD2QWBgIED2QWAgIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAgcPZBYGAgEPDxYCHgRUZXh0ZWRkAgMPDxYCHghFZGl0TW9kZWhkFgQCAg8PFgIfBAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfBAUWNi8wMi8yMDI1IHRvIDUvMDMvMjAyNWRkAgUPDxYGHghHcmlkVHlwZQUMRVRSQUNLU0VBUkNIHhBHcmlkQ3JpdGVyaWFMaXN0MusEAAEAAAD%2F%2F%2F%2F%2FAQAAAAAAAAAMAgAAAFBUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMsIFZlcnNpb249MTAuNC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAQBAAAAnAFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW1QxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWEsIFQxLlAxLldlYi5PYmplY3RBZGFwdGVycywgVmVyc2lvbj0xMC40LjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsXV0DAAAABl9pdGVtcwVfc2l6ZQhfdmVyc2lvbgQAACdUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhW10CAAAACAgJAwAAAAEAAAABAAAABwMAAAAAAQAAAAQAAAAEJVQxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWECAAAACQQAAAANAwUEAAAAJVQxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWEFAAAAB21zVmFsdWUIbXNWYWx1ZTIObXNPcGVyYXRvckNvZGUKbXNDb2x1bW5JZA5tc1Byb3BlcnR5TmFtZQEBAQEBAgAAAAYFAAAAFTYvMDIvMjAyNSAxMjowMDowMCBBTQYGAAAAFTUvMDMvMjAyNSAxMTo1OTo1OSBQTQYHAAAAAkRCBggAAAANTG9kZ2VtZW50RGF0ZQkIAAAACx4JUGFnZUluZGV4AgFkFgJmD2QWBAIBD2QWAgIBDw8WAh8EBQlHcmlkIFR5cGVkZAIDDw8WAh8AaGQWAgIBDw8WAh8EBRxObyBpbmZvcm1hdGlvbiBpcyBhdmFpbGFibGUuZGQCDQ8WAh8AaGQYAwVDY3RsMDAkQ29udGVudCRjdXNSZXN1bHRzR3JpZCRyZXBXZWJHcmlkJGN0bDAwJGdyZFdlYkdyaWRUYWJ1bGFyVmlldw88KwAKAgICAQgCBmQFQGN0bDAwJENvbnRlbnQkY3VzUmVzdWx0c0dyaWQkcmVwV2ViR3JpZCRjdGwwMCRkdHZXZWJHcmlkTGlzdFZpZXcPFCsAB2RkZGRkFgACVWQFHGN0bDAwJENvbnRlbnQkbGJsU2VhcmNoRGF0ZXMPaGSNpvj9gOts%2BlJXqj7a6xXv5iVV7A%3D%3D&__VIEWSTATEGENERATOR=794B1E1F&__EVENTVALIDATION=%2FwEWLQK0oqfbDQK359HKDwL38%2BS0BQLD0Z%2F%2FCAKDjpzeCAKCqYWLDgK%2B1pGjDgLurtn5CALsuJ7pAgLkoYWSBQLJuOf8CgKDooWSBQLouOf8CgKapIWSBQL%2Fuuf8CgLBooWSBQKmuef8CgLgooWSBQLFuef8CgL%2FooWSBQLkuef8CgKGoYWSBQLrt%2Bf8CgKtn4WSBQKStuf8CgKeo5nNBAKDuvu3CgLFoZnNBAKquPu3CgLkoZnNBALJuPu3CgKDopnNBALouPu3CgKapJnNBAL%2Fuvu3CgLBopnNBAKmufu3CgLgopnNBALFufu3CgKa4IP0BAKa4Iv0BAKa4J%2F0BAKa4JP0BAKa4If0BAK%2Fg8WMCSZi%2F1Zhw%2FBDnWit505wR%2F0Ig0wx&__EVENTTARGET=ctl00%24Content%24cusResultsGrid%24repWebGrid%24ctl00%24grdWebGridTabularView&__EVENTARGUMENT=Page%243
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+      User-Agent:
+      - Mozilla/5.0 (compatible; ScraperUtils/0.5.0 2019-05-15; +https://github.com/ianheggie-oaf/scraper_utils)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - eservices.warrnambool.vic.gov.au
+      Referer:
+      - https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=%24P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+      Upgrade-Insecure-Requests:
+      - '1'
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '2276'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Content-Encoding:
+      - gzip
+      Expires:
+      - "-1"
+      Vary:
+      - Accept-Encoding
+      Server:
+      - Microsoft-IIS/8.5
+      X-Aspnet-Version:
+      - 2.0.50727
+      Date:
+      - Wed, 05 Mar 2025 09:07:42 GMT
+      Content-Length:
+      - '7390'
+      Strict-Transport-Security:
+      - max-age=16070400; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/IpLk8e/69MuTN7/Py9N03i7K9OVXT56fnaQfbd+9+917J3fvPn3zNP29v/3mi+fp7ngnfd3WxbS9e/f0xUfpR/O2XT26e/fq6mp8dW9c1Rd337y6+w5QdvGa/rrd8DvjWTv76Ii6w4fpu0W5bD6LQNh9+PChvEiNH8/zbHb0uC3aMj/6jZMfy1/n9WUxzZt0Oz1ercpimrVFtUxf51k9naev8mZdts1vnDy+K6/Q2La302+93/Pdk5P0+OnTszdnX75Idw+oo7oo072d3Yc0+usyb+Z53jajNJtVkzw9r5Ztk2bLWTrLgRr9aPMpY7W9ffRjaZomjxd5m6XLbJF/9tFlkV+tqrr9KJ3Si/my/eyjq2LWzj+Tt7f5j1FaLIu2yMrtZpqV+WdE+I/SuzSaBv2n7fWKILX5u/butGk+Shf5rMg++ygrQbLfs1gAfrquy62PxuO79D9qdLdZ0Ndj+u2jO4e9NvTxhgb0Wfjt47uMx034VMvyOm2mdZ4vmT5bi2Ip43uU3tvJF3eGsQWE9cL0121EH29qQZ91vv4GEP70wfj+RpTLrL7ITYfdNvTxhgb0WfjtLfElvly2wxjx1wZktw19vKEBfRZ+6zAqi+XbtM7Lzz7iT1gYPkrndX4u0tyQOK+bfAyc3xbteJm3d8vZ+sF8XjAw4eNpXazatKmn7qXsp7N344uquijzbFU042m14M/ulsWkufvTv2id19d37433xzv6x5imZ/zTzUdHhBzDc4DRuRLsp7PLTD79SPqjwdP/CJW7eaPa5PenvibFMp+F4Ehy5beb4H1zwG4J6WtqtdMXT2+h2Zj3RR3Rj44yI3VG/ycUmA9k2okC9D/Sx7//m3m+yJu7383qmtTdpKrKu0/z84yUssy9N3T+u8dHd2mYrPOTx5Nqdk0/vuZQ3TDvpd9ZL3MZ5UmdZ22ePi0um7St0vOiLNOrop2n+ZIFcEEKOS0W2QUsDA04eTwrLtNi9tlHxfKc5EFa/P5ea9LjZdaQJfM/o0HQe4Q8/ctvZ0sCWr7/ezVh27z/a7N80lb1+7+XOZN6+5e/5gSFvPhhkySC4XNXT7CIQel/r/kjo022d8cH43t9NZImzOOPz6t6oWY7a1akyJ7RB9C+7bwiaq2qhqBnLB6ffXT3ze7LVy9fffn07nfzCckCyfHLulrldXt9d+v11vX6ql7O11f3dqtqfu/+/fPLd82k2L9/587dl7t38zd1Nn2rP+hlMwvi16hbMyYk3v0ez4q8nH32+hdmi9Xhy7wuCJPnewf85/lnv/ve/svd8embV+PXp8evTr49fm2+qz+jL757+uTzr05fv/lIZtuNiXwrMAF+FMvV2pByXsxm+fIjpcHv//v/5Nnpd1+/OX5zKgCCDy6zck2N7l6dvnx69dXv9cWb0/tfPL34wRdP3+68uHr49tnFdxZP937iu8cXZ0/w88nF2Sl+0t9Pn14dfPd4vv/tn1yUP8i++53mp747p/ZnJ8cXBy9/6vjg5bOT5vj41e/z+bcvXn35+3x3t3zyE6tmuvNTu5PFi53suw/X3754d/pT3/2p+ey773Z+cvGsmX33q2en169+4ovX95/95LOz9Vc7P/nkq7cvzp6XL7744qcv8qflk/l08az9qd/7VTktf2o++fZPlj/15Cfq4584PTnee/X2+GL68qee/D6fH1/QWN79PifU71c/9XvPd37qu/juC/1s/uynPi933nz34VvB9ycYX8L7/MnxV198tfeT1MeL6uz01Xz2+U/+4Kc+p++v7PfffVEcXH1RHFx/8fRs9+zbry7Pnn51+cXTLy6/+Onj6xfcz1foh8Y8//Z0Ub79yW+XVz/1E1998eonX73+ia9ePDdj+vb8CX//E/e+s6J+rrPvPvsi+71f7Hyxbk6Pj+l/x0/v4jn+CfpVni+OL+jfZ0++IvqARr/3T333bP1m7zu/6Ke++2LnJ777aj79NtFl+UVz9uyn6OeL1WRv/+EXb47XL072r57/9HFzdvpid/LtV7vTxVcPJ4uf3J19+zvzycnVxVff/sli8nn506/3fvL+T37+sP6p7+4/nCx/spkc/8QT6vF4efzsTU64/dR3d9Y/sfewmXz+kz89+7y8nCy/WL/a+8n1T/3e31n9Ptf3Gf/f5+mzyXd3f+Ld8/KY/j8rf5/i/svfZ7Eqf597r5781OfPrjDW6fX9zthPCeeb3rm6+MkF/dyjfn96590XJ/s7NKb1F4T/T9z7yWb27Z+8/qk3u4TLT+4QjzTPT578xIx4Mvvui+c/9XuXX0322nLy07tr4rWGmjylYR0/KR+i/3Z69ZPnBPfTn/qJ+fnM9HFBhD+Z3UTr9Ssaw0+dvrjOwJOLcv7d3Z0TAn1MTPWd4yv6hefymOn45OoL+pceAq3/nH7nJ28ad49WAv8n+P0Xx1dfcQdfA84zeu34yd7uD1T2zia/94vv/j7ffbf7U6Tb6feXU2r3+/zery6nb19c/tTnX/1e9NnTyd673cl373/np47vt9PdJ9eTe0+IDq/uv4Fc/sTpE5LFJ8ynx78Pw3/25vch+TgT+Xh9/O6Ln66uvnhK/z958uTNT5Cs0vPsjSdDaPOm2v0S/3/95CeozbepyfHx21cnTy4Y8Is3n5Ps7v1k+1Pfvb/z6vNnOz/1E2/P6PPjk3f73/nq82fLn/qqXP/U5z+5T1NA8i3668mx6C/SW09Ebx2cPvmJkmly9uzVfRrr2586Njrt4Dj7vNP21bsvJ9dPVpPFT11OF7ukG4hHiier6fWT+WzxbDX5/BnJ0FfU70+cPP0Jfgcwfp/jq598SvPQfPH0+C3Jzppov56dvPrp2e/94vVP/d4sjz9gHjp5df1Tv/cT4rPvME7f+fzFzuTp8dV3Pp9d/9QzmtO3M5qzV1/9Pt/9zi71dU06t5xdHRz8XlfHvxfhSex2cfJk8RPPfsK8d/qC5PNVOVn+xNvf595P/uCrxU/+gHh/Z7oDOD/xdrr4yauf3PvJQvsmeb6iOXn1dvbtn7I4vPm8/MHs2U+tfur3nrIuf0I69qc+f0U0PT75ye/+xLNvR/qafP6dxuhQnpvf+4uX2eevn999sftiNf3J06c/Ve6d/PTVs+u3X3z19snrn/r8+LPP4D6SBWO/5DdO6Dfzy4/dzqp9fvri9NXxmy9f9cyb943auQcP95/snu4+kz43d3D6k6cv3vzk8fOzp8ckEZQ4Eei9jxU0mdDvPv+J3+v6F/3U71Mf1+fLnWn18vjy/Af3n//Es+Pm5avl3YOz4+rLL5cv9unn77Wa/z7Nl8f1g+++zb748nj96XrvnNh4fb2/XL89OV6/ns9/6ozeW+zfv3v1e9F7Bf+9Jt8Df69+0Vv++/KTT/nv5nP5/hdl9/nv9Yn83XxX/r78RP5ev5a/q0zgr9f3+O9ftHfOf69+rz3+e/XpTy+mO6fU76efPJgS/O/O+e9f9Iv2+W/Cj/8m/Phvwo//Jvz4b8KP/yb8+G/Cj/8m/Phvwo//Jvz471V9cXH3J07x86H+XOrPt/pzjp/1J2Rdr77z3d17D3/i4MnZTz377vUPvv35y4dvsq8u86J48YZ8Rp5aYSd2CPGAp3j+yiqbUUDw0RF96D+uJfOh+5P+4hcp8HlSrZcz8jjFzzRP0CJbLvP6o9S97z/scz+vLgoOy+JNAEzd9maVTymZhIiN+qQvo8/gF3geN6tsaeBxzxsgmedxJsNpy52d35/+5fd+/+lixr/AdaYgt3mbXxNIig2Rsfvso2P+MP298utHKX0qEaZz5x/9/r//rHpJnvcT8pS3PiaoOzu/G/3LIH83A/vj0ccfU66Gf398N+vOUe/ZPBQKDGj0m8cb/7LDA/7Dc3hKkTYjiXmkD+3Te4Xnk6lpmIPeqwYmgQgvdDO5FZtSGF+50HxMn1DC5XKcrT8oePl8nTftt6tFLgFKEGn8QhuTvHw15k++/cXp+CfPvitKkCYOrLGY4fUX2eXAePA8LhYXfihHWJp0g6YY7p5xTHj3dLFqr8cXxbnfB8eLppd0UtWzvP7sI0qrKk/PzVeUnqLeeg+4qPeFTi9PJYW17/MgBHbhb5CKOZ4RU5CsNumEeBwh8BcZcQjeuMonTdHmxCw/1keGcOEBX02nvz9kHQqGPu89j9dl/As8lNc56rEPp+ejjPPR0au8XddLYAkEiX2AIKj1mBJ38X4e341hoMSk34Ln8bf3gFAxSwkfmiSMzKiFH//oyEs1pSdFe52ekG6dEim/XFLLnFYGhPEFI4JlOzBpA3xymdXpihiEIOXpZ+lHX5urFRbQIzhXxXJWXY3LSqL5MT4+1CZL+h5/j6lN/u7L862PqdOPKdWa8sfm22Y9aWj5ZHmxtTOid37Xz9Lt3fT3oN8eyfdlvrxo5/waoNKY37YV6GQATKsl9b5lRkctZ9V0jRzK+CJvT0uSoGX75PpstvUxXgOAj+8wpgQBfwk4TgFbeoVP7wPLimVxmU/nGbJFXZ7CV816hZzzAG/dXc0pEXKZj+nn7zH7bPcXVkuM4jN8BqAs0sDwF4rpeE6ff3JCX3zCiuATyBCZFaSMaJXl95+UGf5WeV9Vq/Vq96MjAEsBTRiEEP/68hymtN5fpgM6Ki70m32YrIr/lLLkNZF1oBWIT5biRNaYjimjFlEGfss3WfOWjFz+USo90OTj4xfVS2I+mr/ey3iiHwJqvDmewS/Mg9cFhc8+ItZcvySksK5FXw0+iVhTmob3eUD8DdOVIQOJmbqqs1WaZ9M5Zf6W67TRhDiy5HW+qIh/svTxpD4iVrugWfwxQueGxx8jtDXgKtgbRorHfxtvfpvy5eQr3vwiHnHkeNLZLpp5//3rVf0FAXteNC18tZ3d37+clPjk87par0wfqlXJ+JaaoiTNCpA39x5h1aHHH6Ghz+9PBKqWs6y+vsVIycSZ9/EuDwEjQ6LzxwITR55E/no9WRTtXfnhDS2m+ZFLtdr/9ZPx66+eUGrs5UvW/kcCgljDp5BoFnSK/3sdv55XqxWp9pOspt69P27q+OXx7zM+OX71RjvVN1O8ajtD5BIzs93H/H3L6dFmX1feblCRN8kcxGsjij/SBJDSG1/Ec2tNsLdJE7zMrqnn9v8HWoBGcvfMW+Wjv/HjJlk8ffn7jM9ePHt19uLz0/Hpi5/46MgHYuhjxTLa7TEvD9JvaHqbDo9fnH1x/Py19Cdv366nV7Sy1tAvaHmbjijpdard8Ku368VTfvQn2t+mL9Ki2pX3/u06fMoLnvQbmt6mr6enTyibp93J272efr5q0BsexZ9+G3wGv4x+8XUADrzT+4B1COs45+K+ykti5Rm748bd/dreLh7XCWnLnd//VXExb9EZXNffv21WYYfS30etNiDflhgNELwvjJLVNyV0kDFTY2JK+pc41MrB11w4fvNd/muDqHgryW/garB/A4zezIuGov38rS8u9O+HovT8fVB6HqD0PGvanw2U3nzBf90OpTdf+Cgxlb6gIGz+DeP0/H1weh7gxGT6WcHpAf91S5we9HB6kD7NronLv1mkdvf5z1titbvfQ2t3/2cFr70D/vOWeO0d9PDaO/iG8HrK3Spe76MSnkIlPM3bvF6QK6jc/s0IYIDT++iEp9AJHk5Mqp8FnN5HKTyFUvBwYjp9QxIYIPU+WuEptIKHFBPqZwWp91ALT6EWukh9U3ohxOp99MJTat3H6xtTDCFi76MYnlLrPmIRzQBHln6QA+G7Gc+qit786OgXLifN6tD6F/pz0N+JfnHLD3ufSG+9j7tPrwGPhZ0um+Yc8Nvo8Rt/Oy9Xx8vZ8YwoNvxG+hvzN+Zf/tF9BlDnzpTK1J8i992qfksh8jQf6JP4RhHUF95UK+R3I8tOeKIf4nk83xVA7IuKI/n7z3dfUkb8DdLkYXQlPJkqUz6+O999j+5u/6F7ol8bKtM/vbSEUuP3n66b040S9VHatNe0DPDRrGhWZXb9qOAMxfaEll/eHl4Vs3b+aHdn53c/BFXRCbE49YeEDS36ye/y7xAKlAaRHp+SU0796RxzBwR0+C0W8xe0+vJyl4Q3BuMcLZ5nE4QD8j2JMDVQTG+C/ZNZub4d8E/v7uzd3dvZu48Y8f7dnXv8h+lGfggVzL/yH6m25VvKcpWffcRkbuZ53tLqyvWKKN7m79q7xLlmXe7rLydTY7OqW9OidbtNUMf0/48wQ4QFRKtPBuINZYLP62L2+6+W5cm6aatF0TCb4ENEWT9mhkT/BP+a53bg63xFw+JfpR3191rCa4gbpX64M+3Nf4am8aYOaJo7HZip1bDefLxRttE5IUZ4bHx8efAfXoB/f9zpLcX9db7K6owyLV3svS/iC/zeIm9kkT8raXmPXgVbkjTy0v62yPvO6t3hPEc8zr/Kh/ehA3pDpBkTfU4f0/+8B4xHP+wDLqFWP/Zjj9tsUtLqoQzmgsZMI8vLkgg9pdn47KMd+XuVzTA7n31076NU0OOv3p+WF/VMP3iTTdZlVv9kkV/ZkcvoWMVJL9vTqiyzVZM/Mr+Q7gPihHlt0J4T6+T1q+pKv6Lv5mkzJWkl7CrSGGSYRKp/OrvMZAn40e//+8+ql1XTPiF9vPUxI/e76SB+t3AQv5sbxO8m7aKD+Hj08WtaCf7dXmWLs9nHd0JGRvYDhvDx3XZ+9HOK3vNqJnldKFigaT9gdf3/DiSf5tIDkQ4oen/+vwM/yrEtKIHP6XgPOeDKn6Xeh/+vwviEpviiqq89/IC0+fj/fXg/q+pFhowBZYbJnDbA1n6GdDE+/H8HqirvyxZuEiNqP0n5I4smayn6rSaErRZbYlRloMVmP5wB8Hd78i8NBpjTAtDLRUt+1b3d+wcPFHFCh/6/+9D4X/aj12T4FlfEQ3X6PL/AQk5V0KCrc8rkN9N5Vl+QXqF2aEuQa4rw6vW0Xde0+IawD6advsLX7wPqh02ce0qc/fufbu9/+mn67Wr1tljSghKj+IrY8fnz4xevn3356mn6k2cn6b29ByHpKDkxWzcp4SMEYCmjz3m+6beAH8gnyMllaPOfM5a4x/9GWeIgGNfPMUv8nLCEEMewxAPKV+TLZX7dpK8pWXf86tWL4y+efPnlc2WEg52AYOmTnJzFZfpkXZTwq5glCItsOb1OX7bX6fN2xo152um3gDN+jjXFPv8bY4uH4Sh/PrKFEMeyxcP0u/BbKZJbpqQgbmaMl6/P0s/LapKV/BnPL/0WzP/PvWa4z/9GWWA3GE+EBZjn0y8vad5Os4Y9T/sdQdo05Zte/WEP3kzx/v30O/mS7cDtJH/dUEqnadI99+tJtVjk9bQgJn5WtNW6JZsiSiB9c/e4cQ29dygb8dMUe6acVyUIzqSkX2RLCjAtdZhB6LeAh36Odcin/G+UgT4N6BVhoOOGsioYf0vjx3iFTez3BG0TE930+g+bCIaRdrFIUNbXixUF5E/rW7DSdz5Pfy8Yj29X7FzSRzyV9Fsw1T/36uIB/xud7dBBisz2qyqbIQGU15c5KVPKQN89qaumqaAFOlNHkDfN/PuA+mETx3LBXfKu0t+rqquivZ1CeU36Yk4TnP5kMSWTWFB67mW5XkzAGapFuDFPPP0W8MbPsRo44H+jjHGjh/mqym49mwT5/3uMIcQxjHGQvqmqOluk5EbcFGc8zS6LWfodxJzp6+xiWf2/2pl4yP9GmeBhMKyfj0wgxDFM8L7Oxkm2KlryKqxCEG/hNY2xmG6yGT+3emF3B//GWOLTndC/3Nv5eccSShzDErt7u9u7e/cow5xPiovbscXL71CMQfPMn/D80m/B/P+ca4XdXfwbZ4G9YDQ/H1lAiGNY4N5u+kW+mOSUv/1uRv+/af5fZO2cvITPaab5M55e+i3ggJ9jDSAZt+j03wsGE5n+98kMEORN0/8+oH7YxLHT/3B7fzf9blE2FMzcRv6fF1n6KsvT3yvHK/wxTzH9FrDAz70SkCRblAv2gyFFuOB9JJcgb+KC9wH1wyaO4YI9yg3URdtmxTI9Bpo3cUH6eXpKK394a/q2zK4xlP93hwu7klyLsgPNuze2n4/sIMSx7LC9u5M+ywqyCbdSCeu3OQ1pOp0XGX/I00u/BdP/c68QJPcW5YAwb/TzkQOEOIYD7u0RhtOaFhqQ5LpdQunpF8gk0kttrqHCSVavCKv6mlvxlNNvAVf8HCsFyaJFWSKMin8+soQQx7DEfvrF9HlW57dzE74mO6wo91yH3JDSYnyzypafffSA1uTbbEIZzklVz/L6s492TDtqWJtf6XfC4YdBJaLMS0L4d9sFfcLY8ofa/x76DwObxyDZEXm7/NN9/MNEax9oha7WD7X/++if5PXnqv9P0b+zLMqe9LthVfoV7Ox9Tb/Jl/QLf0W/P747Ky7pl9R7wr8eT+r07sYWQ3/9xslvnBj47j/6gr6hf9LH9JWRzYxXPJ6sW1qPbJ7n5y2Ej9rw87hYrtZt2l6v8s8+atYT0lgfpUtKIn72kVDKUHTSLl/W+WVRrZuP0susXFML90Ex0/a/v7b//YP22ZQST83b/Jre+Shti7akt4/5QwpIrh+l9KliCwSP67q6EoQ/sgRyw+U/6ZPg8Uc8LfOsJqXDb8RbM+W/oa8G+ol8HPtoRXiuup+ZkRTLy6IpiKEwmm4rgiWEb5onFRFr8YRGbd6kD19UL2sKXD8KX8MTfZVj3Y+O6Ovw6b2NhwSS3+c5n6/KkzUtdy+eVbTAVj8vlm93g0n/yeik06ci1PO2XT26e/fq6mp8ldXkbC4mVVWOKV05vqgux9n6Lr2PsLv97KPfv8nL84+OsPwFCY0jVywuPPToL0Hsdb7K6oyie8JOyUSGui2mWUnj/yht6ulnH43Hd+l/x6vV7/9mTuupzd3vOpTuni1IQTR3f9K99aQk9TO+KM5pwCXhR1Daa4x0nhcX8/bR7s7q3eFVMWvnj3bpN7GA2/IBvgKDxwdxA4X3qEMmJlP4DVGoT2H69LYUPq/zfFYttovlOVw7qIztVV1cZtNrAh0Sn9gKn399+hPu/5+n/z3qkEnN9P+KiNSnP316W/pPSW+SpiYwIa2hT+nz9CvyOrO+cMoTHUDvw4j2wRNVBifV6roGAUl7PP5dt7fTb73f892Tk/T46dOzN2dfvkh3D9Jj4qUy3dvZfZgez+AbyqhmOeUuyibNlrO0zhfkN6cl0TZtq/RNPp2nXy7z7e3uqHsjwPN4vnf0Zl40Kf2P8pzV+XkxLSh3d5VPmoJcWcreeYyUnhSU9jip1stpQetk9G4c6Oro5Zfpk+pduvvwYJTu3XcZdxKXdhSANEux7FTHwd2d1Ecv59Uyf5Tu3tvZSXd27qXUON0qK+LmlP5f3kmrOt3auXcnvX///sN0/2CHHPSO5jcPoXdc0liImGRy0184pUk7DHDyh0nURxQ0DIs43nFrM8CuI+HXj45iX8p3YFT0o/z2ddnn9MXTb5CFgkErZvSbfewf3ndwNh6Lt6keUpu/a+86HxSe1N27j3/X7508PX5z/L3fOPndtmbVdL2g2bgzpih8dr11TrSHMk237qS/uDhPt363rY9/XJQKeVGn5OnUzcd3xkWz9fEjtfUf30k/+yyloDOnV9D89//9X5+8+vL585dfvmZq/N70Ar289fHOx3cOYw1+H7/BL/kldw7v3v3+9wlXCisYb/4Vep5m5+6kml3j57xdlEfJ/wOZuNGpWGkAAA==
+  recorded_at: Tue, 14 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: https://eservices.warrnambool.vic.gov.au/robots.txt
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+      Host:
+      - eservices.warrnambool.vic.gov.au
+  response:
+    status:
+      code: 302
+      message: Redirect
+    headers:
+      Content-Type:
+      - text/html; charset=UTF-8
+      Location:
+      - https://cia.warrnambool.vic.gov.au/T1PROD/CiAnywhere/Web/PROD/LogOn/WCC
+      Server:
+      - Microsoft-IIS/8.5
+      Date:
+      - Wed, 05 Mar 2025 09:07:42 GMT
+      Content-Length:
+      - '194'
+      Strict-Transport-Security:
+      - max-age=16070400; includeSubDomains
+    body:
+      encoding: UTF-8
+      string: |-
+        <head><title>Document Moved</title></head>
+        <body><h1>Object Moved</h1>This document may be found <a HREF="https://cia.warrnambool.vic.gov.au/T1PROD/CiAnywhere/Web/PROD/LogOn/WCC">here</a></body>
+  recorded_at: Tue, 14 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=$P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+    body:
+      encoding: ASCII-8BIT
+      string: __VIEWSTATE=%2FwEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIBD2QWBgIED2QWAgIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAgcPZBYGAgEPDxYCHgRUZXh0ZWRkAgMPDxYCHghFZGl0TW9kZWhkFgQCAg8PFgIfBAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfBAUWNi8wMi8yMDI1IHRvIDUvMDMvMjAyNWRkAgUPDxYGHghHcmlkVHlwZQUMRVRSQUNLU0VBUkNIHhBHcmlkQ3JpdGVyaWFMaXN0MusEAAEAAAD%2F%2F%2F%2F%2FAQAAAAAAAAAMAgAAAFBUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMsIFZlcnNpb249MTAuNC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAQBAAAAnAFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW1QxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWEsIFQxLlAxLldlYi5PYmplY3RBZGFwdGVycywgVmVyc2lvbj0xMC40LjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsXV0DAAAABl9pdGVtcwVfc2l6ZQhfdmVyc2lvbgQAACdUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhW10CAAAACAgJAwAAAAEAAAABAAAABwMAAAAAAQAAAAQAAAAEJVQxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWECAAAACQQAAAANAwUEAAAAJVQxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWEFAAAAB21zVmFsdWUIbXNWYWx1ZTIObXNPcGVyYXRvckNvZGUKbXNDb2x1bW5JZA5tc1Byb3BlcnR5TmFtZQEBAQEBAgAAAAYFAAAAFTYvMDIvMjAyNSAxMjowMDowMCBBTQYGAAAAFTUvMDMvMjAyNSAxMTo1OTo1OSBQTQYHAAAAAkRCBggAAAANTG9kZ2VtZW50RGF0ZQkIAAAACx4JUGFnZUluZGV4AgJkFgJmD2QWBAIBD2QWAgIBDw8WAh8EBQlHcmlkIFR5cGVkZAIDDw8WAh8AaGQWAgIBDw8WAh8EBRxObyBpbmZvcm1hdGlvbiBpcyBhdmFpbGFibGUuZGQCDQ8WAh8AaGQYAwVDY3RsMDAkQ29udGVudCRjdXNSZXN1bHRzR3JpZCRyZXBXZWJHcmlkJGN0bDAwJGdyZFdlYkdyaWRUYWJ1bGFyVmlldw88KwAKAgICAggCBmQFQGN0bDAwJENvbnRlbnQkY3VzUmVzdWx0c0dyaWQkcmVwV2ViR3JpZCRjdGwwMCRkdHZXZWJHcmlkTGlzdFZpZXcPFCsAB2RkZGRkFgACVWQFHGN0bDAwJENvbnRlbnQkbGJsU2VhcmNoRGF0ZXMPaGSL%2FN1NpcVEDZl2CjwFykMUkBSZGA%3D%3D&__VIEWSTATEGENERATOR=794B1E1F&__EVENTVALIDATION=%2FwEWLQKyqZYrArfn0coPAvfz5LQFAsPRn%2F8IAoOOnN4IAoKphYsOAr7WkaMOAu6u2fkIAuy4nukCAuShhZIFAsm45%2FwKAoOihZIFAui45%2FwKApqkhZIFAv%2B65%2FwKAsGihZIFAqa55%2FwKAuCihZIFAsW55%2FwKAv%2BihZIFAuS55%2FwKAoahhZIFAuu35%2FwKAq2fhZIFApK25%2FwKAp6jmc0EAoO6%2B7cKAsWhmc0EAqq4%2B7cKAuShmc0EAsm4%2B7cKAoOimc0EAui4%2B7cKApqkmc0EAv%2B6%2B7cKAsGimc0EAqa5%2B7cKAuCimc0EAsW5%2B7cKAprgg%2FQEAprg9%2FQEAprgn%2FQEAprgk%2FQEAprgh%2FQEAr%2BDxYwJW139Q8BIZFWyzHGP9TaUveiiNTc%3D&__EVENTTARGET=ctl00%24Content%24cusResultsGrid%24repWebGrid%24ctl00%24grdWebGridTabularView&__EVENTARGUMENT=Page%244
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+      User-Agent:
+      - Mozilla/5.0 (compatible; ScraperUtils/0.5.0 2019-05-15; +https://github.com/ianheggie-oaf/scraper_utils)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - eservices.warrnambool.vic.gov.au
+      Referer:
+      - https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=%24P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+      Upgrade-Insecure-Requests:
+      - '1'
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '2302'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Content-Encoding:
+      - gzip
+      Expires:
+      - "-1"
+      Vary:
+      - Accept-Encoding
+      Server:
+      - Microsoft-IIS/8.5
+      X-Aspnet-Version:
+      - 2.0.50727
+      Date:
+      - Wed, 05 Mar 2025 09:07:43 GMT
+      Content-Length:
+      - '7519'
+      Strict-Transport-Security:
+      - max-age=16070400; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/IpLk8e/69MuTN7/Py9N03i7K9OVXT56fnaQfbd+9+917J3fvPn3zNP29v/3mi+fp7ngnfd3WxbS9e/f0xUfpR/O2XT26e/fq6mp8dW9c1Rd337y6+w5QdvGa/rrd8DvjWTv76Ii6w4fpu0W5bD6LQNh9+PChvEiNH8/zbHb0uC3aMj/6jZMfy1/n9WUxzZt0Oz1ercpimrVFtUxf51k9naev8mZdts1vnDy+K6/Q2La302+93/Pdk5P0+OnTszdnX75Idw+oo7oo072d3Yc0+usyb+Z53jajNJtVkzw9r5Ztk2bLWTrLgRr9aPMpY7W9ffRjaZomjxd5m6XLbJF/9tFlkV+tqrr9KJ3Si/my/eyjq2LWzj+Tt7f5j1FaLIu2yMrtZpqV+WdE+I/SuzSaBv2n7fWKILX5u/butGk+Shf5rMg++ygrQbLfs1gAfrquy62PxuO79D9qdLdZ0Ndj+u2jO4e9NvTxhgb0Wfjt47uMx034VMvyOm2mdZ4vmT5bi2Ip43uU3tvJF3eGsQWE9cL0121EH29qQZ91vv4GEP70wfj+RpTLrL7ITYfdNvTxhgb0WfjtLfElvly2wxjx1wZktw19vKEBfRZ+6zAqi+XbtM7Lzz7iT1gYPkrndX4u0tyQOK+bfAyc3xbteJm3d8vZ+sF8XjAw4eNpXazatKmn7qXsp7N344uquijzbFU042m14M/ulsWkufvTv2id19d37433xzv6x5imZ/zTzUdHhBzDc4DRuRLsp7PLTD79SPqjwdP/CJW7eaPa5PenvibFMp+F4Ehy5beb4H1zwG4J6WtqtdMXT2+h2Zj3RR3Rj44yI3VG/ycUmA9k2okC9D/Sx7//m3m+yJu7383qmtTdpKrKu0/z84yUssy9N3T+u8dHd2mYrPOTx5Nqdk0/vuZQ3TDvpd9ZL3MZ5UmdZ22ePi0um7St0vOiLNOrop2n+ZIFcEEKOS0W2QUsDA04eTwrLtNi9tlHxfKc5EFa/P5ea9LjZdaQJfM/o0HQe4Q8/ctvZ0sCWr7/ezVh27z/a7N80lb1+7+XOZN6+5e/5gSFvPhhkySC4XNXT7CIQel/r/kjo022d8cH43t9NZImzOOPz6t6oWY7a1akyJ7RB9C+7bwiaq2qhqBnLB6ffXT3ze7LVy9fffn07nfzCckCyfHLulrldXt9d+v11vX6ql7O11f3dqtqfu/+/fPLd82k2L9/587dl7t38zd1Nn2rP+hlMwvi16hbMyYk3v0ez4q8nH32+hdmi9Xhy7wuCJPnewf85/lnv/ve/svd8embV+PXp8evTr49fm2+qz+jL757+uTzr05fv/lIZtuNiXwrMAF+FMvV2pByXsxm+fIjpcHv//v/5Nnpd1+/OX5zKgCCDy6zck2N7l6dvnx69dXv9cWb0/tfPL34wRdP3+68uHr49tnFdxZP937iu8cXZ0/w88nF2Sl+0t9Pn14dfPd4vv/tn1yUP8i++53mp747p/ZnJ8cXBy9/6vjg5bOT5vj41e/z+bcvXn35+3x3t3zyE6tmuvNTu5PFi53suw/X3754d/pT3/2p+ey773Z+cvGsmX33q2en169+4ovX95/95LOz9Vc7P/nkq7cvzp6XL7744qcv8qflk/l08az9qd/7VTktf2o++fZPlj/15Cfq4584PTnee/X2+GL68qee/D6fH1/QWN79PifU71c/9XvPd37qu/juC/1s/uynPi933nz34VvB9ycYX8L7/MnxV198tfeT1MeL6uz01Xz2+U/+4Kc+p++v7PfffVEcXH1RHFx/8fRs9+zbry7Pnn51+cXTLy6/+Onj6xfcz1foh8Y8//Z0Ub79yW+XVz/1E1998eonX73+ia9ePDdj+vb8CX//E/e+s6J+rrPvPvsi+71f7Hyxbk6Pj+l/x0/v4jn+CfpVni+OL+jfZ0++IvqARr/3T333bP1m7zu/6Ke++2LnJ777aj79NtFl+UVz9uyn6OeL1WRv/+EXb47XL072r57/9HFzdvpid/LtV7vTxVcPJ4uf3J19+zvzycnVxVff/sli8nn506/3fvL+T37+sP6p7+4/nCx/spkc/8QT6vF4efzsTU64/dR3d9Y/sfewmXz+kz89+7y8nCy/WL/a+8n1T/3e31n9Ptf3Gf/f5+mzyXd3f+Ld8/KY/j8rf5/i/svfZ7Eqf597r5781OfPrjDW6fX9zthPCeeb3rm6+MkF/dyjfn96590XJ/s7NKb1F4T/T9z7yWb27Z+8/qk3u4TLT+4QjzTPT578xIx4Mvvui+c/9XuXX0322nLy07tr4rWGmjylYR0/KR+i/3Z69ZPnBPfTn/qJ+fnM9HFBhD+Z3UTr9Ssaw0+dvrjOwJOLcv7d3Z0TAn1MTPWd4yv6hefymOn45OoL+pceAq3/nH7nJ28ad49WAv8n+P0Xx1dfcQdfA84zeu34yd7uD1T2zia/94vv/j7ffbf7U6Tb6feXU2r3+/zery6nb19c/tTnX/1e9NnTyd673cl373/np47vt9PdJ9eTe0+IDq/uv4Fc/sTpE5LFJ8ynx78Pw3/25vch+TgT+Xh9/O6Ln66uvnhK/z958uTNT5Cs0vPsjSdDaPOm2v0S/3/95CeozbepyfHx21cnTy4Y8Is3n5Ps7v1k+1Pfvb/z6vNnOz/1E2/P6PPjk3f73/nq82fLn/qqXP/U5z+5f3zxguRb9NeTY9FfpLeeiN46OH3yEyXT5OzZq/s01rc/dWx02sFx9nmn7at3X06un6wmi5+6nC52STcQjxRPVtPrJ/PZ4tlq8vkzkqGvqN+fOHn6E/wOYPw+x1c/+ZTmofni6fFbkp010X49O3n107Pf+8Xrn/q9WR5/wDx08ur6p37vJ8Rn32GcvvP5i53J0+Or73w+u/6pZzSnb2c0Z6+++n2++51d6uuadG45uzo4+L2ujn8vwpN01MXJk8VPPPsJ897pC5LPV+Vk+RNvf597P/mDrxY/+QPi/Z3pDuD8xNvp4ievfnLvJwvtm+T5iubk1dvZt3/K4vDm8/IHs2c/tfqp33vKuvwJ6dif+vwV0fT45Ce/+xPPvh3pa/L5dxqjQ3lufu8vXmafv6kuf+/F2d1Pfp/yi7p5sv69rl9dNG9+cllePPnBxWefwX0kC8Z+yW+c0G/mlx+7nVX7/PTF6avjN1++6pk37xu1cw8e7j/ZPd19Jn1u7uD0J09fvPnJ4+dnT49JIihxItB7HytoMqHfff4Tv9fJ+qfWP3189Xvdu//w27/X06vn9w4+eb3z5CeeP935qbt3T45/r6c/vfpBTj9PftHv893nTy9+r092V5//9NOL5+u6Xd4/OX7erL/zYHV88fxt9ft8lwTg+XfWX54fnFz8Xk+riv+u9O9sdcZ/312v8ffzJ/L977VY5/w3hWT4+/kz/fuu/v1W/v69Plf4dfsJ/90u9/H37/W6ZXi/V17dX754QviuL9f36P1n1U/x379o/ZL/fit/E378N+G34r8r/TtbfYf/vqvvP5HvCb9z/vtC/ib8+O/fK9s/e7lD32f7L8/l59ml/PyOfn7Gn9+9OPgucep3fq+nX77MXz35fYr56/vl9Rcvj3/6czKh7yZfytQKO7FDiAc8xfNXVtmMAoKPjuhD/3EtmQ/dn/QXv0iBz5NqvZyRxyl+pnmCFtlymdcfpe59/2Gf+3l1UXBYFm8CYOq2N6t8SskkRGzUJ30ZfQa/wPO4WWVLA4973gDJPI8zGU5b7uz8/vQvv/f7Txcz/gWuMwW5zdv8mkBSbIiM3WcfHfOH6e+VXz9K6VOJMJ07/+j3//1n1UvyvJ+Qp7z1MUHd2fnd6F8G+bsZ2B+PPv6YcjX8++O7WXeOes/moVBgQKPfPN74lx0e8B+ew1OKtBlJzCN9aJ/eKzyfTE3DHPReNTAJRHihm8mt2JTC+MqF5mP6hBIul+Ns/UHBy+frvGm/XS1yCVCCSOMX2pjk5asxf/LtL07HP3n2XVGCNHFgjcUMr7/ILgfGg+dxsbjwQznC0qQbNMVw94xjwruni1V7Pb4ozv0+OF40vaSTqp7l9WcfUVpVeXpuvqL0FPXWe8BFvS90enkqKax9nwchsAt/g1TM8YyYgmS1SSfE4wiBv8iIQ/DGVT5pijYnZvmxPjKECw/4ajr9/SHrUDD0ee95vC7jX+ChvM5Rj304PR9lnI+OXuXtul4CSyBI7AMEQa3HlLiL9/P4bgwDJSb9FjyPv70HhIpZSvjQJGFkRi38+EdHXqopPSna6/SEdOuUSPnlklrmtDIgjC8YESzbgUkb4JPLrE5XxCAEKU8/Sz/62lytsIAewbkqlrPqalxWEs2P8fGhNlnS9/h7TG3yd1+eb31MnX5MqdaUPzbfNutJQ8sny4utnRG987t+lm7vpr8H/fZIvi/z5UU759cAlcb8tq1AJwNgWi2p9y0zOmo5q6Zr5FDGF3l7WpIELdsn12ezrY/xGgB8fIcxJQj4S8BxCtjSK3x6H1hWLIvLfDrPkC3q8hS+atYr5JwHeOvuak6JkMt8TD9/j9lnu7+wWmIUn+EzAGWRBoa/UEzHc/r8kxP64hNWBJ9AhsisIGVEqyy//6TM8LfK+6parVe7Hx0BWApowiCE+NeX5zCl9f4yHdBRcaHf7MNkVfynlCWviawDrUB8shQnssZ0TBm1iDLwW77Jmrdk5PKPUumBJh8fv6heEvPR/PVexhP9EFDjzfEMfmEevC4ofPYRseb6JSGFdS36avBJxJrSNLzPA+JvmK4MGUjM1FWdrdI8o/VF4JM2mhBHlrzOFxXxT5Y+ntRHxGoXNIs/Rujc8PhjhLYGXAV7w0jx+G/jzW9Tvpx8xZtfxCOOHE8620Uz779/vaq/IGDPi6aFr7az+/uXkxKffF5X65XpQ7UqGd9SU5SkWQHy5t4jrDr0+CM09Pn9iUDVcpbV17cYKZk48z7e5SFgZEh0/lhg4siTyF+vJ4uivSs/vKHFND9yqVb7v34yfv3VE0qNvXzJ2v9IQBBr+BQSzYJO8X+v49fzarUi1X6S1dS798dNHb88/n3GJ8ev3min+maKV21niFxiZrb7mL9vOT3a7OvK2w0q8iaZg3htRPFHmgBSeuOLeG6tCfY2aYKX2TX13P7/QAvQSO6eeat89Dd+3CSLpy9/n/HZi2evzl58fjo+ffETHx35QAx9rFhGuz3m5UH6DU1v0+Hxi7Mvjp+/lv7k7dv19IpW1hr6BS1v0xElvU61G371dr14yo/+RPvb9EVaVLvy3r9dh095wZN+Q9Pb9PX09All87Q7ebvX089XDXrDo/jTb4PP4JfRL74OwIF3eh+wDmEd51zcV3lJrDxjd9y4u1/b28XjOiFtufP7vyou5i06g+v6+7fNKuxQ+vuo1Qbk2xKjAYL3hVGy+qaEDjJmakxMSf8Sh1o5+JoLx2++y39tEJU3biX5DVwN9m+A0Zt50VC0n7/1xYX+/VCUnr8PSs8DlJ5nTfuzgdKbL/iv26H05gsfJabSFxSEzb9hnJ6/D07PA5yYTD8rOD3gv26J04MeTg/Sp9k1cfk3i9TuPv95S6x293to7e7/rOC1d8B/3hKvvYMeXnsH3xBeT7lbxet9VMJTqISneZvXC3IFldu/GQEMcHofnfAUOsHDiUn1s4DT+yiFp1AKHk5Mp29IAgOk3kcrPIVW8JBiQv2sIPUeauEp1EIXqW9KL4RYvY9eeEqt+3h9Y4ohROx9FMNTat1HLKIZ4MjSD3IgfDfjWVXRmx8d/cLlpFkdWv9Cfw76O9Evbvlh7xPprfdx9+k14LGw02XTnAN+Gz1+42/n5ep4OTueEcWG30h/Y/7G/Ms/us8A6tyZUpn6U+S+W9VvKUSe5gN9Et8ogvrCm2qF/G5k2QlP9EM8j+e7Aoh9UXEkf//57kvKiL9BmjyMroQnU2XKx3fnu+/R3e0/dE/0a0Nl+qeXllBq/P7TdXO6UaI+Spv2mpYBPpoVzarMrh8VnKHYntDyy9vDq2LWzh/t7uz87oegKjohFqf+kLChRT/5Xf4dQoHSINLjU3LKqT+dY+6AgA6/xWL+glZfXu6S8MZgnKPF82yCcEC+JxGmBorpTbB/MivXtwP+6d2dvbt7O3v3ESPev7tzj/8w3cgPoYL5V/4j1bZ8S1mu8rOPmMzNPM9bWl25XhHF2/xde5c416zLff3lZGpsVnVrWrRutwnqmP7/EWaIsIBo9clAvKFM8HldzH7/1bI8WTdttSgaZhN8iCjrx8yQ6J/gX/PcDnydr2hY/Ku0o/5eS3gNcaPUD3emvfnP0DTe1AFNc6cDM7Ua1puPN8o2OifECI+Njy8P/sML8O+PO72luL/OV1mdUaali733RXyB31vkjSzyZyUt79GrYEuSRl7a3xZ531m9O5zniMf5V/nwPnRAb4g0Y6LP6WP6n/eA8eiHfcAl1OrHfuxxm01KWj2UwVzQmGlkeVkSoac0G599tCN/r7IZZuezj+59lAp6/NX70/KinukHb7LJuszqnyzyKztyGR2rOOlle1qVZbZq8kfmF9J9QJwwrw3ac2KdvH5VXelX9N08baYkrYRdRRqDDJNI9U9nl5ksAT/6/X//WfWyatonpI+3PmbkfjcdxO8WDuJ3c4P43aRddBAfjz5+TSvBv9urbHE2+/hOyMjIfsAQPr7bzo9+TtF7Xs0krwsFCzTtB6yu/9+B5NNceiDSAUXvz/934Ec5tgUl8Dkd7yEHXPmz1Pvw/1UYn9AUX1T1tYcfkDYf/78P72dVvciQMaDMMJnTBtjaz5Auxof/70BV5X3Zwk1iRO0nKX9k0WQtRb/VhLDVYkuMqgy02OyHMwD+bk/+pcEAc1oAerloya+6t/vpzoEiTujQ//d2jP9lP3pVZTMY6bym9UOOEu6e1FXT0HIirUkgsKMlCWqHtgS5pgivXk/bdU2Lb/wtkYa+wtfvA+qHTZx7Spz99It1vZpfp68pL3P86tWL4y+efPnl8/Qnz07Se3sHOwG50u88/SIlDKY1hbgpR8FY5V4RQvU1t+LZpt8CbiCPICeHoc1/zhjiHv8bYYj7D+8FI9zb7THEa/KEFleEfZ0+zy+wslcVJAXVOS3tNNN5Vl+QoaF2aEuQNzHELUDZtj9s4hiG2KUZXawoOClvxxIvX5+ln5fVJCv5M55d+i1ggJ9jdbDP/0Zm/9OdcDA/H2dfiGNnf38HAr5sKHW1zNOz58+//O6xmfm9gFjps930yboo4UvjHfRO5oHWpNvr9Hk744Y83fRbwA4/9/rgPv8b5YiHwSAjHPE+Wp0gb+KI9wH1wyaO5Yi79w/S72bljLIq9PP6ZpXwNFsU+ZKUQr5c5uR60Uc8x/RbwAY/x1rhU/43xgO74XgiPHDcUDIkpSRKKyFzd7II2qZ5v+n1HzYRzFzv30+/ky/fFiT+t9L9T9YNpfSaJt1zv55Ui0VeTwvSb8+Ktlo7hZC+uXvcuIbeO0SJnyZKGI+CdAmTDpT5IltSggEhHXfLjEK/BYz0c69PHvC/UV7aDUgW4aX3UQIEeRNfvQ+oHzZxDI89IOOX34q9vqAYL32ZtXVB3JQ+qy4ySljytzzF9FvABT/H6uSA/42yQGg39/ajLHDbeSPI/99jASGOYYHdg/vp8SSvKYedp69mN3PCd4uyzBeIkIuGdAJZo7d5zd/yTNNvASf83OuDh/xvlBn2g5HtUc7/55s+EOJYZkif1NfkN6a3UQn/33Atdnfwb3z6aZ698fw8nH4ljp3+3fSL6XHdzteEUnkzB/xeCEu+KChcyssUA5Th8izTbwEX/Jzrgd1d/GsZ4cnL15jqnZ3dT4Mx7dlVQPsReUSrqqGs4Bf5D36QLaEoeQK9BsUljYx8KI3AXq9plq8romI4sU/KWbpNHlZxWaC9bSZ+GmX0JG5H0x82XQwP3L+7e4/mcgLdfhstkL6mmJSQQNc0dP6cZ5d+Cxjg51gNSKatP/sPgtFEZv9p3mbTOc3+7IryMDTENFvOUvJ/yBWmRd/0QfoEChA6076DGcYEvy9D0NiKGY2THHbb5IdNIsMI3rhuwQXHL09/7+5w6TduwNNNvwXs8HOvDyTVZjiC1LczDJ3EdJ8poOxS6vc22pwg/3/PMAhxDC98SnECCfm6zcky3IYfvpOfn6fHZf6OZGWTd/hzrBQk3xZlgU7q6UGPBW7KGxC0TdN+0+s/bCKYqaY0fPpqTchJzvnp6YsXZy8+f/Pli/hEp9/5PP29SNDTb1e8EEUf8UTSb8FE/9yLu2TSYnO9Fw4pMtfvI6MEedO8vw+oHzZxDA/s3t3df7C9e383fV7kk4L0+S1EPn1aZ+ctaYnFijJWNLxiuokhfo4lX3JtUW7oJIn63HCT6BK0TRxw0+s/bCL8MGd9RU5THU56SgvqzSpbfvbRA1pXb7NJmaeTqiaz8dlHO6YdNazNr/Q79f3DIBIR5iUh/LvtMnmCcf9Q+99D/2Hi6ofa/z30H67NPsaUHVH+hH+6j3+YaN0HWiSWPlo/zP4/Rf8uelT2pN8Nq9KvYGfva/pNvqRf+Cv6/fHdWXFJv6TeE/71eFKndze2GPrrN05+48TAd//RF/QN/ZM+pq+MbGasjZ6s25aiuef5eQvhozb8PC6Wq3Wbtter/LOPmvWEFNZH6TJb0F9CKUPRSbt8WeeXRbVuPkovs3JNLdwHxUzb//7a/vcP2mdT0h7N2/ya3vkobYu2pLeP+cP098qvH6X0qWILBI/ruroShD+yBHLD5T+7jz/iaZlnNSkdfiPSmloz5b+hrwb6iXwc+2hFeK66n5mRFMvLoimIoTCabiuCJYRvmicVEWvxhEZt3qQPX1QUgC5puoPX8ERf5fXyj47o6/DpvY2HBJLf5zmfr8qTdUNQnlVk/OrnxfLtbjDpPxmddPpUhHretqtHd+9eXV2Nr7Ka3MnFpKrKMdmc8UV1Oc7Wd+l9LN23n330+5MHe/7REdxSSGgcuWJx4aFHfwlir/MVhfdtVRN2SibyzlrkZ2j8H6VNPf3so/H4Lv3veLX6/d/MaU2suftdh9LdswUpiObuT7q3npSkfsYXxTkNuCT8CEp7jZHO8+Ji3j7a3Vm9O7wqZu380S79JhZwWz7AV2Dw+CBuoPAedcjEZAq/IQr1KUyf3pbC53Wez6rFdrE8hwcHlbG9ovxFNr0m0CHxia3w+denP+H+/3n636MOmdRM/6+ISH3606e3pf+U9CZpagIT0hr6lD5PvyLvK+sLpzzRAfQ+jGgfPFFlcFKtrmsQkLTH4991ezv91vs93z05SY+fPj17c0YR5u5Beky8VKZ7O7sPscJEvqGMakZJuKJsOPVW5wsKllJKxb1N2yp9k0/n6ZfLfHu7O+reCPA8nu8dvZkXTUr/y5ZpdX6OFc0yvconTUEpuOqclrQs5dOTgtbLKfOxnBaUkqN340BXRy+/TJ9U79LdhwejdO++c6FJXNpRAPIniymxNq2iwpmOg7s7qY9ezqtl/ijdvbezk+7s3EupcbpVVsTNKf2/vJNSNnFr596d9P79+w/T/YMdcsw7mt88hN4xhfNgETK56S+c0qQdBjj5wyTqI9gZhkUc77i1GWDXkfDrR0exL+U7MCr6UX77uuxz+uLpN8hCwaAVM/rNPvYP7zs4G4/F21QPqc3ftXedDwpP6u7dx7/r906eHr85/t5vnPxuW7Nqul7QbNwZ13k2u946J9pDmaZbd9JfXJynW7/b1sc/LkqFvKhT8nTq5uM746LZ+viR2vqP76SffZZSnJnTK2j++//+r09effn8+csvXzM1fm96gV7e+njn4zuHsQa/j9/gl/ySO4d3737/+4QrufWMN/8KPU+zc3dSza7xc94uyqPk/wFMWwYvHGkAAA==
+  recorded_at: Tue, 14 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: https://eservices.warrnambool.vic.gov.au/robots.txt
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+      Host:
+      - eservices.warrnambool.vic.gov.au
+  response:
+    status:
+      code: 302
+      message: Redirect
+    headers:
+      Content-Type:
+      - text/html; charset=UTF-8
+      Location:
+      - https://cia.warrnambool.vic.gov.au/T1PROD/CiAnywhere/Web/PROD/LogOn/WCC
+      Server:
+      - Microsoft-IIS/8.5
+      Date:
+      - Wed, 05 Mar 2025 09:07:43 GMT
+      Content-Length:
+      - '194'
+      Strict-Transport-Security:
+      - max-age=16070400; includeSubDomains
+    body:
+      encoding: UTF-8
+      string: |-
+        <head><title>Document Moved</title></head>
+        <body><h1>Object Moved</h1>This document may be found <a HREF="https://cia.warrnambool.vic.gov.au/T1PROD/CiAnywhere/Web/PROD/LogOn/WCC">here</a></body>
+  recorded_at: Tue, 14 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=$P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+    body:
+      encoding: ASCII-8BIT
+      string: __VIEWSTATE=%2FwEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIBD2QWBgIED2QWAgIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAgcPZBYGAgEPDxYCHgRUZXh0ZWRkAgMPDxYCHghFZGl0TW9kZWhkFgQCAg8PFgIfBAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfBAUWNi8wMi8yMDI1IHRvIDUvMDMvMjAyNWRkAgUPDxYGHghHcmlkVHlwZQUMRVRSQUNLU0VBUkNIHhBHcmlkQ3JpdGVyaWFMaXN0MusEAAEAAAD%2F%2F%2F%2F%2FAQAAAAAAAAAMAgAAAFBUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMsIFZlcnNpb249MTAuNC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAQBAAAAnAFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW1QxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWEsIFQxLlAxLldlYi5PYmplY3RBZGFwdGVycywgVmVyc2lvbj0xMC40LjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsXV0DAAAABl9pdGVtcwVfc2l6ZQhfdmVyc2lvbgQAACdUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhW10CAAAACAgJAwAAAAEAAAABAAAABwMAAAAAAQAAAAQAAAAEJVQxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWECAAAACQQAAAANAwUEAAAAJVQxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWEFAAAAB21zVmFsdWUIbXNWYWx1ZTIObXNPcGVyYXRvckNvZGUKbXNDb2x1bW5JZA5tc1Byb3BlcnR5TmFtZQEBAQEBAgAAAAYFAAAAFTYvMDIvMjAyNSAxMjowMDowMCBBTQYGAAAAFTUvMDMvMjAyNSAxMTo1OTo1OSBQTQYHAAAAAkRCBggAAAANTG9kZ2VtZW50RGF0ZQkIAAAACx4JUGFnZUluZGV4AgNkFgJmD2QWBAIBD2QWAgIBDw8WAh8EBQlHcmlkIFR5cGVkZAIDDw8WAh8AaGQWAgIBDw8WAh8EBRxObyBpbmZvcm1hdGlvbiBpcyBhdmFpbGFibGUuZGQCDQ8WAh8AaGQYAwVDY3RsMDAkQ29udGVudCRjdXNSZXN1bHRzR3JpZCRyZXBXZWJHcmlkJGN0bDAwJGdyZFdlYkdyaWRUYWJ1bGFyVmlldw88KwAKAgICAwgCBmQFQGN0bDAwJENvbnRlbnQkY3VzUmVzdWx0c0dyaWQkcmVwV2ViR3JpZCRjdGwwMCRkdHZXZWJHcmlkTGlzdFZpZXcPFCsAB2RkZGRkFgACVWQFHGN0bDAwJENvbnRlbnQkbGJsU2VhcmNoRGF0ZXMPaGTovXmI%2F%2BYlMrsBuKyRgsTVnlgBzg%3D%3D&__VIEWSTATEGENERATOR=794B1E1F&__EVENTVALIDATION=%2FwEWLQKCuZujAwK359HKDwL38%2BS0BQLD0Z%2F%2FCAKDjpzeCAKCqYWLDgK%2B1pGjDgLurtn5CALsuJ7pAgLkoYWSBQLJuOf8CgKDooWSBQLouOf8CgKapIWSBQL%2Fuuf8CgLBooWSBQKmuef8CgLgooWSBQLFuef8CgL%2FooWSBQLkuef8CgKGoYWSBQLrt%2Bf8CgKtn4WSBQKStuf8CgKeo5nNBAKDuvu3CgLFoZnNBAKquPu3CgLkoZnNBALJuPu3CgKDopnNBALouPu3CgKapJnNBAL%2Fuvu3CgLBopnNBAKmufu3CgLgopnNBALFufu3CgKa4IP0BAKa4Pf0BAKa4Iv0BAKa4JP0BAKa4If0BAK%2Fg8WMCRJKDOPeRBYihS5lyMPAjGFMaxbO&__EVENTTARGET=ctl00%24Content%24cusResultsGrid%24repWebGrid%24ctl00%24grdWebGridTabularView&__EVENTARGUMENT=Page%245
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+      User-Agent:
+      - Mozilla/5.0 (compatible; ScraperUtils/0.5.0 2019-05-15; +https://github.com/ianheggie-oaf/scraper_utils)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - eservices.warrnambool.vic.gov.au
+      Referer:
+      - https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=%24P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+      Upgrade-Insecure-Requests:
+      - '1'
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '2270'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Content-Encoding:
+      - gzip
+      Expires:
+      - "-1"
+      Vary:
+      - Accept-Encoding
+      Server:
+      - Microsoft-IIS/8.5
+      X-Aspnet-Version:
+      - 2.0.50727
+      Date:
+      - Wed, 05 Mar 2025 09:07:45 GMT
+      Content-Length:
+      - '7619'
+      Strict-Transport-Security:
+      - max-age=16070400; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        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
+  recorded_at: Tue, 14 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: https://eservices.warrnambool.vic.gov.au/robots.txt
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+      Host:
+      - eservices.warrnambool.vic.gov.au
+  response:
+    status:
+      code: 302
+      message: Redirect
+    headers:
+      Content-Type:
+      - text/html; charset=UTF-8
+      Location:
+      - https://cia.warrnambool.vic.gov.au/T1PROD/CiAnywhere/Web/PROD/LogOn/WCC
+      Server:
+      - Microsoft-IIS/8.5
+      Date:
+      - Wed, 05 Mar 2025 09:07:45 GMT
+      Content-Length:
+      - '194'
+      Strict-Transport-Security:
+      - max-age=16070400; includeSubDomains
+    body:
+      encoding: UTF-8
+      string: |-
+        <head><title>Document Moved</title></head>
+        <body><h1>Object Moved</h1>This document may be found <a HREF="https://cia.warrnambool.vic.gov.au/T1PROD/CiAnywhere/Web/PROD/LogOn/WCC">here</a></body>
+  recorded_at: Tue, 14 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=$P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+    body:
+      encoding: ASCII-8BIT
+      string: __VIEWSTATE=%2FwEPDwUKMTE5MDgzMDk0Nw9kFgJmD2QWAgIBD2QWBgIED2QWAgIDDw8WAh4HVmlzaWJsZWhkFgICAg8PZA8PFCsAARYGHgROYW1lBQpsc0Z1bmN0aW9uHgxEZWZhdWx0VmFsdWUFEyRQMS5FVFIuU0VBUkNILlNMMjgeDlBhcmFtZXRlclZhbHVlZBQrAQECA2RkAgcPZBYGAgEPDxYCHgRUZXh0ZWRkAgMPDxYCHghFZGl0TW9kZWhkFgQCAg8PFgIfBAUMU2VhcmNoIERhdGVzZGQCAw8PFgIfBAUWNi8wMi8yMDI1IHRvIDUvMDMvMjAyNWRkAgUPDxYGHghHcmlkVHlwZQUMRVRSQUNLU0VBUkNIHhBHcmlkQ3JpdGVyaWFMaXN0MusEAAEAAAD%2F%2F%2F%2F%2FAQAAAAAAAAAMAgAAAFBUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMsIFZlcnNpb249MTAuNC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAQBAAAAnAFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW1QxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWEsIFQxLlAxLldlYi5PYmplY3RBZGFwdGVycywgVmVyc2lvbj0xMC40LjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsXV0DAAAABl9pdGVtcwVfc2l6ZQhfdmVyc2lvbgQAACdUMS5QMS5XZWIuT2JqZWN0QWRhcHRlcnMuR3JpZENyaXRlcmlhW10CAAAACAgJAwAAAAEAAAABAAAABwMAAAAAAQAAAAQAAAAEJVQxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWECAAAACQQAAAANAwUEAAAAJVQxLlAxLldlYi5PYmplY3RBZGFwdGVycy5HcmlkQ3JpdGVyaWEFAAAAB21zVmFsdWUIbXNWYWx1ZTIObXNPcGVyYXRvckNvZGUKbXNDb2x1bW5JZA5tc1Byb3BlcnR5TmFtZQEBAQEBAgAAAAYFAAAAFTYvMDIvMjAyNSAxMjowMDowMCBBTQYGAAAAFTUvMDMvMjAyNSAxMTo1OTo1OSBQTQYHAAAAAkRCBggAAAANTG9kZ2VtZW50RGF0ZQkIAAAACx4JUGFnZUluZGV4AgRkFgJmD2QWBAIBD2QWAgIBDw8WAh8EBQlHcmlkIFR5cGVkZAIDDw8WAh8AaGQWAgIBDw8WAh8EBRxObyBpbmZvcm1hdGlvbiBpcyBhdmFpbGFibGUuZGQCDQ8WAh8AaGQYAwVDY3RsMDAkQ29udGVudCRjdXNSZXN1bHRzR3JpZCRyZXBXZWJHcmlkJGN0bDAwJGdyZFdlYkdyaWRUYWJ1bGFyVmlldw88KwAKAgICBAgCBmQFQGN0bDAwJENvbnRlbnQkY3VzUmVzdWx0c0dyaWQkcmVwV2ViR3JpZCRjdGwwMCRkdHZXZWJHcmlkTGlzdFZpZXcPFCsAB2RkZGRkFgACVWQFHGN0bDAwJENvbnRlbnQkbGJsU2VhcmNoRGF0ZXMPaGROaRvW%2BWgC997tccyN5z9u7qqHDg%3D%3D&__VIEWSTATEGENERATOR=794B1E1F&__EVENTVALIDATION=%2FwEWLQKzg4%2FjAQK359HKDwL38%2BS0BQLD0Z%2F%2FCAKDjpzeCAKCqYWLDgK%2B1pGjDgLurtn5CALsuJ7pAgLkoYWSBQLJuOf8CgKDooWSBQLouOf8CgKapIWSBQL%2Fuuf8CgLBooWSBQKmuef8CgLgooWSBQLFuef8CgL%2FooWSBQLkuef8CgKGoYWSBQLrt%2Bf8CgKtn4WSBQKStuf8CgKeo5nNBAKDuvu3CgLFoZnNBAKquPu3CgLkoZnNBALJuPu3CgKDopnNBALouPu3CgKapJnNBAL%2Fuvu3CgLBopnNBAKmufu3CgLgopnNBALFufu3CgKa4IP0BAKa4Pf0BAKa4Iv0BAKa4J%2F0BAKa4If0BAK%2Fg8WMCQfWSN82KwaamLpGclWinLpolNMr&__EVENTTARGET=ctl00%24Content%24cusResultsGrid%24repWebGrid%24ctl00%24grdWebGridTabularView&__EVENTARGUMENT=Page%246
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+      User-Agent:
+      - Mozilla/5.0 (compatible; ScraperUtils/0.5.0 2019-05-15; +https://github.com/ianheggie-oaf/scraper_utils)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - eservices.warrnambool.vic.gov.au
+      Referer:
+      - https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationSearchResults.aspx?Field=S&Period=L28&f=%24P1.ETR.SEARCH.SL28&r=P1.WEBGUEST
+      Upgrade-Insecure-Requests:
+      - '1'
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '2272'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Content-Encoding:
+      - gzip
+      Expires:
+      - "-1"
+      Vary:
+      - Accept-Encoding
+      Server:
+      - Microsoft-IIS/8.5
+      X-Aspnet-Version:
+      - 2.0.50727
+      Date:
+      - Wed, 05 Mar 2025 09:07:46 GMT
+      Content-Length:
+      - '6975'
+      Strict-Transport-Security:
+      - max-age=16070400; includeSubDomains
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/IpLk8e/69MuTN7/Py9N03i7K9OVXT56fnaQfbd+9+917J3fvPn3zNP29v/3mi+fp7ngnfd3WxbS9e/f0xUfpR/O2XT26e/fq6mp8dW9c1Rd337y6+w5QdvGa/rrd8DvjWTv76Ii6w4fpu0W5bD6LQNh9+PChvEiNH8/zbHb0uC3aMj/6jZMfy1/n9WUxzZt0Oz1ercpimrVFtUxf51k9naev8mZdts1vnDy+K6/Q2La302+93/Pdk5P0+OnTszdnX75Idw+oo7oo072d3Yc0+usyb+Z53jajNJtVkzw9r5Ztk2bLWTrLgRr9aPMpY7W9ffRjaZomjxd5m6XLbJF/9tFlkV+tqrr9KJ3Si/my/eyjq2LWzj+Tt7f5j1FaLIu2yMrtZpqV+WdE+I/SuzSaBv2n7fWKILX5u/butGk+Shf5rMg++ygrQbLfs1gAfrquy62PxuO79D9qdLdZ0Ndj+u2jO4e9NvTxhgb0Wfjt47uMx034VMvyOm2mdZ4vmT5bi2Ip43uU3tvJF3eGsQWE9cL0121EH29qQZ91vv4GEP70wfj+RpTLrL7ITYfdNvTxhgb0WfjtLfElvly2wxjx1wZktw19vKEBfRZ+6zAqi+XbtM7Lzz7iT1gYPkrndX4u0tyQOK+bfAyc3xbteJm3d8vZ+sF8XjAw4eNpXazatKmn7qXsp7N344uquijzbFU042m14M/ulsWkufvTv2id19d37433xzv6x5imZ/zTzUdHhBzDc4DRuRLsp7PLTD79SPqjwdP/CJW7eaPa5PenvibFMp+F4Ehy5beb4H1zwG4J6WtqtdMXT2+h2Zj3RR3Rj44yI3VG/ycUmA9k2okC9D/Sx7//m3m+yJu7383qmtTdpKrKu0/z84yUssy9N3T+u8dHd2mYrPOTx5Nqdk0/vuZQ3TDvpd9ZL3MZ5UmdZ22ePi0um7St0vOiLNOrop2n+ZIFcEEKOS0W2QUsDA04eTwrLtNi9tlHxfKc5EFa/P5ea9LjZdaQJfM/o0HQe4Q8/ctvZ0sCWr7/ezVh27z/a7N80lb1+7+XOZN6+5e/5gSFvPhhkySC4XNXT7CIQel/r/kjo022d8cH43t9NZImzOOPz6t6oWY7a1akyJ7RB9C+7bwiaq2qhqBnLB6ffXT3ze7LVy9fffn07nfzCckCyfHLulrldXt9d+v11vX6ql7O11f3dqtqfu/+/fPLd82k2L9/587dl7t38zd1Nn2rP+hlMwvi16hbMyYk3v0ez4q8nH32+hdmi9Xhy7wuCJPnewf85/lnv/ve/svd8embV+PXp8evTr49fm2+qz+jL757+uTzr05fv/lIZtuNiXwrMAF+FMvV2pByXsxm+fIjpcHv//v/5Nnpd1+/OX5zKgCCDy6zck2N7l6dvnx69dXv9cWb0/tfPL34wRdP3+68uHr49tnFdxZP937iu8cXZ0/w88nF2Sl+0t9Pn14dfPd4vv/tn1yUP8i++53mp747p/ZnJ8cXBy9/6vjg5bOT5vj41e/z+bcvXn35+3x3t3zyE6tmuvNTu5PFi53suw/X3754d/pT3/2p+ey773Z+cvGsmX33q2en169+4ovX95/95LOz9Vc7P/nkq7cvzp6XL7744qcv8qflk/l08az9qd/7VTktf2o++fZPlj/15Cfq4584PTnee/X2+GL68qee/D6fH1/QWN79PifU71c/9XvPd37qu/juC/1s/uynPi933nz34VvB9ycYX8L7/MnxV198tfeT1MeL6uz01Xz2+U/+4Kc+p++v7PfffVEcXH1RHFx/8fRs9+zbry7Pnn51+cXTLy6/+Onj6xfcz1foh8Y8//Z0Ub79yW+XVz/1E1998eonX73+ia9ePDdj+vb8CX//E/e+s6J+rrPvPvsi+71f7Hyxbk6Pj+l/x0/v4jn+CfpVni+OL+jfZ0++IvqARr/3T333bP1m7zu/6Ke++2LnJ777aj79NtFl+UVz9uyn6OeL1WRv/+EXb47XL072r57/9HFzdvpid/LtV7vTxVcPJ4uf3J19+zvzycnVxVff/sli8nn506/3fvL+T37+sP6p7+4/nCx/spkc/8QT6vF4efzsTU64/dR3d9Y/sfewmXz+kz89+7y8nCy/WL/a+8n1T/3e31n9Ptf3Gf/f5+mzyXd3f+Ld8/KY/j8rf5/i/svfZ7Eqf597r5781OfPrjDW6fX9zthPCeeb3rm6+MkF/dyjfn96590XJ/s7NKb1F4T/T9z7yWb27Z+8/qk3u4TLT+4QjzTPT578xIx4Mvvui+c/9XuXX0322nLy07tr4rWGmjylYR0/KR+i/3Z69ZPnBPfTn/qJ+fnM9HFBhD+Z3UTr9Ssaw0+dvrjOwJOLcv7d3Z0TAn1MTPWd4yv6hefymOn45OoL+pceAq3/nH7nJ28ad49WAv8n+P0Xx1dfcQdfA84zeu34yd7uD1T2zia/94vv/j7ffbf7U6Tb6feXU2r3+/zery6nb19c/tTnX/1e9NnTyd673cl373/np47vt9PdJ9eTe0+IDq/uv4Fc/sTpE5LFJ8ynx78Pw3/25vch+TgT+Xh9/O6Ln66uvnhK/z958uTNT5Cs0vPsjSdDaPOm2v0S/3/95CeozbepyfHx21cnTy4Y8Is3n5Ps7v1k+1Pfvb/z6vNnOz/1E2/P6PPjk3f73/nq82fLn/qqXP/U5z+5f3zxkyTfor+eHIv+Ir31RPTWwemTnyiZJmfPXt2nsb79qWOj0w6Os887bV+9+3Jy/WQ1WfzU5XSxS7qBeKR4sppeP5nPFs9Wk8+fkQx9Rf3+xMnTn+B3AOP3Ob76yac0D80XT4/fkuysifbr2cmrn5793i9e/9TvzfL4A+ahk1fXP/V7PyE++w7j9J3PX+xMnh5ffefz2fVPPaM5fTujOXv11e/z3e/sUl/XpHPL2dXBwe91dfx7EZ7E7RcnTxY/8ewnzHunL0g+X5WT5U+8/X3u/eQPvlr85A+I93emO4DzE2+ni5+8+sm9nyy0b5LnK5qTV29n3/4pi8Obz8sfzJ791Oqnfu8p6/InpGN/6vNXRNPjk5/87k88+3akr8nn32mMDuW5+b2/eEl0mP7kbK+4OHlVlN99+snOk+NPm+zb2U/OD3YPrj77DO4jWTD2S37jhH4zv/zY7aza56cvTl8dv/nyVc+8ed+onXvwcP/J7unuM+lzcwenP3n64s1PHj8/e3pMEkGJE4He+1hBkwn97tnV89lP/6KTe0+vfq979x9++/d6evX83sEnr3ee/MTzpzs/dffuyfHv9fSnVz/I6efJL/p9vvv86cXv9cnu6vOffnrxfF23y/snx8+b9XcerI4vnr+tfp/vkgA8/876y/ODk4vf62lV8d+V/p2tzvjvu+s1/n7+RL7/vRbrnP+mkAx/P3+mf9/Vv9/K37/X5wq/bj/hv9vlPv7+vV63DO/3yqv7yxdPCN/15foevf+s+in++xetX+Lv3yvbP3tJM0k/X57Lz7NL+fmdu/qTv797cfDdL06yl1++/nJ69Wr1xdW3n778va6uLssvfu9PJ+QeEQExFTL97MDhAQ8wvcsqm5ED/9ERfeg/riXzjfuT/uIXKVB5Uq2XM/IQxS80T9AiWy7z+qPUve8/7CM/ry4KDqPiTQBM3exmlU8p+YMIi/qkL6PP4Bd4HjerbGngcc8bIJnncSbDacudnd+f/uX3fv/pYsa/wNWloLR5m18TSIrlkGH77KNj/jD9vfLrRyl9KhGhc78f/f6//6x6SZ7yE/Jstz4mqDs7vxv9yyB/NwP749HHH1NuhX9/fDfrzlHv2TwUcuRp9JvHG/+ywwP+w3N4SpExI4l5pA/t03uF55OpaZiD3qsGJoEIL3QzuRCbAhhfuVB6TJ9QguRynK0/KNj4fJ037berRS4BRRAZ/EIbQ7x8NeZPvv3F6fgnz74rSosmDqyxmOH1F9nlwHjwPC4WF37oRVia9ICmBO6ecQx393Sxaq/HF8W53wfHd6aXdFLVs7z+7CNKgypPz81XlE6i3noPuKj3hU4vTyWFoe/zIGR14WqQOjmeEVOQrDbphHgcIesXGXEI3rjKJ03R5sQsP9ZHhnDhAV9Np78/ZB0Khj7vPY/XZfwLPJSHOeqxD6fTo4zz0dGrvF3XS2AJBIl9gCCo9ZgSbfF+Ht+NYaDEpN+C5/G394BQMUsJH5okjMyohR//6MhLDaUnRXudnpBunRIpv1xSy5wy+cL4ghHBsh2YMB+fXGZ1uiIGIUh5+ln60dfmaoUF9AjOVbGcVVfjspLoe4yPD7XJkr7H32Nqk7/78nzrY+r0Y0qNpvyx+bZZTxpa7lhebO2M6J3f9bN0ezf9Pei3R/J9mS8v2jm/Bqg05rdtBToZANNqSb1vmdFRy1k1XSPnMb7I29OSJGjZPrk+m219jNcA4OM7jClBwF8CjlO2ll7h0/vAsmJZXObTeYbsTpen8FWzXiFHPMBbd1dzSlxc5mP6+XvMPtv9hdUSo/gMnwEoizQw/IViOp7T55+c0BefsCL4BDJEZgUpHloV+f0nZYa/Vd5X1Wq92v3oCMBSQBMGIcS/vjyHKaj3l+mAjooL/WYfJqviP6Wsdk1kHWgF4pOlOJE1oWPKgEWUgd/yTda8JSOXf5RKDzT5+PhF9ZKYj+av9zKe6IeAGm+OZ/AL8+B1QeGzj4g11y8JKaxD0VeDTyLWlKbhfR4Qf8N0ZcgYYqau6myV5hmtBwKftNEENrLadb6oiH+y9PGkPiJWu6BZ/DFC54bHHyO0NeAq2BtGisd/G29+m/Lb5Cve/CIeceR40tkumnn//etV/QUBe140LXy1nd3fv5yU+OTzulqvTB+qVcn4lppSJM0KkDf3HmHVoccfoaHP708EqpazrL6+xUjJxJn38S4PASNDYvLHAhNHnkT+ej1ZFO1d+eENLab5kfu02v/1k/Hrr55QKuvlS9b+RwKCWMOnkGgWdIr/ex2/nlerFan2k6ym3r0/bur45fHvMz45fvVGO9U3U7xqO0PkEjOzQ88tp0ebDcsbCdbAA3m7QUXeJHMQr40o/kgTQEpvfBHPrTXB3iZN8DK7pp7b/x9oARrJ3TNvVY7+xo+bZPH05e8zPnvx7NXZi89Px6cvfuKjIx+IoY8Vy2i3x7ycR7+h6W06PH5x9sXx89fSn7x9u55e0UpYQ7+g5W06oiTVqXbDr96uF0/50Z9of5u+SItqV977t+vwKS9Q0m9oepu+np4+oeybdidv93r6+apBb3gUf/pt8Bn8MvrF1wE48E7vA9YhrOOci/sqL4mVZ+yOG3f3a3u7eFwnpC13fv9XxcW8RWdwXX//tlmFHUp/H7XagHxbYjRA8L4wSlbflNBBxkyNiSnpX+JQKwdfc6H3zXf5rw2i4q38voGrwf4NMHozLxqK9vO3vrjQvx+K0vP3Qel5gNLzrGl/NlB68wX/dTuU3nzho8RU+oKCsPk3jNPz98HpeYATk+lnBacH/NctcXrQw+lB+jS7Ji7/ZpHa3ec/b4nV7n4Prd39nxW89g74z1vitXfQw2vv4BvC6yl3q3i9j0p4CpXwNG/zekGuoHL7NyOAAU7voxOeQid4ODGpfhZweh+l8BRKwcOJ6fQNSWCA1PtohafQCh5STKifFaTeQy08hVroIvVN6YUQq/fRC0+pdR+vb0wxhIi9j2J4Sq37iEU0AxxZ+kEOhO9mPKsqevOjo1+4nDSrQ+tf6M9Bfyf6xS0/7H0ivfU+7j69BjwWdrpsmnPAb6PHb/ztvFwdL2fHM6LY8Bvpb8zfmH/5R/cZQJ07UypTf4rcd6v6LYXI03ygT+IbRVBfeFOtkN+NLDvhiX6I5/F8VwCxLyqO5O8/331JGfE3SJOH0ZXwZKpM+fjufPc9urv9h+6Jfm2oTP/00hJKjd9/um5ON0rUR2nTXtMywEezolmV2fWjgjMU2xNafnl7eFXM2vmj3Z2d3/0QVEUnxOLUHxI2tOgnv8u/QyhQGkR6fEpOOfWnc8wdENDht1jMX9Dqy8tdEt4YjHO0eJ5NEA7I9yTC1EAxvQn2T2bl+nbAP727s3d3b2fvPmLE+3d37vEfphv5IVQw/8p/pNqWbynLVX72EZO5med5S6sr1yuieJu/a+8S55p1ua+/nEyNzapuTYvW7TZBHdP/P8IMERYQrT4ZiDeUCT6vi9nvv1qWJ+umrRZFw2yCDxFl/ZgZEv0T/Gue24Gv8xUNi3+VdtTfawmvIW6U+uHOtDf/GZrGmzqgae50YKZWw3rz8UbZRueEGOGx8fHlwX94Af79cae3FPfX+SqrM8q0dLH3vogv8HuLvJFF/qyk5T16FWxJ0shL+9si7zurd4fzHPE4/yof3ocO6A2RZkz0OX1M//MeMB79sA+4hFr92I89brNJSauHMpgLGjONLC9LIvSUZuOzj3bk71U2w+x89tG9j1JBj796f1pe1DP94E02WZdZ/ZNFfmVHLqNjFSe9bE+rssxWTf7I/EK6D4gT5rVBe06sk9evqiv9ir6bp82UpJWwq0hjkGESqf7p7DKTJeBHv//vP6teVk37hPTx1seM3O+mg/jdwkH8bm4Qv5u0iw7i49HHr2kl+Hd7lS3OZh/fCRkZ2Q8Ywsd32/nRzyl6z6uZ5HWhYIGm/YDV9f87kHyaSw9EOqDo/fn/Dvwox7agBD6n4z3kgCt/lnof/r8K4xOa4ouqvvbwA9Lm4//34f2sqhcZMgaUGSZz2gBb+xnSxfjw/x2oqrwvW7hJjKj9JOWPLJqspei3mhC2WmyJUZWBFpv9cAbA3+3JvzQYYE4LQC8XLflV93Y/3TtQxAkd+v++87joL3zymuze4opYqE6f5xdYx6kKGnN1Ton8ZjrP6gtSK9QObQlwTQFevZ6265rW3hD1wbLTV/j6fUD9sGlzT2mzd/AwfbVuGjKL6WvSmqcvXtDK2Rtay/jJs5P03t7BTkCv9El9TS4Tx780Xhpak5NnU62JV7+bN7RYQ414xum3gCPIK8jJaWjznzOmuMf/RpniYTDI/18xBZOCR34zbQxT7KdffvykLjCzlKw7fvXqxfEXT7788vkAT7x8fZZ+XlaTrOTPeG7pt2D6f44Vwj7/G5v7e+Fgfh7OvdDGzP3Dh+Tf5ZPi4pZzX12RDkifrIsSPnX6el1f5tf0GzfhqabfAlb4udcE9/nfKDfsBsP7ecgNQhvDDXu76Rnp+1ezD2GF9GV7nT5vZ9yU55t+C1ji51g7fMr/RvlhPxhjnx9eVdkspW5zGmvKOcW7J3XVNNUlTavMuG1LgDfxw/uA+mHTxvDD7l56Uq2bYtncjic+LyaUqEqfZYuivE6/XZHjeDM3/NwriAf8b5QhaOq9Af48ZAihjWWIu/cfpicUFeT1ZE0x12244mm2pAxo+u31UvDnGabfAib4OVYJB/xvlAM+DQbzjXHA/3c4QGhjOODTnfS7WTmjnDv9vL559tMvr8ixhJVoRSHwNzzH9FvAAz/3iuAh/xtlgwfBqH4esoHQxrDBfXJiYBvafF2nt3IdX1SXlGa+iQd+bvXA7g7+jTNAmEnw1m7oL3zyPrNGgP8/xwBKG8MAn+6l3y4odX2ryf+CUl7z/IoYZomE9zV/wfNLvwXz/3OuA3Z38W+cBcK8wc9DFhDaGBagsW/v7eynX+R1XdyKD9JXx5+ntIx8fl5M0y+yJa0lIXvP3/Nc028BO6yoRbg6MkspO0pLPMvPPnpASVJZA5IFFyzraDtqWJtf6Xfq/YdBI6ILFvp/t11QJwwtf6j976H/vZ+7/u+h/3s/d/3vo/8wlPuh9n8f/ZNa8PsHyx6RL8k/+WNlT/rdsCr9Cnb2vqbf5Ev6hb+i3+06qfeEf8XWkG/3FxZbDXz3H31B39A/vPhqZDPj1eMn67atls3z/LyF8FEbfh4Xy9W6TdtrrGc06wnpq49SWkSmv4SAhtCTdvmyzi8LCjM/Si+zck0t3Af9RdqgfTad0hLK2/ya3vkobYsWC7HH/GH6e+XXj1L6VLEFgsd1XV0Jwm4F2g2X/+w+/oinJa3pk9LhN+KtmfLf0FcD/UQ+jn20IjxX3c/MSIrlZdFQsJ5jNN1WBEsI3zRPKiLW4gmN2rxJH76oaEVuSdMdvIYn+ipnuz46oq/Dp/c2HpJTfp/nfL4qT9YNQXlWVeQWYCF6N5j0n4xOOn0qsj5v29Wju3evrq7GV1lNbsViUlXl+LKYji+qy3G2vkvvI/HWfvbR709rIucfHcE9heDGkSsWFx569Jcg9jpfkWtL+T3CTslEZrql5bOSxv9R2tTTzz4aj+/S/2hZ7fd/Myer19z9rkPp7tmC9EZz9yfdW09K0krji+KcBlwSfgSlvcZI53lxMW8f7e6s3h1eFbN2/miXfhMLuC0f4CsweHwQN1B4jzpkYjKF3xCF+hSmT29L4fM6z2fVYrtYnsO1h8rYXtXFZTa9JtAh8Ymt8PnXpz/h/v95+t+jDpnUTP+viEh9+tOnt6X/lPQmaWoCE9Ia+pQ+T78inzPrC6c80QH0PoxoHzxRZXBSra5rEJC0x+PfdXs7/db7Pd89OUmPnz49e3NGa5a7B+kx8VKZ7u3sPsSCOvmGMqpZ3mZF2aTZcpbW+YK85pQSk2/Ttkrf5NN5+uUy397ujro3AjyP53tHb+ZFk9L/KDVewXUtKHt/lU+aos3pA8qDWMqnJwWlOykuXk4LWh6jd+NAV0cvv0yfVO/S3YcHo3SPommzCEPi0o4CkD9ZTIm1i4zd6Ti4u5P66OW8WuaP0t17Ozvpzs69lBqnW2VF3JzS/8s7aVWnWzv37qT371MOb/9gh1zzjuY3D6F3TAvEYBEyuekvnNKkHQY4+cMk6iMGGoZFHO+4tRlg15Hw60dHsS/lOzAq+lF++7rsc/ri6TfIQsGgFTP6zT72D+87OBuPxQlVD6nN37V3nWsKT+ru3ce/6/dOnh6/Of7eb5z8bluUcVsjVrozrhFBb50T7aFM06076S8uztOt323r4x8XpUJe1Cl5OnXz8Z1x0Wx9/Eht/cd30s8+SynkzOkVNP/9f//XJ6++fP785ZevmRq/N71AL299vPPxncNYg9/Hb/BLfsmdw7t3v/99wpXcWsabf4Wep9m5O6lm1/g5bxflUfL/AKClFgKZXgAA
+  recorded_at: Tue, 14 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: https://eservices.warrnambool.vic.gov.au/robots.txt
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+      Host:
+      - eservices.warrnambool.vic.gov.au
+  response:
+    status:
+      code: 302
+      message: Redirect
+    headers:
+      Content-Type:
+      - text/html; charset=UTF-8
+      Location:
+      - https://cia.warrnambool.vic.gov.au/T1PROD/CiAnywhere/Web/PROD/LogOn/WCC
+      Server:
+      - Microsoft-IIS/8.5
+      Date:
+      - Wed, 05 Mar 2025 09:07:46 GMT
+      Content-Length:
+      - '194'
+      Strict-Transport-Security:
+      - max-age=16070400; includeSubDomains
+    body:
+      encoding: UTF-8
+      string: |-
+        <head><title>Document Moved</title></head>
+        <body><h1>Object Moved</h1>This document may be found <a HREF="https://cia.warrnambool.vic.gov.au/T1PROD/CiAnywhere/Web/PROD/LogOn/WCC">here</a></body>
+  recorded_at: Tue, 14 May 2019 14:00:00 GMT
+recorded_with: VCR 6.0.0

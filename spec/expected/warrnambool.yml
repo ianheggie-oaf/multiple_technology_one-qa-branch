@@ -1,0 +1,514 @@
+---
+- council_reference: BFR20250010
+  address: 3 Clonmel Ct WARRNAMBOOL VIC 3280
+  description: Request for Building File Retrieval - Building Permit or Occupancy
+    or Final Certificate
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BFR20250010&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: BFR20250011
+  address: 17 Ziegler Pde ALLANSFORD VIC 3277
+  description: Request for Building File Retrieval - Approved Plans - Residential
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BFR20250011&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: BFR20250012
+  address: 180 Horne Rd WARRNAMBOOL VIC 3280
+  description: Request for Building File Retrieval - Approved Plans - Residential
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BFR20250012&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: BFR20250013
+  address: 129 Timor St WARRNAMBOOL VIC 3280
+  description: Request for Building File Retrieval - Approved Plans - Commercial,
+    Building Permit or Occupancy or Final Certificate
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BFR20250013&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: BFR20250014
+  address: 3 Goldie Ct WARRNAMBOOL VIC 3280
+  description: Request for Building File Retrieval - Approved Plans - Residential
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BFR20250014&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: BFR20250015
+  address: 4 Spence St WARRNAMBOOL VIC 3280
+  description: Request for Building File Retrieval - Approved Plans - Commercial,
+    Building Permit or Occupancy or Final Certificate
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BFR20250015&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-03-04'
+- council_reference: BPI20252001
+  address: 12 McArthur Pl WARRNAMBOOL VIC 3280
+  description: Construction of a Deck
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPI20252001&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-28'
+- council_reference: BPS20250010
+  address: 70 Botanic Rd WARRNAMBOOL VIC 3280
+  description: 'New learning centre and refurbishment of toilet block (RBS Ref: 0154713)'
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPS20250010&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: BPS20250011
+  address: 73 Mortlake Rd WARRNAMBOOL VIC 3280
+  description: Construction of Townhouses 1 & 2
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPS20250011&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: BPS20250012
+  address: 229 Moore St WARRNAMBOOL VIC 3280
+  description: Homes Victoria - Family Community Care Units
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPS20250012&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: BPS20250013
+  address: 9 Cousins Rd WARRNAMBOOL VIC 3280
+  description: Detached dwelling and garage re 9 Cousins Rd
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPS20250013&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-19'
+- council_reference: BPS20250014
+  address: 7 Bennet St WARRNAMBOOL VIC 3280
+  description: Detached dwelling and garage re 7 Bennet St
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPS20250014&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-19'
+- council_reference: BPS20250015
+  address: 2/149-165 Koroit St WARRNAMBOOL VIC 3280
+  description: 6298562299766 - Shop Fit Out - Beyond Bank
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPS20250015&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-19'
+- council_reference: BPS20250016
+  address: 5/13 Robson St WARRNAMBOOL VIC 3280
+  description: Proposed Mezzanine Works
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPS20250016&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-26'
+- council_reference: BPS20250017
+  address: 7 Bennet St WARRNAMBOOL VIC 3280
+  description: Detached dwelling and garage re 7 Bennet St
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPS20250017&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-26'
+- council_reference: BPS20250018
+  address: 46 Crawley St WARRNAMBOOL VIC 3280
+  description: PROPOSED CONSTRUCTION OF 2 NEW DWELLINGS
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=BPS20250018&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-03-03'
+- council_reference: EHW20250001
+  address: 234 Ziegler Pde ALLANSFORD VIC 3277
+  description: Septic Tank - Install a System
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=EHW20250001&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-03-03'
+- council_reference: InfPmt20231572
+  address: 59 Liebig St WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231572&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-06'
+- council_reference: InfPmt20231573
+  address: 85 Japan St WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231573&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-06'
+- council_reference: InfPmt20231574
+  address: 60 Liebig St WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231574&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-06'
+- council_reference: InfPmt20231575
+  address: 5 Sommerville Bvd WARRNAMBOOL VIC 3280
+  description: Stormwater Legal Point of Discharge
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231575&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: InfPmt20231576
+  address: 15 Redford St WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231576&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: InfPmt20231577
+  address: 8 King St WARRNAMBOOL VIC 3280
+  description: Stormwater Legal Point of Discharge
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231577&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: InfPmt20231578
+  address: 99 Liebig St WARRNAMBOOL VIC 3280
+  description: Asset Protection Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231578&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: InfPmt20231579
+  address: 99 Liebig St WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231579&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: InfPmt20231580
+  address: 19 Hildebrandt St WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231580&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-10'
+- council_reference: InfPmt20231581
+  address: 323 Russell St DENNINGTON VIC 3280
+  description: Asset Protection Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231581&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: InfPmt20231582
+  address: 3 Lee St WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231582&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: InfPmt20231583
+  address: 5 Riverview Tce WARRNAMBOOL VIC 3280
+  description: Asset Protection Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231583&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: InfPmt20231584
+  address: 125 Raglan Pde WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231584&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-11'
+- council_reference: InfPmt20231585
+  address: 293 Russell St DENNINGTON VIC 3280
+  description: Stormwater Legal Point of Discharge
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231585&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: InfPmt20231586
+  address: 14 Chatham Ct WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231586&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: InfPmt20231587
+  address: 456-466 Hopkins Point Rd ALLANSFORD VIC 3277
+  description: Stormwater Legal Point of Discharge
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231587&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-19'
+- council_reference: InfPmt20231588
+  address: 78 Denneys St WARRNAMBOOL VIC 3280
+  description: Stormwater Legal Point of Discharge
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231588&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-19'
+- council_reference: InfPmt20231589
+  address: 41 Recreation Dr WARRNAMBOOL VIC 3280
+  description: Asset Protection Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231589&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: InfPmt20231590
+  address: 79 Wollaston Rd WARRNAMBOOL VIC 3280
+  description: Stormwater Legal Point of Discharge
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231590&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-19'
+- council_reference: InfPmt20231591
+  address: 45 Jenkins St WARRNAMBOOL VIC 3280
+  description: Build Over Easement
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231591&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-19'
+- council_reference: InfPmt20231592
+  address: 122 Liebig St WARRNAMBOOL VIC 3280
+  description: Asset Protection Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231592&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: InfPmt20231593
+  address: 1 Campbell St WARRNAMBOOL VIC 3280
+  description: Stormwater Legal Point of Discharge
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231593&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-21'
+- council_reference: InfPmt20231594
+  address: 4 Bonning St WARRNAMBOOL VIC 3280
+  description: Asset Protection Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231594&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: InfPmt20231595
+  address: 36 Haberfield St WARRNAMBOOL VIC 3280
+  description: Asset Protection Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231595&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: InfPmt20231596
+  address: 17 Dalrymple Dr WARRNAMBOOL VIC 3280
+  description: Asset Protection Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231596&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-19'
+- council_reference: InfPmt20231597
+  address: 1/158 Koroit St WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231597&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-19'
+- council_reference: InfPmt20231598
+  address: 8 Tooram Rd ALLANSFORD VIC 3277
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231598&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-19'
+- council_reference: InfPmt20231599
+  address: 45 Jenkins St WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231599&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-19'
+- council_reference: InfPmt20231600
+  address: 140 Conns Lane ILLOWA VIC 3282
+  description: Stormwater Legal Point of Discharge
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231600&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-21'
+- council_reference: InfPmt20231601
+  address: 121-123 Liebig St WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231601&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-20'
+- council_reference: InfPmt20231602
+  address: 31 Membery Way WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231602&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-20'
+- council_reference: InfPmt20231603
+  address: 39-41 Wilson St WARRNAMBOOL VIC 3280
+  description: Stormwater Legal Point of Discharge
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231603&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-20'
+- council_reference: InfPmt20231604
+  address: 22 Brittain Ave WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231604&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-20'
+- council_reference: InfPmt20231605
+  address: 2-10 Fairy St WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231605&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-20'
+- council_reference: InfPmt20231606
+  address: 32 Recreation Dr WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231606&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-20'
+- council_reference: InfPmt20231607
+  address: 4 McLaren St WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231607&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-20'
+- council_reference: InfPmt20231608
+  address: 4 Murphy St WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231608&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-20'
+- council_reference: InfPmt20231609
+  address: 1/58 Waldock Way WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231609&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-21'
+- council_reference: InfPmt20231610
+  address: 45 Jenkins St WARRNAMBOOL VIC 3280
+  description: Asset Protection Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231610&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-21'
+- council_reference: InfPmt20231611
+  address: 7 Lee St WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231611&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-21'
+- council_reference: InfPmt20231612
+  address: 185 Aberline Rd WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231612&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-24'
+- council_reference: InfPmt20231613
+  address: 291 Russell St DENNINGTON VIC 3280
+  description: Stormwater Legal Point of Discharge
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231613&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-28'
+- council_reference: InfPmt20231614
+  address: 1 Bryant St WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231614&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-25'
+- council_reference: InfPmt20231615
+  address: 11 McArthur Pl WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231615&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-25'
+- council_reference: InfPmt20231616
+  address: 229 Moore St WARRNAMBOOL VIC 3280
+  description: Stormwater Legal Point of Discharge
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231616&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-28'
+- council_reference: InfPmt20231617
+  address: 37 Recreation Dr WARRNAMBOOL VIC 3280
+  description: Stormwater Legal Point of Discharge
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231617&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-28'
+- council_reference: InfPmt20231618
+  address: 6 Le Couteur St WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231618&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-26'
+- council_reference: InfPmt20231619
+  address: 315 Russell St DENNINGTON VIC 3280
+  description: Asset Protection Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231619&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-27'
+- council_reference: InfPmt20231620
+  address: 1/147-151 Liebig St WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231620&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-27'
+- council_reference: InfPmt20231621
+  address: 1/147-151 Liebig St WARRNAMBOOL VIC 3280
+  description: Asset Protection Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231621&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-27'
+- council_reference: InfPmt20231622
+  address: 1A Manuka Dr WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231622&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-27'
+- council_reference: InfPmt20231623
+  address: 10 Irvine St WARRNAMBOOL VIC 3280
+  description: Stormwater Legal Point of Discharge
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231623&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-28'
+- council_reference: InfPmt20231624
+  address: 5 Holder St WARRNAMBOOL VIC 3280
+  description: Stormwater Legal Point of Discharge
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231624&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-28'
+- council_reference: InfPmt20231625
+  address: 3 Holder St WARRNAMBOOL VIC 3280
+  description: Stormwater Legal Point of Discharge
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231625&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-28'
+- council_reference: InfPmt20231626
+  address: 1/95 Ziegler Pde ALLANSFORD VIC 3277
+  description: Stormwater Legal Point of Discharge
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231626&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-03-03'
+- council_reference: InfPmt20231627
+  address: 4 McDowell St DENNINGTON VIC 3280
+  description: Stormwater Legal Point of Discharge
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231627&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-03-03'
+- council_reference: InfPmt20231628
+  address: 289 Russell St DENNINGTON VIC 3280
+  description: Stormwater Legal Point of Discharge
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231628&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-03-04'
+- council_reference: InfPmt20231629
+  address: 4 O'Brien St WARRNAMBOOL VIC 3280
+  description: Stormwater Legal Point of Discharge
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231629&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-03-04'
+- council_reference: InfPmt20231630
+  address: 99 Liebig St WARRNAMBOOL VIC 3280
+  description: Stormwater Legal Point of Discharge
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231630&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-03-04'
+- council_reference: InfPmt20231631
+  address: 21 Ian Rd WARRNAMBOOL VIC 3280
+  description: Stormwater Legal Point of Discharge
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231631&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-03-04'
+- council_reference: InfPmt20231632
+  address: 5 Lee St WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231632&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-03-03'
+- council_reference: InfPmt20231633
+  address: 16 Bayview Tce WARRNAMBOOL VIC 3280
+  description: Asset Protection Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231633&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-03-03'
+- council_reference: InfPmt20231634
+  address: 12 Cousins Rd WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231634&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-03-04'
+- council_reference: InfPmt20231635
+  address: 1/59 Canterbury Rd WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231635&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-03-04'
+- council_reference: InfPmt20231636
+  address: 60 Waldock Way WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231636&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-03-04'
+- council_reference: InfPmt20231637
+  address: 5 Le Couteur St WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231637&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-03-04'
+- council_reference: InfPmt20231638
+  address: 62 Hider St WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231638&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-03-05'
+- council_reference: InfPmt20231639
+  address: 202-204 Merri St WARRNAMBOOL VIC 3280
+  description: Road Reserve Works/Crossover Permit
+  info_url: https://eservices.warrnambool.vic.gov.au/T1PRPROD/WebApps/eProperty/(S(yuwrnhuw31ooh355fvxsbi45))/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=InfPmt20231639&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-03-05'
