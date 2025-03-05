@@ -21,7 +21,7 @@ module TechnologyOneScraper
       period: "L28"
     },
     cockburn: {
-      url: "https://ecouncil.cockburn.wa.gov.au/eProperty",
+      url: "https://cockburn-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
       period: "TM"
     },
     corangamite: {
