@@ -1,261 +1,172 @@
 ---
-- council_reference: DA0241/23
-  address: 5 Wright Street WHITE GUM VALLEY WA 6162
-  description: Additions (rear Two Storey) and alterations to existing Single house
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0241%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+- council_reference: DA0024/25
+  address: 27 Hulbert Street SOUTH FREMANTLE WA 6162
+  description: Two Storey Additions and alterations to existing Single house
+  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0024%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-14'
-- council_reference: DA0242/23
-  address: 4 Westmeath Street NORTH FREMANTLE WA 6159
-  description: Outbuilding Addition
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0242%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-23'
+- council_reference: DA0025/25
+  address: 11 King William Street SOUTH FREMANTLE WA 6162
+  description: Removal of Existing Limestone Wall
+  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0025%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-14'
-- council_reference: DA0243/23
-  address: 86 High Street FREMANTLE WA 6160
-  description: Signage Additions
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0243%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-28'
+- council_reference: DA0026/25
+  address: 12 Hanlin Way SAMSON WA 6163
+  description: Carport addition
+  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0026%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-15'
-- council_reference: DA0244/23
-  address: 91 Paget Street HILTON WA 6163
-  description: Single Storey Single House
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0244%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-28'
+- council_reference: DA0027/25
+  address: 2 Clontarf Road BEACONSFIELD WA 6162
+  description: Signage
+  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0027%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-16'
-- council_reference: DA0245/23
-  address: 6 Pitts Lane WHITE GUM VALLEY WA 6162
-  description: Addition to existing Grouped dwelling
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0245%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-28'
+- council_reference: DA0028/25
+  address: 229A-229B Queen Victoria Street NORTH FREMANTLE WA 6159
+  description: Change of use to Small Bar and internal fitout
+  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0028%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-16'
-- council_reference: DA0246/23
-  address: 6/23 Adelaide Street FREMANTLE WA 6160
-  description: Change of Use from Shop to Multiple dwelling
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0246%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-28'
+- council_reference: DA0029/25
+  address: 12 South Terrace FREMANTLE WA 6160
+  description: Signage and internal Alterations to existing Building
+  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0029%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-17'
-- council_reference: DA0247/23
-  address: 9 Fothergill Street FREMANTLE WA 6160
-  description: Additions and alterations to existing Single house
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0247%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-28'
+- council_reference: DA0030/25
+  address: 12 McMahon Way SAMSON WA 6163
+  description: Primary Street Fence Addition
+  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0030%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-21'
-- council_reference: DA0248/23
-  address: 50 Collick Street HILTON WA 6163
+  date_received: '2025-01-28'
+- council_reference: DA0031/25
+  address: 6/142 South Terrace FREMANTLE WA 6160
+  description: Change of Use tol Shop
+  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0031%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-28'
+- council_reference: DA0032/25
+  address: 6 Hanlin Way SAMSON WA 6163
+  description: Carport Addition to Existing House
+  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0032%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-30'
+- council_reference: DA0033/25
+  address: 15 Flindell Street O'CONNOR WA 6163
+  description: Industry Development
+  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0033%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-31'
+- council_reference: DA0034/25
+  address: 31 Harwood Street HILTON WA 6163
+  description: Additions and alterations to existing Single House
+  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0034%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-31'
+- council_reference: DA0035/25
+  address: 83 Samson Street WHITE GUM VALLEY WA 6162
+  description: Patioand& Outbuilding additions to existing Single house
+  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0035%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-31'
+- council_reference: DA0036/25
+  address: 222 Queen Victoria Street NORTH FREMANTLE WA 6159
+  description: Alterations to existing Building
+  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0036%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-01-31'
+- council_reference: DA0037/25
+  address: 13 Higham Road NORTH FREMANTLE WA 6159
+  description: Unauthorised Deck Addition
+  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0037%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: DA0038/25
+  address: 95 Snook Crescent HILTON WA 6163
   description: Alterations and Additions to existing Single house
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0248%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0038%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-21'
-- council_reference: DA0249/23
-  address: 18 Watkins Street WHITE GUM VALLEY WA 6162
-  description: Single Storey Single House
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0249%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: DA0039/25
+  address: 21 Hines Road HILTON WA 6163
+  description: Additions and alterations to existing Single house
+  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0039%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-21'
-- council_reference: DA0250/23
-  address: 25A Grigg Place HILTON WA 6163
-  description: Patio Addition
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0250%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-07'
+- council_reference: DA0040/25
+  address: 89 Solomon Street FREMANTLE WA 6160
+  description: Additions to Existing House
+  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0040%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-22'
-- council_reference: DA0251/23
-  address: 29 Carnac Street FREMANTLE WA 6160
-  description: Ancillary Dwelling Addition and Alterations to Existing Single House
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0251%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-11'
+- council_reference: DA0041/25
+  address: 131 South Street BEACONSFIELD WA 6162
+  description: Carport Addition
+  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0041%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-22'
-- council_reference: DA0252/23
-  address: 10/100 Stirling Highway NORTH FREMANTLE WA 6159
-  description: Addition of Windows to existing Building
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0252%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-11'
+- council_reference: DA0042/25
+  address: 14 Mouat Street FREMANTLE WA 6160
+  description: Additions and alterations to existing Single house
+  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0042%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-23'
-- council_reference: DA0253/23
-  address: 5/13 James Street FREMANTLE WA 6160
-  description: Change of Use to Multiple dwelling and alterations to existing building
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0253%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-13'
+- council_reference: DA0043/25
+  address: 21 Mather Road BEACONSFIELD WA 6162
+  description: Two Storey Single House
+  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0043%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-24'
-- council_reference: DA0254/23
-  address: 5/13 James Street FREMANTLE WA 6160
-  description: Change of use to Home Business (Picture Framing)
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0254%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-13'
+- council_reference: DA0044/25
+  address: 52 Watkins Street WHITE GUM VALLEY WA 6162
+  description: Additions to Existing House
+  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0044%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-24'
-- council_reference: DA0255/23
-  address: Owstons Buildings 9-19 High Street FREMANTLE WA 6160
-  description: Change of use to Restaurant / Cafe and Internal Alterations
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0255%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-13'
+- council_reference: DA0045/25
+  address: 6 Harbour Road SOUTH FREMANTLE WA 6162
+  description: Retrospective - Un-Authorised Brick BBQ with Chimney
+  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0045%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-28'
-- council_reference: DA0256/23
-  address: 18A Herbert Street NORTH FREMANTLE WA 6159
-  description: Additions and Alterations to existing Single house
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0256%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-17'
+- council_reference: DAP002/25
+  address: 33 South Terrace FREMANTLE WA 6160
+  description: Four Storey Tourist Development (Accommodation, Restaurant/ Café and
+    Small Bar)
+  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DAP002%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-29'
-- council_reference: DA0257/23
-  address: 11 Wray Avenue FREMANTLE WA 6160
-  description: Second Storey Addition to Existing House
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0257%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-03'
+- council_reference: LL0001/25
+  address: 306 South Terrace SOUTH FREMANTLE WA 6162
+  description: Section 40 - Small Bar
+  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LL0001%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-29'
-- council_reference: DA0258/23
-  address: 53A Lefroy Road BEACONSFIELD WA 6162
-  description: Patio Addition
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0258%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: PW0001/25
+  address: Pier 21 Resort 7 John Street NORTH FREMANTLE WA 6159
+  description: Removal of Existing Jetties/Floating Pontoons and Reconstruction of
+    Jetties and Infrastructure
+  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PW0001%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-29'
-- council_reference: DA0259/23
-  address: 19 Essex Street FREMANTLE WA 6160
-  description: NBN Installation to Existing Building
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0259%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-02-05'
+- council_reference: VA0001/25
+  address: 53 Ellen Street FREMANTLE WA 6160
+  description: Variation to previous planning approval DA0506/21)
+  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=VA0001%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-29'
-- council_reference: DA0260/23
-  address: 104 Watkins Street WHITE GUM VALLEY WA 6162
-  description: Two Storey Single House and Swimming Pool
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0260%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  date_received: '2025-01-31'
+- council_reference: VA0002/25
+  address: 5 Johannah Street NORTH FREMANTLE WA 6159
+  description: Variation to previous planning approval DA0289/22 (Two Storey Single
+    house)
+  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=VA0002%2F25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-29'
-- council_reference: DA0261/23
-  address: 89 Holland Street FREMANTLE WA 6160
-  description: Carport Addition to Existing Grouped Dwelling
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0261%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-30'
-- council_reference: DA0262/23
-  address: 69-73 Wray Avenue FREMANTLE WA 6160
-  description: Painting Roof of Existing Building
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0262%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-30'
-- council_reference: DA0263/23
-  address: 9 Thompson Road NORTH FREMANTLE WA 6159
-  description: External Staircase Addition to Existing House
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0263%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-31'
-- council_reference: DA0264/23
-  address: 6-8 Pritchard Street O'CONNOR WA 6163
-  description: Signage Addition to Existing Building
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0264%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-31'
-- council_reference: DA0265/23
-  address: Sealanes 176-238 Marine Terrace SOUTH FREMANTLE WA 6162
-  description: Signage Addition to Existing Building
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0265%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-04'
-- council_reference: DA0266/23
-  address: 240A Marine Terrace SOUTH FREMANTLE WA 6162
-  description: Addition to Existing House
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0266%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-05'
-- council_reference: DA0267/23
-  address: 78 Annie Street BEACONSFIELD WA 6162
-  description: Unauthorised Outbuilding Addition to Existing House
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0267%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-05'
-- council_reference: DA0268/23
-  address: 5 Rees Street O'CONNOR WA 6163
-  description: Proposed Warehouse Unit Development
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0268%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-05'
-- council_reference: DA0269/23
-  address: 36 Ethelwyn Street HILTON WA 6163
-  description: Ancillary Dwelling Addition to Existing House
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0269%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-05'
-- council_reference: DA0270/23
-  address: 26/48 Henry Street FREMANTLE WA 6160
-  description: Window Signage to Existing Building
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0270%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-06'
-- council_reference: DA0271/23
-  address: 406 South Terrace SOUTH FREMANTLE WA 6162
-  description: Additions to Existing Restaurant
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0271%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-06'
-- council_reference: DA0272/23
-  address: 4 Fisher Street WHITE GUM VALLEY WA 6162
-  description: Home Business
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0272%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-06'
-- council_reference: DA0273/23
-  address: 4 Chivers Court SAMSON WA 6163
-  description: New patio structure
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=DA0273%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-06'
-- council_reference: LL0009/23
-  address: 34 Adelaide Street FREMANTLE WA 6160
-  description: Section 40 - Special Facility
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LL0009%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-22'
-- council_reference: LL0010/23
-  address: 45 Market Street FREMANTLE WA 6160
-  description: Section 40 - Restaurant
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=LL0010%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-05'
-- council_reference: VA0016/23
-  address: 65 South Terrace FREMANTLE WA 6160
-  description: Variation to previous planning approval for DA0111/21 (Six Storey hotel,
-    Office and Shop)
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=VA0016%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-15'
-- council_reference: VA0017/23
-  address: 35 Malcolm Street FREMANTLE WA 6160
-  description: Variation to Previous Planning Approval DA0031/23 (Addition (Two Storey)
-    and Alterations to Existing Single House)
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=VA0017%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-22'
-- council_reference: VA0018/23
-  address: 61 Collick Street HILTON WA 6163
-  description: Variation to DA0176/23
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=VA0018%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-05'
-- council_reference: VA0019/23
-  address: 1 Thompson Road NORTH FREMANTLE WA 6159
-  description: Variation to DA0032/19
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=VA0019%2F23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-06'
-- council_reference: WAPC163968
-  address: 92 Wray Avenue FREMANTLE WA 6160
-  description: Subdivision Application (Termination of Built Strata)
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WAPC163968&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-22'
-- council_reference: WAPC163977
-  address: 42 Ethelwyn Street HILTON WA 6163
+  date_received: '2025-02-11'
+- council_reference: WAPC108-25
+  address: 93 Holland Street FREMANTLE WA 6160
   description: Subdivision Application
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WAPC163977&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
+  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WAPC108-25&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2023-08-23'
-- council_reference: WAPC549-23
-  address: 92 Wray Avenue FREMANTLE WA 6160
-  description: Subdivision Application
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WAPC549-23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-08-22'
-- council_reference: WAPC584-23
-  address: 236 Carrington Street HILTON WA 6163
-  description: Subdivision Application
-  info_url: https://fremantle-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=WAPC584-23&f=%24P1.ETR.APPDET.VIW&r=P1.WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2023-09-05'
+  date_received: '2025-01-31'

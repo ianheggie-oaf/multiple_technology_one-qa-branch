@@ -1,479 +1,435 @@
 ---
-- council_reference: CCPCA0175/24
-  address: 1 Corona Avenue ROSEVILLE NSW 2069
-  description: Construction of a residential housing development containing 23 units
-    over basement car parking
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0175%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+- council_reference: CCPCA0013/25
+  address: 82 Wallalong Crescent WEST PYMBLE NSW 2073
+  description: Demolition of existing structures and construction of a new dwelling,
+    swimming pool and associated works
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0013%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-01'
-- council_reference: CCPCA0176/24
-  address: 52 Ada Avenue WAHROONGA NSW 2076
-  description: Demolition of existing dwelling, erection of a 2 storey dwelling
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0176%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: CCPCA0014/25
+  address: 10 Elgin Street GORDON NSW 2072
+  description: Alterations and additions at the rear of the dwelling house including
+    ground floor extension and new deck
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0014%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-01'
-- council_reference: CCPCA0177/24
-  address: 8 Wellesley Road PYMBLE NSW 2073
-  description: "Alterations and additions - heritage conservation area\r\nNote - Manually
-    lodged."
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0177%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: CCPCA0015/25
+  address: 2 Forwood Avenue TURRAMURRA NSW 2074
+  description: Alterations to existing dwelling & first floor addition only
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0015%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-01'
-- council_reference: CCPCA0178/24
-  address: 67 Kintore Street WAHROONGA NSW 2076
-  description: Demolition of existing structures and construction of a dwelling house,
-    swimming pool and associated works.
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0178%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: CCPCA0016/25
+  address: 5 Sutherland Avenue WAHROONGA NSW 2076
+  description: Demolition of existing retaining walls and replacement and related
+    landscaping
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0016%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-02'
-- council_reference: CCPCA0179/24
-  address: 4A Stanhope Road KILLARA NSW 2071
-  description: Modification of external colours
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0179%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_received: '2025-02-07'
+- council_reference: CCPCA0017/25
+  address: 58 Hunter Avenue ST IVES NSW 2075
+  description: Amendment to 230434 - Change to cladding
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0017%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-02'
-- council_reference: CCPCA0180/24
-  address: 35 Nicholson Avenue ST IVES NSW 2075
-  description: Alterations and additions to existing dwelling
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0180%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_received: '2025-02-07'
+- council_reference: CCPCA0018/25
+  address: 9 Field Of Mars Avenue SOUTH TURRAMURRA NSW 2074
+  description: Demolition of the existing structures and construction of a new dwelling
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0018%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-02'
-- council_reference: CCPCA0181/24
-  address: 7 Earls Court ROSEVILLE CHASE NSW 2069
-  description: Extension of existing patio and deck at rear of dwellng
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0181%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_received: '2025-02-07'
+- council_reference: CCPCA0019/25
+  address: 390 Bobbin Head Road NORTH TURRAMURRA NSW 2074
+  description: Alterations and additions to a dwelling house
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0019%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-02'
-- council_reference: CCPCA0182/24
-  address: 33 Bangalla Street WARRAWEE NSW 2074
-  description: Demolition of existing structures, construction of amenities building
-    and associated works at the Knox Grammar Gillespie Playing Fields
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0182%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-02'
-- council_reference: CCPCA0183/24
-  address: DA Robot 1 Ku-Ring-Gai Council GORDON NSW 2072
-  description: Installation of a new digital advertising sign on the eastern elevation
-    of the Malga Avenue overpass above Warringah Road
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0183%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-03'
-- council_reference: CCPCA0184/24
-  address: 79 The Comenarra Parkway TURRAMURRA NSW 2074
-  description: Alteration to existing dwelling, addition of swimming pool, garage
-    and new deck. New driveway, landscaping and retaining walls. Alteration to current
-    garage to new bedroom and office.
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0184%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-04'
-- council_reference: CCPCA0185/24
-  address: 14 Hinkler Avenue SOUTH TURRAMURRA NSW 2074
-  description: Construction of a double storey dwelling with an attached secondary
-    dwelling
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0185%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-05'
-- council_reference: CCPCA0186/24
-  address: 47 Carbeen Avenue ST IVES NSW 2075
-  description: Construction of a dwelling house and associated works
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0186%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-05'
-- council_reference: CCPCA0187/24
-  address: 3 Gibran Place ST IVES NSW 2075
-  description: Demolition of existing structures, construction of a dwelling house,
-    swimming pool, pool house and associated works
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0187%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-07'
-- council_reference: CCPCA0188/24
-  address: 3 Cove Street SOUTH TURRAMURRA NSW 2074
-  description: Retain pool, construction of a new dwelling and associated works
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0188%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-08'
-- council_reference: CCPCA0189/24
-  address: 16 Warrangi Street TURRAMURRA NSW 2074
-  description: Alterations and additions to existing dwelling including new carport
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0189%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-03'
-- council_reference: CCPCA0190/24
-  address: 3 Daly Avenue NORTH WAHROONGA NSW 2076
-  description: Demolition of existing dwelling to facilitate construction of a new
-    split-level double-storey dwelling house, new driveway access, stormwater management
-    controls, minor earthworks and retaining
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0190%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-09'
-- council_reference: CCPCA0191/24
-  address: 19 Browns Road GORDON NSW 2072
-  description: Demolition of the existing dwelling and selected structures, construction
-    of a new dwelling house including basement, swimming pool, tree removal, landscaping
-    and associated works
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0191%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-09'
-- council_reference: CCPCA0192/24
-  address: 45 Abingdon Road ROSEVILLE NSW 2069
-  description: Demolition of existing structures and construction of new dwelling
-    with garage, swimming pool and associated works
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0192%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-10'
-- council_reference: CCPCA0193/24
-  address: 44 Malga Avenue ROSEVILLE CHASE NSW 2069
-  description: Alterations and additions to existing dwelling
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0193%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-11'
-- council_reference: CCPCA0194/24
-  address: 8 Scullin Place NORTH WAHROONGA NSW 2076
-  description: Alterations & additions to a dwelling
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0194%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-12'
-- council_reference: CCPCA0195/24
-  address: 27 Ridge Street GORDON NSW 2072
-  description: 'SECTION 4.55 MODIFICATION - Modification to DA0432/22 for amendments
-    to windows - Heritage Item. Original Description: Alterations and additions to
-    the existing dwelling including demolition works and construction of a two storey
-    extension - Heritage Item.'
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0195%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-15'
-- council_reference: CCPCA0196/24
-  address: 1269 Pacific Highway TURRAMURRA NSW 2074
-  description: Fit out and change of use of existing ground floor level to a medical
-    centre and associated signage
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0196%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-15'
-- council_reference: PCDC0125/23.A
-  address: 23 Buckra Street TURRAMURRA NSW 2074
-  description: 'Amended CDC - Demolition of the existing dwelling, construction of
-    a two storey dwelling, in-ground swimming pool and retaining walls - Modification:
-    Addition of retaining walls'
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0125%2F23.A&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-10'
-- council_reference: PCDC0198/23.A
-  address: 79 Duntroon Avenue ROSEVILLE CHASE NSW 2069
-  description: 'Amended CDC - Construction of a new dwelling - Modification: Changes
-    to driveway & stormwater'
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0198%2F23.A&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-10'
-- council_reference: PCDC0266/24.A
-  address: 69-71 Pacific Highway ROSEVILLE NSW 2069
-  description: 'Amended CDC - Change of use to a vehicle repair station - Modification:
-    Alterations and addition to existing building'
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0266%2F24.A&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-15'
-- council_reference: PCDC0347/24
-  address: 11 Canoon Road SOUTH TURRAMURRA NSW 2074
-  description: Alterations & additions to an existing dwelling including retaining
-    walls
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0347%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-01'
-- council_reference: PCDC0348/24
-  address: 244 Kissing Point Road SOUTH TURRAMURRA NSW 2074
-  description: Demolition of existing dwelling & ancillary structures
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0348%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-02'
-- council_reference: PCDC0349/24
-  address: 7 Banks Avenue NORTH TURRAMURRA NSW 2074
-  description: Two storey dwelling
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0349%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-02'
-- council_reference: PCDC0350/24
-  address: 3 Cross Street PYMBLE NSW 2073
-  description: Construction of in-ground swimming pool
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0350%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-03'
-- council_reference: PCDC0351/24
-  address: 54 Bimburra Avenue ST IVES NSW 2075
-  description: Demolition of existing structure and construction of a two storey dwelling
-    with garage and swimming pool
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0351%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-03'
-- council_reference: PCDC0352/24
-  address: 802-808 Pacific Highway GORDON NSW 2072
-  description: Minor internal additions and modifications to an existing retail store
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0352%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-03'
-- council_reference: PCDC0353/24
-  address: 1/924 Pacific Highway GORDON NSW 2072
-  description: Alterations to the existing commercial premises
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0353%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-03'
-- council_reference: PCDC0354/24
-  address: 31 Adelaide Avenue EAST LINDFIELD NSW 2070
-  description: Demolition of existing structures, construction of a new two storey
-    dwelling, in-ground swimming pool and retaining walls
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0354%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-04'
-- council_reference: PCDC0355/24
-  address: 12 Crana Avenue EAST LINDFIELD NSW 2070
-  description: Internal alterations to existing dwelling
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0355%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-04'
-- council_reference: PCDC0356/24
-  address: 44 Bimburra Avenue ST IVES NSW 2075
-  description: Demolition of buildings & the erection of a new two storey dwelling
-    & in-ground swimming pool
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0356%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-04'
-- council_reference: PCDC0357/24
-  address: 301/172 Fox Valley Road WAHROONGA NSW 2076
-  description: Tenancy fitout of Suite 301
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0357%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-05'
-- council_reference: PCDC0358/24
-  address: 7A Wahroonga Avenue WAHROONGA NSW 2076
-  description: Demolition of existing swimming pool. Alterations and additions to
-    the existing dwelling and construction of a new in ground swimming pool
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0358%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-08'
-- council_reference: PCDC0359/24
-  address: 20 Avon Road PYMBLE NSW 2073
-  description: Internal refurbishment of the middle colonnade to provide offices for
-    senior executive staff
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0359%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-08'
-- council_reference: PCDC0360/24
-  address: 33 Eurong Street WAHROONGA NSW 2076
-  description: Internal alterations to an existing dwelling
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0360%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-08'
-- council_reference: PCDC0362/24
-  address: 50 Douglas Street ST IVES NSW 2075
-  description: Construction of an in-ground swimming pool
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0362%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-09'
-- council_reference: PCDC0363/24
-  address: 131 Springdale Road EAST KILLARA NSW 2071
-  description: Alterations and additions to existing dwelling house
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0363%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-09'
-- council_reference: PCDC0364/24
-  address: 3 Chifley Close NORTH WAHROONGA NSW 2076
-  description: Alterations to a dwelling
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0364%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-09'
-- council_reference: PCDC0368/24
-  address: 25 Monteith Street TURRAMURRA NSW 2074
-  description: Alterations and additions to an existing dwelling house
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0368%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-10'
-- council_reference: PCDC0369/24
-  address: 101 Boundary Street ROSEVILLE NSW 2069
-  description: Construction of a secondary dwelling
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0369%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-10'
-- council_reference: PCDC0370/24
-  address: 28 Beechworth Road PYMBLE NSW 2073
-  description: Alterations and additions to the rear of the existing dwelling-house
-    including associated balcony walkway with roof over
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0370%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-11'
-- council_reference: PCDC0371/24
-  address: 14 Kenthurst Road ST IVES NSW 2075
-  description: Construction of a secondary dwelling
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0371%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-12'
-- council_reference: PCDC0372/24
-  address: 10 Browning Road NORTH TURRAMURRA NSW 2074
+  date_received: '2025-02-09'
+- council_reference: CCPCA0020/25
+  address: 86 The Chase Road TURRAMURRA NSW 2074
   description: Construction of a swimming pool
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0372%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0020%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-12'
-- council_reference: PCDC0373/24
-  address: 38 Pentecost Avenue ST IVES NSW 2075
-  description: Demolition of existing structures and construction of new two-storey
-    dwelling with swimming pool
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0373%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_received: '2025-02-11'
+- council_reference: CCPCA0021/25
+  address: 29 Miowera Road NORTH TURRAMURRA NSW 2074
+  description: Swimming pool and landscaping
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0021%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-12'
-- council_reference: PCDC0703/21.B
-  address: 16 Yalleroi Avenue WEST PYMBLE NSW 2073
-  description: 'Amended CDC - Double storey dwelling with an attached granny flat
-    - Modification: Change to internal driveway location'
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0703%2F21.B&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_received: '2025-02-12'
+- council_reference: CCPCA0022/25
+  address: 103 Carrington Road WAHROONGA NSW 2076
+  description: Demolition of existing structures and construction of a two storey
+    dwelling house, swimming pool, tennis court and associated works
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0022%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-08'
-- council_reference: eBCU0079/24
-  address: 20 Courallie Avenue PYMBLE NSW 2073
+  date_received: '2025-02-13'
+- council_reference: CCPCA0023/25
+  address: 18 Beaconsfield Parade LINDFIELD NSW 2070
+  description: Stage 1 comprising 23 town-houses, private road, parking and landscaping
+    works. This CC 6 is for the access performance solution and revised architecture
+    plans.
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0023%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: CCPCA0024/25
+  address: 18 Beaconsfield Parade LINDFIELD NSW 2070
+  description: Stages 2 & 3 - Demolition of existing structures and construction of
+    19 townhouse dwellings over basement car parking and two separate dwelling houses.
+    This CC 6 is for the revised stormwater plans.
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0024%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: CCPCA0025/25
+  address: 1 Glenelg Place ST IVES CHASE NSW 2075
+  description: Construction of a new rear deck with roof over
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0025%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: CCPCA0026/25
+  address: 20 Warrawee Avenue WARRAWEE NSW 2074
+  description: Alterations and additions to existing dwelling - Heritage Conservation
+    Area
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0026%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: CCPCA0027/25
+  address: 13 Womerah Street TURRAMURRA NSW 2074
+  description: Construction of elevated swimming pool decking with attached awning
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0027%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: CCPCA0028/25
+  address: 86 Pentecost Avenue PYMBLE NSW 2073
+  description: Construction of a new dwelling and associated works
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=CCPCA0028%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-17'
+- council_reference: PCDC0039/25
+  address: 11 Iona Avenue WEST PYMBLE NSW 2073
+  description: Retaining wall & associated landscaping
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0039%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-03'
+- council_reference: PCDC0041/25
+  address: 21 Westbourne Road LINDFIELD NSW 2070
+  description: Demolition of existing buildings, construction of two storey dwelling
+    with basement, swimming pool and related landscaping
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0041%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: PCDC0042/25
+  address: 11 Camira Street WEST PYMBLE NSW 2073
+  description: Dwelling and swimming pool
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0042%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: PCDC0044/25
+  address: 11 Rawson Crescent PYMBLE NSW 2073
+  description: Installation of an opening roof pergola
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0044%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: PCDC0045/25
+  address: 11 Mildred Street WARRAWEE NSW 2074
+  description: Demolition of existing structures, construction of a new two storey
+    dwelling, swimming pool, deck and cabana
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0045%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: PCDC0046/25
+  address: 41 Apps Avenue TURRAMURRA NSW 2074
+  description: Demolition of existing dwelling & construction of a two storey dwelling
+    & in-ground swimming pool
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0046%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: PCDC0047/25
+  address: 62 Beaumont Road KILLARA NSW 2071
+  description: Amended CDC - Demolition of existing structures and construction of
+    a new two storey dwelling, in-ground pool and cabana
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0047%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-05'
+- council_reference: PCDC0048/25
+  address: 39 Spurwood Road TURRAMURRA NSW 2074
+  description: Demolition of existing dwelling
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0048%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-06'
+- council_reference: PCDC0049/25
+  address: 18 Mungarra Avenue ST IVES NSW 2075
+  description: Alterations to existing dwelling
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0049%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: PCDC0050/25
+  address: 310-312 Pacific Highway LINDFIELD NSW 2070
+  description: Internal fit out to an existing food premises, excluding external works
+    and charcoal cooking methods subject to separate approval
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0050%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: PCDC0051/25
+  address: 3 Leal Court PYMBLE NSW 2073
+  description: Alterations & additions to a dwelling
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0051%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: PCDC0052/25
+  address: 1 Spurwood Road TURRAMURRA NSW 2074
+  description: Construction of an in-ground swimming pool
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0052%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: PCDC0053/25
+  address: 397A Bobbin Head Road NORTH TURRAMURRA NSW 2074
+  description: Construction of inground fibreglass swimming pool
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0053%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: PCDC0054/25
+  address: 17A Macquarie Road PYMBLE NSW 2073
+  description: Retaining walls and landscaping works
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0054%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: PCDC0055/25
+  address: 3 Lennox Street GORDON NSW 2072
+  description: Construction of two storey dwelling with basement, swimming pool and
+    related landscaping
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0055%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-12'
+- council_reference: PCDC0056/25
+  address: 142 Collins Road ST IVES CHASE NSW 2075
+  description: Demolition of the existing dwelling, part rear paving & existing driveway
+    and associated demolition works
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0056%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: PCDC0057/25
+  address: 307 Pacific Highway LINDFIELD NSW 2070
+  description: Penetrations for services within existing shop
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0057%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-13'
+- council_reference: PCDC0058/25
+  address: 45 Kissing Point Road TURRAMURRA NSW 2074
+  description: Demolition of a dwelling
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0058%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: PCDC0059/25
+  address: 21 Warrane Road ROSEVILLE CHASE NSW 2069
+  description: Alterations or additions to an existing dwelling
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0059%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: PCDC0060/25
+  address: 5 Murchison Street ST IVES NSW 2075
+  description: Alterations and additions to existing dwelling comprising first floor
+    addition and interconnecting stairs only
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0060%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: PCDC0061/25
+  address: 35 Koonawarra Avenue LINDFIELD NSW 2070
+  description: Demolition of existing buildings, construction of a single storey dwelling,
+    swimming pool and related landscaping
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0061%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-14'
+- council_reference: PCDC0062/25
+  address: 6 Koongara Road ROSEVILLE CHASE NSW 2069
+  description: Demolition
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0062%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: PCDC0330/24.A
+  address: 3 Michele Place TURRAMURRA NSW 2074
+  description: 'Amended CDC - Dwelling alterations and additions - Modification: Additional
+    works to extend the existing dining room to be a new lounge area'
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0330%2F24.A&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: PCDC0439/24.A
+  address: 16 Beechworth Road PYMBLE NSW 2073
+  description: Amended CDC - Demolition of existing dwelling and construction of double
+    storey dwelling with basement and swimming pool
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0439%2F24.A&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: PCDC0454/24.A
+  address: 49 Blytheswood Avenue WARRAWEE NSW 2074
+  description: 'Amended CDC - Construction of a swimming pool & retaining walls -
+    Modification A: Side retaining wall 1.5m closer to boundary, does not exceed 1m
+    in height - long retaining wall no longer continues around SW corner - long retaining
+    wall now straight (ie no kink in the middle)'
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=PCDC0454%2F24.A&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: eBCU0006/25
+  address: G0 2/8A Pymble Avenue PYMBLE NSW 2073
   description: Building Certificate
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBCU0079%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBCU0006%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-03'
-- council_reference: eBCU0080/24
-  address: 17 Oxley Avenue ST IVES NSW 2075
+  date_received: '2025-02-04'
+- council_reference: eBCU0007/25
+  address: 33 Owen Street EAST LINDFIELD NSW 2070
   description: Building Certificate
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBCU0080%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBCU0007%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-05'
-- council_reference: eBCU0081/24
-  address: 398A Bobbin Head Road NORTH TURRAMURRA NSW 2074
+  date_received: '2025-02-05'
+- council_reference: eBCU0008/25
+  address: 7 Toms Pocket NORTH TURRAMURRA NSW 2074
   description: Building Certificate
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBCU0081%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBCU0008%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-05'
-- council_reference: eBCU0082/24
-  address: 189 Boundary Street ROSEVILLE CHASE NSW 2069
+  date_received: '2025-02-05'
+- council_reference: eBCU0009/25
+  address: 27 Lawson Parade ST IVES NSW 2075
   description: Building Certificate
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBCU0082%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBCU0009%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-08'
-- council_reference: eBCU0083/24
-  address: 9 Hughes Place EAST LINDFIELD NSW 2070
+  date_received: '2025-02-11'
+- council_reference: eBCU0010/25
+  address: 101 Bent Street LINDFIELD NSW 2070
   description: Building Certificate
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBCU0083%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBCU0010%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-10'
-- council_reference: eBCU0084/24
-  address: 9 Hughes Place EAST LINDFIELD NSW 2070
+  date_received: '2025-02-14'
+- council_reference: eBCU0011/25
+  address: 15 Fitzroy Street KILLARA NSW 2071
   description: Building Certificate
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBCU0084%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBCU0011%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-11'
-- council_reference: eBCU0085/24
-  address: 9 Hughes Place EAST LINDFIELD NSW 2070
-  description: Building Certificate
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBCU0085%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_received: '2025-02-16'
+- council_reference: eCC0002/25
+  address: 42 Elgin Street GORDON NSW 2072
+  description: Alterations and additions to the existing dwelling and proposed new
+    carport
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eCC0002%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-11'
-- council_reference: eBCU0086/24
-  address: 45 Winchester Avenue LINDFIELD NSW 2070
-  description: Building Certificate
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBCU0086%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_received: '2025-02-11'
+- council_reference: eDA0019/25
+  address: 22 Vernon Street SOUTH TURRAMURRA NSW 2074
+  description: Construction of a dwelling house and associated works
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eDA0019%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-12'
-- council_reference: eBCU0087/24
-  address: 45 Winchester Avenue LINDFIELD NSW 2070
-  description: Building Certificate
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eBCU0087%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_received: '2025-02-04'
+- council_reference: eDA0020/25
+  address: 16 Buckingham Road KILLARA NSW 2071
+  description: Demolition of existing structures and construction of a residential
+    flat development comprising of three buildings with 34 units, basement car parking,
+    lot amalgamation and associated works - Threatened Species Development
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eDA0020%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-12'
-- council_reference: eDA0230/24
-  address: 12 Dudley Avenue ROSEVILLE NSW 2069
-  description: Alterations and additions to the existing dwelling house, basement
-    garage, cabana and associated works - Heritage Conservation Area
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eDA0230%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_received: '2025-02-03'
+- council_reference: eDA0022/25
+  address: 15 St Columbans Green NORTH TURRAMURRA NSW 2074
+  description: Construction of driveway gates
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eDA0022%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-03'
-- council_reference: eDA0233/24
-  address: 5 Avalon Street TURRAMURRA NSW 2074
-  description: Conversion of garage into a secondary dwelling
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eDA0233%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_received: '2025-02-06'
+- council_reference: eDA0023/25
+  address: 30 Wellington Road EAST LINDFIELD NSW 2070
+  description: Construction a dwelling house with associated swimming pool and tennis
+    court on each lot (Lot 17 and 18)
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eDA0023%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-09'
-- council_reference: eDA0234/24
-  address: 81 Beechworth Road PYMBLE NSW 2073
-  description: Demolition of existing structures and construction of a new dwelling
-    house, swimming pool and associated works
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eDA0234%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_received: '2025-02-10'
+- council_reference: eDA0028/25
+  address: 2A Shinfield Avenue ST IVES NSW 2075
+  description: Demolition of existing structures and construction of a residential
+    flat building including 18 units, basement parking and associated works
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eDA0028%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-03'
-- council_reference: eDA0235/24
-  address: 106 Coonanbarra Road WAHROONGA NSW 2076
-  description: Alterations and addition, replacement of swimming pool and associated
-    works - Heritage Conservation Area
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eDA0235%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_received: '2025-02-07'
+- council_reference: eDA0029/25
+  address: 17 Hampden Avenue WAHROONGA NSW 2076
+  description: Alterations and additions
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eDA0029%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-04'
-- council_reference: eDA0236/24
-  address: 3 Nyora Street KILLARA NSW 2071
-  description: Alterations and additions to the existing dwelling house, carport,
-    swimming pool, cabana and associated works - Heritage Conservation Area
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eDA0236%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_received: '2025-02-11'
+- council_reference: eDA0030/25
+  address: 69 Ayres Road ST IVES NSW 2075
+  description: Construction of a new dwelling including basement garage, lift, swimming
+    pool and associated works
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eDA0030%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-01'
-- council_reference: eDA0237/24
-  address: 51 Winchester Avenue LINDFIELD NSW 2070
-  description: Demolition of existing structures, construction of a new dwelling house
-    and associated works
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eDA0237%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_received: '2025-02-10'
+- council_reference: eDA0031/25
+  address: 54 Kenthurst Road ST IVES NSW 2075
+  description: Demolition of existing garage and construction of a new larger steel
+    framed garage
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eDA0031%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-09'
-- council_reference: eDA0247/24
-  address: 29 Ada Avenue WAHROONGA NSW 2076
-  description: Subdivision of one lot into two and associated works - Heritage Item
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eDA0247%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_received: '2025-02-10'
+- council_reference: eDA0032/25
+  address: 40 Avon Road PYMBLE NSW 2073
+  description: Demolition of two existing metal shed structures and associated walls
+    to form a new remodelled maintenance area, new sandstone retaining walls, staff
+    parking, concrete paving, new grate and associated works - Avondale Golf Course
+    - Heritage Item
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eDA0032%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-05'
-- council_reference: eDA0248/24
-  address: 29 Ada Avenue WAHROONGA NSW 2076
-  description: Construction of a dwelling house, swimming pool and associated works
-    on proposed Lot B in eDA0247/24
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eDA0248%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_received: '2025-02-12'
+- council_reference: eDA0033/25
+  address: 12 Bloomsbury Avenue PYMBLE NSW 2073
+  description: Torrens title subdivision of one lot into two lots, tree removal, stormwater
+    works and associated works
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eDA0033%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-05'
-- council_reference: eMOD0069/24
-  address: 1183 Pacific Highway TURRAMURRA NSW 2074
-  description: Modification to DA0521/19 (residential flat building) proposing increased
-    building height, relocation of air conditioning units to balconies and roof, addition
-    of a roof top screen for mechanical services, addition of a basement staircase
-    and changes to Conditions 1b, 28, 37 and 100
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eMOD0069%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-03'
-- council_reference: eMOD0070/24
-  address: 28A Ada Avenue WAHROONGA NSW 2076
-  description: Modification to DA0371/21 proposing changes to the approved stormwater
-    plans including relocation of the on-site detention tank
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eMOD0070%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
-  date_scraped: '2019-05-15'
-  date_received: '2024-07-01'
-- council_reference: eMOD0071/24
-  address: 56 Shirley Road ROSEVILLE NSW 2069
-  description: Modification to DA0117/23 to revise the cost of the development - Heritage
+  date_received: '2025-02-10'
+- council_reference: eDA0040/25
+  address: 30 Nelson Street GORDON NSW 2072
+  description: Alterations and additions, new front fence and associated works - Heritage
     Conservation Area
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eMOD0071%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eDA0040%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-04'
-- council_reference: eMOD0072/24
-  address: 1 Corona Avenue ROSEVILLE NSW 2069
-  description: Modification to DA0300/19 proposing internal layout change to Unit
-    304
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eMOD0072%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_received: '2025-02-17'
+- council_reference: eDA0041/25
+  address: 15 Cranbrook Avenue ROSEVILLE NSW 2069
+  description: Alterations and additions to the existing dwelling including construction
+    of a new carport and pool house - Heritage Conservation Area
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eDA0041%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-04'
-- council_reference: eMOD0079/24
-  address: 36A Springdale Road KILLARA NSW 2071
-  description: Modification to DA0088/23 proposing internal and external changes -
-    Heritage Conservation Area
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eMOD0079%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_received: '2025-02-18'
+- council_reference: eDA0048/25
+  address: 53 Catherine Street ST IVES NSW 2075
+  description: New driveway
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eDA0048%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-05'
-- council_reference: eMOD0080/24
+  date_received: '2025-02-17'
+- council_reference: eDA0054/25
+  address: 2 Stokes Place LINDFIELD NSW 2070
+  description: Construction of retaining walls in association with existing dwelling
+    house
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eDA0054%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-18'
+- council_reference: eMOD0008/25
+  address: 9 Jersey Street TURRAMURRA NSW 2074
+  description: Modification to DA0278/22 proposing to delete the first floor addition
+    and resultant amendments to the roof and lower levels to accommodate the deletion
+    of the first floor
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eMOD0008%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-04'
+- council_reference: eMOD0014/25
+  address: 6 Orinoco Street PYMBLE NSW 2073
+  description: Modification to DA0006/23 and eMOD0073/24 proposing amendments to the
+    approved alterations and additions to correct dimensions/measurements on the approved
+    drawings; retain an original window on western elevation and reconstruct carport
+    in the same location as approved - Heritage Conservation Area
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eMOD0014%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+  date_scraped: '2019-05-15'
+  date_received: '2025-02-07'
+- council_reference: eMOD0015/25
   address: 27 Roland Avenue WAHROONGA NSW 2076
   description: Modification to REV0003/23 (construction of a dwelling house and associated
-    works) proposing deletion of pool, internal and external changes, deletion of
-    bushfire conditions and review of biodiversity related conditions
-  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eMOD0080%2F24&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
+    works) proposing deletion of Condition 4, retention of Tree 25 and amendments
+    to the landscape plan
+  info_url: https://krg-web.t1cloud.com/T1PRDefault/WebApps/eProperty/P1/eTrack/eTrackApplicationDetails.aspx?ApplicationId=eMOD0015%2F25&f=%24P1.ETR.APPDET.VIW&r=KC_WEBGUEST
   date_scraped: '2019-05-15'
-  date_received: '2024-07-09'
+  date_received: '2025-02-17'
